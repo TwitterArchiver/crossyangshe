@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561806114274287616",
+    "conversation_id": "1989192097849803177",
+    "created_at": "2025-11-14T16:44:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-14T17:44:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989373928566100346"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1038388973670789120",
+          "start": 0,
+          "username": "MinamiyaNagiya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989373928566100346",
+    "in_reply_to_user_id": "1038388973670789120",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989192097849803177",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MinamiyaNagiya 就喜欢这样的怎么办"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3456,
+        "media_key": "3_1989192067667701760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5sHpXdbsAAKwSt.jpg",
+        "width": 3976
+      },
+      {
+        "height": 3072,
+        "media_key": "3_1989192067671814149",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5sHpXeacAUvFD3.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561806114274287616",
+        "conversation_id": "1989192097849803177",
+        "created_at": "2025-11-14T16:44:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T17:44:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989373928566100346"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1038388973670789120",
+              "start": 0,
+              "username": "MinamiyaNagiya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989373928566100346",
+        "in_reply_to_user_id": "1038388973670789120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989192097849803177",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MinamiyaNagiya 就喜欢这样的怎么办"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1989192067667701760",
+            "3_1989192067671814149"
+          ]
+        },
+        "author_id": "1038388973670789120",
+        "conversation_id": "1989192097849803177",
+        "created_at": "2025-11-14T04:42:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T05:42:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989192097849803177"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/q83bUQ1xTy",
+              "end": 51,
+              "expanded_url": "https://x.com/MinamiyaNagiya/status/1989192097849803177/photo/1",
+              "media_key": "3_1989192067667701760",
+              "start": 28,
+              "url": "https://t.co/q83bUQ1xTy"
+            },
+            {
+              "display_url": "pic.x.com/q83bUQ1xTy",
+              "end": 51,
+              "expanded_url": "https://x.com/MinamiyaNagiya/status/1989192097849803177/photo/1",
+              "media_key": "3_1989192067671814149",
+              "start": 28,
+              "url": "https://t.co/q83bUQ1xTy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989192097849803177",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 25,
+          "impression_count": 4002,
+          "like_count": 198,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "你这个年纪还学别人穿什么胸罩，直接贴个创可贴不就完事了 https://t.co/q83bUQ1xTy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-22T20:03:01.000Z",
+        "description": "“为什么要伤心 难道你的生活还不够可笑吗？”",
+        "id": "1561806114274287616",
+        "location": "今天也辛苦了.",
+        "name": "AZ.",
+        "pinned_tweet_id": "1725205374507368558",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778090792390959104/-k1xKj1N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 23,
+          "like_count": 76,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 13
+        },
+        "username": "crossyangshe",
+        "verified": false
+      },
+      {
+        "created_at": "2018-09-08T11:29:58.000Z",
+        "description": "小号@Nagiya_Nya丨不含糖不线下不互推不接诈骗推广丨梦想和所有遇到的美少女互fo丨🚪25送两个图包2选1丨购买图包请私信或过门槛后细聊\n欢迎同好私信扩列，性骚扰和不知道怎么回的私信一律已读不回丨粉丝群号325916100，只批qq等级＞=20且关注了的人加，zn和圈外人勿扰",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 2,
+                "username": "Nagiya_Nya"
+              }
+            ]
+          }
+        },
+        "id": "1038388973670789120",
+        "location": "China",
+        "name": "凪夜Nagiya",
+        "pinned_tweet_id": "1847737690156065079",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976204541663358976/l4zL1pRr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28655,
+          "following_count": 3398,
+          "like_count": 50157,
+          "listed_count": 101,
+          "media_count": 644,
+          "tweet_count": 20022
+        },
+        "username": "MinamiyaNagiya",
+        "verified": false
+      }
+    ]
+  }
+}

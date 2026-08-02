@@ -1,0 +1,109 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561806114274287616",
+    "conversation_id": "2061463037283086608",
+    "created_at": "2026-06-01T15:01:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T16:01:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2061463037283086608"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2061463037283086608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "真的好悲伤好悲伤，我连一张去往海边的车票都买不起，话说跳海痛苦吗，冬天会不会死的更快一点，冰冷的海水会不会麻痹我的大脑，我连游泳都不会跳下去肯定死定了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561806114274287616",
+        "conversation_id": "2061463037283086608",
+        "created_at": "2026-06-01T15:01:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T16:01:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061463037283086608"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061463037283086608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "真的好悲伤好悲伤，我连一张去往海边的车票都买不起，话说跳海痛苦吗，冬天会不会死的更快一点，冰冷的海水会不会麻痹我的大脑，我连游泳都不会跳下去肯定死定了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-22T20:03:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "az，非健全人，努力生存中，希望有人关注我",
+        "id": "1561806114274287616",
+        "location": "地狱",
+        "name": "AZ.",
+        "pinned_tweet_id": "2061092260226502954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778090792390959104/-k1xKj1N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 44,
+          "like_count": 240,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 186
+        },
+        "username": "crossyangshe",
+        "verified": false
+      }
+    ]
+  }
+}

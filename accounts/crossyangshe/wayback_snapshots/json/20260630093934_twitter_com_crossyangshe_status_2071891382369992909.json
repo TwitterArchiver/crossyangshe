@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561806114274287616",
+    "conversation_id": "2071870211041681797",
+    "created_at": "2026-06-30T09:39:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T10:39:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071891382369992909"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1596474007775158272",
+          "start": 0,
+          "username": "Shu10oo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071891382369992909",
+    "in_reply_to_user_id": "1596474007775158272",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071874737064857873",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Shu10oo 我胆子小，还是害怕，跑去医院我都不敢，走进药店问pr更是用了我一生的勇气"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561806114274287616",
+        "conversation_id": "2071870211041681797",
+        "created_at": "2026-06-30T09:39:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T10:39:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071891382369992909"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1596474007775158272",
+              "start": 0,
+              "username": "Shu10oo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071891382369992909",
+        "in_reply_to_user_id": "1596474007775158272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071874737064857873",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Shu10oo 我胆子小，还是害怕，跑去医院我都不敢，走进药店问pr更是用了我一生的勇气"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596474007775158272",
+        "conversation_id": "2071870211041681797",
+        "created_at": "2026-06-30T08:33:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T09:33:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071874737064857873"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1561806114274287616",
+              "start": 0,
+              "username": "crossyangshe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071874737064857873",
+        "in_reply_to_user_id": "1561806114274287616",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071870211041681797",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@crossyangshe 可以p处方😈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-22T20:03:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "az，非健全人，努力生存中，希望有人关注我",
+        "id": "1561806114274287616",
+        "location": "地狱",
+        "name": "AZ.",
+        "pinned_tweet_id": "2061092260226502954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778090792390959104/-k1xKj1N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 141,
+          "following_count": 237,
+          "like_count": 774,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 338
+        },
+        "url": "",
+        "username": "crossyangshe",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-26T12:00:49.000Z",
+        "description": "不安。\n查成分互fo 直fo是喜欢你呀\n闺蜜@Sssse9uv",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 22,
+                "username": "Sssse9uv"
+              }
+            ]
+          }
+        },
+        "id": "1596474007775158272",
+        "name": "作为不会悲伤的人类",
+        "pinned_tweet_id": "2051460103690449043",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053864426764386304/XcegA562_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 124,
+          "following_count": 121,
+          "like_count": 935,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 441
+        },
+        "url": "",
+        "username": "Shu10oo",
+        "verified": false
+      }
+    ]
+  }
+}

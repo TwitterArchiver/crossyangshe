@@ -1,0 +1,150 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2071907594063540224"
+      ]
+    },
+    "author_id": "1561806114274287616",
+    "conversation_id": "2071908182654607769",
+    "created_at": "2026-06-30T10:46:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T11:46:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2071908182654607769"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/145hCe3XQM",
+          "end": 108,
+          "expanded_url": "https://x.com/crossyangshe/status/2071908182654607769/photo/1",
+          "media_key": "3_2071907594063540224",
+          "start": 85,
+          "url": "https://t.co/145hCe3XQM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071908182654607769",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "嘿嘿，今天的晚餐是超级炖鸡➕米饭➕啤酒（啤酒az喝不了送给邻居了，邻居快说谢谢az），这些加上优惠券仅仅花了10块大洋，虽然很烫烫烫烫烫烫烫烫烫……但是真的很美味啊！😋 https://t.co/145hCe3XQM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3076,
+        "media_key": "3_2071907594063540224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMDk-reXcAAs_p_.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071907594063540224"
+          ]
+        },
+        "author_id": "1561806114274287616",
+        "conversation_id": "2071908182654607769",
+        "created_at": "2026-06-30T10:46:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T11:46:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071908182654607769"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/145hCe3XQM",
+              "end": 108,
+              "expanded_url": "https://x.com/crossyangshe/status/2071908182654607769/photo/1",
+              "media_key": "3_2071907594063540224",
+              "start": 85,
+              "url": "https://t.co/145hCe3XQM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071908182654607769",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "嘿嘿，今天的晚餐是超级炖鸡➕米饭➕啤酒（啤酒az喝不了送给邻居了，邻居快说谢谢az），这些加上优惠券仅仅花了10块大洋，虽然很烫烫烫烫烫烫烫烫烫……但是真的很美味啊！😋 https://t.co/145hCe3XQM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-22T20:03:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "az，非健全人，努力生存中，希望有人关注我",
+        "id": "1561806114274287616",
+        "location": "地狱",
+        "name": "AZ.",
+        "pinned_tweet_id": "2061092260226502954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778090792390959104/-k1xKj1N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 145,
+          "following_count": 244,
+          "like_count": 809,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 350
+        },
+        "url": "",
+        "username": "crossyangshe",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561806114274287616",
+    "conversation_id": "2059940585193254928",
+    "created_at": "2026-05-28T16:40:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T17:40:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060038425223598304"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2044793518267453440",
+          "start": 0,
+          "username": "lxxe11_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060038425223598304",
+    "in_reply_to_user_id": "2044793518267453440",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060010804439826760",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lxxe11_ 是的，感觉这一代环境特别不好呢，一直以来在高度压力中成长，也没有享受到好的政策，反而毕业之后还要受到就业困难和失业的影响。可是我身边同龄的人生活很多都走上正轨了，每当看到自己还是这么碌碌无为就特别难过🥺，听说我有一个大学同学都快要结婚了，我都感到离我好遥远"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561806114274287616",
+        "conversation_id": "2059940585193254928",
+        "created_at": "2026-05-28T16:40:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T17:40:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060038425223598304"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2044793518267453440",
+              "start": 0,
+              "username": "lxxe11_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060038425223598304",
+        "in_reply_to_user_id": "2044793518267453440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060010804439826760",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lxxe11_ 是的，感觉这一代环境特别不好呢，一直以来在高度压力中成长，也没有享受到好的政策，反而毕业之后还要受到就业困难和失业的影响。可是我身边同龄的人生活很多都走上正轨了，每当看到自己还是这么碌碌无为就特别难过🥺，听说我有一个大学同学都快要结婚了，我都感到离我好遥远"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044793518267453440",
+        "conversation_id": "2059940585193254928",
+        "created_at": "2026-05-28T14:50:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T15:50:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060010804439826760"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1561806114274287616",
+              "start": 0,
+              "username": "crossyangshe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060010804439826760",
+        "in_reply_to_user_id": "1561806114274287616",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060003764120232406",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@crossyangshe あなたも2005生まれだから同い年だしちょうどその頃の影響をかなり受けた世代だよね　私も寮のある学校に通ってたから(私は通学してたけど)寮の規則が色々厳しくなってて大変そうだったよ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-22T20:03:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "az，非健全人，努力生存中，希望有人关注我",
+        "id": "1561806114274287616",
+        "location": "地狱",
+        "name": "AZ.",
+        "pinned_tweet_id": "1725205374507368558",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778090792390959104/-k1xKj1N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 46,
+          "like_count": 174,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 150
+        },
+        "username": "crossyangshe",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-16T15:02:20.000Z",
+        "description": "05 🚺｜未診断/双極疑い｜精神科通院中｜通信制大学生｜初手呼びタメ🙆‍♀️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lxxe11.hatenablog.com",
+                "end": 23,
+                "expanded_url": "https://lxxe11.hatenablog.com/",
+                "start": 0,
+                "url": "https://t.co/Kuwo3J2eMd"
+              }
+            ]
+          }
+        },
+        "id": "2044793518267453440",
+        "location": "質問など中身のある会話ならDM可",
+        "name": "茅野",
+        "pinned_tweet_id": "2056751048132603989",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053337402924769281/P9yk6OqO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 34,
+          "like_count": 82,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 468
+        },
+        "url": "https://t.co/Kuwo3J2eMd",
+        "username": "lxxe11_",
+        "verified": false
+      }
+    ]
+  }
+}

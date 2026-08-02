@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561806114274287616",
+    "conversation_id": "2075951935514096024",
+    "created_at": "2026-07-11T15:06:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T16:06:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075959800605851737"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "971867951140823040",
+          "start": 0,
+          "username": "LingQin7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075959800605851737",
+    "in_reply_to_user_id": "1561806114274287616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075959698285822259",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LingQin7 az这边找的有货的药店直接就拿到了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561806114274287616",
+        "conversation_id": "2075951935514096024",
+        "created_at": "2026-07-11T15:06:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T16:06:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075959800605851737"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "971867951140823040",
+              "start": 0,
+              "username": "LingQin7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075959800605851737",
+        "in_reply_to_user_id": "1561806114274287616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075959698285822259",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LingQin7 az这边找的有货的药店直接就拿到了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561806114274287616",
+        "conversation_id": "2075951935514096024",
+        "created_at": "2026-07-11T15:05:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T16:05:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075959698285822259"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "971867951140823040",
+              "start": 0,
+              "username": "LingQin7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075959698285822259",
+        "in_reply_to_user_id": "971867951140823040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075959162639442134",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LingQin7 去有货的药店，需要姓名和身份证号还有电话，没有成年可能不行，大不了随便找一个成年的身份证号"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-22T20:03:01.000Z",
+        "description": "你们好呀，我是az！成分：重抑中焦/od/自傷/自殺念头/infp-t/音游/二游（不怎么玩了）/端游（Steam上面的单机和一些网游）/像素RPG/galgame/喜欢术力口（初音 可不 歌爱雪）/看番/看漫画。\n没有什么特别的的主推喜欢的东西太多啦\n同类群1053339675\n目前失业中~欢迎互fo，我爱你们！❤️",
+        "id": "1561806114274287616",
+        "location": "地狱",
+        "name": "AZ.",
+        "pinned_tweet_id": "2075487277191733409",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778090792390959104/-k1xKj1N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 465,
+          "following_count": 398,
+          "like_count": 2631,
+          "listed_count": 0,
+          "media_count": 100,
+          "tweet_count": 753
+        },
+        "url": "",
+        "username": "crossyangshe",
+        "verified": true
+      },
+      {
+        "created_at": "2018-03-08T21:59:10.000Z",
+        "description": "嗯",
+        "id": "971867951140823040",
+        "name": "箐",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072000382486634496/TK_DAkV4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 26,
+          "like_count": 1392,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 10
+        },
+        "url": "",
+        "username": "LingQin7",
+        "verified": false
+      }
+    ]
+  }
+}

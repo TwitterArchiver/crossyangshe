@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561806114274287616",
+    "conversation_id": "2076683587701928098",
+    "created_at": "2026-07-14T07:19:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T08:19:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076929579151946224"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1883207896768651264",
+          "start": 0,
+          "username": "clem0216"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076929579151946224",
+    "in_reply_to_user_id": "1883207896768651264",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076683587701928098",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@clem0216 小美确实好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561806114274287616",
+        "conversation_id": "2076683587701928098",
+        "created_at": "2026-07-14T07:19:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T08:19:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076929579151946224"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1883207896768651264",
+              "start": 0,
+              "username": "clem0216"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076929579151946224",
+        "in_reply_to_user_id": "1883207896768651264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076683587701928098",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@clem0216 小美确实好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883207896768651264",
+        "conversation_id": "2076683587701928098",
+        "created_at": "2026-07-13T15:02:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T16:02:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076683587701928098"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2076683587701928098",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1957,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "真的好想吃右美沙芬，听说药效比愈美强很多，想吃😋可惜了，呜呜"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-22T20:03:01.000Z",
+        "description": "你们好呀，我是az！成分：重抑中焦/od/自傷/自殺念头/infp-t/音游/二游（不怎么玩了）/端游（Steam上面的单机和一些网游）/像素RPG/galgame/喜欢术力口（初音 可不 歌爱雪）/看番/看漫画。\n没有什么特别的的主推喜欢的东西太多啦\n同类群1053339675\n目前失业中~欢迎互fo，我爱你们！❤️",
+        "id": "1561806114274287616",
+        "location": "失乐园",
+        "name": "AZ.",
+        "pinned_tweet_id": "2075487277191733409",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778090792390959104/-k1xKj1N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 538,
+          "following_count": 422,
+          "like_count": 2834,
+          "listed_count": 0,
+          "media_count": 105,
+          "tweet_count": 814
+        },
+        "url": "",
+        "username": "crossyangshe",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-25T17:39:01.000Z",
+        "description": "可互fo/09/中抑郁/中焦虑/od重度依赖/oder/偶尔视奸一下fo/准高三/休学中/查成分互fo",
+        "id": "1883207896768651264",
+        "name": "波奇酱",
+        "pinned_tweet_id": "2076686527732822218",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059902463524888576/lFO39T_3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 145,
+          "like_count": 1592,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 244
+        },
+        "url": "",
+        "username": "clem0216",
+        "verified": false
+      }
+    ]
+  }
+}

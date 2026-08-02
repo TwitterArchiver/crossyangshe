@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561806114274287616",
+    "conversation_id": "2081341176553378237",
+    "created_at": "2026-07-26T20:00:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T21:00:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081469748584550694"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1619606197723856901",
+          "start": 0,
+          "username": "Tokino_Yui"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081469748584550694",
+    "in_reply_to_user_id": "1619606197723856901",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081341176553378237",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Tokino_Yui 世界就这样对az抱有恶意，连机器审核的社交平台都是一样"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2081341168303165440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOJow-EbUAAeP2D.jpg",
+        "width": 471
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561806114274287616",
+        "conversation_id": "2081341176553378237",
+        "created_at": "2026-07-26T20:00:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T21:00:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081469748584550694"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1619606197723856901",
+              "start": 0,
+              "username": "Tokino_Yui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081469748584550694",
+        "in_reply_to_user_id": "1619606197723856901",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081341176553378237",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Tokino_Yui 世界就这样对az抱有恶意，连机器审核的社交平台都是一样"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081341168303165440"
+          ]
+        },
+        "author_id": "1619606197723856901",
+        "conversation_id": "2081341176553378237",
+        "created_at": "2026-07-26T11:29:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T12:29:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081341176553378237"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ORo8MBU3Dq",
+              "end": 29,
+              "expanded_url": "https://x.com/Tokino_Yui/status/2081341176553378237/photo/1",
+              "media_key": "3_2081341168303165440",
+              "start": 6,
+              "url": "https://t.co/ORo8MBU3Dq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081341176553378237",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1522,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我都哭了我 https://t.co/ORo8MBU3Dq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-22T20:03:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Changsha, Hunan, China",
+              "geo": {
+                "coordinates": [
+                  112.97087,
+                  28.19874
+                ],
+                "type": "Point"
+              },
+              "locality": "Changsha",
+              "region": "Hunan"
+            }
+          ]
+        },
+        "description": "你們好呀，我是az！成分：重抑中焦/od/自傷/自殺念頭/infp-t/音遊/二游（不怎麼玩了）/端遊（Steam上面的單機和一些網遊）/像素RPG/galgame/喜歡術力口（初音 可不 歌愛雪）/看番/看漫畫。\n戀人：@congng1327122\n小號：@confessAZ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 125,
+                "start": 111,
+                "username": "congng1327122"
+              },
+              {
+                "end": 139,
+                "start": 129,
+                "username": "confessAZ"
+              }
+            ]
+          }
+        },
+        "id": "1561806114274287616",
+        "location": "長沙",
+        "name": "AZ.",
+        "pinned_tweet_id": "2075487277191733409",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778090792390959104/-k1xKj1N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 608,
+          "following_count": 446,
+          "like_count": 3639,
+          "listed_count": 1,
+          "media_count": 129,
+          "tweet_count": 968
+        },
+        "url": "",
+        "username": "crossyangshe",
+        "verified": true
+      },
+      {
+        "created_at": "2023-01-29T08:00:04.000Z",
+        "description": "可以叫我小唯/08/餐券没/od自残/很多黑泥/直fo想和你交朋友/没有回fo一定要私我一下！🥰",
+        "id": "1619606197723856901",
+        "name": "Yui",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071576862183354368/DZk9mCfq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 58,
+          "like_count": 31,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 155
+        },
+        "url": "",
+        "username": "Tokino_Yui",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561806114274287616",
+    "conversation_id": "2064104570402590995",
+    "created_at": "2026-06-30T16:48:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T17:48:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071999307746791837"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "361248768",
+          "start": 0,
+          "username": "R1kOx033w"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071999307746791837",
+    "in_reply_to_user_id": "361248768",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064104570402590995",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@R1kOx033w 窝趣！好羡慕你，az真的不敢去医院问医院要药，现在打算在网上买加巴喷丁了，听说效果也是一样的，但是没吃到pr还是心里不舒服，希望有一天路过一家药店能给开吧"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2064104564194934784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKUsKkAaAAAI3Wf.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561806114274287616",
+        "conversation_id": "2064104570402590995",
+        "created_at": "2026-06-30T16:48:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T17:48:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071999307746791837"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "361248768",
+              "start": 0,
+              "username": "R1kOx033w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071999307746791837",
+        "in_reply_to_user_id": "361248768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064104570402590995",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@R1kOx033w 窝趣！好羡慕你，az真的不敢去医院问医院要药，现在打算在网上买加巴喷丁了，听说效果也是一样的，但是没吃到pr还是心里不舒服，希望有一天路过一家药店能给开吧"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064104564194934784"
+          ]
+        },
+        "author_id": "361248768",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2064104570402590995",
+        "created_at": "2026-06-08T21:57:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T22:57:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064104570402590995"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gE1TBRt9nn",
+              "end": 151,
+              "expanded_url": "https://x.com/Cettacheese/status/2064104570402590995/photo/1",
+              "media_key": "3_2064104564194934784",
+              "start": 128,
+              "url": "https://t.co/gE1TBRt9nn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064104570402590995",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 157,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "遇到了天使级医师 这家医院我来过知道药房采购的事喜思平 然后来开药结果告知药房没有了！但是！天使医师打了张甲钴胺的处方然后手写还问我要几盒 我也没贪就说三盒吧三盒（结果买到了三盒150mg的）然后因为我本来就睡眠障碍就又问了有没有1mg的劳拉 开了21t https://t.co/gE1TBRt9nn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-22T20:03:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "az，非健全人，努力生存中，希望有人关注我",
+        "id": "1561806114274287616",
+        "location": "地狱",
+        "name": "AZ.",
+        "pinned_tweet_id": "2061092260226502954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778090792390959104/-k1xKj1N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 162,
+          "following_count": 252,
+          "like_count": 915,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 368
+        },
+        "url": "",
+        "username": "crossyangshe",
+        "verified": false
+      },
+      {
+        "created_at": "2011-08-24T13:58:30.000Z",
+        "description": "转生为鲤#颓废迷茫青年#混乱善良#收留一样善良的孩子",
+        "id": "361248768",
+        "location": "伽蓝洞",
+        "name": "鲤",
+        "pinned_tweet_id": "2036929448646500730",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063720447561347072/ht3bAq-U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 45,
+          "like_count": 178,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 148
+        },
+        "url": "",
+        "username": "R1kOx033w",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561806114274287616",
+    "conversation_id": "1982299795399340184",
+    "created_at": "2025-10-26T17:33:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-26T18:33:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982500903329698000"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1779918819517251584",
+          "start": 0,
+          "username": "YLing12138"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982500903329698000",
+    "in_reply_to_user_id": "1779918819517251584",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982299795399340184",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YLing12138 我来进群了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1511,
+        "media_key": "3_1982299791808757760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4KLKHEXgAAWDTy.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561806114274287616",
+        "conversation_id": "1982299795399340184",
+        "created_at": "2025-10-26T17:33:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-26T18:33:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982500903329698000"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1779918819517251584",
+              "start": 0,
+              "username": "YLing12138"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982500903329698000",
+        "in_reply_to_user_id": "1779918819517251584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982299795399340184",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YLing12138 我来进群了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1982299791808757760"
+          ]
+        },
+        "author_id": "1779918819517251584",
+        "conversation_id": "1982299795399340184",
+        "created_at": "2025-10-26T04:14:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-26T05:14:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982299795399340184"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ktPc04Fy9L",
+              "end": 168,
+              "expanded_url": "https://x.com/YLing12138/status/1982299795399340184/photo/1",
+              "media_key": "3_1982299791808757760",
+              "start": 145,
+              "url": "https://t.co/ktPc04Fy9L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982299795399340184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4128,
+          "like_count": 29,
+          "quote_count": 0,
+          "reply_count": 34,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "新群来啦~\n本群为我的粉丝同好聊天群，没有福利，一个为了和大家相处聊天用的群，偶尔会分享点自己以往的故事和事物的见解，偶尔也会玩点互动游戏，有兴趣的就可以扫码加入吧，不过要遵守群规哦！\n想进群的粉丝朋友们，\n点赞本推，在评论“我来进群啦”\n然后私信我要进群密码\n我会有空就来审核放人的哈~ https://t.co/ktPc04Fy9L"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-22T20:03:01.000Z",
+        "description": "“为什么要伤心 难道你的生活还不够可笑吗？”",
+        "id": "1561806114274287616",
+        "location": "今天也辛苦了.",
+        "name": "AZ.",
+        "pinned_tweet_id": "1725205374507368558",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778090792390959104/-k1xKj1N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 20,
+          "like_count": 71,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 12
+        },
+        "username": "crossyangshe",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-15T17:05:14.000Z",
+        "description": "唯一号\n不一样的人，不一样的另一面。\n盗图盗视频者替我挡灾受难财运全无。\n  提问留言箱：https://t.co/SG4x0HE31b",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yling121381",
+                "end": 68,
+                "expanded_url": "https://ngl.link/yling121381",
+                "start": 45,
+                "url": "https://t.co/SG4x0HE31b"
+              }
+            ]
+          }
+        },
+        "id": "1779918819517251584",
+        "name": "夜-末翎",
+        "pinned_tweet_id": "1982299795399340184",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934311359921135616/bUVfgojJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21477,
+          "following_count": 151,
+          "like_count": 854,
+          "listed_count": 100,
+          "media_count": 93,
+          "tweet_count": 224
+        },
+        "username": "YLing12138",
+        "verified": false
+      }
+    ]
+  }
+}

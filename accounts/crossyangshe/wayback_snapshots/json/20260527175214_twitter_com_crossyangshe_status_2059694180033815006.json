@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561806114274287616",
+    "conversation_id": "2059656553503092907",
+    "created_at": "2026-05-27T17:52:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T18:52:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059694180033815006"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2044793518267453440",
+          "start": 0,
+          "username": "lxxe11_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059694180033815006",
+    "in_reply_to_user_id": "2044793518267453440",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059656553503092907",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lxxe11_ 嗯嗯，我每次都特别容易饿，去买食物吃，即使有胃口也吃不了多少，往往吃几口就不想吃了，但是回过神来饿了又想去买食物。哪怕吃的再多体重也很瘦，吃药好像也增长不了多少"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561806114274287616",
+        "conversation_id": "2059656553503092907",
+        "created_at": "2026-05-27T17:52:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T18:52:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059694180033815006"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2044793518267453440",
+              "start": 0,
+              "username": "lxxe11_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059694180033815006",
+        "in_reply_to_user_id": "2044793518267453440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059656553503092907",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lxxe11_ 嗯嗯，我每次都特别容易饿，去买食物吃，即使有胃口也吃不了多少，往往吃几口就不想吃了，但是回过神来饿了又想去买食物。哪怕吃的再多体重也很瘦，吃药好像也增长不了多少"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044793518267453440",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Meals",
+              "id": "1034860760093024257",
+              "name": "Meals"
+            }
+          }
+        ],
+        "conversation_id": "2059656553503092907",
+        "created_at": "2026-05-27T15:22:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T16:22:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059656553503092907"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059656553503092907",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "元々痩せ体質というか太りにくい方で、一般的には太るとされている食事をしても、普通の食事+おやつを食べても大きく体重が変動したことがなくて、ただ精神薬だけは本当に急にその痩せ体質が消失して体重が増えて、その薬を辞めたらするする元の体重に戻っていっている"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-22T20:03:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "恶魔羊az，圈子混的多不一一列举了，不是正常人，渴望被爱和渴望死亡",
+        "id": "1561806114274287616",
+        "location": "地狱",
+        "name": "AZ.",
+        "pinned_tweet_id": "1725205374507368558",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778090792390959104/-k1xKj1N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 45,
+          "like_count": 166,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 142
+        },
+        "username": "crossyangshe",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-16T15:02:20.000Z",
+        "description": "05 🚺｜未診断/双極疑い｜精神科通院中｜通信制大学生｜初手呼びタメ🙆‍♀️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lxxe11.hatenablog.com",
+                "end": 23,
+                "expanded_url": "https://lxxe11.hatenablog.com/",
+                "start": 0,
+                "url": "https://t.co/Kuwo3J2eMd"
+              }
+            ]
+          }
+        },
+        "id": "2044793518267453440",
+        "location": "質問など中身のある会話ならDM可",
+        "name": "茅野",
+        "pinned_tweet_id": "2056751048132603989",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053337402924769281/P9yk6OqO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 35,
+          "like_count": 63,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 427
+        },
+        "url": "https://t.co/Kuwo3J2eMd",
+        "username": "lxxe11_",
+        "verified": false
+      }
+    ]
+  }
+}

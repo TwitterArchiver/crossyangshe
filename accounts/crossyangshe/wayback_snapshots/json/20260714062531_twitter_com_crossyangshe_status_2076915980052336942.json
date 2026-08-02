@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561806114274287616",
+    "conversation_id": "2076915980052336942",
+    "created_at": "2026-07-14T06:25:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T07:25:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2076915980052336942"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2076915980052336942",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你们那些健全人，一边口上说着不要死一边又给不了az实质上的帮助，怎么？拯救抑郁症患者是一件很小众很有成就感的事情？到头来az不理你们还要反过来举报az，你们到底是怎么想的？不想看az天天在这里发泄痛苦可以把az屏蔽了，没有必要为了一个随时都会死的人在这里较真"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561806114274287616",
+        "conversation_id": "2076915980052336942",
+        "created_at": "2026-07-14T06:25:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T07:25:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076915980052336942"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2076915980052336942",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们那些健全人，一边口上说着不要死一边又给不了az实质上的帮助，怎么？拯救抑郁症患者是一件很小众很有成就感的事情？到头来az不理你们还要反过来举报az，你们到底是怎么想的？不想看az天天在这里发泄痛苦可以把az屏蔽了，没有必要为了一个随时都会死的人在这里较真"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-22T20:03:01.000Z",
+        "description": "你们好呀，我是az！成分：重抑中焦/od/自傷/自殺念头/infp-t/音游/二游（不怎么玩了）/端游（Steam上面的单机和一些网游）/像素RPG/galgame/喜欢术力口（初音 可不 歌爱雪）/看番/看漫画。\n没有什么特别的的主推喜欢的东西太多啦\n同类群1053339675\n目前失业中~欢迎互fo，我爱你们！❤️",
+        "id": "1561806114274287616",
+        "location": "失乐园",
+        "name": "AZ.",
+        "pinned_tweet_id": "2075487277191733409",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778090792390959104/-k1xKj1N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 538,
+          "following_count": 421,
+          "like_count": 2813,
+          "listed_count": 0,
+          "media_count": 103,
+          "tweet_count": 810
+        },
+        "url": "",
+        "username": "crossyangshe",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2074173794755960832",
+        "3_2074173794726662144"
+      ]
+    },
+    "author_id": "1561806114274287616",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2074173994270613971",
+    "created_at": "2026-07-06T16:49:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T17:49:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074173994270613971"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Yq4euwAyAn",
+          "end": 49,
+          "expanded_url": "https://x.com/crossyangshe/status/2074173994270613971/photo/1",
+          "media_key": "3_2074173794755960832",
+          "start": 26,
+          "url": "https://t.co/Yq4euwAyAn"
+        },
+        {
+          "display_url": "pic.x.com/Yq4euwAyAn",
+          "end": 49,
+          "expanded_url": "https://x.com/crossyangshe/status/2074173994270613971/photo/1",
+          "media_key": "3_2074173794726662144",
+          "start": 26,
+          "url": "https://t.co/Yq4euwAyAn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074173994270613971",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "橙汁味饮料调了一杯白兰地果味酒，喝起来有点像药水味 https://t.co/Yq4euwAyAn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1538,
+        "media_key": "3_2074173794755960832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMjyE67aYAAxA79.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1538,
+        "media_key": "3_2074173794726662144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMjyE60bUAA25S6.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074173794755960832",
+            "3_2074173794726662144"
+          ]
+        },
+        "author_id": "1561806114274287616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2074173994270613971",
+        "created_at": "2026-07-06T16:49:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T17:49:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074173994270613971"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Yq4euwAyAn",
+              "end": 49,
+              "expanded_url": "https://x.com/crossyangshe/status/2074173994270613971/photo/1",
+              "media_key": "3_2074173794755960832",
+              "start": 26,
+              "url": "https://t.co/Yq4euwAyAn"
+            },
+            {
+              "display_url": "pic.x.com/Yq4euwAyAn",
+              "end": 49,
+              "expanded_url": "https://x.com/crossyangshe/status/2074173994270613971/photo/1",
+              "media_key": "3_2074173794726662144",
+              "start": 26,
+              "url": "https://t.co/Yq4euwAyAn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074173994270613971",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "橙汁味饮料调了一杯白兰地果味酒，喝起来有点像药水味 https://t.co/Yq4euwAyAn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-22T20:03:01.000Z",
+        "description": "你们好呀，我是az！成分：重抑中焦/od/自傷/自殺念头/infp-t/音游/二游（不怎么玩了）/端游（Steam上面的单机和一些网游）/日式像素RPG/galgame/喜欢术力口（初音 可不 歌爱雪）/看番/看漫画。\n没有什么特别的的主推，因为是成分太复杂，喜欢的东西太多啦！\n目前失业中~欢迎互fo，我爱你们！❤️",
+        "id": "1561806114274287616",
+        "location": "地狱",
+        "name": "AZ.",
+        "pinned_tweet_id": "2061092260226502954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778090792390959104/-k1xKj1N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 319,
+          "following_count": 346,
+          "like_count": 1903,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 598
+        },
+        "url": "",
+        "username": "crossyangshe",
+        "verified": false
+      }
+    ]
+  }
+}

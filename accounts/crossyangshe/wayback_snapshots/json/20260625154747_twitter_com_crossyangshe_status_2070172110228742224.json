@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561806114274287616",
+    "conversation_id": "2069300076934025278",
+    "created_at": "2026-06-25T15:47:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T16:47:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070172110228742224"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2063919372255518720",
+          "start": 0,
+          "username": "shixiaoyou223"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070172110228742224",
+    "in_reply_to_user_id": "2063919372255518720",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069300076934025278",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shixiaoyou223 为什么想要死，不害怕吗，能不能告诉我，我也很想很想很想很想死"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 402,
+        "media_key": "3_2069300073826267136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLehdBoasAA0_a_.jpg",
+        "width": 402
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561806114274287616",
+        "conversation_id": "2069300076934025278",
+        "created_at": "2026-06-25T15:47:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T16:47:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070172110228742224"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2063919372255518720",
+              "start": 0,
+              "username": "shixiaoyou223"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070172110228742224",
+        "in_reply_to_user_id": "2063919372255518720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069300076934025278",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shixiaoyou223 为什么想要死，不害怕吗，能不能告诉我，我也很想很想很想很想死"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069300073826267136"
+          ]
+        },
+        "author_id": "2063919372255518720",
+        "conversation_id": "2069300076934025278",
+        "created_at": "2026-06-23T06:02:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T07:02:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069300076934025278"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KAZ6vxXkq1",
+              "end": 99,
+              "expanded_url": "https://x.com/shixiaoyou223/status/2069300076934025278/photo/1",
+              "media_key": "3_2069300073826267136",
+              "start": 76,
+              "url": "https://t.co/KAZ6vxXkq1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069300076934025278",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 186,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "还有十几天，十几天就放假了，我就可以去见姥姥姥爷最后一面了，这是我最后的牵挂了，然后我就去跳河\n对不起这个世界 \n对不起朋友们\n对不起家人\n我没得选了 https://t.co/KAZ6vxXkq1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-22T20:03:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "az，非健全人，努力生存中，希望有人关注我",
+        "id": "1561806114274287616",
+        "location": "地狱",
+        "name": "AZ.",
+        "pinned_tweet_id": "2061092260226502954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778090792390959104/-k1xKj1N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 78,
+          "like_count": 362,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 253
+        },
+        "url": "",
+        "username": "crossyangshe",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-08T09:43:00.000Z",
+        "description": "160CM/46kg，现18岁大一，是持证跨性别哦咪~欢迎交友~希望认识很多可爱又善良的人~\nQAQ上天赐予我一个对象叭",
+        "id": "2063919372255518720",
+        "name": "小鼬uu子🍥~",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063923360896028672/3df4x3Ln_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 97,
+          "like_count": 48,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 37
+        },
+        "url": "",
+        "username": "shixiaoyou223",
+        "verified": false
+      }
+    ]
+  }
+}

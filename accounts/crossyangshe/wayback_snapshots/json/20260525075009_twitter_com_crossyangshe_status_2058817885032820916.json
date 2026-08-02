@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561806114274287616",
+    "conversation_id": "2058784259532571082",
+    "created_at": "2026-05-25T07:50:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T08:50:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058817885032820916"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1989611073725763589",
+          "start": 0,
+          "username": "ql0vux"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058817885032820916",
+    "in_reply_to_user_id": "1989611073725763589",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058784259532571082",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ql0vux 好有画面感"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561806114274287616",
+        "conversation_id": "2058784259532571082",
+        "created_at": "2026-05-25T07:50:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T08:50:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058817885032820916"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1989611073725763589",
+              "start": 0,
+              "username": "ql0vux"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058817885032820916",
+        "in_reply_to_user_id": "1989611073725763589",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058784259532571082",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ql0vux 好有画面感"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989611073725763589",
+        "conversation_id": "2058784259532571082",
+        "created_at": "2026-05-25T05:36:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T06:36:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058784259532571082"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058784259532571082",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 205,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "初めてリストカットした時はオーバードーズで記憶が吹っ飛んでいて(脂肪まで切っていた)、気づいたらベッドが血でビッチャビチャだったんだけれど、健忘で動画を撮っていて、音声を聞いたら「わ〜」というなんとも情けない声を出していた。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-22T20:03:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "恶魔羊az，圈子混的多不一一列举了，不是正常人，渴望被爱和渴望死亡",
+        "id": "1561806114274287616",
+        "location": "地狱",
+        "name": "AZ.",
+        "pinned_tweet_id": "1725205374507368558",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778090792390959104/-k1xKj1N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 42,
+          "like_count": 141,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 126
+        },
+        "username": "crossyangshe",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-15T08:27:44.000Z",
+        "description": "ヴァーチャル高校生。存在しない。\nサブ→@virtual__X",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 20,
+                "username": "virtual__X"
+              }
+            ]
+          }
+        },
+        "id": "1989611073725763589",
+        "location": "ヴァーチャル",
+        "name": "χ",
+        "pinned_tweet_id": "2057312584177787386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056062746073120769/OCl3WziO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 14,
+          "like_count": 1597,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 110
+        },
+        "username": "ql0vux",
+        "verified": false
+      }
+    ]
+  }
+}

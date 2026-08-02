@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561806114274287616",
+    "conversation_id": "2062247896511078787",
+    "created_at": "2026-06-29T17:35:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T18:35:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071648858577445070"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1492729295445237765",
+          "start": 0,
+          "username": "qiandaojiang201"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071648858577445070",
+    "in_reply_to_user_id": "1492729295445237765",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062247896511078787",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qiandaojiang201 怎么救救泥，自身也难保了😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561806114274287616",
+        "conversation_id": "2062247896511078787",
+        "created_at": "2026-06-29T17:35:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T18:35:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071648858577445070"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1492729295445237765",
+              "start": 0,
+              "username": "qiandaojiang201"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071648858577445070",
+        "in_reply_to_user_id": "1492729295445237765",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062247896511078787",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qiandaojiang201 怎么救救泥，自身也难保了😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1492729295445237765",
+        "conversation_id": "2062247896511078787",
+        "created_at": "2026-06-03T18:59:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T19:59:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062247896511078787"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062247896511078787",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 251,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有没有人救救我。。。救救我吧。。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-22T20:03:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "az，非健全人，努力生存中，希望有人关注我",
+        "id": "1561806114274287616",
+        "location": "地狱",
+        "name": "AZ.",
+        "pinned_tweet_id": "2061092260226502954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778090792390959104/-k1xKj1N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131,
+          "following_count": 226,
+          "like_count": 712,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 326
+        },
+        "url": "",
+        "username": "crossyangshe",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-13T05:16:28.000Z",
+        "description": "啊呜",
+        "id": "1492729295445237765",
+        "name": "逃离互联网深水区中",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009237530089017344/eiqsMS3z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105,
+          "following_count": 129,
+          "like_count": 75,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 2630
+        },
+        "url": "",
+        "username": "qiandaojiang201",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561806114274287616",
+    "conversation_id": "2059492243569000530",
+    "created_at": "2026-05-27T04:52:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T05:52:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059497955883946197"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2044793518267453440",
+          "start": 0,
+          "username": "lxxe11_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059497955883946197",
+    "in_reply_to_user_id": "2044793518267453440",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059492243569000530",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lxxe11_ 为什么陌生人会在意你，明明没有打扰到任何人"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2059492243569000530].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2059492243569000530",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2059492243569000530"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561806114274287616",
+        "conversation_id": "2059492243569000530",
+        "created_at": "2026-05-27T04:52:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T05:52:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059497955883946197"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2044793518267453440",
+              "start": 0,
+              "username": "lxxe11_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059497955883946197",
+        "in_reply_to_user_id": "2044793518267453440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059492243569000530",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lxxe11_ 为什么陌生人会在意你，明明没有打扰到任何人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-22T20:03:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "恶魔羊az，圈子混的多不一一列举了，不是正常人，渴望被爱和渴望死亡",
+        "id": "1561806114274287616",
+        "location": "地狱",
+        "name": "AZ.",
+        "pinned_tweet_id": "1725205374507368558",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778090792390959104/-k1xKj1N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 45,
+          "like_count": 165,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 138
+        },
+        "username": "crossyangshe",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-16T15:02:20.000Z",
+        "description": "05 🚺｜未診断/双極疑い｜精神科通院中｜通信制大学生｜初手呼びタメ🙆‍♀️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lxxe11.hatenablog.com",
+                "end": 23,
+                "expanded_url": "https://lxxe11.hatenablog.com/",
+                "start": 0,
+                "url": "https://t.co/I6Trdwa1Ay"
+              }
+            ]
+          }
+        },
+        "id": "2044793518267453440",
+        "location": "質問など中身のある会話ならDM可",
+        "name": "茅野",
+        "pinned_tweet_id": "2056751048132603989",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053337402924769281/P9yk6OqO_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 35,
+          "like_count": 59,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 406
+        },
+        "url": "https://t.co/I6Trdwa1Ay",
+        "username": "lxxe11_",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,150 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2071850185957744640"
+      ]
+    },
+    "author_id": "1561806114274287616",
+    "conversation_id": "2071850254799167900",
+    "created_at": "2026-06-30T06:56:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T07:56:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2071850254799167900"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/MPBVSDd5VH",
+          "end": 134,
+          "expanded_url": "https://x.com/crossyangshe/status/2071850254799167900/photo/1",
+          "media_key": "3_2071850185957744640",
+          "start": 111,
+          "url": "https://t.co/MPBVSDd5VH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071850254799167900",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "az一共去问了四家药店，有一家药店没有，有两家说要处方，最后一家那个店员都把pr80拿出来了，az问她这里可以开处方吗？她说可以，结果az开的时候就遇到了这种情况（az当时心脏都要跳出来了激动的不得了以为终于可以吃到了） https://t.co/MPBVSDd5VH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2400,
+        "media_key": "3_2071850185957744640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMCwxFnWoAAONPt.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071850185957744640"
+          ]
+        },
+        "author_id": "1561806114274287616",
+        "conversation_id": "2071850254799167900",
+        "created_at": "2026-06-30T06:56:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T07:56:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071850254799167900"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MPBVSDd5VH",
+              "end": 134,
+              "expanded_url": "https://x.com/crossyangshe/status/2071850254799167900/photo/1",
+              "media_key": "3_2071850185957744640",
+              "start": 111,
+              "url": "https://t.co/MPBVSDd5VH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071850254799167900",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "az一共去问了四家药店，有一家药店没有，有两家说要处方，最后一家那个店员都把pr80拿出来了，az问她这里可以开处方吗？她说可以，结果az开的时候就遇到了这种情况（az当时心脏都要跳出来了激动的不得了以为终于可以吃到了） https://t.co/MPBVSDd5VH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-22T20:03:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "az，非健全人，努力生存中，希望有人关注我",
+        "id": "1561806114274287616",
+        "location": "地狱",
+        "name": "AZ.",
+        "pinned_tweet_id": "2061092260226502954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778090792390959104/-k1xKj1N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133,
+          "following_count": 230,
+          "like_count": 730,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 329
+        },
+        "url": "",
+        "username": "crossyangshe",
+        "verified": false
+      }
+    ]
+  }
+}

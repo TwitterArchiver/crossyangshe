@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561806114274287616",
+    "conversation_id": "2048747534718480446",
+    "created_at": "2026-04-27T17:29:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T18:29:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048816843121721549"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1417099624922370056",
+          "start": 0,
+          "username": "XinGZiSaMa_8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048816843121721549",
+    "in_reply_to_user_id": "1417099624922370056",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048747534718480446",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XinGZiSaMa_8964 一直觉得那种用科比丁真头像，说话动不动就是孩子们的男的以为自己很幽默其实很脑残"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2048747510093791232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG6dAXWbQAA-sWz.jpg",
+        "width": 922
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2048747510072823808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG6dAXRbUAArqhm.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561806114274287616",
+        "conversation_id": "2048747534718480446",
+        "created_at": "2026-04-27T17:29:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T18:29:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048816843121721549"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1417099624922370056",
+              "start": 0,
+              "username": "XinGZiSaMa_8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048816843121721549",
+        "in_reply_to_user_id": "1417099624922370056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048747534718480446",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XinGZiSaMa_8964 一直觉得那种用科比丁真头像，说话动不动就是孩子们的男的以为自己很幽默其实很脑残"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048747510093791232",
+            "3_2048747510072823808"
+          ]
+        },
+        "author_id": "1417099624922370056",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2048747534718480446",
+        "created_at": "2026-04-27T12:54:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T13:54:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048747534718480446"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GNJJhwVBBL",
+              "end": 27,
+              "expanded_url": "https://x.com/XinGZiSaMa_8964/status/2048747534718480446/photo/1",
+              "media_key": "3_2048747510093791232",
+              "start": 4,
+              "url": "https://t.co/GNJJhwVBBL"
+            },
+            {
+              "display_url": "pic.x.com/GNJJhwVBBL",
+              "end": 27,
+              "expanded_url": "https://x.com/XinGZiSaMa_8964/status/2048747534718480446/photo/1",
+              "media_key": "3_2048747510072823808",
+              "start": 4,
+              "url": "https://t.co/GNJJhwVBBL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048747534718480446",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3513,
+          "like_count": 70,
+          "quote_count": 0,
+          "reply_count": 15,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "何意味 https://t.co/GNJJhwVBBL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-22T20:03:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "窝是恶魔羊AZ.#小恶魔系#术力口#galgame#会看vtuber#明日方舟，最近有玩终末地#严重网瘾Steam端游手游都玩#看番，有时候感觉这辈子有了......因为吃了奇怪的药和痛苦的经历我失去了好多记忆，如果不是有人告诉我可能不会再想起......但是还是忘了好多性格也变了。可以找窝一起打游戏和wyy听歌呐~",
+        "id": "1561806114274287616",
+        "location": "地狱",
+        "name": "AZ.",
+        "pinned_tweet_id": "1725205374507368558",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778090792390959104/-k1xKj1N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 19,
+          "like_count": 60,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 50
+        },
+        "username": "crossyangshe",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-19T12:31:06.000Z",
+        "description": "😈😈我是恶魔嘻嘻嘻｜男高｜友跨｜koishi激推｜电吉他学习ing｜Guns N' Roses｜oder｜自残过一段时间但已戒｜双相｜日语学习中｜喜欢猫｜互fo请私信喵｜提问箱：https://t.co/0yYZjwBLkU",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xingzisama",
+                "end": 112,
+                "expanded_url": "https://ngl.link/xingzisama",
+                "start": 89,
+                "url": "https://t.co/0yYZjwBLkU"
+              }
+            ]
+          }
+        },
+        "id": "1417099624922370056",
+        "location": "天堂",
+        "name": "性子sama🐾🎸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010818938666733568/mI3QBzcv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 792,
+          "following_count": 428,
+          "like_count": 54670,
+          "listed_count": 3,
+          "media_count": 1603,
+          "tweet_count": 9965
+        },
+        "username": "XinGZiSaMa_8964",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,167 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561806114274287616",
+    "conversation_id": "2076914344567443612",
+    "created_at": "2026-07-14T06:19:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T07:19:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076914576776634853"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2076914576776634853",
+    "in_reply_to_user_id": "1561806114274287616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076914344567443612",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "幸好没有限制时间，今天还要测试普瑞来着"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2400,
+        "media_key": "3_2076913756039450624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNKuDqHakAAsr6m.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561806114274287616",
+        "conversation_id": "2076914344567443612",
+        "created_at": "2026-07-14T06:19:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T07:19:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076914576776634853"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2076914576776634853",
+        "in_reply_to_user_id": "1561806114274287616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076914344567443612",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "幸好没有限制时间，今天还要测试普瑞来着"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076913756039450624"
+          ]
+        },
+        "author_id": "1561806114274287616",
+        "conversation_id": "2076914344567443612",
+        "created_at": "2026-07-14T06:19:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T07:19:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076914344567443612"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/75A1ZKKL9s",
+              "end": 112,
+              "expanded_url": "https://x.com/crossyangshe/status/2076914344567443612/photo/1",
+              "media_key": "3_2076913756039450624",
+              "start": 89,
+              "url": "https://t.co/75A1ZKKL9s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076914344567443612",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "到底是谁一直举报az呀，如果az账号没了的话就直接死去好了，那些主页一堆雪兔的不管，管az一个一直在这里碎碎念的人，搞得az一张自己的割手的图片都不敢发，到底是谁这么小心眼呀？ https://t.co/75A1ZKKL9s"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-22T20:03:01.000Z",
+        "description": "你们好呀，我是az！成分：重抑中焦/od/自傷/自殺念头/infp-t/音游/二游（不怎么玩了）/端游（Steam上面的单机和一些网游）/像素RPG/galgame/喜欢术力口（初音 可不 歌爱雪）/看番/看漫画。\n没有什么特别的的主推喜欢的东西太多啦\n同类群1053339675\n目前失业中~欢迎互fo，我爱你们！❤️",
+        "id": "1561806114274287616",
+        "location": "失乐园",
+        "name": "AZ.",
+        "pinned_tweet_id": "2075487277191733409",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778090792390959104/-k1xKj1N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 538,
+          "following_count": 421,
+          "like_count": 2810,
+          "listed_count": 0,
+          "media_count": 103,
+          "tweet_count": 809
+        },
+        "url": "",
+        "username": "crossyangshe",
+        "verified": true
+      }
+    ]
+  }
+}

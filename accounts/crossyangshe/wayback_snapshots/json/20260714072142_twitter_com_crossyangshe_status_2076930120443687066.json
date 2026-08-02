@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561806114274287616",
+    "conversation_id": "2076870379512246442",
+    "created_at": "2026-07-14T07:21:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T08:21:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076930120443687066"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1676927258714587140",
+          "start": 0,
+          "username": "7xllhs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076930120443687066",
+    "in_reply_to_user_id": "1676927258714587140",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076870379512246442",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@7xllhs 羡慕还能发图的，az发文字都能被人举报了😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2076870362420367360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNKGl0SaUAAHL1k.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2076870362416201729",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNKGl0RawAE9pTJ.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561806114274287616",
+        "conversation_id": "2076870379512246442",
+        "created_at": "2026-07-14T07:21:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T08:21:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076930120443687066"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1676927258714587140",
+              "start": 0,
+              "username": "7xllhs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076930120443687066",
+        "in_reply_to_user_id": "1676927258714587140",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076870379512246442",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@7xllhs 羡慕还能发图的，az发文字都能被人举报了😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076870362420367360",
+            "3_2076870362416201729"
+          ]
+        },
+        "author_id": "1676927258714587140",
+        "conversation_id": "2076870379512246442",
+        "created_at": "2026-07-14T03:24:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T04:24:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076870379512246442"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XjT5t9jnqR",
+              "end": 38,
+              "expanded_url": "https://x.com/7xllhs/status/2076870379512246442/photo/1",
+              "media_key": "3_2076870362420367360",
+              "start": 15,
+              "url": "https://t.co/XjT5t9jnqR"
+            },
+            {
+              "display_url": "pic.x.com/XjT5t9jnqR",
+              "end": 38,
+              "expanded_url": "https://x.com/7xllhs/status/2076870379512246442/photo/1",
+              "media_key": "3_2076870362416201729",
+              "start": 15,
+              "url": "https://t.co/XjT5t9jnqR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076870379512246442",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "长针眼了不能化妆唉发点旧图吧 https://t.co/XjT5t9jnqR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-22T20:03:01.000Z",
+        "description": "你们好呀，我是az！成分：重抑中焦/od/自傷/自殺念头/infp-t/音游/二游（不怎么玩了）/端游（Steam上面的单机和一些网游）/像素RPG/galgame/喜欢术力口（初音 可不 歌爱雪）/看番/看漫画。\n没有什么特别的的主推喜欢的东西太多啦\n同类群1053339675\n目前失业中~欢迎互fo，我爱你们！❤️",
+        "id": "1561806114274287616",
+        "location": "失乐园",
+        "name": "AZ.",
+        "pinned_tweet_id": "2075487277191733409",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778090792390959104/-k1xKj1N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 538,
+          "following_count": 422,
+          "like_count": 2846,
+          "listed_count": 0,
+          "media_count": 105,
+          "tweet_count": 815
+        },
+        "url": "",
+        "username": "crossyangshe",
+        "verified": true
+      },
+      {
+        "created_at": "2023-07-06T12:13:26.000Z",
+        "description": "互of互转🉑\n@RPrdeo 狗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 7,
+                "username": "RPrdeo"
+              }
+            ]
+          }
+        },
+        "id": "1676927258714587140",
+        "location": "天堂",
+        "name": "月読　ひな乃",
+        "pinned_tweet_id": "2072980828167221577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931451560007290881/J0VcGnxh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 38,
+          "like_count": 657,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 147
+        },
+        "url": "",
+        "username": "7xllhs",
+        "verified": false
+      }
+    ]
+  }
+}

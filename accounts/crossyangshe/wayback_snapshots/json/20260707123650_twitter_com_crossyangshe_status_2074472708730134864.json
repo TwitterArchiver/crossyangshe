@@ -1,0 +1,149 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561806114274287616",
+    "conversation_id": "2074430069326651434",
+    "created_at": "2026-07-07T12:36:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T13:36:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074472708730134864"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2074472708730134864",
+    "in_reply_to_user_id": "1561806114274287616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074471960890032564",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "20：34 结束测试，加巴喷丁一定用没有，能给你的只有饱腹感，大家在网上买了加巴喷丁的退了算了，这个药没有一点用，听说可以阻止pr的戒断反应，如果想要阻止pr的戒断反应可以留着，有这钱买几盒加巴喷丁不如去吃一顿可乐炸鸡。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561806114274287616",
+        "conversation_id": "2074430069326651434",
+        "created_at": "2026-07-07T12:36:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T13:36:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074472708730134864"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2074472708730134864",
+        "in_reply_to_user_id": "1561806114274287616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074471960890032564",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "20：34 结束测试，加巴喷丁一定用没有，能给你的只有饱腹感，大家在网上买了加巴喷丁的退了算了，这个药没有一点用，听说可以阻止pr的戒断反应，如果想要阻止pr的戒断反应可以留着，有这钱买几盒加巴喷丁不如去吃一顿可乐炸鸡。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561806114274287616",
+        "conversation_id": "2074430069326651434",
+        "created_at": "2026-07-07T12:33:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T13:33:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074471960890032564"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2074471960890032564",
+        "in_reply_to_user_id": "1561806114274287616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074464529095033036",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "20：33 抽了一根万宝路香烟，头有一点点晕，但是感觉像香烟给我的晕感，然后又没有了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-22T20:03:01.000Z",
+        "description": "你们好呀，我是az！成分：重抑中焦/od/自傷/自殺念头/infp-t/音游/二游（不怎么玩了）/端游（Steam上面的单机和一些网游）/日式像素RPG/galgame/喜欢术力口（初音 可不 歌爱雪）/看番/看漫画。\n没有什么特别的的主推，因为是成分太复杂，喜欢的东西太多啦！\n目前失业中~欢迎互fo，我爱你们！❤️",
+        "id": "1561806114274287616",
+        "location": "地狱",
+        "name": "AZ.",
+        "pinned_tweet_id": "2061092260226502954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778090792390959104/-k1xKj1N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 347,
+          "following_count": 348,
+          "like_count": 2015,
+          "listed_count": 0,
+          "media_count": 80,
+          "tweet_count": 633
+        },
+        "url": "",
+        "username": "crossyangshe",
+        "verified": true
+      }
+    ]
+  }
+}

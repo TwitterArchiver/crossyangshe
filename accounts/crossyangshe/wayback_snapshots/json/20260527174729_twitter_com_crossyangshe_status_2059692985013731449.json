@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561806114274287616",
+    "conversation_id": "2059692440894976420",
+    "created_at": "2026-05-27T17:47:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T18:47:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059692985013731449"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2059692985013731449",
+    "in_reply_to_user_id": "1561806114274287616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059692440894976420",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我幻想的事物，要么自己变好了，变得非常非常厉害优秀，要么穿越到异世界依旧强大。想到这里我就开心，如果再往深处想想，我就会越来越开心，结束幻想之后，往往是更大的抑郁和痛苦……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561806114274287616",
+        "conversation_id": "2059692440894976420",
+        "created_at": "2026-05-27T17:47:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T18:47:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059692985013731449"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059692985013731449",
+        "in_reply_to_user_id": "1561806114274287616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059692440894976420",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我幻想的事物，要么自己变好了，变得非常非常厉害优秀，要么穿越到异世界依旧强大。想到这里我就开心，如果再往深处想想，我就会越来越开心，结束幻想之后，往往是更大的抑郁和痛苦……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561806114274287616",
+        "conversation_id": "2059692440894976420",
+        "created_at": "2026-05-27T17:45:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T18:45:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059692440894976420"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059692440894976420",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一直不开心，我也不知道哪里不开心，每当我不开心的时候我就会幻想一些事物出来。如果你问我为什么不回忆，应该根本回忆不了开心的事情，根本没有这种事啊。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-22T20:03:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "恶魔羊az，圈子混的多不一一列举了，不是正常人，渴望被爱和渴望死亡",
+        "id": "1561806114274287616",
+        "location": "地狱",
+        "name": "AZ.",
+        "pinned_tweet_id": "1725205374507368558",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778090792390959104/-k1xKj1N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 45,
+          "like_count": 165,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 141
+        },
+        "username": "crossyangshe",
+        "verified": false
+      }
+    ]
+  }
+}

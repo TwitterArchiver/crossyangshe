@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2074069746107240448"
+      ]
+    },
+    "author_id": "1561806114274287616",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1392988484256759811",
+          "name": "Steam"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1392975566253424640",
+          "name": "Gaming retail"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1392988484256759811",
+          "name": "Steam"
+        }
+      }
+    ],
+    "conversation_id": "2074070407381238053",
+    "created_at": "2026-07-06T09:58:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T10:58:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074070407381238053"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/dI1pwECmaE",
+          "end": 92,
+          "expanded_url": "https://x.com/crossyangshe/status/2074070407381238053/photo/1",
+          "media_key": "3_2074069746107240448",
+          "start": 69,
+          "url": "https://t.co/dI1pwECmaE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074070407381238053",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "az才发现已经几个月没有打开Steam了，已经对游戏什么的无感了，真的活的好累，以前竟然有这么多耐心来推galgame和打那种战斗RPG https://t.co/dI1pwECmaE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2400,
+        "media_key": "3_2074069746107240448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMiTcfgbUAAwivP.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074069746107240448"
+          ]
+        },
+        "author_id": "1561806114274287616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1392988484256759811",
+              "name": "Steam"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1392975566253424640",
+              "name": "Gaming retail"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1392988484256759811",
+              "name": "Steam"
+            }
+          }
+        ],
+        "conversation_id": "2074070407381238053",
+        "created_at": "2026-07-06T09:58:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T10:58:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074070407381238053"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dI1pwECmaE",
+              "end": 92,
+              "expanded_url": "https://x.com/crossyangshe/status/2074070407381238053/photo/1",
+              "media_key": "3_2074069746107240448",
+              "start": 69,
+              "url": "https://t.co/dI1pwECmaE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074070407381238053",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "az才发现已经几个月没有打开Steam了，已经对游戏什么的无感了，真的活的好累，以前竟然有这么多耐心来推galgame和打那种战斗RPG https://t.co/dI1pwECmaE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-22T20:03:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "你们好呀，我是az！成分：重抑中焦/od/自傷/自殺念头/infp-t/音游/二游（不怎么玩了）/端游（Steam上面的单机和一些网游）/日式像素RPG/galgame/喜欢术力口（初音 可不 歌爱雪）/看番/看漫画。\n没有什么特别的的主推，因为是成分太复杂，喜欢的东西太多啦！\n目前失业中~欢迎互fo，我爱你们！❤️",
+        "id": "1561806114274287616",
+        "location": "地狱",
+        "name": "AZ.",
+        "pinned_tweet_id": "2061092260226502954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778090792390959104/-k1xKj1N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 310,
+          "following_count": 346,
+          "like_count": 1896,
+          "listed_count": 0,
+          "media_count": 74,
+          "tweet_count": 594
+        },
+        "url": "",
+        "username": "crossyangshe",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,184 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561806114274287616",
+    "conversation_id": "2077223113486655792",
+    "created_at": "2026-07-15T04:44:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T05:44:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077252861021560862"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1974420946045071360",
+          "start": 0,
+          "username": "sunny98398"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077252861021560862",
+    "in_reply_to_user_id": "1974420946045071360",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077223113486655792",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sunny98398 吃呀！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561806114274287616",
+        "conversation_id": "2077223113486655792",
+        "created_at": "2026-07-15T04:44:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T05:44:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077252861021560862"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1974420946045071360",
+              "start": 0,
+              "username": "sunny98398"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077252861021560862",
+        "in_reply_to_user_id": "1974420946045071360",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077223113486655792",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sunny98398 吃呀！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "2077223112152891392"
+          ]
+        },
+        "author_id": "1974420946045071360",
+        "conversation_id": "2077223113486655792",
+        "created_at": "2026-07-15T02:45:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T03:45:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077223113486655792"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2077223113486655792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 49,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我要吃飯嗎？但胃不太舒服"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-22T20:03:01.000Z",
+        "description": "你们好呀，我是az！成分：重抑中焦/od/自傷/自殺念头/infp-t/音游/二游（不怎么玩了）/端游（Steam上面的单机和一些网游）/像素RPG/galgame/喜欢术力口（初音 可不 歌爱雪）/看番/看漫画。\n没有什么特别的的主推喜欢的东西太多啦\n同类群1053339675\n目前失业中~欢迎互fo，我爱你们！❤️",
+        "id": "1561806114274287616",
+        "location": "失乐园",
+        "name": "AZ.",
+        "pinned_tweet_id": "2075487277191733409",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778090792390959104/-k1xKj1N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 575,
+          "following_count": 429,
+          "like_count": 3132,
+          "listed_count": 0,
+          "media_count": 111,
+          "tweet_count": 869
+        },
+        "url": "",
+        "username": "crossyangshe",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-04T10:27:10.000Z",
+        "description": "想跟大家互fo｜歡迎與我聊天 除了廣告其他基本不會拒絕 如果你的發言到令我感到不適我會選擇已讀不回 或是我會跟你跟你說明｜不定時出現與消失｜ 全友好LGBTQ+｜無立場｜無性別｜“想要救贖他人 逃離深淵 回到原本的軌道 順便拯救自己”",
+        "id": "1974420946045071360",
+        "name": "濪",
+        "pinned_tweet_id": "2038171627868070114",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040996760517320704/yxiZJH_u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 92,
+          "like_count": 1392,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 754
+        },
+        "url": "",
+        "username": "sunny98398",
+        "verified": false
+      }
+    ]
+  }
+}

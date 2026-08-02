@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561806114274287616",
+    "conversation_id": "2048592300843073952",
+    "created_at": "2026-04-27T17:25:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T18:25:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048815749414994263"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1725683921763905536",
+          "start": 0,
+          "username": "luonbe69"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048815749414994263",
+    "in_reply_to_user_id": "1725683921763905536",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048592300843073952",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@luonbe69 路易十六断头台"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561806114274287616",
+        "conversation_id": "2048592300843073952",
+        "created_at": "2026-04-27T17:25:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T18:25:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048815749414994263"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1725683921763905536",
+              "start": 0,
+              "username": "luonbe69"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048815749414994263",
+        "in_reply_to_user_id": "1725683921763905536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048592300843073952",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luonbe69 路易十六断头台"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1725683921763905536",
+        "conversation_id": "2048592300843073952",
+        "created_at": "2026-04-27T02:37:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T03:37:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048592300843073952"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2048592300843073952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 24,
+          "impression_count": 61666,
+          "like_count": 382,
+          "quote_count": 2,
+          "reply_count": 62,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "有没有什么毒品是能让人爽到极致然后嘎巴一下死了的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-22T20:03:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "窝是恶魔羊AZ.#小恶魔系#术力口#galgame#会看vtuber#明日方舟，最近有玩终末地#严重网瘾Steam端游手游都玩#看番，有时候感觉这辈子有了......因为吃了奇怪的药和痛苦的经历我失去了好多记忆，如果不是有人告诉我可能不会再想起......但是还是忘了好多性格也变了。可以找窝一起打游戏和wyy听歌呐~",
+        "id": "1561806114274287616",
+        "location": "地狱",
+        "name": "AZ.",
+        "pinned_tweet_id": "1725205374507368558",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778090792390959104/-k1xKj1N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 18,
+          "like_count": 58,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 48
+        },
+        "username": "crossyangshe",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-18T01:14:59.000Z",
+        "description": "继续荒芜",
+        "id": "1725683921763905536",
+        "location": "比邻星",
+        "name": "莱昂纳多",
+        "pinned_tweet_id": "1752560514201469253",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046832513193324544/JWFdPzZ9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3580,
+          "following_count": 6587,
+          "like_count": 48481,
+          "listed_count": 10,
+          "media_count": 892,
+          "tweet_count": 20435
+        },
+        "username": "luonbe69",
+        "verified": false
+      }
+    ]
+  }
+}

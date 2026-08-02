@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561806114274287616",
+    "conversation_id": "2071617672497037463",
+    "created_at": "2026-06-29T17:31:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T18:31:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071647646876651650"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2055995252771860480",
+          "start": 0,
+          "username": "qxq5ho"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071647646876651650",
+    "in_reply_to_user_id": "2055995252771860480",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071641146426626375",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qxq5ho 不行了是真的醉了😇"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561806114274287616",
+        "conversation_id": "2071617672497037463",
+        "created_at": "2026-06-29T17:31:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T18:31:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071647646876651650"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2055995252771860480",
+              "start": 0,
+              "username": "qxq5ho"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071647646876651650",
+        "in_reply_to_user_id": "2055995252771860480",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071641146426626375",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qxq5ho 不行了是真的醉了😇"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055995252771860480",
+        "conversation_id": "2071617672497037463",
+        "created_at": "2026-06-29T17:05:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T18:05:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071641146426626375"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1561806114274287616",
+              "start": 0,
+              "username": "crossyangshe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071641146426626375",
+        "in_reply_to_user_id": "1561806114274287616",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071617672497037463",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@crossyangshe 可乐加伏特加，醉了都不知道"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-22T20:03:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "az，非健全人，努力生存中，希望有人关注我",
+        "id": "1561806114274287616",
+        "location": "地狱",
+        "name": "AZ.",
+        "pinned_tweet_id": "2061092260226502954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778090792390959104/-k1xKj1N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131,
+          "following_count": 226,
+          "like_count": 709,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 325
+        },
+        "url": "",
+        "username": "crossyangshe",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-17T12:54:55.000Z",
+        "description": "在校高中生，希望能交点朋友，来找我吧球球了😭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E7%BA%A2%E5%8…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E7%BA%A2%E5%8F%B6",
+                "start": 0,
+                "url": "https://t.co/7BHkcxrgza"
+              }
+            ]
+          }
+        },
+        "id": "2055995252771860480",
+        "location": "中国广东深圳",
+        "name": "🍁红叶",
+        "pinned_tweet_id": "2071601514846851251",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070533488508391424/xUQHTPQp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86,
+          "following_count": 163,
+          "like_count": 2313,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 185
+        },
+        "url": "https://t.co/7BHkcxrgza",
+        "username": "qxq5ho",
+        "verified": false
+      }
+    ]
+  }
+}

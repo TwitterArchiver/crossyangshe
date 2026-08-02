@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561806114274287616",
+    "conversation_id": "2070913106918977663",
+    "created_at": "2026-06-27T16:52:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T17:52:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070913106918977663"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2070913106918977663",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我其实很讨厌别人对我敷衍，明明我一直对关心的人都很好啊，可是对方一直似乎在敷衍我，连装都不愿意装一下。其实我内心难受的要死，但照顾到对方又不愿意说出来，也是，谁会无缘无故对我好，从我这种废材身上能索取到什么？只有我这种傻瓜一直在一厢情愿的体谅别人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561806114274287616",
+        "conversation_id": "2070913106918977663",
+        "created_at": "2026-06-27T16:52:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T17:52:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070913106918977663"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2070913106918977663",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我其实很讨厌别人对我敷衍，明明我一直对关心的人都很好啊，可是对方一直似乎在敷衍我，连装都不愿意装一下。其实我内心难受的要死，但照顾到对方又不愿意说出来，也是，谁会无缘无故对我好，从我这种废材身上能索取到什么？只有我这种傻瓜一直在一厢情愿的体谅别人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-22T20:03:01.000Z",
+        "description": "az，非健全人，努力生存中，希望有人关注我",
+        "id": "1561806114274287616",
+        "location": "地狱",
+        "name": "AZ.",
+        "pinned_tweet_id": "2061092260226502954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778090792390959104/-k1xKj1N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 106,
+          "like_count": 402,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 270
+        },
+        "url": "",
+        "username": "crossyangshe",
+        "verified": false
+      }
+    ]
+  }
+}

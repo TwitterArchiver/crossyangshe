@@ -1,0 +1,150 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2075508275727200257"
+      ]
+    },
+    "author_id": "1561806114274287616",
+    "conversation_id": "2075508582611837175",
+    "created_at": "2026-07-10T09:13:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T10:13:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075508582611837175"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/mr95NtZ75f",
+          "end": 64,
+          "expanded_url": "https://x.com/crossyangshe/status/2075508582611837175/photo/1",
+          "media_key": "3_2075508275727200257",
+          "start": 41,
+          "url": "https://t.co/mr95NtZ75f"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075508582611837175",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "谢谢你们！az会记得和感谢所有对他的好的人！这份恩情az会从现在记到他进坟墓里！ https://t.co/mr95NtZ75f"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2400,
+        "media_key": "3_2075508275727200257",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM2vx78acAEDzyK.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075508275727200257"
+          ]
+        },
+        "author_id": "1561806114274287616",
+        "conversation_id": "2075508582611837175",
+        "created_at": "2026-07-10T09:13:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T10:13:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075508582611837175"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mr95NtZ75f",
+              "end": 64,
+              "expanded_url": "https://x.com/crossyangshe/status/2075508582611837175/photo/1",
+              "media_key": "3_2075508275727200257",
+              "start": 41,
+              "url": "https://t.co/mr95NtZ75f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075508582611837175",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谢谢你们！az会记得和感谢所有对他的好的人！这份恩情az会从现在记到他进坟墓里！ https://t.co/mr95NtZ75f"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-22T20:03:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "你们好呀，我是az！成分：重抑中焦/od/自傷/自殺念头/infp-t/音游/二游（不怎么玩了）/端游（Steam上面的单机和一些网游）/日式像素RPG/galgame/喜欢术力口（初音 可不 歌爱雪）/看番/看漫画。\n没有什么特别的的主推，因为是成分太复杂，喜欢的东西太多啦！\n目前失业中~欢迎互fo，我爱你们！❤️",
+        "id": "1561806114274287616",
+        "location": "地狱",
+        "name": "AZ.",
+        "pinned_tweet_id": "2074534939966713943",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778090792390959104/-k1xKj1N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 438,
+          "following_count": 386,
+          "like_count": 2472,
+          "listed_count": 0,
+          "media_count": 89,
+          "tweet_count": 724
+        },
+        "url": "",
+        "username": "crossyangshe",
+        "verified": true
+      }
+    ]
+  }
+}

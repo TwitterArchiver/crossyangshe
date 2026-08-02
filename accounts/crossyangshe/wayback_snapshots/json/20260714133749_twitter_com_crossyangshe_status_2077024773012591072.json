@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561806114274287616",
+    "conversation_id": "2077018674121330997",
+    "created_at": "2026-07-14T13:37:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T14:37:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077024773012591072"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1557450235621695488",
+          "start": 0,
+          "username": "KBDYD555"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077024773012591072",
+    "in_reply_to_user_id": "1557450235621695488",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077018674121330997",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KBDYD555 az吃了好多pr呀呀呀呀也和你一样呀呀呀呀"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6640,
+        "height": 960,
+        "media_key": "7_2077018628172759041",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2077018628172759041/pu/img/asLbxUT1TljVjWZV.jpg",
+        "public_metrics": {
+          "view_count": 23
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2077018628172759041/pu/vid/avc1/320x426/2Vt9OdndAnIlSGf2.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2077018628172759041/pu/vid/avc1/480x640/h4M7I2CePuNssgiv.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2077018628172759041/pu/vid/avc1/720x960/SvOIKo_BuXUvQb6w.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2077018628172759041/pu/pl/KfveZ4aTBcZdPvRs.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561806114274287616",
+        "conversation_id": "2077018674121330997",
+        "created_at": "2026-07-14T13:37:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T14:37:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077024773012591072"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1557450235621695488",
+              "start": 0,
+              "username": "KBDYD555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077024773012591072",
+        "in_reply_to_user_id": "1557450235621695488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077018674121330997",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KBDYD555 az吃了好多pr呀呀呀呀也和你一样呀呀呀呀"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2077018628172759041"
+          ]
+        },
+        "author_id": "1557450235621695488",
+        "conversation_id": "2077018674121330997",
+        "created_at": "2026-07-14T13:13:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T14:13:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077018674121330997"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pZYZnyDUQa",
+              "end": 27,
+              "expanded_url": "https://x.com/KBDYD555/status/2077018674121330997/video/1",
+              "media_key": "7_2077018628172759041",
+              "start": 4,
+              "url": "https://t.co/pZYZnyDUQa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077018674121330997",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 54,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "手太抖 https://t.co/pZYZnyDUQa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-22T20:03:01.000Z",
+        "description": "你们好呀，我是az！成分：重抑中焦/od/自傷/自殺念头/infp-t/音游/二游（不怎么玩了）/端游（Steam上面的单机和一些网游）/像素RPG/galgame/喜欢术力口（初音 可不 歌爱雪）/看番/看漫画。\n没有什么特别的的主推喜欢的东西太多啦\n同类群1053339675\n目前失业中~欢迎互fo，我爱你们！❤️",
+        "id": "1561806114274287616",
+        "location": "失乐园",
+        "name": "AZ.",
+        "pinned_tweet_id": "2075487277191733409",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778090792390959104/-k1xKj1N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 550,
+          "following_count": 425,
+          "like_count": 2942,
+          "listed_count": 0,
+          "media_count": 108,
+          "tweet_count": 847
+        },
+        "url": "",
+        "username": "crossyangshe",
+        "verified": true
+      },
+      {
+        "created_at": "2022-08-10T19:34:22.000Z",
+        "description": "我是99...前世叫不安定猫猫遭举报冻结...🚬/🩸/ed/🐭/🐶/🐱...互关欢迎会查成分...（Eng🆗）避难小号：@kyuukoQ 目前身体精神不好找不到工作如果可怜我喜欢我请给我一点点资助... 聊天先过门吧我没什么多余精力了🩵亲友@lengqizi💜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "kyuukoQ"
+              },
+              {
+                "end": 129,
+                "start": 120,
+                "username": "lengqizi"
+              }
+            ]
+          }
+        },
+        "id": "1557450235621695488",
+        "location": "鼠鼠樂園🐭vx🚪52",
+        "name": "🐭老鼠国王",
+        "pinned_tweet_id": "2072889837548712297",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038421157733617664/dbVEp8Aq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4581,
+          "following_count": 658,
+          "like_count": 5263,
+          "listed_count": 8,
+          "media_count": 1055,
+          "tweet_count": 4019
+        },
+        "url": "",
+        "username": "KBDYD555",
+        "verified": false
+      }
+    ]
+  }
+}

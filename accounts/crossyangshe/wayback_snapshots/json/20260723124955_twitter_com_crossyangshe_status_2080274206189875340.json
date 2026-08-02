@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561806114274287616",
+    "conversation_id": "2080023544608731360",
+    "created_at": "2026-07-23T12:49:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T13:49:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080274206189875340"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2039398734962761728",
+          "start": 0,
+          "username": "MISTERK937"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080274206189875340",
+    "in_reply_to_user_id": "2039398734962761728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080023544608731360",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MISTERK937 窩趣不早說"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561806114274287616",
+        "conversation_id": "2080023544608731360",
+        "created_at": "2026-07-23T12:49:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T13:49:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080274206189875340"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2039398734962761728",
+              "start": 0,
+              "username": "MISTERK937"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080274206189875340",
+        "in_reply_to_user_id": "2039398734962761728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080023544608731360",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MISTERK937 窩趣不早說"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2039398734962761728",
+        "conversation_id": "2080023544608731360",
+        "created_at": "2026-07-22T20:13:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T21:13:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080023544608731360"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2080023544608731360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 622,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "很难想象一个人不爱吃饭不爱喝水不爱睡觉不爱出门还天天磕大药，我都怕我哪天突然暴毙了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-22T20:03:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Changsha, Hunan, China",
+              "geo": {
+                "coordinates": [
+                  112.97087,
+                  28.19874
+                ],
+                "type": "Point"
+              },
+              "locality": "Changsha",
+              "region": "Hunan"
+            }
+          ]
+        },
+        "description": "你們好呀，我是az！成分：重抑中焦/od/自傷/自殺念頭/infp-t/音遊/二游（不怎麼玩了）/端遊（Steam上面的單機和一些網遊）/像素RPG/galgame/喜歡術力口（初音 可不 歌愛雪）/看番/看漫畫。\n戀人：@congng1327122\n小號：@confessAZ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 125,
+                "start": 111,
+                "username": "congng1327122"
+              },
+              {
+                "end": 139,
+                "start": 129,
+                "username": "confessAZ"
+              }
+            ]
+          }
+        },
+        "id": "1561806114274287616",
+        "location": "長沙",
+        "name": "AZ.",
+        "pinned_tweet_id": "2075487277191733409",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778090792390959104/-k1xKj1N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 615,
+          "following_count": 442,
+          "like_count": 3293,
+          "listed_count": 1,
+          "media_count": 121,
+          "tweet_count": 916
+        },
+        "url": "",
+        "username": "crossyangshe",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-01T17:45:46.000Z",
+        "description": "一只，坤？@xiaotunsalutee",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 5,
+                "username": "xiaotunsalutee"
+              }
+            ]
+          }
+        },
+        "id": "2039398734962761728",
+        "name": "污衊嘲笑_",
+        "pinned_tweet_id": "2067519950043136446",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072608661529362432/0_0Wkqu9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 367,
+          "following_count": 318,
+          "like_count": 853,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 780
+        },
+        "url": "",
+        "username": "MISTERK937",
+        "verified": false
+      }
+    ]
+  }
+}

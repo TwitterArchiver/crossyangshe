@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2073438946277912577"
+      ]
+    },
+    "author_id": "1561806114274287616",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2073438905676992569",
+    "created_at": "2026-07-04T16:09:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T17:09:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073439027538350209"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/rszuTvBF5E",
+          "end": 39,
+          "expanded_url": "https://x.com/crossyangshe/status/2073439027538350209/photo/1",
+          "media_key": "3_2073438946277912577",
+          "start": 16,
+          "url": "https://t.co/rszuTvBF5E"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073439027538350209",
+    "in_reply_to_user_id": "1561806114274287616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073438905676992569",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "刚刚又去楼下抽了根烟，真的好香 https://t.co/rszuTvBF5E"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1704,
+        "media_key": "3_2073438946277912577",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMZVvHBa8AEEPoC.jpg",
+        "width": 1279
+      },
+      {
+        "height": 1704,
+        "media_key": "3_2073438609148166144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMZVbfHbQAABlsi.jpg",
+        "width": 1279
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073438946277912577"
+          ]
+        },
+        "author_id": "1561806114274287616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2073438905676992569",
+        "created_at": "2026-07-04T16:09:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T17:09:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073439027538350209"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rszuTvBF5E",
+              "end": 39,
+              "expanded_url": "https://x.com/crossyangshe/status/2073439027538350209/photo/1",
+              "media_key": "3_2073438946277912577",
+              "start": 16,
+              "url": "https://t.co/rszuTvBF5E"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073439027538350209",
+        "in_reply_to_user_id": "1561806114274287616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073438905676992569",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "刚刚又去楼下抽了根烟，真的好香 https://t.co/rszuTvBF5E"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073438609148166144"
+          ]
+        },
+        "author_id": "1561806114274287616",
+        "conversation_id": "2073438905676992569",
+        "created_at": "2026-07-04T16:08:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T17:08:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073438905676992569"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 32,
+              "id": "361248768",
+              "start": 22,
+              "username": "R1kOx033w"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HNqTQpkVzc",
+              "end": 78,
+              "expanded_url": "https://x.com/crossyangshe/status/2073438905676992569/photo/1",
+              "media_key": "3_2073438609148166144",
+              "start": 55,
+              "url": "https://t.co/HNqTQpkVzc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073438905676992569",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "X﹏X沃趣，心心念念的普瑞终于到了，再次感谢@R1kOx033w（小鲤鱼）送来的普瑞，一会就尝试一下普瑞巴林 https://t.co/HNqTQpkVzc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-22T20:03:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "az，非健全人，努力生存中，希望有人关注我",
+        "id": "1561806114274287616",
+        "location": "地狱",
+        "name": "AZ.",
+        "pinned_tweet_id": "2061092260226502954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778090792390959104/-k1xKj1N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 225,
+          "following_count": 293,
+          "like_count": 1428,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 467
+        },
+        "url": "",
+        "username": "crossyangshe",
+        "verified": false
+      }
+    ]
+  }
+}

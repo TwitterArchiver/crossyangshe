@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561806114274287616",
+    "conversation_id": "2073214409271615777",
+    "created_at": "2026-07-04T03:52:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T04:52:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073253710311084116"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1557450235621695488",
+          "start": 0,
+          "username": "KBDYD555"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073253710311084116",
+    "in_reply_to_user_id": "1557450235621695488",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073214409271615777",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KBDYD555 这个好抽吗？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2073214400077627392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMWJgzPaAAAUGnI.jpg",
+        "width": 768
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2073214406209789952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMWJhKFbYAAAveL.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561806114274287616",
+        "conversation_id": "2073214409271615777",
+        "created_at": "2026-07-04T03:52:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T04:52:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073253710311084116"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1557450235621695488",
+              "start": 0,
+              "username": "KBDYD555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073253710311084116",
+        "in_reply_to_user_id": "1557450235621695488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073214409271615777",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KBDYD555 这个好抽吗？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073214400077627392",
+            "3_2073214406209789952"
+          ]
+        },
+        "author_id": "1557450235621695488",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2073214409271615777",
+        "created_at": "2026-07-04T01:16:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T02:16:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073214409271615777"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/i4lQ4icuui",
+              "end": 53,
+              "expanded_url": "https://x.com/KBDYD555/status/2073214409271615777/photo/1",
+              "media_key": "3_2073214400077627392",
+              "start": 30,
+              "url": "https://t.co/i4lQ4icuui"
+            },
+            {
+              "display_url": "pic.x.com/i4lQ4icuui",
+              "end": 53,
+              "expanded_url": "https://x.com/KBDYD555/status/2073214409271615777/photo/1",
+              "media_key": "3_2073214406209789952",
+              "start": 30,
+              "url": "https://t.co/i4lQ4icuui"
+            },
+            {
+              "display_url": "x.com/KBDYD555/statu…",
+              "end": 77,
+              "expanded_url": "https://twitter.com/KBDYD555/status/2072953414330593359",
+              "start": 54,
+              "url": "https://t.co/TOXYEvlRkW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073214409271615777",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 21,
+          "impression_count": 3769,
+          "like_count": 53,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072953414330593359",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这条怎么爆了。而且抽完手指是香香的香芋奶茶味我真的好喜欢呀 https://t.co/i4lQ4icuui https://t.co/TOXYEvlRkW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-22T20:03:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "az，非健全人，努力生存中，希望有人关注我",
+        "id": "1561806114274287616",
+        "location": "地狱",
+        "name": "AZ.",
+        "pinned_tweet_id": "2061092260226502954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778090792390959104/-k1xKj1N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 220,
+          "following_count": 289,
+          "like_count": 1357,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 453
+        },
+        "url": "",
+        "username": "crossyangshe",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-10T19:34:22.000Z",
+        "description": "我是99...前世叫不安定猫猫：@kokocat_9 遭举报冻结...现世成分:🚬/ed/🩸/🐭/🐶/🐱...互关回来吧...（Eng🆗）避难小号：@kyuukoQ 目前身体精神不好找不到工作如果可怜我喜欢我请给我一点点资助... 🩵亲友@lengqizi💜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 16,
+                "username": "kokocat_9"
+              },
+              {
+                "end": 82,
+                "start": 74,
+                "username": "kyuukoQ"
+              },
+              {
+                "end": 128,
+                "start": 119,
+                "username": "lengqizi"
+              }
+            ]
+          }
+        },
+        "id": "1557450235621695488",
+        "location": "鼠鼠樂園🐭vx🚪52",
+        "name": "🐭老鼠国王",
+        "pinned_tweet_id": "2072889837548712297",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038421157733617664/dbVEp8Aq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4024,
+          "following_count": 637,
+          "like_count": 5002,
+          "listed_count": 8,
+          "media_count": 1020,
+          "tweet_count": 3765
+        },
+        "url": "",
+        "username": "KBDYD555",
+        "verified": false
+      }
+    ]
+  }
+}

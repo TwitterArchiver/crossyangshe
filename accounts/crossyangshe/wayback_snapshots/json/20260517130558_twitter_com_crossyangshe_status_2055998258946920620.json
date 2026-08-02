@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561806114274287616",
+    "conversation_id": "2055998258946920620",
+    "created_at": "2026-05-17T13:05:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T14:05:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2055998258946920620"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hsn8086/status…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/hsn8086/status/2055634971407335484",
+          "start": 14,
+          "url": "https://t.co/hkJKh8l9M3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055998258946920620",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055634971407335484",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "看了这次人类文明凶多吉少了 https://t.co/hkJKh8l9M3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2055634922442989568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIcVEhwaIAAAwu5.jpg",
+        "width": 914
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561806114274287616",
+        "conversation_id": "2055998258946920620",
+        "created_at": "2026-05-17T13:05:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T14:05:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055998258946920620"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hsn8086/status…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/hsn8086/status/2055634971407335484",
+              "start": 14,
+              "url": "https://t.co/hkJKh8l9M3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055998258946920620",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055634971407335484",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "看了这次人类文明凶多吉少了 https://t.co/hkJKh8l9M3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055634922442989568"
+          ]
+        },
+        "author_id": "1433678976564662273",
+        "conversation_id": "2055634971407335484",
+        "created_at": "2026-05-16T13:02:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T14:02:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055634971407335484"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mv4WxwHD3W",
+              "end": 23,
+              "expanded_url": "https://x.com/hsn8086/status/2055634971407335484/photo/1",
+              "media_key": "3_2055634922442989568",
+              "start": 0,
+              "url": "https://t.co/mv4WxwHD3W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055634971407335484",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 220,
+          "impression_count": 1142225,
+          "like_count": 4137,
+          "quote_count": 9,
+          "reply_count": 258,
+          "retweet_count": 54
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/mv4WxwHD3W"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-22T20:03:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "窝是恶魔羊AZ.#小恶魔系#术力口#galgame#会看vtuber#明日方舟，最近有玩终末地#严重网瘾Steam端游手游都玩#看番，有时候感觉这辈子有了......因为吃了奇怪的药和痛苦的经历我失去了好多记忆，如果不是有人告诉我可能不会再想起......但是还是忘了好多性格也变了。可以找窝一起打游戏和wyy听歌呐~",
+        "id": "1561806114274287616",
+        "location": "地狱",
+        "name": "AZ.",
+        "pinned_tweet_id": "1725205374507368558",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778090792390959104/-k1xKj1N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 29,
+          "like_count": 110,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 106
+        },
+        "username": "crossyangshe",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-03T06:31:41.000Z",
+        "description": "你好, 我是hsn! 老图: @hsn8086xe | 注: 推文内容仅供娱乐, 真假自辨!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "hsn8086xe"
+              }
+            ]
+          }
+        },
+        "id": "1433678976564662273",
+        "location": "Internet",
+        "name": "hsn",
+        "pinned_tweet_id": "2038599257599713310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039156167285538816/Ica6XIlY_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120272,
+          "following_count": 1119,
+          "like_count": 52317,
+          "listed_count": 292,
+          "media_count": 21556,
+          "tweet_count": 32011
+        },
+        "username": "hsn8086",
+        "verified": true
+      }
+    ]
+  }
+}

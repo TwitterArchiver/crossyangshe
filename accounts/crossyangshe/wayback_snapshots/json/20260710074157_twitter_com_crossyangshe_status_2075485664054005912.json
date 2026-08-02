@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561806114274287616",
+    "conversation_id": "2075485007859314905",
+    "created_at": "2026-07-10T07:41:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T08:41:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075485664054005912"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2075485664054005912",
+    "in_reply_to_user_id": "1561806114274287616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075485007859314905",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "az想一天睡24小时就是想要要是做梦做24小时是不是就不用再面对现实了，话说死后也会做梦吗，要是死后可以一直做梦真的很美好呐，死后要是也有天国就好了，到时候az就变成天使一个个的等待大家死后来照护大家……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561806114274287616",
+        "conversation_id": "2075485007859314905",
+        "created_at": "2026-07-10T07:41:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T08:41:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075485664054005912"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2075485664054005912",
+        "in_reply_to_user_id": "1561806114274287616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075485007859314905",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "az想一天睡24小时就是想要要是做梦做24小时是不是就不用再面对现实了，话说死后也会做梦吗，要是死后可以一直做梦真的很美好呐，死后要是也有天国就好了，到时候az就变成天使一个个的等待大家死后来照护大家……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561806114274287616",
+        "conversation_id": "2075485007859314905",
+        "created_at": "2026-07-10T07:39:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T08:39:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075485007859314905"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2075485007859314905",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "昨天晚上做了一个好长的梦，梦见自己死掉了，变成了一个太阳升上了天空去往了天国，在天国遇见了一个对az很好的人呀，他带着az做好事买普瑞巴林（做梦都能梦见普瑞巴林不亏是az……）后面az可能知道自己要醒来了就哭着求他别走……可是终究az要独自一人醒来面对这残酷的世界的……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-22T20:03:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "你们好呀，我是az！成分：重抑中焦/od/自傷/自殺念头/infp-t/音游/二游（不怎么玩了）/端游（Steam上面的单机和一些网游）/日式像素RPG/galgame/喜欢术力口（初音 可不 歌爱雪）/看番/看漫画。\n没有什么特别的的主推，因为是成分太复杂，喜欢的东西太多啦！\n目前失业中~欢迎互fo，我爱你们！❤️",
+        "id": "1561806114274287616",
+        "location": "地狱",
+        "name": "AZ.",
+        "pinned_tweet_id": "2074534939966713943",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778090792390959104/-k1xKj1N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 437,
+          "following_count": 381,
+          "like_count": 2394,
+          "listed_count": 0,
+          "media_count": 87,
+          "tweet_count": 712
+        },
+        "url": "",
+        "username": "crossyangshe",
+        "verified": true
+      }
+    ]
+  }
+}

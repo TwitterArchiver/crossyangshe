@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561806114274287616",
+    "conversation_id": "2074721655553757521",
+    "created_at": "2026-07-08T05:44:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T06:44:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074731419272958254"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1579442033483075584",
+          "start": 0,
+          "username": "26suversider"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074731419272958254",
+    "in_reply_to_user_id": "1579442033483075584",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074721655553757521",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@26suversider 抱抱！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561806114274287616",
+        "conversation_id": "2074721655553757521",
+        "created_at": "2026-07-08T05:44:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T06:44:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074731419272958254"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1579442033483075584",
+              "start": 0,
+              "username": "26suversider"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074731419272958254",
+        "in_reply_to_user_id": "1579442033483075584",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074721655553757521",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@26suversider 抱抱！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1579442033483075584",
+        "conversation_id": "2074721655553757521",
+        "created_at": "2026-07-08T05:06:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T06:06:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074721655553757521"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2074721655553757521",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 48,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "救命好崩溃我搞砸了，我真的彻底搞砸了，我感觉我让我朋友承担了很多，对不起😣"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-22T20:03:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "你们好呀，我是az！成分：重抑中焦/od/自傷/自殺念头/infp-t/音游/二游（不怎么玩了）/端游（Steam上面的单机和一些网游）/日式像素RPG/galgame/喜欢术力口（初音 可不 歌爱雪）/看番/看漫画。\n没有什么特别的的主推，因为是成分太复杂，喜欢的东西太多啦！\n目前失业中~欢迎互fo，我爱你们！❤️",
+        "id": "1561806114274287616",
+        "location": "地狱",
+        "name": "AZ.",
+        "pinned_tweet_id": "2074534939966713943",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778090792390959104/-k1xKj1N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 387,
+          "following_count": 364,
+          "like_count": 2199,
+          "listed_count": 0,
+          "media_count": 85,
+          "tweet_count": 674
+        },
+        "url": "",
+        "username": "crossyangshe",
+        "verified": true
+      },
+      {
+        "created_at": "2022-10-10T12:01:48.000Z",
+        "description": "专注我的嗑药生活\n🚪38纯绿聊天朋友圈\n\nhttps://t.co/bSSvHriTrl",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sunxiaochuankk",
+                "end": 44,
+                "expanded_url": "https://ngl.link/sunxiaochuankk",
+                "start": 21,
+                "url": "https://t.co/bSSvHriTrl"
+              }
+            ]
+          }
+        },
+        "id": "1579442033483075584",
+        "name": "孙笑川籍吧",
+        "pinned_tweet_id": "2065793737977127349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069652627575414784/Z7qSci36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 644,
+          "following_count": 123,
+          "like_count": 824,
+          "listed_count": 1,
+          "media_count": 69,
+          "tweet_count": 882
+        },
+        "url": "",
+        "username": "26suversider",
+        "verified": false
+      }
+    ]
+  }
+}

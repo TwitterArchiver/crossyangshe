@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561806114274287616",
+    "conversation_id": "2075155821588312172",
+    "created_at": "2026-07-09T12:11:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T13:11:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075191148952649874"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2058522555338956800",
+          "start": 0,
+          "username": "magicohime"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075191148952649874",
+    "in_reply_to_user_id": "2058522555338956800",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075155821588312172",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@magicohime 摸摸！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1155,
+        "media_key": "3_2075155806572728321",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMxvNiBbUAE-Kt9.jpg",
+        "width": 1169
+      },
+      {
+        "height": 1255,
+        "media_key": "3_2075155806581133312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMxvNiDbkAAqkQr.jpg",
+        "width": 1169
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2075155806799187968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMxvNi3a0AAZIe1.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2075155806576844800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMxvNiCaIAAjL1n.jpg",
+        "width": 1728
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561806114274287616",
+        "conversation_id": "2075155821588312172",
+        "created_at": "2026-07-09T12:11:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T13:11:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075191148952649874"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2058522555338956800",
+              "start": 0,
+              "username": "magicohime"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075191148952649874",
+        "in_reply_to_user_id": "2058522555338956800",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075155821588312172",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@magicohime 摸摸！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075155806572728321",
+            "3_2075155806581133312",
+            "3_2075155806799187968",
+            "3_2075155806576844800"
+          ]
+        },
+        "author_id": "2058522555338956800",
+        "conversation_id": "2075155821588312172",
+        "created_at": "2026-07-09T09:51:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T10:51:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075155821588312172"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Uv7MHbFsky",
+              "end": 36,
+              "expanded_url": "https://x.com/magicohime/status/2075155821588312172/photo/1",
+              "media_key": "3_2075155806572728321",
+              "start": 13,
+              "url": "https://t.co/Uv7MHbFsky"
+            },
+            {
+              "display_url": "pic.x.com/Uv7MHbFsky",
+              "end": 36,
+              "expanded_url": "https://x.com/magicohime/status/2075155821588312172/photo/1",
+              "media_key": "3_2075155806581133312",
+              "start": 13,
+              "url": "https://t.co/Uv7MHbFsky"
+            },
+            {
+              "display_url": "pic.x.com/Uv7MHbFsky",
+              "end": 36,
+              "expanded_url": "https://x.com/magicohime/status/2075155821588312172/photo/1",
+              "media_key": "3_2075155806799187968",
+              "start": 13,
+              "url": "https://t.co/Uv7MHbFsky"
+            },
+            {
+              "display_url": "pic.x.com/Uv7MHbFsky",
+              "end": 36,
+              "expanded_url": "https://x.com/magicohime/status/2075155821588312172/photo/1",
+              "media_key": "3_2075155806576844800",
+              "start": 13,
+              "url": "https://t.co/Uv7MHbFsky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075155821588312172",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 39,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "还没有药物严重成瘾的时候 https://t.co/Uv7MHbFsky"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-22T20:03:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "你们好呀，我是az！成分：重抑中焦/od/自傷/自殺念头/infp-t/音游/二游（不怎么玩了）/端游（Steam上面的单机和一些网游）/日式像素RPG/galgame/喜欢术力口（初音 可不 歌爱雪）/看番/看漫画。\n没有什么特别的的主推，因为是成分太复杂，喜欢的东西太多啦！\n目前失业中~欢迎互fo，我爱你们！❤️",
+        "id": "1561806114274287616",
+        "location": "地狱",
+        "name": "AZ.",
+        "pinned_tweet_id": "2074534939966713943",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778090792390959104/-k1xKj1N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 427,
+          "following_count": 377,
+          "like_count": 2343,
+          "listed_count": 0,
+          "media_count": 87,
+          "tweet_count": 700
+        },
+        "url": "",
+        "username": "crossyangshe",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-24T12:17:22.000Z",
+        "description": "メンヘラ毒蟲\n少女主義と大森靖子",
+        "id": "2058522555338956800",
+        "location": "揺れる心を支えてくれた",
+        "name": "ひめ",
+        "pinned_tweet_id": "2073418860913713460",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072807876792635392/5N99WAvn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 330,
+          "following_count": 100,
+          "like_count": 376,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 269
+        },
+        "url": "",
+        "username": "magicohime",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561806114274287616",
+    "conversation_id": "2059834269552496874",
+    "created_at": "2026-05-28T04:30:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T05:30:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059854779170599371"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2044793518267453440",
+          "start": 0,
+          "username": "lxxe11_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059854779170599371",
+    "in_reply_to_user_id": "2044793518267453440",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059834269552496874",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lxxe11_ 如果一定要让我选项一种方式的话，在深夜寒冬大雪的海水里泡着或许死得不会那么痛苦吧，离开之前还能看看漫天飘零的雪景🌨️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561806114274287616",
+        "conversation_id": "2059834269552496874",
+        "created_at": "2026-05-28T04:30:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T05:30:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059854779170599371"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2044793518267453440",
+              "start": 0,
+              "username": "lxxe11_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059854779170599371",
+        "in_reply_to_user_id": "2044793518267453440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059834269552496874",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lxxe11_ 如果一定要让我选项一种方式的话，在深夜寒冬大雪的海水里泡着或许死得不会那么痛苦吧，离开之前还能看看漫天飘零的雪景🌨️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044793518267453440",
+        "conversation_id": "2059834269552496874",
+        "created_at": "2026-05-28T03:08:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T04:08:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059834269552496874"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059834269552496874",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 35,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "凍死で432しようとする人は結構聞いたことあるけど熱中症で432しようとする人っているのかな　現代の日本では後者の方が難易度が低そう（苦しさは別として）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-22T20:03:01.000Z",
+        "description": "恶魔羊az，圈子混的多不一一列举了，不是正常人，渴望被爱和渴望死亡",
+        "id": "1561806114274287616",
+        "location": "地狱",
+        "name": "AZ.",
+        "pinned_tweet_id": "1725205374507368558",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778090792390959104/-k1xKj1N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 45,
+          "like_count": 168,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 144
+        },
+        "username": "crossyangshe",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-16T15:02:20.000Z",
+        "description": "05 🚺｜未診断/双極疑い｜精神科通院中｜通信制大学生｜初手呼びタメ🙆‍♀️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lxxe11.hatenablog.com",
+                "end": 23,
+                "expanded_url": "https://lxxe11.hatenablog.com/",
+                "start": 0,
+                "url": "https://t.co/Kuwo3J2eMd"
+              }
+            ]
+          }
+        },
+        "id": "2044793518267453440",
+        "location": "質問など中身のある会話ならDM可",
+        "name": "茅野",
+        "pinned_tweet_id": "2056751048132603989",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053337402924769281/P9yk6OqO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 35,
+          "like_count": 71,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 437
+        },
+        "url": "https://t.co/Kuwo3J2eMd",
+        "username": "lxxe11_",
+        "verified": false
+      }
+    ]
+  }
+}

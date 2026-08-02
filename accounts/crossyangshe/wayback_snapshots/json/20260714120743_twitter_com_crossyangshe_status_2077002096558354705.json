@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561806114274287616",
+    "conversation_id": "2076971550318940325",
+    "created_at": "2026-07-14T12:07:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T13:07:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077002096558354705"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1769078117052854272",
+          "start": 0,
+          "username": "huahuojiang_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077002096558354705",
+    "in_reply_to_user_id": "1769078117052854272",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076971550318940325",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huahuojiang_ 这个鬼天气能吃冰冰凉凉的食物最幸福了！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4032,
+        "media_key": "3_2076971531742445568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNLimpYbgAAEKkW.jpg",
+        "width": 3024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561806114274287616",
+        "conversation_id": "2076971550318940325",
+        "created_at": "2026-07-14T12:07:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T13:07:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077002096558354705"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1769078117052854272",
+              "start": 0,
+              "username": "huahuojiang_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077002096558354705",
+        "in_reply_to_user_id": "1769078117052854272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076971550318940325",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huahuojiang_ 这个鬼天气能吃冰冰凉凉的食物最幸福了！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076971531742445568"
+          ]
+        },
+        "author_id": "1769078117052854272",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2076971550318940325",
+        "created_at": "2026-07-14T10:06:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T11:06:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076971550318940325"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5fiEPtWUu6",
+              "end": 37,
+              "expanded_url": "https://x.com/huahuojiang_/status/2076971550318940325/photo/1",
+              "media_key": "3_2076971531742445568",
+              "start": 14,
+              "url": "https://t.co/5fiEPtWUu6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076971550318940325",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 155,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "這鬼天氣熱死人了，來點黃瓜 https://t.co/5fiEPtWUu6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-22T20:03:01.000Z",
+        "description": "你们好呀，我是az！成分：重抑中焦/od/自傷/自殺念头/infp-t/音游/二游（不怎么玩了）/端游（Steam上面的单机和一些网游）/像素RPG/galgame/喜欢术力口（初音 可不 歌爱雪）/看番/看漫画。\n没有什么特别的的主推喜欢的东西太多啦\n同类群1053339675\n目前失业中~欢迎互fo，我爱你们！❤️",
+        "id": "1561806114274287616",
+        "location": "失乐园",
+        "name": "AZ.",
+        "pinned_tweet_id": "2075487277191733409",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778090792390959104/-k1xKj1N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 542,
+          "following_count": 421,
+          "like_count": 2891,
+          "listed_count": 0,
+          "media_count": 108,
+          "tweet_count": 832
+        },
+        "url": "",
+        "username": "crossyangshe",
+        "verified": true
+      },
+      {
+        "created_at": "2024-03-16T19:07:54.000Z",
+        "description": "诶嘿～好无聊呀~｜加点东西@这里没有人｜换一个提问箱：https://t.co/0C8gTeJyHd",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/huahuojiang2",
+                "end": 50,
+                "expanded_url": "https://ngl.link/huahuojiang2",
+                "start": 27,
+                "url": "https://t.co/0C8gTeJyHd"
+              }
+            ]
+          }
+        },
+        "id": "1769078117052854272",
+        "location": "匹诺康尼",
+        "name": "花火酱～",
+        "pinned_tweet_id": "2074840481842987133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039013777560227840/6M7222YJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7133,
+          "following_count": 3574,
+          "like_count": 103573,
+          "listed_count": 16,
+          "media_count": 8940,
+          "tweet_count": 100801
+        },
+        "url": "",
+        "username": "huahuojiang_",
+        "verified": true
+      }
+    ]
+  }
+}

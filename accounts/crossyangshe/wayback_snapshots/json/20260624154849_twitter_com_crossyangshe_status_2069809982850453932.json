@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561806114274287616",
+    "conversation_id": "2069809982850453932",
+    "created_at": "2026-06-24T15:48:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T16:48:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2069809982850453932"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2069809982850453932",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我真的很缺爱啊，从小到大都没有人来好好爱过我，没有人来试着了解我的一切，从来都是我在理解别人关注别人，哪怕我是被讨厌的孩子也想要一个人来爱我了解我啊！我只想要一个拥抱！只想被人说“原来你也喜欢这个”“我给你准备了礼物”，我难道就要这么狼狈不堪的独自一人吗？！😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561806114274287616",
+        "conversation_id": "2069809982850453932",
+        "created_at": "2026-06-24T15:48:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T16:48:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069809982850453932"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2069809982850453932",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我真的很缺爱啊，从小到大都没有人来好好爱过我，没有人来试着了解我的一切，从来都是我在理解别人关注别人，哪怕我是被讨厌的孩子也想要一个人来爱我了解我啊！我只想要一个拥抱！只想被人说“原来你也喜欢这个”“我给你准备了礼物”，我难道就要这么狼狈不堪的独自一人吗？！😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-22T20:03:01.000Z",
+        "description": "az，非健全人，努力生存中，希望有人关注我",
+        "id": "1561806114274287616",
+        "location": "地狱",
+        "name": "AZ.",
+        "pinned_tweet_id": "2061092260226502954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778090792390959104/-k1xKj1N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 62,
+          "like_count": 340,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 246
+        },
+        "url": "",
+        "username": "crossyangshe",
+        "verified": false
+      }
+    ]
+  }
+}

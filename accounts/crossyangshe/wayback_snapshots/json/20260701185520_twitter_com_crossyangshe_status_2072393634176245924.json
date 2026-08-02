@@ -1,0 +1,149 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561806114274287616",
+    "conversation_id": "2072386965937549571",
+    "created_at": "2026-07-01T18:55:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T19:55:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072393634176245924"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2072393634176245924",
+    "in_reply_to_user_id": "1561806114274287616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072392714780586326",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "“喂，同学，请问你是哪里不舒服吗”一次上午自习课上生物老师问到，az从药效中迷迷糊糊睁开眼睛，看着模糊不清的生物老师（当时想想生物老师确实好温柔哦，真的不应该在她的课上面干这种事情……）“没……没事”这时候还是担心被老师发现这种事，于是提出去上厕所，结果在走廊上路都走不稳，差点摔了……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561806114274287616",
+        "conversation_id": "2072386965937549571",
+        "created_at": "2026-07-01T18:55:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T19:55:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072393634176245924"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2072393634176245924",
+        "in_reply_to_user_id": "1561806114274287616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072392714780586326",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "“喂，同学，请问你是哪里不舒服吗”一次上午自习课上生物老师问到，az从药效中迷迷糊糊睁开眼睛，看着模糊不清的生物老师（当时想想生物老师确实好温柔哦，真的不应该在她的课上面干这种事情……）“没……没事”这时候还是担心被老师发现这种事，于是提出去上厕所，结果在走廊上路都走不稳，差点摔了……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561806114274287616",
+        "conversation_id": "2072386965937549571",
+        "created_at": "2026-07-01T18:51:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T19:51:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072392714780586326"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2072392714780586326",
+        "in_reply_to_user_id": "1561806114274287616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072391922577236287",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "od的感觉真的很好，晕乎乎的，可以忘记很多事情，白天的烦恼和痛苦，那些讨厌的人际关系，家庭带给az的伤害，以及学习压力，仿佛都没有烟消云散，哪怕在白天自习课上也可以od，大不了就趴在课桌上睡觉，实际上已经沉浸在小美的药效之中了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-22T20:03:01.000Z",
+        "description": "az，非健全人，努力生存中，希望有人关注我",
+        "id": "1561806114274287616",
+        "location": "地狱",
+        "name": "AZ.",
+        "pinned_tweet_id": "2061092260226502954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778090792390959104/-k1xKj1N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 185,
+          "following_count": 253,
+          "like_count": 1002,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 395
+        },
+        "url": "",
+        "username": "crossyangshe",
+        "verified": false
+      }
+    ]
+  }
+}

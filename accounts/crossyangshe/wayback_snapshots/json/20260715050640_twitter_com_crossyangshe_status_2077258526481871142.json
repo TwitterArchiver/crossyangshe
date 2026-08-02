@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561806114274287616",
+    "conversation_id": "2077060122183098574",
+    "created_at": "2026-07-15T05:06:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T06:06:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077258526481871142"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1599012090517540869",
+          "start": 0,
+          "username": "loveforeversfy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077258526481871142",
+    "in_reply_to_user_id": "1599012090517540869",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077060122183098574",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@loveforeversfy 啊？"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 17459,
+        "height": 1280,
+        "media_key": "13_2077060017262592000",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2077060017262592000/img/bFv-YY89xNBnfO_U.jpg",
+        "public_metrics": {
+          "view_count": 1259
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2077060017262592000/vid/avc1/320x568/TvkkhNqbM2NcBcQK.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2077060017262592000/vid/avc1/480x852/lxOL_bQZuFZMVGtl.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2077060017262592000/vid/avc1/720x1280/p_Fk7awocAd70KS4.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2077060017262592000/pl/6vDyjtLwZVhCXrUi.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561806114274287616",
+        "conversation_id": "2077060122183098574",
+        "created_at": "2026-07-15T05:06:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T06:06:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077258526481871142"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1599012090517540869",
+              "start": 0,
+              "username": "loveforeversfy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077258526481871142",
+        "in_reply_to_user_id": "1599012090517540869",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077060122183098574",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@loveforeversfy 啊？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2077060017262592000"
+          ]
+        },
+        "author_id": "1599012090517540869",
+        "conversation_id": "2077060122183098574",
+        "created_at": "2026-07-14T15:58:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T16:58:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077060122183098574"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eCYHRh74iF",
+              "end": 30,
+              "expanded_url": "https://x.com/loveforeversfy/status/2077060122183098574/video/1",
+              "media_key": "13_2077060017262592000",
+              "start": 7,
+              "url": "https://t.co/eCYHRh74iF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077060122183098574",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2953,
+          "like_count": 54,
+          "quote_count": 0,
+          "reply_count": 26,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "披萨这个美味 https://t.co/eCYHRh74iF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-22T20:03:01.000Z",
+        "description": "你们好呀，我是az！成分：重抑中焦/od/自傷/自殺念头/infp-t/音游/二游（不怎么玩了）/端游（Steam上面的单机和一些网游）/像素RPG/galgame/喜欢术力口（初音 可不 歌爱雪）/看番/看漫画。\n没有什么特别的的主推喜欢的东西太多啦\n同类群1053339675\n目前失业中~欢迎互fo，我爱你们！❤️",
+        "id": "1561806114274287616",
+        "location": "失乐园",
+        "name": "AZ.",
+        "pinned_tweet_id": "2075487277191733409",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778090792390959104/-k1xKj1N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 576,
+          "following_count": 436,
+          "like_count": 3174,
+          "listed_count": 0,
+          "media_count": 111,
+          "tweet_count": 881
+        },
+        "url": "",
+        "username": "crossyangshe",
+        "verified": true
+      },
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "严重脑残｜enby｜🚪67",
+        "id": "1599012090517540869",
+        "name": "蘑菇盆栽🍄",
+        "pinned_tweet_id": "2068997025849647511",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000518712626229248/-YPIFnC8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2615,
+          "following_count": 1554,
+          "like_count": 35719,
+          "listed_count": 8,
+          "media_count": 1231,
+          "tweet_count": 11488
+        },
+        "url": "",
+        "username": "loveforeversfy",
+        "verified": true
+      }
+    ]
+  }
+}

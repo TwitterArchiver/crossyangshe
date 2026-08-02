@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2061101566971826176"
+      ]
+    },
+    "author_id": "1561806114274287616",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1508516052753285122",
+          "name": "Mahjong Soul"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1508516052753285122",
+          "name": "Mahjong Soul"
+        }
+      }
+    ],
+    "conversation_id": "2061101585502224477",
+    "created_at": "2026-05-31T15:04:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T16:04:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2061101585502224477"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/7udwuVr8qF",
+          "end": 94,
+          "expanded_url": "https://x.com/crossyangshe/status/2061101585502224477/photo/1",
+          "media_key": "3_2061101566971826176",
+          "start": 71,
+          "url": "https://t.co/7udwuVr8qF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061101585502224477",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好想打雀魂麻将，可惜我的技术有点差，玩了几百个小时还是上不去分，可能是我没有学到技巧，努力想做大牌结果每次就被别人断幺九了，真是一件难过的事 https://t.co/7udwuVr8qF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1538,
+        "media_key": "3_2061101566971826176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJqA9HlbUAAgEUK.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061101566971826176"
+          ]
+        },
+        "author_id": "1561806114274287616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1508516052753285122",
+              "name": "Mahjong Soul"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1508516052753285122",
+              "name": "Mahjong Soul"
+            }
+          }
+        ],
+        "conversation_id": "2061101585502224477",
+        "created_at": "2026-05-31T15:04:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T16:04:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061101585502224477"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7udwuVr8qF",
+              "end": 94,
+              "expanded_url": "https://x.com/crossyangshe/status/2061101585502224477/photo/1",
+              "media_key": "3_2061101566971826176",
+              "start": 71,
+              "url": "https://t.co/7udwuVr8qF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061101585502224477",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好想打雀魂麻将，可惜我的技术有点差，玩了几百个小时还是上不去分，可能是我没有学到技巧，努力想做大牌结果每次就被别人断幺九了，真是一件难过的事 https://t.co/7udwuVr8qF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-22T20:03:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "az，非健全人，努力生存中，希望有人关注我",
+        "id": "1561806114274287616",
+        "location": "地狱",
+        "name": "AZ.",
+        "pinned_tweet_id": "2061092260226502954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778090792390959104/-k1xKj1N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 45,
+          "like_count": 226,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 178
+        },
+        "username": "crossyangshe",
+        "verified": false
+      }
+    ]
+  }
+}

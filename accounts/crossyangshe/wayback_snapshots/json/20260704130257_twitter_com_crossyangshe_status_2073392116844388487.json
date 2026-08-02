@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561806114274287616",
+    "conversation_id": "2073262086721794526",
+    "created_at": "2026-07-04T13:02:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T14:02:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073392116844388487"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1838620535804317696",
+          "start": 0,
+          "username": "karmakarma1221"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073392116844388487",
+    "in_reply_to_user_id": "1838620535804317696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073262086721794526",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@karmakarma1221 好厉害！"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 13018,
+        "height": 1280,
+        "media_key": "13_2073262018157502464",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2073262018157502464/img/rfXomN6dmpX_Bb14.jpg",
+        "public_metrics": {
+          "view_count": 754
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2073262018157502464/vid/avc1/320x568/mZ7JIx73OHFFL6oL.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2073262018157502464/vid/avc1/480x852/9kFGhgAQED0BHOGq.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2073262018157502464/vid/avc1/720x1280/CUlJmHiZf_gA22OS.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2073262018157502464/pl/evtmjGyN7I29RXWd.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561806114274287616",
+        "conversation_id": "2073262086721794526",
+        "created_at": "2026-07-04T13:02:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T14:02:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073392116844388487"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1838620535804317696",
+              "start": 0,
+              "username": "karmakarma1221"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073392116844388487",
+        "in_reply_to_user_id": "1838620535804317696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073262086721794526",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@karmakarma1221 好厉害！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2073262018157502464"
+          ]
+        },
+        "author_id": "1838620535804317696",
+        "conversation_id": "2073262086721794526",
+        "created_at": "2026-07-04T04:26:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T05:26:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073262086721794526"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tfntevWo91",
+              "end": 33,
+              "expanded_url": "https://x.com/karmakarma1221/status/2073262086721794526/video/1",
+              "media_key": "13_2073262018157502464",
+              "start": 10,
+              "url": "https://t.co/tfntevWo91"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073262086721794526",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2408,
+          "like_count": 73,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "给大家表演一个才艺 https://t.co/tfntevWo91"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-22T20:03:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "az，非健全人，努力生存中，希望有人关注我",
+        "id": "1561806114274287616",
+        "location": "地狱",
+        "name": "AZ.",
+        "pinned_tweet_id": "2061092260226502954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778090792390959104/-k1xKj1N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 225,
+          "following_count": 294,
+          "like_count": 1416,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 464
+        },
+        "url": "",
+        "username": "crossyangshe",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-24T16:44:40.000Z",
+        "description": "我是蛞蝓 关注蛞蝓喵 关注蛞蝓谢谢喵♪( ´▽｀)",
+        "id": "1838620535804317696",
+        "location": "公共厕所",
+        "name": "蛞蝓神膜拜膜拜",
+        "pinned_tweet_id": "2072357345967952051",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068374958074413056/lXNJV8S8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1128,
+          "following_count": 686,
+          "like_count": 880,
+          "listed_count": 0,
+          "media_count": 194,
+          "tweet_count": 2686
+        },
+        "url": "",
+        "username": "karmakarma1221",
+        "verified": false
+      }
+    ]
+  }
+}

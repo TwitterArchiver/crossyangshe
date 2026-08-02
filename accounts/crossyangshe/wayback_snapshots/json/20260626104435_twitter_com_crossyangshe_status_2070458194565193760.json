@@ -1,0 +1,110 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561806114274287616",
+    "conversation_id": "2070458194565193760",
+    "created_at": "2026-06-26T10:44:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T11:44:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070458194565193760"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2070458194565193760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我在想，如果现在香烟一抽就恶心，甚至不能完整的抽完一根，然后抗抑郁药的作用又微乎其微，身边也没有药物可以od，打游戏又很菜缓解不了什么压力，想花钱也没有钱，我还有什么办法来获得快乐呢，难道只能去死了吗？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561806114274287616",
+        "conversation_id": "2070458194565193760",
+        "created_at": "2026-06-26T10:44:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T11:44:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070458194565193760"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2070458194565193760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我在想，如果现在香烟一抽就恶心，甚至不能完整的抽完一根，然后抗抑郁药的作用又微乎其微，身边也没有药物可以od，打游戏又很菜缓解不了什么压力，想花钱也没有钱，我还有什么办法来获得快乐呢，难道只能去死了吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-22T20:03:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "az，非健全人，努力生存中，希望有人关注我",
+        "id": "1561806114274287616",
+        "location": "地狱",
+        "name": "AZ.",
+        "pinned_tweet_id": "2061092260226502954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778090792390959104/-k1xKj1N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 81,
+          "like_count": 381,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 259
+        },
+        "url": "",
+        "username": "crossyangshe",
+        "verified": false
+      }
+    ]
+  }
+}

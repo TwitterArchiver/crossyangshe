@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561806114274287616",
+    "conversation_id": "2048620133258788914",
+    "created_at": "2026-04-27T17:27:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T18:27:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048816286197768195"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1883117066812882944",
+          "start": 0,
+          "username": "jituiroubaogu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048816286197768195",
+    "in_reply_to_user_id": "1883117066812882944",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048620133258788914",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jituiroubaogu 我去和我一样诶，以前高中上课吃右美酱就是这样，写东西根本写不出来眼睛都是模糊的，字都是甲骨文……"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2048620126136889344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG4pJpIa8AANxub.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2048620114724229120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG4pI-nbkAAfePJ.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2048620115286257664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG4pJAtbcAA86c1.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561806114274287616",
+        "conversation_id": "2048620133258788914",
+        "created_at": "2026-04-27T17:27:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T18:27:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048816286197768195"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1883117066812882944",
+              "start": 0,
+              "username": "jituiroubaogu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048816286197768195",
+        "in_reply_to_user_id": "1883117066812882944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048620133258788914",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jituiroubaogu 我去和我一样诶，以前高中上课吃右美酱就是这样，写东西根本写不出来眼睛都是模糊的，字都是甲骨文……"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048620126136889344",
+            "3_2048620114724229120",
+            "3_2048620115286257664"
+          ]
+        },
+        "author_id": "1883117066812882944",
+        "conversation_id": "2048620133258788914",
+        "created_at": "2026-04-27T04:27:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T05:27:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048620133258788914"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JJiTdTsies",
+              "end": 60,
+              "expanded_url": "https://x.com/jituiroubaogu/status/2048620133258788914/photo/1",
+              "media_key": "3_2048620126136889344",
+              "start": 37,
+              "url": "https://t.co/JJiTdTsies"
+            },
+            {
+              "display_url": "pic.x.com/JJiTdTsies",
+              "end": 60,
+              "expanded_url": "https://x.com/jituiroubaogu/status/2048620133258788914/photo/1",
+              "media_key": "3_2048620114724229120",
+              "start": 37,
+              "url": "https://t.co/JJiTdTsies"
+            },
+            {
+              "display_url": "pic.x.com/JJiTdTsies",
+              "end": 60,
+              "expanded_url": "https://x.com/jituiroubaogu/status/2048620133258788914/photo/1",
+              "media_key": "3_2048620115286257664",
+              "start": 37,
+              "url": "https://t.co/JJiTdTsies"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048620133258788914",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1696,
+          "like_count": 40,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "记录。报告。在学校磕了pr。学校不让带手机所以是在纸上写的。，\n很潦草。 https://t.co/JJiTdTsies"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-22T20:03:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "窝是恶魔羊AZ.#小恶魔系#术力口#galgame#会看vtuber#明日方舟，最近有玩终末地#严重网瘾Steam端游手游都玩#看番，有时候感觉这辈子有了......因为吃了奇怪的药和痛苦的经历我失去了好多记忆，如果不是有人告诉我可能不会再想起......但是还是忘了好多性格也变了。可以找窝一起打游戏和wyy听歌呐~",
+        "id": "1561806114274287616",
+        "location": "地狱",
+        "name": "AZ.",
+        "pinned_tweet_id": "1725205374507368558",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778090792390959104/-k1xKj1N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 19,
+          "like_count": 59,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 49
+        },
+        "username": "crossyangshe",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-25T11:37:58.000Z",
+        "description": "我素叽菇。\n希望每个人都能获得自己的幸福。。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mogugu2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mogugu2",
+                "start": 0,
+                "url": "https://t.co/OhmOjhj9Ev"
+              }
+            ]
+          }
+        },
+        "id": "1883117066812882944",
+        "name": "叽菇菇叽",
+        "pinned_tweet_id": "2038600816073076855",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037399554107285504/Jn_VgwVu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 302,
+          "following_count": 439,
+          "like_count": 1672,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 800
+        },
+        "url": "https://t.co/OhmOjhj9Ev",
+        "username": "jituiroubaogu",
+        "verified": false
+      }
+    ]
+  }
+}

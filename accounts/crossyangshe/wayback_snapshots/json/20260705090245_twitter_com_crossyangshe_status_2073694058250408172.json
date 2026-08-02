@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561806114274287616",
+    "conversation_id": "2073673746582581470",
+    "created_at": "2026-07-05T09:02:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T10:02:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073694058250408172"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2039398734962761728",
+          "start": 0,
+          "username": "EsterBrown38007"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073694058250408172",
+    "in_reply_to_user_id": "2039398734962761728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073691408008110272",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@EsterBrown38007 我没有普瑞了，小鲤鱼就给了az12t……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561806114274287616",
+        "conversation_id": "2073673746582581470",
+        "created_at": "2026-07-05T09:02:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T10:02:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073694058250408172"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2039398734962761728",
+              "start": 0,
+              "username": "EsterBrown38007"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073694058250408172",
+        "in_reply_to_user_id": "2039398734962761728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073691408008110272",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EsterBrown38007 我没有普瑞了，小鲤鱼就给了az12t……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2039398734962761728",
+        "conversation_id": "2073673746582581470",
+        "created_at": "2026-07-05T08:52:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T09:52:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073691408008110272"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1561806114274287616",
+              "start": 0,
+              "username": "crossyangshe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073691408008110272",
+        "in_reply_to_user_id": "1561806114274287616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073673746582581470",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@crossyangshe 但是你今天如果还是6t的话容易没效果，再加点吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-22T20:03:01.000Z",
+        "description": "你们好呀，我是az！成分：重抑中焦/od/自傷/自殺念头/infp-t/音游/二游（不怎么玩了）/端游（Steam上面的单机和一些网游）/日式像素RPG/galgame/喜欢术力口（初音 可不 歌爱雪）/看番/看漫画。\n没有什么特别的的主推，因为是成分太复杂，喜欢的东西太多啦！\n目前失业中~欢迎互fo，我爱你们！❤️",
+        "id": "1561806114274287616",
+        "location": "地狱",
+        "name": "AZ.",
+        "pinned_tweet_id": "2061092260226502954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778090792390959104/-k1xKj1N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 258,
+          "following_count": 325,
+          "like_count": 1692,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 540
+        },
+        "url": "",
+        "username": "crossyangshe",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-01T17:45:46.000Z",
+        "description": "",
+        "id": "2039398734962761728",
+        "location": "普瑞巴林",
+        "name": "可是我的自卑胜过了",
+        "pinned_tweet_id": "2067519950043136446",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072608661529362432/0_0Wkqu9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 286,
+          "following_count": 269,
+          "like_count": 618,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 552
+        },
+        "url": "",
+        "username": "EsterBrown38007",
+        "verified": false
+      }
+    ]
+  }
+}

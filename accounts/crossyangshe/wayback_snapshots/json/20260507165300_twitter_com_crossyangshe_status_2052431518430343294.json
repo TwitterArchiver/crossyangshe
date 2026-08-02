@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561806114274287616",
+    "conversation_id": "2052273969269735835",
+    "created_at": "2026-05-07T16:53:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T17:53:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052431518430343294"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1543072342447771650",
+          "start": 0,
+          "username": "qsmhls"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052431518430343294",
+    "in_reply_to_user_id": "1543072342447771650",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052273969269735835",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qsmhls 还活着吗？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2052273965717139456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHskTGRaMAAj6NT.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561806114274287616",
+        "conversation_id": "2052273969269735835",
+        "created_at": "2026-05-07T16:53:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T17:53:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052431518430343294"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1543072342447771650",
+              "start": 0,
+              "username": "qsmhls"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052431518430343294",
+        "in_reply_to_user_id": "1543072342447771650",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052273969269735835",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qsmhls 还活着吗？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052273965717139456"
+          ]
+        },
+        "author_id": "1543072342447771650",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2052273969269735835",
+        "created_at": "2026-05-07T06:26:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T07:26:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052273969269735835"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3xRPc4Ukfw",
+              "end": 43,
+              "expanded_url": "https://x.com/qsmhls/status/2052273969269735835/photo/1",
+              "media_key": "3_2052273965717139456",
+              "start": 20,
+              "url": "https://t.co/3xRPc4Ukfw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052273969269735835",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 7852,
+          "like_count": 129,
+          "quote_count": 1,
+          "reply_count": 29,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "最仓促的自杀计划。 绝对是能救过来的。 https://t.co/3xRPc4Ukfw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-22T20:03:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "窝是恶魔羊AZ.#小恶魔系#术力口#galgame#会看vtuber#明日方舟，最近有玩终末地#严重网瘾Steam端游手游都玩#看番，有时候感觉这辈子有了......因为吃了奇怪的药和痛苦的经历我失去了好多记忆，如果不是有人告诉我可能不会再想起......但是还是忘了好多性格也变了。可以找窝一起打游戏和wyy听歌呐~",
+        "id": "1561806114274287616",
+        "location": "地狱",
+        "name": "AZ.",
+        "pinned_tweet_id": "1725205374507368558",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778090792390959104/-k1xKj1N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 25,
+          "like_count": 91,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 88
+        },
+        "username": "crossyangshe",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-02T03:21:36.000Z",
+        "description": "皮下男 皮下男 皮下男\n双相情感障碍 边缘型人格障碍/自伤/od/摄影\n 沙卵妹控一个 我的老婆包括但不限于和泉纱雾，谷风天音，七草荠，五更琉璃，桐生瑞叶\n请务必关注防炸@sagirinoinu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 97,
+                "start": 85,
+                "username": "sagirinoinu"
+              }
+            ]
+          }
+        },
+        "id": "1543072342447771650",
+        "name": "和泉紗霧の犬",
+        "pinned_tweet_id": "2043009868068749420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042141530035777536/YyMyBwrX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 157,
+          "following_count": 162,
+          "like_count": 4267,
+          "listed_count": 0,
+          "media_count": 98,
+          "tweet_count": 1873
+        },
+        "username": "qsmhls",
+        "verified": false
+      }
+    ]
+  }
+}

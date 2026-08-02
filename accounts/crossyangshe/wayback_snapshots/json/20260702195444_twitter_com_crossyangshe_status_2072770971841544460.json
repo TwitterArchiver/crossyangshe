@@ -1,0 +1,110 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561806114274287616",
+    "conversation_id": "2072770971841544460",
+    "created_at": "2026-07-02T19:54:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T20:54:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072770971841544460"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2072770971841544460",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "实际上az都是假的，都是骗大家的，az根本不像想象中那么好，az看见健全人的生活，看见有人拥有金钱和美貌就会本能的唾弃，即便是同类，只要看见他过得比az好，az心里就会不舒服，同样是老鼠凭什么他就过的比az好？这样的az，大家讨不讨厌？所以大家快来辱骂az吧！这样az就能心安理得的找个理由去死了啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561806114274287616",
+        "conversation_id": "2072770971841544460",
+        "created_at": "2026-07-02T19:54:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T20:54:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072770971841544460"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2072770971841544460",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "实际上az都是假的，都是骗大家的，az根本不像想象中那么好，az看见健全人的生活，看见有人拥有金钱和美貌就会本能的唾弃，即便是同类，只要看见他过得比az好，az心里就会不舒服，同样是老鼠凭什么他就过的比az好？这样的az，大家讨不讨厌？所以大家快来辱骂az吧！这样az就能心安理得的找个理由去死了啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-22T20:03:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "az，非健全人，努力生存中，希望有人关注我",
+        "id": "1561806114274287616",
+        "location": "地狱",
+        "name": "AZ.",
+        "pinned_tweet_id": "2061092260226502954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778090792390959104/-k1xKj1N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 197,
+          "following_count": 272,
+          "like_count": 1227,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 424
+        },
+        "url": "",
+        "username": "crossyangshe",
+        "verified": false
+      }
+    ]
+  }
+}

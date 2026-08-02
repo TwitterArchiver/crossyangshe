@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561806114274287616",
+    "conversation_id": "2060647044231131151",
+    "created_at": "2026-05-30T14:04:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T15:04:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060724138894152062"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2044793518267453440",
+          "start": 0,
+          "username": "lxxe11_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060724138894152062",
+    "in_reply_to_user_id": "2044793518267453440",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060697066654056648",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lxxe11_ 药物吃了会有耐受，但是也不能停下来，停下来后果也很严重，要是能回到最初吃的时候困意袭来立马见效就好了，要是白天没有什么任务的话晚点睡也是没事的哦，不过我相信你能睡着！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561806114274287616",
+        "conversation_id": "2060647044231131151",
+        "created_at": "2026-05-30T14:04:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T15:04:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060724138894152062"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2044793518267453440",
+              "start": 0,
+              "username": "lxxe11_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060724138894152062",
+        "in_reply_to_user_id": "2044793518267453440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060697066654056648",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lxxe11_ 药物吃了会有耐受，但是也不能停下来，停下来后果也很严重，要是能回到最初吃的时候困意袭来立马见效就好了，要是白天没有什么任务的话晚点睡也是没事的哦，不过我相信你能睡着！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044793518267453440",
+        "conversation_id": "2060647044231131151",
+        "created_at": "2026-05-30T12:17:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T13:17:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060697066654056648"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1561806114274287616",
+              "start": 0,
+              "username": "crossyangshe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060697066654056648",
+        "in_reply_to_user_id": "1561806114274287616",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060692003898392651",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@crossyangshe 寝よう！寝なきゃ！って強く思えたらすんなり寝付けるんだけど、薬飲んでも眠気が出ないせいでそこにたどり着くまでが長くて😭今日はそれにならないように頑張ってみるよ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-22T20:03:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "az，非健全人，努力生存中，希望有人关注我",
+        "id": "1561806114274287616",
+        "location": "地狱",
+        "name": "AZ.",
+        "pinned_tweet_id": "1725205374507368558",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778090792390959104/-k1xKj1N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 45,
+          "like_count": 195,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 161
+        },
+        "username": "crossyangshe",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-16T15:02:20.000Z",
+        "description": "05 🚺｜未診断/双極疑い｜精神科通院中｜通信制大学生｜初手呼びタメ🙆‍♀️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lxxe11.hatenablog.com",
+                "end": 23,
+                "expanded_url": "https://lxxe11.hatenablog.com/",
+                "start": 0,
+                "url": "https://t.co/Kuwo3J2eMd"
+              }
+            ]
+          }
+        },
+        "id": "2044793518267453440",
+        "location": "質問など中身のある会話ならDM可",
+        "name": "茅野",
+        "pinned_tweet_id": "2056751048132603989",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053337402924769281/P9yk6OqO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 33,
+          "like_count": 90,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 539
+        },
+        "url": "https://t.co/Kuwo3J2eMd",
+        "username": "lxxe11_",
+        "verified": false
+      }
+    ]
+  }
+}

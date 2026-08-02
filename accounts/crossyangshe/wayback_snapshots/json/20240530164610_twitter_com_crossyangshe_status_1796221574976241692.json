@@ -1,0 +1,224 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1561806114274287616",
+    "conversation_id": "1795346591458734520",
+    "created_at": "2024-05-30T16:46:10.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-30T17:46:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1796221574976241692"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1468572627447214081",
+          "start": 0,
+          "username": "duiyuechangge"
+        },
+        {
+          "end": 26,
+          "id": "1355900185235259396",
+          "start": 15,
+          "username": "AzumaSeren"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1796221574976241692",
+    "in_reply_to_user_id": "1468572627447214081",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1796055171845455972",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@duiyuechangge @AzumaSeren 说吧，罕见给了你多少钱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1561806114274287616",
+        "conversation_id": "1795346591458734520",
+        "created_at": "2024-05-30T16:46:10.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-30T17:46:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1796221574976241692"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1468572627447214081",
+              "start": 0,
+              "username": "duiyuechangge"
+            },
+            {
+              "end": 26,
+              "id": "1355900185235259396",
+              "start": 15,
+              "username": "AzumaSeren"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1796221574976241692",
+        "in_reply_to_user_id": "1468572627447214081",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1796055171845455972",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@duiyuechangge @AzumaSeren 说吧，罕见给了你多少钱"
+      },
+      {
+        "attachments": {},
+        "author_id": "1468572627447214081",
+        "conversation_id": "1795346591458734520",
+        "created_at": "2024-05-30T05:44:56.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-30T06:44:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1796055171845455972"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1355900185235259396",
+              "start": 0,
+              "username": "AzumaSeren"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1796055171845455972",
+        "in_reply_to_user_id": "1355900185235259396",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1795346591458734520",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AzumaSeren 很多人说ai东雪莲比本人还要好实际上我不是很能理解，因为做ai歌姬的人很多，实际上能火成ai东雪莲那样的几乎没有，本质上还是有东雪莲的内核提供了话题度，再加上东雪莲本身音色也很好听所以才能造成这种百万播放的ai翻唱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-22T20:03:01.000Z",
+        "description": "忘记伤痕和过去 就能得到幸福吗.",
+        "id": "1561806114274287616",
+        "location": "今天也辛苦了.",
+        "name": "AZ.",
+        "pinned_tweet_id": "1725205374507368558",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778090792390959104/-k1xKj1N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 14,
+          "like_count": 81,
+          "listed_count": 0,
+          "tweet_count": 87
+        },
+        "username": "crossyangshe",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-08T13:26:25.000Z",
+        "description": "老北京豆汁儿王",
+        "id": "1468572627447214081",
+        "location": "北京市",
+        "name": "长歌歌",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749215616735825920/OTmQJypB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 243,
+          "like_count": 50,
+          "listed_count": 0,
+          "tweet_count": 128
+        },
+        "username": "duiyuechangge",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-31T15:26:46.000Z",
+        "description": "°ʚ🍼ɞ°￤詩￤唄￤",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/azumaseren",
+                "end": 23,
+                "expanded_url": "https://lit.link/azumaseren",
+                "start": 0,
+                "url": "https://t.co/fKPzK4dlPm"
+              }
+            ]
+          }
+        },
+        "id": "1355900185235259396",
+        "name": "東 雪蓮",
+        "pinned_tweet_id": "1781986232542867589",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1760659964300050432/MS6ikyl2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27855,
+          "following_count": 186,
+          "like_count": 18102,
+          "listed_count": 105,
+          "tweet_count": 7912
+        },
+        "url": "https://t.co/fKPzK4dlPm",
+        "username": "AzumaSeren",
+        "verified": true
+      }
+    ]
+  }
+}

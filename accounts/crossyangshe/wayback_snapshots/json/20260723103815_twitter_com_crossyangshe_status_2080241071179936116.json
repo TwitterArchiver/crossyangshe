@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561806114274287616",
+    "conversation_id": "2080231017089290378",
+    "created_at": "2026-07-23T10:38:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T11:38:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080241071179936116"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1146184657467318273",
+          "start": 0,
+          "username": "Drobert77876332"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080241071179936116",
+    "in_reply_to_user_id": "1146184657467318273",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080231138891841740",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Drobert77876332 動畫中的人物哪怕吃平常的食物都看著好鮮美"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561806114274287616",
+        "conversation_id": "2080231017089290378",
+        "created_at": "2026-07-23T10:38:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T11:38:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080241071179936116"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1146184657467318273",
+              "start": 0,
+              "username": "Drobert77876332"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080241071179936116",
+        "in_reply_to_user_id": "1146184657467318273",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080231138891841740",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Drobert77876332 動畫中的人物哪怕吃平常的食物都看著好鮮美"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1146184657467318273",
+        "conversation_id": "2080231017089290378",
+        "created_at": "2026-07-23T09:58:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T10:58:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080231138891841740"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1561806114274287616",
+              "start": 0,
+              "username": "crossyangshe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080231138891841740",
+        "in_reply_to_user_id": "1561806114274287616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080231017089290378",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@crossyangshe 是不是作畫把香氣都補出來了？生病時真的很難有胃口"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-22T20:03:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Changsha, Hunan, China",
+              "geo": {
+                "coordinates": [
+                  112.97087,
+                  28.19874
+                ],
+                "type": "Point"
+              },
+              "locality": "Changsha",
+              "region": "Hunan"
+            }
+          ]
+        },
+        "description": "你們好呀，我是az！成分：重抑中焦/od/自傷/自殺念頭/infp-t/音遊/二游（不怎麼玩了）/端遊（Steam上面的單機和一些網遊）/像素RPG/galgame/喜歡術力口（初音 可不 歌愛雪）/看番/看漫畫。\n戀人：@congng1327122\n小號：@confessAZ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 125,
+                "start": 111,
+                "username": "congng1327122"
+              },
+              {
+                "end": 139,
+                "start": 129,
+                "username": "confessAZ"
+              }
+            ]
+          }
+        },
+        "id": "1561806114274287616",
+        "location": "長沙",
+        "name": "AZ.",
+        "pinned_tweet_id": "2075487277191733409",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778090792390959104/-k1xKj1N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 616,
+          "following_count": 441,
+          "like_count": 3280,
+          "listed_count": 1,
+          "media_count": 120,
+          "tweet_count": 911
+        },
+        "url": "",
+        "username": "crossyangshe",
+        "verified": true
+      },
+      {
+        "created_at": "2019-07-02T22:31:32.000Z",
+        "description": "银狐VPN，高速稳定不断线，畅享全球网络。\n下载地址↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "foxlink.top/invite/DLCOLSES",
+                "end": 23,
+                "expanded_url": "https://foxlink.top/invite/DLCOLSES",
+                "start": 0,
+                "url": "https://t.co/SeaZTLTfyf"
+              }
+            ]
+          }
+        },
+        "id": "1146184657467318273",
+        "name": "银狐VPN飞跃网络",
+        "pinned_tweet_id": "1590237968706732034",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078835380758183937/5PDfi5BC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 26,
+          "like_count": 7,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 29
+        },
+        "url": "https://t.co/SeaZTLTfyf",
+        "username": "Drobert77876332",
+        "verified": false
+      }
+    ]
+  }
+}

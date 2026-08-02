@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066788701116743680"
+      ]
+    },
+    "author_id": "1561806114274287616",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2066788733580693960",
+    "created_at": "2026-06-16T07:43:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T08:43:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066788733580693960"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/WB7FZNYMzy",
+          "end": 69,
+          "expanded_url": "https://x.com/crossyangshe/status/2066788733580693960/photo/1",
+          "media_key": "3_2066788701116743680",
+          "start": 46,
+          "url": "https://t.co/WB7FZNYMzy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066788733580693960",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我最讨厌等 等雨停 等红绿灯\n等排队轮到自己 等电影开场\n等你的消息 我讨厌等\n可我一直等 https://t.co/WB7FZNYMzy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2066788701116743680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK61X5PawAAKeuZ.jpg",
+        "width": 3076
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066788701116743680"
+          ]
+        },
+        "author_id": "1561806114274287616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2066788733580693960",
+        "created_at": "2026-06-16T07:43:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T08:43:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066788733580693960"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WB7FZNYMzy",
+              "end": 69,
+              "expanded_url": "https://x.com/crossyangshe/status/2066788733580693960/photo/1",
+              "media_key": "3_2066788701116743680",
+              "start": 46,
+              "url": "https://t.co/WB7FZNYMzy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066788733580693960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我最讨厌等 等雨停 等红绿灯\n等排队轮到自己 等电影开场\n等你的消息 我讨厌等\n可我一直等 https://t.co/WB7FZNYMzy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-22T20:03:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "az，非健全人，努力生存中，希望有人关注我",
+        "id": "1561806114274287616",
+        "location": "地狱",
+        "name": "AZ.",
+        "pinned_tweet_id": "2061092260226502954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778090792390959104/-k1xKj1N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 44,
+          "like_count": 287,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 219
+        },
+        "username": "crossyangshe",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,307 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561806114274287616",
+    "conversation_id": "2072286445231046933",
+    "created_at": "2026-07-02T04:19:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T05:19:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072535714932429052"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1510195720137023499",
+          "start": 0,
+          "username": "index_ourFusion"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072535714932429052",
+    "in_reply_to_user_id": "1510195720137023499",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072286445231046933",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@index_ourFusion az已经放弃和家里人沟通了，如果家里人真的有本事的话，也不会生出一个精神病出来"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2072286425765306368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMI9hlia4AAaKYW.jpg",
+        "width": 851
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2072286425710796800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMI9hlVbIAAz3C0.jpg",
+        "width": 820
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2072286425702408192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMI9hlTbIAAjArW.jpg",
+        "width": 829
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2072286425710731264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMI9hlVaIAAv9Sf.jpg",
+        "width": 796
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561806114274287616",
+        "conversation_id": "2072286445231046933",
+        "created_at": "2026-07-02T04:19:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T05:19:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072535714932429052"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1510195720137023499",
+              "start": 0,
+              "username": "index_ourFusion"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072535714932429052",
+        "in_reply_to_user_id": "1510195720137023499",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072286445231046933",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@index_ourFusion az已经放弃和家里人沟通了，如果家里人真的有本事的话，也不会生出一个精神病出来"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072286425765306368",
+            "3_2072286425710796800",
+            "3_2072286425702408192",
+            "3_2072286425710731264"
+          ]
+        },
+        "author_id": "1510195720137023499",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1364667946291798017",
+              "name": "Study abroad"
+            }
+          }
+        ],
+        "conversation_id": "2072286445231046933",
+        "created_at": "2026-07-01T11:49:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T12:49:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072286445231046933"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YhvshJXrZo",
+              "end": 165,
+              "expanded_url": "https://x.com/index_ourFusion/status/2072286445231046933/photo/1",
+              "media_key": "3_2072286425765306368",
+              "start": 142,
+              "url": "https://t.co/YhvshJXrZo"
+            },
+            {
+              "display_url": "pic.x.com/YhvshJXrZo",
+              "end": 165,
+              "expanded_url": "https://x.com/index_ourFusion/status/2072286445231046933/photo/1",
+              "media_key": "3_2072286425710796800",
+              "start": 142,
+              "url": "https://t.co/YhvshJXrZo"
+            },
+            {
+              "display_url": "pic.x.com/YhvshJXrZo",
+              "end": 165,
+              "expanded_url": "https://x.com/index_ourFusion/status/2072286445231046933/photo/1",
+              "media_key": "3_2072286425702408192",
+              "start": 142,
+              "url": "https://t.co/YhvshJXrZo"
+            },
+            {
+              "display_url": "pic.x.com/YhvshJXrZo",
+              "end": 165,
+              "expanded_url": "https://x.com/index_ourFusion/status/2072286445231046933/photo/1",
+              "media_key": "3_2072286425710731264",
+              "start": 142,
+              "url": "https://t.co/YhvshJXrZo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072286445231046933",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1154,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "到底是谁答应我考完给我钱，考完说出分给钱，出分了说收到录取通知书再给我钱，\n不知道是谁高三的时候答应我一堆东西现在又装傻不知道\n更不知道是谁在我初中的时候先提的让我留学然后就很自以为是地觉得是我想留学并一直以此要挟我，真高考完了又跟我说家里没钱不一定供得起，说我想学日语是三分钟热度 https://t.co/YhvshJXrZo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-22T20:03:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "az，非健全人，努力生存中，希望有人关注我",
+        "id": "1561806114274287616",
+        "location": "地狱",
+        "name": "AZ.",
+        "pinned_tweet_id": "2061092260226502954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778090792390959104/-k1xKj1N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 190,
+          "following_count": 255,
+          "like_count": 1086,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 404
+        },
+        "url": "",
+        "username": "crossyangshe",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-02T10:01:43.000Z",
+        "description": "DM❌｜シビュラ精霊記爱好者｜リエア・リエル❤️｜中文日本語Eng👌｜最喜欢的宝宝@HaisenMinoki\n匿名提问渠道⬇️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 41,
+                "username": "HaisenMinoki"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "qntwx.cn/T6LPDG",
+                "end": 23,
+                "expanded_url": "https://qntwx.cn/T6LPDG",
+                "start": 0,
+                "url": "https://t.co/xrhZagfogu"
+              }
+            ]
+          }
+        },
+        "id": "1510195720137023499",
+        "location": "地心",
+        "name": "index",
+        "pinned_tweet_id": "2047821016810893729",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069578562521239552/qMEnWJQ5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 215,
+          "following_count": 873,
+          "like_count": 15822,
+          "listed_count": 1,
+          "media_count": 288,
+          "tweet_count": 2385
+        },
+        "url": "https://t.co/xrhZagfogu",
+        "username": "index_ourFusion",
+        "verified": false
+      }
+    ]
+  }
+}

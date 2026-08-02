@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561806114274287616",
+    "conversation_id": "2082456162013000076",
+    "created_at": "2026-07-30T18:37:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T19:37:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082898460337221673"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1717388840938135552",
+          "start": 0,
+          "username": "DingGongYinLin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082898460337221673",
+    "in_reply_to_user_id": "1717388840938135552",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082456162013000076",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DingGongYinLin 小琳要好好的！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2800,
+        "media_key": "3_2082456155289481216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOZe1wRa8AANIAE.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561806114274287616",
+        "conversation_id": "2082456162013000076",
+        "created_at": "2026-07-30T18:37:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T19:37:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082898460337221673"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1717388840938135552",
+              "start": 0,
+              "username": "DingGongYinLin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082898460337221673",
+        "in_reply_to_user_id": "1717388840938135552",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082456162013000076",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DingGongYinLin 小琳要好好的！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082456155289481216"
+          ]
+        },
+        "author_id": "1717388840938135552",
+        "conversation_id": "2082456162013000076",
+        "created_at": "2026-07-29T13:20:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T14:20:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082456162013000076"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NzaUnfk502",
+              "end": 31,
+              "expanded_url": "https://x.com/DingGongYinLin/status/2082456162013000076/photo/1",
+              "media_key": "3_2082456155289481216",
+              "start": 8,
+              "url": "https://t.co/NzaUnfk502"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082456162013000076",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 986,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "被发邮件了喵😢 https://t.co/NzaUnfk502"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-22T20:03:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Changsha, Hunan, China",
+              "geo": {
+                "coordinates": [
+                  112.97087,
+                  28.19874
+                ],
+                "type": "Point"
+              },
+              "locality": "Changsha",
+              "region": "Hunan"
+            }
+          ]
+        },
+        "description": "你們好呀，我是az！成分：重抑中焦/od/自傷/自殺念頭/infp-t/音遊/二游（不怎麼玩了）/端遊（Steam上面的單機和一些網遊）/像素RPG/galgame/喜歡術力口（初音 可不 歌愛雪）/看番/看漫畫。\n戀人：@congng1327122\n小號：@confessAZ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 125,
+                "start": 111,
+                "username": "congng1327122"
+              },
+              {
+                "end": 139,
+                "start": 129,
+                "username": "confessAZ"
+              }
+            ]
+          }
+        },
+        "id": "1561806114274287616",
+        "location": "長沙",
+        "name": "AZ.",
+        "pinned_tweet_id": "2075487277191733409",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778090792390959104/-k1xKj1N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 600,
+          "following_count": 446,
+          "like_count": 3781,
+          "listed_count": 1,
+          "media_count": 130,
+          "tweet_count": 995
+        },
+        "url": "",
+        "username": "crossyangshe",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-26T03:53:18.000Z",
+        "description": "o(￣ヘ￣o#)",
+        "id": "1717388840938135552",
+        "name": "钉宫银琳",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023832209636163584/ozoek5lt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 179,
+          "following_count": 303,
+          "like_count": 11235,
+          "listed_count": 0,
+          "media_count": 120,
+          "tweet_count": 3040
+        },
+        "url": "",
+        "username": "DingGongYinLin",
+        "verified": true
+      }
+    ]
+  }
+}

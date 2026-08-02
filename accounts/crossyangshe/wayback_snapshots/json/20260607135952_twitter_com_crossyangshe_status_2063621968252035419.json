@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063621391187058690",
+        "3_2063621664672555008"
+      ]
+    },
+    "author_id": "1561806114274287616",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2063621968252035419",
+    "created_at": "2026-06-07T13:59:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T14:59:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063621968252035419"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ikpi3h2hDL",
+          "end": 52,
+          "expanded_url": "https://x.com/crossyangshe/status/2063621968252035419/photo/1",
+          "media_key": "3_2063621391187058690",
+          "start": 29,
+          "url": "https://t.co/ikpi3h2hDL"
+        },
+        {
+          "display_url": "pic.x.com/ikpi3h2hDL",
+          "end": 52,
+          "expanded_url": "https://x.com/crossyangshe/status/2063621968252035419/photo/1",
+          "media_key": "3_2063621664672555008",
+          "start": 29,
+          "url": "https://t.co/ikpi3h2hDL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063621968252035419",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "PDD上又能买到小美了？真的假的？只是这价格……望而止步 https://t.co/ikpi3h2hDL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2063621391187058690",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKN0uMSaIAIA4re.jpg",
+        "width": 922
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2063621664672555008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKN0-HGboAAluxQ.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063621391187058690",
+            "3_2063621664672555008"
+          ]
+        },
+        "author_id": "1561806114274287616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2063621968252035419",
+        "created_at": "2026-06-07T13:59:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T14:59:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063621968252035419"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ikpi3h2hDL",
+              "end": 52,
+              "expanded_url": "https://x.com/crossyangshe/status/2063621968252035419/photo/1",
+              "media_key": "3_2063621391187058690",
+              "start": 29,
+              "url": "https://t.co/ikpi3h2hDL"
+            },
+            {
+              "display_url": "pic.x.com/ikpi3h2hDL",
+              "end": 52,
+              "expanded_url": "https://x.com/crossyangshe/status/2063621968252035419/photo/1",
+              "media_key": "3_2063621664672555008",
+              "start": 29,
+              "url": "https://t.co/ikpi3h2hDL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063621968252035419",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "PDD上又能买到小美了？真的假的？只是这价格……望而止步 https://t.co/ikpi3h2hDL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-22T20:03:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "az，非健全人，努力生存中，希望有人关注我",
+        "id": "1561806114274287616",
+        "location": "地狱",
+        "name": "AZ.",
+        "pinned_tweet_id": "2061092260226502954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778090792390959104/-k1xKj1N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 44,
+          "like_count": 261,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 199
+        },
+        "username": "crossyangshe",
+        "verified": false
+      }
+    ]
+  }
+}

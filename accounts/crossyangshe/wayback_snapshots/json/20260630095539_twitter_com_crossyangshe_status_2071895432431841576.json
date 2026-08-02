@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561806114274287616",
+    "conversation_id": "2071519142453367071",
+    "created_at": "2026-06-30T09:55:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T10:55:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071895432431841576"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2047419861606051840",
+          "start": 0,
+          "username": "Kanaderu_kas"
+        },
+        {
+          "end": 30,
+          "id": "1803609911215136769",
+          "start": 14,
+          "username": "pDwIj6gMsi50560"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071895432431841576",
+    "in_reply_to_user_id": "2047419861606051840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071663183572697132",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kanaderu_kas @pDwIj6gMsi50560 求药店名字！不是连锁药店吗，今天跑了好几家药店都被告知要处方，是那种小药店还是什么"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561806114274287616",
+        "conversation_id": "2071519142453367071",
+        "created_at": "2026-06-30T09:55:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T10:55:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071895432431841576"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2047419861606051840",
+              "start": 0,
+              "username": "Kanaderu_kas"
+            },
+            {
+              "end": 30,
+              "id": "1803609911215136769",
+              "start": 14,
+              "username": "pDwIj6gMsi50560"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071895432431841576",
+        "in_reply_to_user_id": "2047419861606051840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071663183572697132",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kanaderu_kas @pDwIj6gMsi50560 求药店名字！不是连锁药店吗，今天跑了好几家药店都被告知要处方，是那种小药店还是什么"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047419861606051840",
+        "conversation_id": "2071519142453367071",
+        "created_at": "2026-06-29T18:32:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T19:32:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071663183572697132"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1803609911215136769",
+              "start": 0,
+              "username": "pDwIj6gMsi50560"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071663183572697132",
+        "in_reply_to_user_id": "1803609911215136769",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 137,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071610798376706347",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pDwIj6gMsi50560 路边药店打野买的 甚至不要处方单"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-22T20:03:01.000Z",
+        "description": "az，非健全人，努力生存中，希望有人关注我",
+        "id": "1561806114274287616",
+        "location": "地狱",
+        "name": "AZ.",
+        "pinned_tweet_id": "2061092260226502954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778090792390959104/-k1xKj1N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 142,
+          "following_count": 238,
+          "like_count": 788,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 346
+        },
+        "url": "",
+        "username": "crossyangshe",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-23T21:00:32.000Z",
+        "description": "极速互fo没回关就是在睡觉/19岁/简中🇨🇳繁中🇭🇰日语🇯🇵/🩸🔪/od/重躁鬱/强迫/精神分裂/人格分裂/解离型漫游/倾诉欲望高/打扰到您的话抱歉/",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kanaderu_kas",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kanaderu_kas",
+                "start": 0,
+                "url": "https://t.co/J7o7eFQA18"
+              }
+            ]
+          }
+        },
+        "id": "2047419861606051840",
+        "location": "塔不灭喵",
+        "name": "Kanaderu",
+        "pinned_tweet_id": "2061135115192045576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047421090679701504/4pVhv_SX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 60,
+          "like_count": 379,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 337
+        },
+        "url": "https://t.co/J7o7eFQA18",
+        "username": "Kanaderu_kas",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-20T02:05:02.000Z",
+        "description": "前Mediwiki编辑组成员，旧账号已死 @H061207Wjh   转生为新账号\n平平无奇的大一地雷妹   国家3级心理咨询师   偏好：药理/心理学/文学/精神病学/见证   有需要的可以随时私我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 21,
+                "username": "H061207Wjh"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubake.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubake.ca",
+                "start": 0,
+                "url": "https://t.co/H8EOJUZms1"
+              }
+            ]
+          }
+        },
+        "id": "1803609911215136769",
+        "location": "南昌大学",
+        "name": "田山さん",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070397570481004544/awxt_ceF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 103,
+          "like_count": 45,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 69
+        },
+        "url": "https://t.co/H8EOJUZms1",
+        "username": "pDwIj6gMsi50560",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561806114274287616",
+    "conversation_id": "2072589174121914469",
+    "created_at": "2026-07-02T14:28:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T15:28:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072688755698438475"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2039398734962761728",
+          "start": 0,
+          "username": "EsterBrown38007"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072688755698438475",
+    "in_reply_to_user_id": "2039398734962761728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072589174121914469",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@EsterBrown38007 od能被普通人知道都怪墙内到处传播"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561806114274287616",
+        "conversation_id": "2072589174121914469",
+        "created_at": "2026-07-02T14:28:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T15:28:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072688755698438475"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2039398734962761728",
+              "start": 0,
+              "username": "EsterBrown38007"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072688755698438475",
+        "in_reply_to_user_id": "2039398734962761728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072589174121914469",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EsterBrown38007 od能被普通人知道都怪墙内到处传播"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2039398734962761728",
+        "conversation_id": "2072589174121914469",
+        "created_at": "2026-07-02T07:52:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T08:52:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072589174121914469"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2072589174121914469",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1771,
+          "like_count": 32,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我操我突然想起来前天我同桌突然给我来了一句孩子你是不是想开普瑞巴林呢，给我吓尿了呀我操"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-22T20:03:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "az，非健全人，努力生存中，希望有人关注我",
+        "id": "1561806114274287616",
+        "location": "地狱",
+        "name": "AZ.",
+        "pinned_tweet_id": "2061092260226502954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778090792390959104/-k1xKj1N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 192,
+          "following_count": 259,
+          "like_count": 1133,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 413
+        },
+        "url": "",
+        "username": "crossyangshe",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-01T17:45:46.000Z",
+        "description": "",
+        "id": "2039398734962761728",
+        "location": "爱人TV",
+        "name": "可是我的自卑胜过了",
+        "pinned_tweet_id": "2067519950043136446",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072608661529362432/0_0Wkqu9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 266,
+          "following_count": 255,
+          "like_count": 519,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 492
+        },
+        "url": "",
+        "username": "EsterBrown38007",
+        "verified": false
+      }
+    ]
+  }
+}

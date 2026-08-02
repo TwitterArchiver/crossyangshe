@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2073068570649735169",
+        "3_2073068570410651648",
+        "3_2073068570414862336"
+      ]
+    },
+    "author_id": "1561806114274287616",
+    "conversation_id": "2073069652893426077",
+    "created_at": "2026-07-03T15:41:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T16:41:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2073069652893426077"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/u1qzQYki8s",
+          "end": 164,
+          "expanded_url": "https://x.com/crossyangshe/status/2073069652893426077/photo/1",
+          "media_key": "3_2073068570649735169",
+          "start": 141,
+          "url": "https://t.co/u1qzQYki8s"
+        },
+        {
+          "display_url": "pic.x.com/u1qzQYki8s",
+          "end": 164,
+          "expanded_url": "https://x.com/crossyangshe/status/2073069652893426077/photo/1",
+          "media_key": "3_2073068570410651648",
+          "start": 141,
+          "url": "https://t.co/u1qzQYki8s"
+        },
+        {
+          "display_url": "pic.x.com/u1qzQYki8s",
+          "end": 164,
+          "expanded_url": "https://x.com/crossyangshe/status/2073069652893426077/photo/1",
+          "media_key": "3_2073068570414862336",
+          "start": 141,
+          "url": "https://t.co/u1qzQYki8s"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073069652893426077",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "刚刚晚上az下楼出去散步，这时候az掏出一根烟，怀着忐忑不安的心颤抖着点燃了，结果不知道为什么，突然又不恶心反胃了，az竟然又可以抽烟了，真是个好消息！（可能是前几天状态好转了一些）没想到抽到一半，突然刮起大风，天空下起了暴雨，az往回赶时抽了一半的烟也被淋湿了，生活总是这样…… https://t.co/u1qzQYki8s"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 256,
+        "media_key": "3_2073068570649735169",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMUE4aSasAE0SOQ.png",
+        "width": 296
+      },
+      {
+        "height": 256,
+        "media_key": "3_2073068570410651648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMUE4ZZakAA02jb.png",
+        "width": 296
+      },
+      {
+        "height": 256,
+        "media_key": "3_2073068570414862336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMUE4Zaa0AAEVwf.png",
+        "width": 296
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073068570649735169",
+            "3_2073068570410651648",
+            "3_2073068570414862336"
+          ]
+        },
+        "author_id": "1561806114274287616",
+        "conversation_id": "2073069652893426077",
+        "created_at": "2026-07-03T15:41:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T16:41:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073069652893426077"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/u1qzQYki8s",
+              "end": 164,
+              "expanded_url": "https://x.com/crossyangshe/status/2073069652893426077/photo/1",
+              "media_key": "3_2073068570649735169",
+              "start": 141,
+              "url": "https://t.co/u1qzQYki8s"
+            },
+            {
+              "display_url": "pic.x.com/u1qzQYki8s",
+              "end": 164,
+              "expanded_url": "https://x.com/crossyangshe/status/2073069652893426077/photo/1",
+              "media_key": "3_2073068570410651648",
+              "start": 141,
+              "url": "https://t.co/u1qzQYki8s"
+            },
+            {
+              "display_url": "pic.x.com/u1qzQYki8s",
+              "end": 164,
+              "expanded_url": "https://x.com/crossyangshe/status/2073069652893426077/photo/1",
+              "media_key": "3_2073068570414862336",
+              "start": 141,
+              "url": "https://t.co/u1qzQYki8s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073069652893426077",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "刚刚晚上az下楼出去散步，这时候az掏出一根烟，怀着忐忑不安的心颤抖着点燃了，结果不知道为什么，突然又不恶心反胃了，az竟然又可以抽烟了，真是个好消息！（可能是前几天状态好转了一些）没想到抽到一半，突然刮起大风，天空下起了暴雨，az往回赶时抽了一半的烟也被淋湿了，生活总是这样…… https://t.co/u1qzQYki8s"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-22T20:03:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "az，非健全人，努力生存中，希望有人关注我",
+        "id": "1561806114274287616",
+        "location": "地狱",
+        "name": "AZ.",
+        "pinned_tweet_id": "2061092260226502954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778090792390959104/-k1xKj1N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 209,
+          "following_count": 282,
+          "like_count": 1310,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 435
+        },
+        "url": "",
+        "username": "crossyangshe",
+        "verified": false
+      }
+    ]
+  }
+}

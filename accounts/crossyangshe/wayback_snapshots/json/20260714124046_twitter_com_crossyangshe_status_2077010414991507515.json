@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561806114274287616",
+    "conversation_id": "2077007263370478064",
+    "created_at": "2026-07-14T12:40:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T13:40:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077010414991507515"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1577362467419611137",
+          "start": 0,
+          "username": "Retepa8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077010414991507515",
+    "in_reply_to_user_id": "1577362467419611137",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077007263370478064",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Retepa8964 好幸福😭😭😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2077007243279814656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNMDFVObUAA8_Hu.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561806114274287616",
+        "conversation_id": "2077007263370478064",
+        "created_at": "2026-07-14T12:40:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T13:40:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077010414991507515"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1577362467419611137",
+              "start": 0,
+              "username": "Retepa8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077010414991507515",
+        "in_reply_to_user_id": "1577362467419611137",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077007263370478064",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Retepa8964 好幸福😭😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077007243279814656"
+          ]
+        },
+        "author_id": "1577362467419611137",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2077007263370478064",
+        "created_at": "2026-07-14T12:28:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T13:28:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077007263370478064"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Z9CkRfXGSu",
+              "end": 35,
+              "expanded_url": "https://x.com/Retepa8964/status/2077007263370478064/photo/1",
+              "media_key": "3_2077007243279814656",
+              "start": 12,
+              "url": "https://t.co/Z9CkRfXGSu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077007263370478064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 53,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "实习下班后我只做一件事 https://t.co/Z9CkRfXGSu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-22T20:03:01.000Z",
+        "description": "你们好呀，我是az！成分：重抑中焦/od/自傷/自殺念头/infp-t/音游/二游（不怎么玩了）/端游（Steam上面的单机和一些网游）/像素RPG/galgame/喜欢术力口（初音 可不 歌爱雪）/看番/看漫画。\n没有什么特别的的主推喜欢的东西太多啦\n同类群1053339675\n目前失业中~欢迎互fo，我爱你们！❤️",
+        "id": "1561806114274287616",
+        "location": "失乐园",
+        "name": "AZ.",
+        "pinned_tweet_id": "2075487277191733409",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778090792390959104/-k1xKj1N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 544,
+          "following_count": 425,
+          "like_count": 2916,
+          "listed_count": 0,
+          "media_count": 108,
+          "tweet_count": 842
+        },
+        "url": "",
+        "username": "crossyangshe",
+        "verified": true
+      },
+      {
+        "created_at": "2022-10-04T18:18:25.000Z",
+        "description": "＝阿瓜｜pc街机/都市传说/文史哲艺爱好者/ccru/社民/机械飞升/生理女 友好一切/民科/后现代/神必学游客/oder/查成分互fo｜只是互联网幽灵\n\n👁你們怎麼辦，只有天知道。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/retepa555",
+                "end": 23,
+                "expanded_url": "https://ngl.link/retepa555",
+                "start": 0,
+                "url": "https://t.co/i8FVzhF71c"
+              }
+            ]
+          }
+        },
+        "id": "1577362467419611137",
+        "location": "第三高原",
+        "name": "無機質水樂",
+        "pinned_tweet_id": "2008084757700395499",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069459272237453314/oe_JsCpY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 446,
+          "following_count": 901,
+          "like_count": 26693,
+          "listed_count": 0,
+          "media_count": 213,
+          "tweet_count": 2156
+        },
+        "url": "https://t.co/i8FVzhF71c",
+        "username": "Retepa8964",
+        "verified": false
+      }
+    ]
+  }
+}

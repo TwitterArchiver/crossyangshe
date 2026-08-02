@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561806114274287616",
+    "conversation_id": "2074430069326651434",
+    "created_at": "2026-07-07T12:13:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T13:13:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074466715224936645"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2004802306873982977",
+          "start": 0,
+          "username": "Len10x0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074466715224936645",
+    "in_reply_to_user_id": "2004802306873982977",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074466124742414354",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Len10x0 没关系，尝试一下啦，不行就去od炸鸡可乐了，反正az这边药挺多的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2074466108183388160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMn77zTboAAA5Kn.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561806114274287616",
+        "conversation_id": "2074430069326651434",
+        "created_at": "2026-07-07T12:13:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T13:13:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074466715224936645"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2004802306873982977",
+              "start": 0,
+              "username": "Len10x0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074466715224936645",
+        "in_reply_to_user_id": "2004802306873982977",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074466124742414354",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Len10x0 没关系，尝试一下啦，不行就去od炸鸡可乐了，反正az这边药挺多的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074466108183388160"
+          ]
+        },
+        "author_id": "2004802306873982977",
+        "conversation_id": "2074430069326651434",
+        "created_at": "2026-07-07T12:10:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T13:10:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074466124742414354"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1561806114274287616",
+              "start": 0,
+              "username": "crossyangshe"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3CDvBREKdd",
+              "end": 37,
+              "expanded_url": "https://x.com/Len10x0/status/2074466124742414354/photo/1",
+              "media_key": "3_2074466108183388160",
+              "start": 14,
+              "url": "https://t.co/3CDvBREKdd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074466124742414354",
+        "in_reply_to_user_id": "1561806114274287616",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074430069326651434",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@crossyangshe https://t.co/3CDvBREKdd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-22T20:03:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "你们好呀，我是az！成分：重抑中焦/od/自傷/自殺念头/infp-t/音游/二游（不怎么玩了）/端游（Steam上面的单机和一些网游）/日式像素RPG/galgame/喜欢术力口（初音 可不 歌爱雪）/看番/看漫画。\n没有什么特别的的主推，因为是成分太复杂，喜欢的东西太多啦！\n目前失业中~欢迎互fo，我爱你们！❤️",
+        "id": "1561806114274287616",
+        "location": "地狱",
+        "name": "AZ.",
+        "pinned_tweet_id": "2061092260226502954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778090792390959104/-k1xKj1N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 343,
+          "following_count": 348,
+          "like_count": 2004,
+          "listed_count": 0,
+          "media_count": 80,
+          "tweet_count": 626
+        },
+        "url": "",
+        "username": "crossyangshe",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-27T06:31:44.000Z",
+        "description": "泛性恋偏le老婆 @55ghcgxc\n#日系#餐券#地雷系#od\n双相患者2011.8.7\n同类互fo 可以叫我深晟或者小冷",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "55ghcgxc"
+              }
+            ]
+          }
+        },
+        "id": "2004802306873982977",
+        "location": "🚪52/88/188上不封顶不退",
+        "name": "冷幻觉（恶俗版",
+        "pinned_tweet_id": "2071854427619926090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071937367934369793/cVS-k0I7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 327,
+          "following_count": 251,
+          "like_count": 1624,
+          "listed_count": 0,
+          "media_count": 237,
+          "tweet_count": 2040
+        },
+        "url": "",
+        "username": "Len10x0",
+        "verified": false
+      }
+    ]
+  }
+}

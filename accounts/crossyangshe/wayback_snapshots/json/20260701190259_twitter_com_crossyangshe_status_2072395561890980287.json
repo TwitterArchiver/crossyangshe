@@ -1,0 +1,149 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561806114274287616",
+    "conversation_id": "2072386965937549571",
+    "created_at": "2026-07-01T19:02:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T20:02:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072395561890980287"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2072395561890980287",
+    "in_reply_to_user_id": "1561806114274287616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072394771629490407",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "加上家里人也不愿意关注az一下只会一直压力az，也不愿意带az去看心理医院，导致az越来越极端，有一次在本子上写道“我要杀了全班所有人”，结果被同学发现了，拿出来给大家取笑，念给全班听，总是这样子，这个世界总是这样子对待我……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561806114274287616",
+        "conversation_id": "2072386965937549571",
+        "created_at": "2026-07-01T19:02:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T20:02:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072395561890980287"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2072395561890980287",
+        "in_reply_to_user_id": "1561806114274287616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072394771629490407",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "加上家里人也不愿意关注az一下只会一直压力az，也不愿意带az去看心理医院，导致az越来越极端，有一次在本子上写道“我要杀了全班所有人”，结果被同学发现了，拿出来给大家取笑，念给全班听，总是这样子，这个世界总是这样子对待我……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561806114274287616",
+        "conversation_id": "2072386965937549571",
+        "created_at": "2026-07-01T18:59:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T19:59:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072394771629490407"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2072394771629490407",
+        "in_reply_to_user_id": "1561806114274287616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072393634176245924",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "话虽如此，该od自伤还是每天od，大不了穿长袖和网上就寝前o，az隔一两天就要o一次，从12t到48t，az用了好久，导致后面甚至一闻到右美那个味道就想吐。可是如果当时没有小美，az可能早就死在那所高中了……正常人谁会愿意干这种事情呢，az没有手机没有人关心只能这样了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-22T20:03:01.000Z",
+        "description": "az，非健全人，努力生存中，希望有人关注我",
+        "id": "1561806114274287616",
+        "location": "地狱",
+        "name": "AZ.",
+        "pinned_tweet_id": "2061092260226502954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778090792390959104/-k1xKj1N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 185,
+          "following_count": 253,
+          "like_count": 1003,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 397
+        },
+        "url": "",
+        "username": "crossyangshe",
+        "verified": false
+      }
+    ]
+  }
+}

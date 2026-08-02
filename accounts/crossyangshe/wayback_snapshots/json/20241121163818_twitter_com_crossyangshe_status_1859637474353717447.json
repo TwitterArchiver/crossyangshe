@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1859637459602354176"
+      ]
+    },
+    "author_id": "1561806114274287616",
+    "conversation_id": "1854515928505168327",
+    "created_at": "2024-11-21T16:38:18.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-21T17:38:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1859637474353717447"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1516941936971554817",
+          "start": 0,
+          "username": "Wolfy_XBT"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/lBPNslNUQ6",
+          "end": 39,
+          "expanded_url": "https://x.com/crossyangshe/status/1859637474353717447/photo/1",
+          "media_key": "3_1859637459602354176",
+          "start": 16,
+          "url": "https://t.co/lBPNslNUQ6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1859637474353717447",
+    "in_reply_to_user_id": "1516941936971554817",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1854515928505168327",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Wolfy_XBT 狼哥这个 https://t.co/lBPNslNUQ6"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1859637474353717447].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1859637474353717447",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1859637474353717447"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 922,
+        "media_key": "3_1859637459602354176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gc7Caq6bsAA5XLX.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1516941936971554817",
+        "conversation_id": "1854515928505168327",
+        "created_at": "2024-11-07T13:27:07.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-07T14:27:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1854515928505168327"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1854515928505168327",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2949,
+          "impression_count": 3599709,
+          "like_count": 5077,
+          "quote_count": 2,
+          "reply_count": 3619,
+          "retweet_count": 320
+        },
+        "reply_settings": "everyone",
+        "text": "你发图，我找番号（第 20 季）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-22T20:03:01.000Z",
+        "description": "“为什么要伤心 难道你的生活还不够可笑吗？”",
+        "id": "1561806114274287616",
+        "location": "今天也辛苦了.",
+        "name": "AZ.",
+        "pinned_tweet_id": "1725205374507368558",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778090792390959104/-k1xKj1N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 21,
+          "like_count": 85,
+          "listed_count": 0,
+          "tweet_count": 95
+        },
+        "username": "crossyangshe",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-21T00:48:42.000Z",
+        "description": "信息整理｜数据分析｜商务合作联系：@Wolf_Assist｜币安返佣：https://t.co/YcHk73BNtM｜OKX 钱包支持 100+ 公链，提供铭文、NFT 市场、DeFi 挖矿等一站式服务：https://t.co/sTdfBbQhi9",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 17,
+                "username": "Wolf_Assist"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "binance.com/join?ref=LX8RL…",
+                "end": 58,
+                "expanded_url": "https://www.binance.com/join?ref=LX8RL8CK",
+                "start": 35,
+                "url": "https://t.co/YcHk73BNtM"
+              },
+              {
+                "display_url": "okx.com/cn/web3",
+                "end": 125,
+                "expanded_url": "http://okx.com/cn/web3",
+                "start": 102,
+                "url": "https://t.co/sTdfBbQhi9"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/killthewolf",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/killthewolf",
+                "start": 0,
+                "url": "https://t.co/qzROKKvQHj"
+              }
+            ]
+          }
+        },
+        "id": "1516941936971554817",
+        "location": "各大交易所返佣链接👉",
+        "name": "杀破狼 WolfyXBT",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1680938637628944384/2FYk0Ft4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 773354,
+          "following_count": 4495,
+          "like_count": 36896,
+          "listed_count": 2440,
+          "tweet_count": 15249
+        },
+        "url": "https://t.co/qzROKKvQHj",
+        "username": "Wolfy_XBT",
+        "verified": true
+      }
+    ]
+  }
+}

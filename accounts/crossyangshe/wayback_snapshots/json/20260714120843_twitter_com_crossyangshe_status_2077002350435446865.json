@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561806114274287616",
+    "conversation_id": "2076989255931629611",
+    "created_at": "2026-07-14T12:08:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T13:08:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077002350435446865"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1667752579596685313",
+          "start": 0,
+          "username": "Overexhaustion9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077002350435446865",
+    "in_reply_to_user_id": "1667752579596685313",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076989255931629611",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Overexhaustion9 好幸福😭😭😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2076989247702409216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNLyt2eboAAyL2T.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2076989253083639808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNLyuKhasAA-a5A.jpg",
+        "width": 768
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2076989245613543424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNLytusaEAA29OS.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561806114274287616",
+        "conversation_id": "2076989255931629611",
+        "created_at": "2026-07-14T12:08:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T13:08:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077002350435446865"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1667752579596685313",
+              "start": 0,
+              "username": "Overexhaustion9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077002350435446865",
+        "in_reply_to_user_id": "1667752579596685313",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076989255931629611",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Overexhaustion9 好幸福😭😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076989247702409216",
+            "3_2076989253083639808",
+            "3_2076989245613543424"
+          ]
+        },
+        "author_id": "1667752579596685313",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2076989255931629611",
+        "created_at": "2026-07-14T11:16:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T12:16:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076989255931629611"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AndsgEluxp",
+              "end": 26,
+              "expanded_url": "https://x.com/Overexhaustion9/status/2076989255931629611/photo/1",
+              "media_key": "3_2076989247702409216",
+              "start": 3,
+              "url": "https://t.co/AndsgEluxp"
+            },
+            {
+              "display_url": "pic.x.com/AndsgEluxp",
+              "end": 26,
+              "expanded_url": "https://x.com/Overexhaustion9/status/2076989255931629611/photo/1",
+              "media_key": "3_2076989253083639808",
+              "start": 3,
+              "url": "https://t.co/AndsgEluxp"
+            },
+            {
+              "display_url": "pic.x.com/AndsgEluxp",
+              "end": 26,
+              "expanded_url": "https://x.com/Overexhaustion9/status/2076989255931629611/photo/1",
+              "media_key": "3_2076989245613543424",
+              "start": 3,
+              "url": "https://t.co/AndsgEluxp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076989255931629611",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 67,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "傻鸟 https://t.co/AndsgEluxp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-22T20:03:01.000Z",
+        "description": "你们好呀，我是az！成分：重抑中焦/od/自傷/自殺念头/infp-t/音游/二游（不怎么玩了）/端游（Steam上面的单机和一些网游）/像素RPG/galgame/喜欢术力口（初音 可不 歌爱雪）/看番/看漫画。\n没有什么特别的的主推喜欢的东西太多啦\n同类群1053339675\n目前失业中~欢迎互fo，我爱你们！❤️",
+        "id": "1561806114274287616",
+        "location": "失乐园",
+        "name": "AZ.",
+        "pinned_tweet_id": "2075487277191733409",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778090792390959104/-k1xKj1N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 542,
+          "following_count": 423,
+          "like_count": 2896,
+          "listed_count": 0,
+          "media_count": 108,
+          "tweet_count": 833
+        },
+        "url": "",
+        "username": "crossyangshe",
+        "verified": true
+      },
+      {
+        "created_at": "2023-06-11T04:36:33.000Z",
+        "description": "会飞的猪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/r076370",
+                "end": 23,
+                "expanded_url": "http://ngl.link/r076370",
+                "start": 0,
+                "url": "https://t.co/RBoflnR8rw"
+              }
+            ]
+          }
+        },
+        "id": "1667752579596685313",
+        "location": "xxxxxxxx",
+        "name": "Alice",
+        "pinned_tweet_id": "2072952967452561896",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063468319349583872/UqpjS7ne_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 177,
+          "following_count": 464,
+          "like_count": 6606,
+          "listed_count": 0,
+          "media_count": 341,
+          "tweet_count": 2387
+        },
+        "url": "https://t.co/RBoflnR8rw",
+        "username": "Overexhaustion9",
+        "verified": false
+      }
+    ]
+  }
+}

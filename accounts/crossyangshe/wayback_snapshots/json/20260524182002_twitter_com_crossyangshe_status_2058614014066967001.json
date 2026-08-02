@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561806114274287616",
+    "conversation_id": "2058181559719768430",
+    "created_at": "2026-05-24T18:20:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T19:20:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058614014066967001"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1920040877562712065",
+          "start": 0,
+          "username": "nyaruru919"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058614014066967001",
+    "in_reply_to_user_id": "1920040877562712065",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058181559719768430",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nyaruru919 好耶"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561806114274287616",
+        "conversation_id": "2058181559719768430",
+        "created_at": "2026-05-24T18:20:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T19:20:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058614014066967001"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1920040877562712065",
+              "start": 0,
+              "username": "nyaruru919"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058614014066967001",
+        "in_reply_to_user_id": "1920040877562712065",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058181559719768430",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nyaruru919 好耶"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920040877562712065",
+        "conversation_id": "2058181559719768430",
+        "created_at": "2026-05-23T13:41:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T14:41:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058181559719768430"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058181559719768430",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 177,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "酒飲みますけど、DMかLINEかインスタできる人います？私ずっと話し続けるので話題は悩まなくて大丈夫です✋🏻"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-22T20:03:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "恶魔羊az，圈子混的多不一一列举了，不是正常人，渴望被爱和渴望死亡",
+        "id": "1561806114274287616",
+        "location": "地狱",
+        "name": "AZ.",
+        "pinned_tweet_id": "1725205374507368558",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778090792390959104/-k1xKj1N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 38,
+          "like_count": 138,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 122
+        },
+        "username": "crossyangshe",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-07T09:00:03.000Z",
+        "description": "私の依存両∞想い𝑺𝒖𝒑𝒆𝒓𝟐𝟓𝟏♡@medicnX┆10世代\n𝙱𝙵𝙵@_twins__68┆💘@k_urukuru_ ┆結婚@29ni_k29┆激らぶ@nano_0021",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 17,
+                "username": "medicnX"
+              },
+              {
+                "end": 45,
+                "start": 34,
+                "username": "_twins__68"
+              },
+              {
+                "end": 58,
+                "start": 47,
+                "username": "k_urukuru_"
+              },
+              {
+                "end": 71,
+                "start": 62,
+                "username": "29ni_k29"
+              },
+              {
+                "end": 85,
+                "start": 75,
+                "username": "nano_0021"
+              }
+            ]
+          }
+        },
+        "id": "1920040877562712065",
+        "location": "アカウントを消して仮想的に自殺する",
+        "name": "めちゃんねらー",
+        "pinned_tweet_id": "2031139381508284755",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938566847785480192/_OxQe450_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 273,
+          "following_count": 72,
+          "like_count": 45712,
+          "listed_count": 10,
+          "media_count": 251,
+          "tweet_count": 15255
+        },
+        "username": "nyaruru919",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561806114274287616",
+    "conversation_id": "1864262033736348067",
+    "created_at": "2024-12-05T17:08:28.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-05T18:08:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1864718496053235815"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1668826909235372037",
+          "start": 0,
+          "username": "Tailmating"
+        },
+        {
+          "end": 22,
+          "id": "1823627138622480384",
+          "start": 12,
+          "username": "ybb040630"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1864718496053235815",
+    "in_reply_to_user_id": "1668826909235372037",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1864657126213472652",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Tailmating @ybb040630 祝你大卖"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561806114274287616",
+        "conversation_id": "1864262033736348067",
+        "created_at": "2024-12-05T17:08:28.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-05T18:08:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1864718496053235815"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1668826909235372037",
+              "start": 0,
+              "username": "Tailmating"
+            },
+            {
+              "end": 22,
+              "id": "1823627138622480384",
+              "start": 12,
+              "username": "ybb040630"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1864718496053235815",
+        "in_reply_to_user_id": "1668826909235372037",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1864657126213472652",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Tailmating @ybb040630 祝你大卖"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668826909235372037",
+        "conversation_id": "1864262033736348067",
+        "created_at": "2024-12-05T13:04:37.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-05T14:04:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1864657126213472652"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1823627138622480384",
+              "start": 0,
+              "username": "ybb040630"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1864657126213472652",
+        "in_reply_to_user_id": "1823627138622480384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 905,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1864656400322068909",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ybb040630 我就事论事就是破防了怎么不管管评论区那些你真真破防的野爹呢😂👍🏻"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-22T20:03:01.000Z",
+        "description": "“为什么要伤心 难道你的生活还不够可笑吗？”",
+        "id": "1561806114274287616",
+        "location": "今天也辛苦了.",
+        "name": "AZ.",
+        "pinned_tweet_id": "1725205374507368558",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778090792390959104/-k1xKj1N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 21,
+          "like_count": 75,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 96
+        },
+        "username": "crossyangshe",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-14T03:45:25.000Z",
+        "description": "Puppy ☆₊⁺🦴🐾₊⁺★| @CreativeAbuser｜回礼貌私信 发屌骂我默认死全家 我骂人会特别难听｜小女孩萌都请和我玩🫰🏻｜有🚪88无封顶 话多拉黑｜不接推广勿扰｜自用vpn🚀：https://t.co/qnNfZJRhn5",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 16,
+                "username": "CreativeAbuser"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "wwwwwl.sogood9.com/#/register?cod…",
+                "end": 119,
+                "expanded_url": "https://wwwwwl.sogood9.com/#/register?code=U1foS9wp",
+                "start": 96,
+                "url": "https://t.co/qnNfZJRhn5"
+              }
+            ]
+          }
+        },
+        "id": "1668826909235372037",
+        "location": "皇宫",
+        "name": "Koi7",
+        "pinned_tweet_id": "1856278702218252712",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842101023420325888/15UkzyZc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27147,
+          "following_count": 370,
+          "like_count": 51565,
+          "listed_count": 70,
+          "media_count": 197,
+          "tweet_count": 11369
+        },
+        "username": "Tailmating",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-14T07:46:22.000Z",
+        "description": "",
+        "id": "1823627138622480384",
+        "location": "哈尔滨",
+        "name": "等天明",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855112484589649924/UR50_6hI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 28,
+          "like_count": 23,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 111
+        },
+        "username": "ybb040630",
+        "verified": false
+      }
+    ]
+  }
+}

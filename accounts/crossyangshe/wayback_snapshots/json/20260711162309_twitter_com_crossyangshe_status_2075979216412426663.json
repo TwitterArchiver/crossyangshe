@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561806114274287616",
+    "conversation_id": "2075958204555825155",
+    "created_at": "2026-07-11T16:23:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T17:23:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075979216412426663"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2044236966254821377",
+          "start": 0,
+          "username": "QiuFu161"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075979216412426663",
+    "in_reply_to_user_id": "2044236966254821377",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075975718841057749",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@QiuFu161 感觉要好吞一点，喝水都送服"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561806114274287616",
+        "conversation_id": "2075958204555825155",
+        "created_at": "2026-07-11T16:23:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T17:23:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075979216412426663"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2044236966254821377",
+              "start": 0,
+              "username": "QiuFu161"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075979216412426663",
+        "in_reply_to_user_id": "2044236966254821377",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075975718841057749",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QiuFu161 感觉要好吞一点，喝水都送服"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044236966254821377",
+        "conversation_id": "2075958204555825155",
+        "created_at": "2026-07-11T16:09:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T17:09:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075975718841057749"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1561806114274287616",
+              "start": 0,
+              "username": "crossyangshe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075975718841057749",
+        "in_reply_to_user_id": "1561806114274287616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075958204555825155",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@crossyangshe 这个是新康泰克的🌽吗，是不是比云药的那个好吞啊，这个看起来表面好光滑"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-22T20:03:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "你们好呀，我是az！成分：重抑中焦/od/自傷/自殺念头/infp-t/音游/二游（不怎么玩了）/端游（Steam上面的单机和一些网游）/像素RPG/galgame/喜欢术力口（初音 可不 歌爱雪）/看番/看漫画。\n没有什么特别的的主推喜欢的东西太多啦\n同类群1053339675\n目前失业中~欢迎互fo，我爱你们！❤️",
+        "id": "1561806114274287616",
+        "location": "地狱",
+        "name": "AZ.",
+        "pinned_tweet_id": "2075487277191733409",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778090792390959104/-k1xKj1N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 469,
+          "following_count": 399,
+          "like_count": 2645,
+          "listed_count": 0,
+          "media_count": 100,
+          "tweet_count": 757
+        },
+        "url": "",
+        "username": "crossyangshe",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-15T02:11:16.000Z",
+        "description": "两次自杀失败被抢救的废物//原@chuyinweilai114@06auser\n//最强战绩：32400mgpr+100t安乃近片//单推有史以来世界最伟大加速倒车帝庆丰包子铺总书记习近平宝宝",
+        "id": "2044236966254821377",
+        "name": "yice",
+        "pinned_tweet_id": "2073203496095252658",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075301904578650112/x1XfixFT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 156,
+          "following_count": 97,
+          "like_count": 125,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 35
+        },
+        "url": "",
+        "username": "QiuFu161",
+        "verified": false
+      }
+    ]
+  }
+}

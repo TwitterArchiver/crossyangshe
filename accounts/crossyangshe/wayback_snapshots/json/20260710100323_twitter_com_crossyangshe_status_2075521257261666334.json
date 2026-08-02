@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561806114274287616",
+    "conversation_id": "2075510376289165468",
+    "created_at": "2026-07-10T10:03:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T11:03:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075521257261666334"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1889861257",
+          "start": 0,
+          "username": "__summer__sea__"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075521257261666334",
+    "in_reply_to_user_id": "1889861257",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075510376289165468",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@__summer__sea__ 现在药店没有医院开的处方都不能买了……"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2075510344357937152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM2xqWMagAApUBx.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561806114274287616",
+        "conversation_id": "2075510376289165468",
+        "created_at": "2026-07-10T10:03:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T11:03:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075521257261666334"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1889861257",
+              "start": 0,
+              "username": "__summer__sea__"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075521257261666334",
+        "in_reply_to_user_id": "1889861257",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075510376289165468",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@__summer__sea__ 现在药店没有医院开的处方都不能买了……"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075510344357937152"
+          ]
+        },
+        "author_id": "1889861257",
+        "conversation_id": "2075510376289165468",
+        "created_at": "2026-07-10T09:20:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T10:20:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075510376289165468"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oipbdFh77w",
+              "end": 45,
+              "expanded_url": "https://x.com/__summer__sea__/status/2075510376289165468/photo/1",
+              "media_key": "3_2075510344357937152",
+              "start": 22,
+              "url": "https://t.co/oipbdFh77w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075510376289165468",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 129,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在药店看到的，当天降下神罚，没有人能够避免 https://t.co/oipbdFh77w"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-22T20:03:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "你们好呀，我是az！成分：重抑中焦/od/自傷/自殺念头/infp-t/音游/二游（不怎么玩了）/端游（Steam上面的单机和一些网游）/日式像素RPG/galgame/喜欢术力口（初音 可不 歌爱雪）/看番/看漫画。\n没有什么特别的的主推，因为是成分太复杂，喜欢的东西太多啦！\n目前失业中~欢迎互fo，我爱你们！❤️",
+        "id": "1561806114274287616",
+        "location": "地狱",
+        "name": "AZ.",
+        "pinned_tweet_id": "2074534939966713943",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778090792390959104/-k1xKj1N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 440,
+          "following_count": 386,
+          "like_count": 2483,
+          "listed_count": 0,
+          "media_count": 91,
+          "tweet_count": 727
+        },
+        "url": "",
+        "username": "crossyangshe",
+        "verified": true
+      },
+      {
+        "created_at": "2013-09-21T11:07:58.000Z",
+        "description": "神户盐｜16岁｜护理专业｜渴望有人能拯救我｜情感淡漠｜家长不管党｜匿名:https://t.co/kXreZylfPF｜Q:3755457720｜我的tg:https://t.co/1e7qTaQHLq｜",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yan14866",
+                "end": 59,
+                "expanded_url": "https://ngl.link/yan14866",
+                "start": 36,
+                "url": "https://t.co/kXreZylfPF"
+              },
+              {
+                "display_url": "t.me/brentcruz106",
+                "end": 101,
+                "expanded_url": "https://t.me/brentcruz106",
+                "start": 78,
+                "url": "https://t.co/1e7qTaQHLq"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/brentcruz106",
+                "end": 23,
+                "expanded_url": "https://t.me/brentcruz106",
+                "start": 0,
+                "url": "https://t.co/1e7qTaQHLq"
+              }
+            ]
+          }
+        },
+        "id": "1889861257",
+        "name": "盐🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061179467889074177/WoZoQ9BB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1196,
+          "following_count": 1067,
+          "like_count": 8915,
+          "listed_count": 2,
+          "media_count": 198,
+          "tweet_count": 2882
+        },
+        "url": "https://t.co/1e7qTaQHLq",
+        "username": "__summer__sea__",
+        "verified": false
+      }
+    ]
+  }
+}

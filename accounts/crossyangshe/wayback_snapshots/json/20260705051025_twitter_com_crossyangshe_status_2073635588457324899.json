@@ -1,0 +1,110 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561806114274287616",
+    "conversation_id": "2073635588457324899",
+    "created_at": "2026-07-05T05:10:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T06:10:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2073635588457324899"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2073635588457324899",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "az其实最喜欢薄荷味的爆珠烟，凉烟也可以，所以万宝路黑冰是az的最爱 一般便利店也能买到，黄鹤楼八度也不错就是烧的太快了，万宝路黑冰真的烧的很慢可以抽很久这点好评！大观园的话太贵了而且是细支的，其他的az很少抽，但是az觉得抽烟必须要有那种凉凉的冰凉的感觉呀！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561806114274287616",
+        "conversation_id": "2073635588457324899",
+        "created_at": "2026-07-05T05:10:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T06:10:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073635588457324899"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2073635588457324899",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "az其实最喜欢薄荷味的爆珠烟，凉烟也可以，所以万宝路黑冰是az的最爱 一般便利店也能买到，黄鹤楼八度也不错就是烧的太快了，万宝路黑冰真的烧的很慢可以抽很久这点好评！大观园的话太贵了而且是细支的，其他的az很少抽，但是az觉得抽烟必须要有那种凉凉的冰凉的感觉呀！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-22T20:03:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "你们好呀，我是az！成分：重抑中焦/od/自傷/自殺念头/infp-t/音游/二游（不怎么玩了）/端游（Steam上面的单机和一些网游）/日式像素RPG/galgame/喜欢术力口（初音 可不 歌爱雪）/看番/看漫画。\n没有什么特别的的主推，因为是成分太复杂，喜欢的东西太多啦！\n目前失业中~欢迎互fo，我爱你们！❤️",
+        "id": "1561806114274287616",
+        "location": "地狱",
+        "name": "AZ.",
+        "pinned_tweet_id": "2061092260226502954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778090792390959104/-k1xKj1N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 244,
+          "following_count": 317,
+          "like_count": 1647,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 530
+        },
+        "url": "",
+        "username": "crossyangshe",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2074184475345661952"
+      ]
+    },
+    "author_id": "1561806114274287616",
+    "conversation_id": "2061092260226502954",
+    "created_at": "2026-07-06T17:31:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T18:31:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074184556509569354"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/qCiIebjsHH",
+          "end": 31,
+          "expanded_url": "https://x.com/crossyangshe/status/2074184556509569354/photo/1",
+          "media_key": "3_2074184475345661952",
+          "start": 8,
+          "url": "https://t.co/qCiIebjsHH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074184556509569354",
+    "in_reply_to_user_id": "1561806114274287616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074183364798796022",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "窝趣了是真的！ https://t.co/qCiIebjsHH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2400,
+        "media_key": "3_2074184475345661952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMj7ynObsAAo7aK.jpg",
+        "width": 1080
+      },
+      {
+        "height": 881,
+        "media_key": "3_2074183136569913344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMj6kr5a8AAquJh.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074184475345661952"
+          ]
+        },
+        "author_id": "1561806114274287616",
+        "conversation_id": "2061092260226502954",
+        "created_at": "2026-07-06T17:31:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T18:31:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074184556509569354"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qCiIebjsHH",
+              "end": 31,
+              "expanded_url": "https://x.com/crossyangshe/status/2074184556509569354/photo/1",
+              "media_key": "3_2074184475345661952",
+              "start": 8,
+              "url": "https://t.co/qCiIebjsHH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074184556509569354",
+        "in_reply_to_user_id": "1561806114274287616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074183364798796022",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "窝趣了是真的！ https://t.co/qCiIebjsHH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074183136569913344"
+          ]
+        },
+        "author_id": "1561806114274287616",
+        "conversation_id": "2061092260226502954",
+        "created_at": "2026-07-06T17:27:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T18:27:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074183364798796022"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SftvGRAc6f",
+              "end": 73,
+              "expanded_url": "https://x.com/crossyangshe/status/2074183364798796022/photo/1",
+              "media_key": "3_2074183136569913344",
+              "start": 50,
+              "url": "https://t.co/SftvGRAc6f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074183364798796022",
+        "in_reply_to_user_id": "1561806114274287616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061092260226502954",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不是这什么鬼？一年份的蓝标，这个人是何方神圣？好运气降临到az身上了？az简直不敢相信自己的眼睛！ https://t.co/SftvGRAc6f"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-22T20:03:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "你们好呀，我是az！成分：重抑中焦/od/自傷/自殺念头/infp-t/音游/二游（不怎么玩了）/端游（Steam上面的单机和一些网游）/日式像素RPG/galgame/喜欢术力口（初音 可不 歌爱雪）/看番/看漫画。\n没有什么特别的的主推，因为是成分太复杂，喜欢的东西太多啦！\n目前失业中~欢迎互fo，我爱你们！❤️",
+        "id": "1561806114274287616",
+        "location": "地狱",
+        "name": "AZ.",
+        "pinned_tweet_id": "2061092260226502954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778090792390959104/-k1xKj1N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 320,
+          "following_count": 346,
+          "like_count": 1906,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 601
+        },
+        "url": "",
+        "username": "crossyangshe",
+        "verified": true
+      }
+    ]
+  }
+}

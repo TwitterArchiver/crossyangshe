@@ -1,0 +1,149 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561806114274287616",
+    "conversation_id": "2076979429151240314",
+    "created_at": "2026-07-14T13:25:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T14:25:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077021697832874394"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2077021697832874394",
+    "in_reply_to_user_id": "1561806114274287616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077014745543242223",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "21：22 闭眼眼睛到处都是幻觉，看见好多人在战斗，az受不了了！好多幻觉，然后带上耳机听了一首歌，放了一首薛之谦的《病态》，这首歌就是az的状态一样！好爽飞了！闭上眼睛看见天堂！！！爽爽爽！，想下车但是这个高剂量的普瑞让az爽的不得了啊啊啊！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561806114274287616",
+        "conversation_id": "2076979429151240314",
+        "created_at": "2026-07-14T13:25:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T14:25:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077021697832874394"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2077021697832874394",
+        "in_reply_to_user_id": "1561806114274287616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077014745543242223",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "21：22 闭眼眼睛到处都是幻觉，看见好多人在战斗，az受不了了！好多幻觉，然后带上耳机听了一首歌，放了一首薛之谦的《病态》，这首歌就是az的状态一样！好爽飞了！闭上眼睛看见天堂！！！爽爽爽！，想下车但是这个高剂量的普瑞让az爽的不得了啊啊啊！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561806114274287616",
+        "conversation_id": "2076979429151240314",
+        "created_at": "2026-07-14T12:57:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T13:57:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077014745543242223"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2077014745543242223",
+        "in_reply_to_user_id": "1561806114274287616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 55,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077010286406754743",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "20：55 大量普瑞已经开始药效了，躺在地上可以看见幻觉，然后就是天花板在转az在转，地板在转，然后抖得不得了床单缩成一团，听说吃完普瑞冲一下会很爽，但是az对涩涩不是很感兴趣，要不要试一下QAQ……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-22T20:03:01.000Z",
+        "description": "你们好呀，我是az！成分：重抑中焦/od/自傷/自殺念头/infp-t/音游/二游（不怎么玩了）/端游（Steam上面的单机和一些网游）/像素RPG/galgame/喜欢术力口（初音 可不 歌爱雪）/看番/看漫画。\n没有什么特别的的主推喜欢的东西太多啦\n同类群1053339675\n目前失业中~欢迎互fo，我爱你们！❤️",
+        "id": "1561806114274287616",
+        "location": "失乐园",
+        "name": "AZ.",
+        "pinned_tweet_id": "2075487277191733409",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778090792390959104/-k1xKj1N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 549,
+          "following_count": 425,
+          "like_count": 2929,
+          "listed_count": 0,
+          "media_count": 108,
+          "tweet_count": 844
+        },
+        "url": "",
+        "username": "crossyangshe",
+        "verified": true
+      }
+    ]
+  }
+}

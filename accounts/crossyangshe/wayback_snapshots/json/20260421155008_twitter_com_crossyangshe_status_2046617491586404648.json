@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561806114274287616",
+    "conversation_id": "2046509242275037312",
+    "created_at": "2026-04-21T15:50:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T16:50:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046617491586404648"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2029908828125548546",
+          "start": 0,
+          "username": "bui_tu46916"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046617491586404648",
+    "in_reply_to_user_id": "2029908828125548546",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046509242275037312",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bui_tu46916 1000年后……这个世界又会剩下什么呢QAQ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561806114274287616",
+        "conversation_id": "2046509242275037312",
+        "created_at": "2026-04-21T15:50:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T16:50:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046617491586404648"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2029908828125548546",
+              "start": 0,
+              "username": "bui_tu46916"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046617491586404648",
+        "in_reply_to_user_id": "2029908828125548546",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046509242275037312",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bui_tu46916 1000年后……这个世界又会剩下什么呢QAQ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029908828125548546",
+        "conversation_id": "2046509242275037312",
+        "created_at": "2026-04-21T08:40:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T09:40:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046509242275037312"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2046509242275037312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 5593,
+          "like_count": 68,
+          "quote_count": 4,
+          "reply_count": 29,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "5年，5年以后o圈还有什么？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-22T20:03:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "窝是恶魔羊AZ.#小恶魔系#术力口#galgame#会看vtuber#明日方舟，最近有玩终末地#严重网瘾Steam端游手游都玩#看番，有时候感觉这辈子有了......因为吃了奇怪的药和痛苦的经历我失去了好多记忆，如果不是有人告诉我可能不会再想起......但是还是忘了好多性格也变了。可以找窝一起打游戏和wyy听歌呐~",
+        "id": "1561806114274287616",
+        "location": "地狱",
+        "name": "AZ.",
+        "pinned_tweet_id": "1725205374507368558",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778090792390959104/-k1xKj1N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 12,
+          "like_count": 40,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 24
+        },
+        "username": "crossyangshe",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-06T13:16:07.000Z",
+        "description": "你好/不见证/可能od/",
+        "id": "2029908828125548546",
+        "location": "普瑞巴林行动小组",
+        "name": "EXPcat",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040793488061861888/h0unB2hS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 234,
+          "following_count": 201,
+          "like_count": 171,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 608
+        },
+        "username": "bui_tu46916",
+        "verified": false
+      }
+    ]
+  }
+}

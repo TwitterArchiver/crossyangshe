@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2080273493309227010"
+      ]
+    },
+    "author_id": "1561806114274287616",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2080273502347854319",
+    "created_at": "2026-07-23T12:47:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T13:47:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080273502347854319"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/aYKdKryCgd",
+          "end": 50,
+          "expanded_url": "https://x.com/crossyangshe/status/2080273502347854319/photo/1",
+          "media_key": "3_2080273493309227010",
+          "start": 27,
+          "url": "https://t.co/aYKdKryCgd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080273502347854319",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "話說在漫展上面cos尼古喵喵是不是就有抽不完的煙了？ https://t.co/aYKdKryCgd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2080273493309227010",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN6duGxbgAIIdwA.jpg",
+        "width": 3075
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080273493309227010"
+          ]
+        },
+        "author_id": "1561806114274287616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2080273502347854319",
+        "created_at": "2026-07-23T12:47:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T13:47:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080273502347854319"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aYKdKryCgd",
+              "end": 50,
+              "expanded_url": "https://x.com/crossyangshe/status/2080273502347854319/photo/1",
+              "media_key": "3_2080273493309227010",
+              "start": 27,
+              "url": "https://t.co/aYKdKryCgd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080273502347854319",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "話說在漫展上面cos尼古喵喵是不是就有抽不完的煙了？ https://t.co/aYKdKryCgd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-22T20:03:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Changsha, Hunan, China",
+              "geo": {
+                "coordinates": [
+                  112.97087,
+                  28.19874
+                ],
+                "type": "Point"
+              },
+              "locality": "Changsha",
+              "region": "Hunan"
+            }
+          ]
+        },
+        "description": "你們好呀，我是az！成分：重抑中焦/od/自傷/自殺念頭/infp-t/音遊/二游（不怎麼玩了）/端遊（Steam上面的單機和一些網遊）/像素RPG/galgame/喜歡術力口（初音 可不 歌愛雪）/看番/看漫畫。\n戀人：@congng1327122\n小號：@confessAZ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 125,
+                "start": 111,
+                "username": "congng1327122"
+              },
+              {
+                "end": 139,
+                "start": 129,
+                "username": "confessAZ"
+              }
+            ]
+          }
+        },
+        "id": "1561806114274287616",
+        "location": "長沙",
+        "name": "AZ.",
+        "pinned_tweet_id": "2075487277191733409",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778090792390959104/-k1xKj1N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 615,
+          "following_count": 442,
+          "like_count": 3290,
+          "listed_count": 1,
+          "media_count": 121,
+          "tweet_count": 914
+        },
+        "url": "",
+        "username": "crossyangshe",
+        "verified": true
+      }
+    ]
+  }
+}

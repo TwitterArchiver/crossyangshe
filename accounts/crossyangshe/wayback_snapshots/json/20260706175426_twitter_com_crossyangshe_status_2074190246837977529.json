@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2074190212398534656",
+        "3_2074190212381679616"
+      ]
+    },
+    "author_id": "1561806114274287616",
+    "conversation_id": "2074190246837977529",
+    "created_at": "2026-07-06T17:54:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T18:54:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074190246837977529"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/aAihfPHPf2",
+          "end": 73,
+          "expanded_url": "https://x.com/crossyangshe/status/2074190246837977529/photo/1",
+          "media_key": "3_2074190212398534656",
+          "start": 50,
+          "url": "https://t.co/aAihfPHPf2"
+        },
+        {
+          "display_url": "pic.x.com/aAihfPHPf2",
+          "end": 73,
+          "expanded_url": "https://x.com/crossyangshe/status/2074190246837977529/photo/1",
+          "media_key": "3_2074190212381679616",
+          "start": 50,
+          "url": "https://t.co/aAihfPHPf2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074190246837977529",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "不是这什么鬼？一年份的蓝标，这个人是何方神圣？好运气降临到az身上了？az简直不敢相信自己的眼睛！ https://t.co/aAihfPHPf2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 881,
+        "media_key": "3_2074190212398534656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMkBAjabUAAui2W.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2400,
+        "media_key": "3_2074190212381679616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMkBAjWaIAALG7z.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074190212398534656",
+            "3_2074190212381679616"
+          ]
+        },
+        "author_id": "1561806114274287616",
+        "conversation_id": "2074190246837977529",
+        "created_at": "2026-07-06T17:54:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T18:54:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074190246837977529"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aAihfPHPf2",
+              "end": 73,
+              "expanded_url": "https://x.com/crossyangshe/status/2074190246837977529/photo/1",
+              "media_key": "3_2074190212398534656",
+              "start": 50,
+              "url": "https://t.co/aAihfPHPf2"
+            },
+            {
+              "display_url": "pic.x.com/aAihfPHPf2",
+              "end": 73,
+              "expanded_url": "https://x.com/crossyangshe/status/2074190246837977529/photo/1",
+              "media_key": "3_2074190212381679616",
+              "start": 50,
+              "url": "https://t.co/aAihfPHPf2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074190246837977529",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不是这什么鬼？一年份的蓝标，这个人是何方神圣？好运气降临到az身上了？az简直不敢相信自己的眼睛！ https://t.co/aAihfPHPf2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-22T20:03:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "你们好呀，我是az！成分：重抑中焦/od/自傷/自殺念头/infp-t/音游/二游（不怎么玩了）/端游（Steam上面的单机和一些网游）/日式像素RPG/galgame/喜欢术力口（初音 可不 歌爱雪）/看番/看漫画。\n没有什么特别的的主推，因为是成分太复杂，喜欢的东西太多啦！\n目前失业中~欢迎互fo，我爱你们！❤️",
+        "id": "1561806114274287616",
+        "location": "地狱",
+        "name": "AZ.",
+        "pinned_tweet_id": "2061092260226502954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778090792390959104/-k1xKj1N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 320,
+          "following_count": 347,
+          "like_count": 1924,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 601
+        },
+        "url": "",
+        "username": "crossyangshe",
+        "verified": true
+      }
+    ]
+  }
+}

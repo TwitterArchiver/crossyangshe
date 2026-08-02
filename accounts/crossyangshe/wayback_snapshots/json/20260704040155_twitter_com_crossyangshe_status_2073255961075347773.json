@@ -1,0 +1,349 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1861772845128482816",
+        "3_1861772847682912256",
+        "3_1861772853466836992",
+        "3_1861772860467113984"
+      ],
+      "media_source_tweet_id": [
+        "1861772867106636056",
+        "1861772867106636056",
+        "1861772867106636056",
+        "1861772867106636056"
+      ]
+    },
+    "author_id": "1561806114274287616",
+    "conversation_id": "2073255961075347773",
+    "created_at": "2026-07-04T04:01:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T05:01:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073255961075347773"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1620279272467476481",
+          "start": 3,
+          "username": "jackeynight1"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/z3LPS0lMBT",
+          "end": 48,
+          "expanded_url": "https://x.com/jackeynight1/status/1861772867106636056/photo/1",
+          "media_key": "3_1861772845128482816",
+          "start": 25,
+          "url": "https://t.co/z3LPS0lMBT"
+        },
+        {
+          "display_url": "pic.x.com/z3LPS0lMBT",
+          "end": 48,
+          "expanded_url": "https://x.com/jackeynight1/status/1861772867106636056/photo/1",
+          "media_key": "3_1861772847682912256",
+          "start": 25,
+          "url": "https://t.co/z3LPS0lMBT"
+        },
+        {
+          "display_url": "pic.x.com/z3LPS0lMBT",
+          "end": 48,
+          "expanded_url": "https://x.com/jackeynight1/status/1861772867106636056/photo/1",
+          "media_key": "3_1861772853466836992",
+          "start": 25,
+          "url": "https://t.co/z3LPS0lMBT"
+        },
+        {
+          "display_url": "pic.x.com/z3LPS0lMBT",
+          "end": 48,
+          "expanded_url": "https://x.com/jackeynight1/status/1861772867106636056/photo/1",
+          "media_key": "3_1861772860467113984",
+          "start": 25,
+          "url": "https://t.co/z3LPS0lMBT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073255961075347773",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1861772867106636056",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jackeynight1: 请也要喜欢我 https://t.co/z3LPS0lMBT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 360,
+        "media_key": "3_1861772845128482816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GdZYid5aAAA8Pw1.jpg",
+        "width": 327
+      },
+      {
+        "height": 1295,
+        "media_key": "3_1861772847682912256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GdZYinabgAAI6-I.jpg",
+        "width": 950
+      },
+      {
+        "height": 1024,
+        "media_key": "3_1861772853466836992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GdZYi89bMAA5lNh.jpg",
+        "width": 1638
+      },
+      {
+        "height": 1080,
+        "media_key": "3_1861772860467113984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GdZYjXCa8AA6jnv.jpg",
+        "width": 1308
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1861772845128482816",
+            "3_1861772847682912256",
+            "3_1861772853466836992",
+            "3_1861772860467113984"
+          ],
+          "media_source_tweet_id": [
+            "1861772867106636056",
+            "1861772867106636056",
+            "1861772867106636056",
+            "1861772867106636056"
+          ]
+        },
+        "author_id": "1561806114274287616",
+        "conversation_id": "2073255961075347773",
+        "created_at": "2026-07-04T04:01:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T05:01:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073255961075347773"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1620279272467476481",
+              "start": 3,
+              "username": "jackeynight1"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/z3LPS0lMBT",
+              "end": 48,
+              "expanded_url": "https://x.com/jackeynight1/status/1861772867106636056/photo/1",
+              "media_key": "3_1861772845128482816",
+              "start": 25,
+              "url": "https://t.co/z3LPS0lMBT"
+            },
+            {
+              "display_url": "pic.x.com/z3LPS0lMBT",
+              "end": 48,
+              "expanded_url": "https://x.com/jackeynight1/status/1861772867106636056/photo/1",
+              "media_key": "3_1861772847682912256",
+              "start": 25,
+              "url": "https://t.co/z3LPS0lMBT"
+            },
+            {
+              "display_url": "pic.x.com/z3LPS0lMBT",
+              "end": 48,
+              "expanded_url": "https://x.com/jackeynight1/status/1861772867106636056/photo/1",
+              "media_key": "3_1861772853466836992",
+              "start": 25,
+              "url": "https://t.co/z3LPS0lMBT"
+            },
+            {
+              "display_url": "pic.x.com/z3LPS0lMBT",
+              "end": 48,
+              "expanded_url": "https://x.com/jackeynight1/status/1861772867106636056/photo/1",
+              "media_key": "3_1861772860467113984",
+              "start": 25,
+              "url": "https://t.co/z3LPS0lMBT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073255961075347773",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1861772867106636056",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @jackeynight1: 请也要喜欢我 https://t.co/z3LPS0lMBT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1861772845128482816",
+            "3_1861772847682912256",
+            "3_1861772853466836992",
+            "3_1861772860467113984"
+          ]
+        },
+        "author_id": "1620279272467476481",
+        "conversation_id": "1861772867106636056",
+        "created_at": "2024-11-27T14:03:36.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-27T15:03:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1861772867106636056"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/z3LPS0lMBT",
+              "end": 30,
+              "expanded_url": "https://x.com/jackeynight1/status/1861772867106636056/photo/1",
+              "media_key": "3_1861772845128482816",
+              "start": 7,
+              "url": "https://t.co/z3LPS0lMBT"
+            },
+            {
+              "display_url": "pic.x.com/z3LPS0lMBT",
+              "end": 30,
+              "expanded_url": "https://x.com/jackeynight1/status/1861772867106636056/photo/1",
+              "media_key": "3_1861772847682912256",
+              "start": 7,
+              "url": "https://t.co/z3LPS0lMBT"
+            },
+            {
+              "display_url": "pic.x.com/z3LPS0lMBT",
+              "end": 30,
+              "expanded_url": "https://x.com/jackeynight1/status/1861772867106636056/photo/1",
+              "media_key": "3_1861772853466836992",
+              "start": 7,
+              "url": "https://t.co/z3LPS0lMBT"
+            },
+            {
+              "display_url": "pic.x.com/z3LPS0lMBT",
+              "end": 30,
+              "expanded_url": "https://x.com/jackeynight1/status/1861772867106636056/photo/1",
+              "media_key": "3_1861772860467113984",
+              "start": 7,
+              "url": "https://t.co/z3LPS0lMBT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1861772867106636056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 5198,
+          "like_count": 20,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "请也要喜欢我 https://t.co/z3LPS0lMBT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-22T20:03:01.000Z",
+        "description": "az，非健全人，努力生存中，希望有人关注我",
+        "id": "1561806114274287616",
+        "location": "地狱",
+        "name": "AZ.",
+        "pinned_tweet_id": "2061092260226502954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778090792390959104/-k1xKj1N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 220,
+          "following_count": 289,
+          "like_count": 1373,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 455
+        },
+        "url": "",
+        "username": "crossyangshe",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-31T04:35:09.000Z",
+        "description": "这个人很懒所以几乎没有留下什么介绍...⭕dm＃惰天使＃od＃自伤 cn夕颜",
+        "id": "1620279272467476481",
+        "location": "天国",
+        "name": "夕颜",
+        "pinned_tweet_id": "1861772867106636056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998729382849032194/g1FkyEWQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 480,
+          "following_count": 467,
+          "like_count": 15932,
+          "listed_count": 1,
+          "media_count": 459,
+          "tweet_count": 8729
+        },
+        "url": "",
+        "username": "jackeynight1",
+        "verified": false
+      }
+    ]
+  }
+}

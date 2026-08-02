@@ -1,0 +1,25 @@
+{
+  "name": "AZ.",
+  "username": "@crossyangshe",
+  "bio": "你們好呀，我是az！成分：重抑中焦/od/自傷/自殺念頭/infp-t/音遊/二游（不怎麼玩了）/端遊（Steam上面的單機和一些網遊）/像素RPG/galgame/喜歡術力口（初音 可不 歌愛雪）/看番/看漫畫。 戀人：@congng1327122 小號：@confessAZ",
+  "location": "長沙",
+  "link": "",
+  "avatar": "avatar/avatar.jpg",
+  "banner": "avatar/1500x500.jpg",
+  "pinned": "",
+  "bio_entities": {
+    "mentions": [
+      {
+        "end": 125,
+        "start": 111,
+        "username": "congng1327122"
+      },
+      {
+        "end": 139,
+        "start": 129,
+        "username": "confessAZ"
+      }
+    ]
+  },
+  "_avatar_source": "https://pbs.twimg.com/profile_images/1778090792390959104/-k1xKj1N_normal.jpg"
+}

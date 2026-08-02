@@ -1,0 +1,334 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2080558199925854208",
+        "3_2080558207559409665"
+      ]
+    },
+    "author_id": "1561806114274287616",
+    "conversation_id": "2080558214668816384",
+    "created_at": "2026-07-24T07:38:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T08:38:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080558214668816384"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2010357366466990080",
+          "start": 0,
+          "username": "shennaichuan_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/8FX5W1ZCNH",
+          "end": 38,
+          "expanded_url": "https://x.com/crossyangshe/status/2080558214668816384/photo/1",
+          "media_key": "3_2080558199925854208",
+          "start": 15,
+          "url": "https://t.co/8FX5W1ZCNH"
+        },
+        {
+          "display_url": "pic.x.com/8FX5W1ZCNH",
+          "end": 38,
+          "expanded_url": "https://x.com/crossyangshe/status/2080558214668816384/photo/1",
+          "media_key": "3_2080558207559409665",
+          "start": 15,
+          "url": "https://t.co/8FX5W1ZCNH"
+        },
+        {
+          "display_url": "x.com/shennaichuan_/…",
+          "end": 62,
+          "expanded_url": "https://twitter.com/shennaichuan_/status/2080241070341013834",
+          "start": 39,
+          "url": "https://t.co/RIEQN1wVbX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080558214668816384",
+    "in_reply_to_user_id": "2010357366466990080",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {
+        "mentions": [
+          {
+            "end": 14,
+            "id": "2010357366466990080",
+            "start": 0,
+            "username": "shennaichuan_"
+          }
+        ]
+      },
+      "text": "@shennaichuan_ 这年头连求助文案都要搬运拿来向大家求助吗？你甚至只改了当中几个字，“5000百fo”又是什么东西？az当时刷到你的帖子的时候突然觉得好熟悉的文字，转念仔细一看这不是az之前向大家求助的内容吗？如果你是真的困难，应该诚恳的写一份求助文案来向大家求助，而不是直接复制az的文案你甚至没有帮az转发az的帖子。当时的处境是az真的要活不下去了，想了很久才不好意思的向大家求助，收到的每一分钱都有负罪感，前几天买的西酞普兰甚至都是小愈赞助给az的，平时吃饭生活也一直用的是京东，因为病的很严重而无法去工作。az有给大家好好测评药物甚至建了一个群来教大家怎么吃药，az之前账号被冻结的时间里甚至崩溃到无法好好生活，你是觉得欺负az是精神病不认识字还是怎么样，虽然az随时都有可能死去，但是我讨厌你。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080241070341013834",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shennaichuan_ https://t.co/8FX5W1ZCNH https://t.co/RIEQN1wVbX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2400,
+        "media_key": "3_2080558199925854208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN-gqNkbUAAL56L.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2400,
+        "media_key": "3_2080558207559409665",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN-gqqAaIAEx7Zn.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2030,
+        "media_key": "3_2080241061654626304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN6AOVcbAAARacJ.jpg",
+        "width": 1490
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080558199925854208",
+            "3_2080558207559409665"
+          ]
+        },
+        "author_id": "1561806114274287616",
+        "conversation_id": "2080558214668816384",
+        "created_at": "2026-07-24T07:38:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T08:38:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080558214668816384"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2010357366466990080",
+              "start": 0,
+              "username": "shennaichuan_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8FX5W1ZCNH",
+              "end": 38,
+              "expanded_url": "https://x.com/crossyangshe/status/2080558214668816384/photo/1",
+              "media_key": "3_2080558199925854208",
+              "start": 15,
+              "url": "https://t.co/8FX5W1ZCNH"
+            },
+            {
+              "display_url": "pic.x.com/8FX5W1ZCNH",
+              "end": 38,
+              "expanded_url": "https://x.com/crossyangshe/status/2080558214668816384/photo/1",
+              "media_key": "3_2080558207559409665",
+              "start": 15,
+              "url": "https://t.co/8FX5W1ZCNH"
+            },
+            {
+              "display_url": "x.com/shennaichuan_/…",
+              "end": 62,
+              "expanded_url": "https://twitter.com/shennaichuan_/status/2080241070341013834",
+              "start": 39,
+              "url": "https://t.co/RIEQN1wVbX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080558214668816384",
+        "in_reply_to_user_id": "2010357366466990080",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 14,
+                "id": "2010357366466990080",
+                "start": 0,
+                "username": "shennaichuan_"
+              }
+            ]
+          },
+          "text": "@shennaichuan_ 这年头连求助文案都要搬运拿来向大家求助吗？你甚至只改了当中几个字，“5000百fo”又是什么东西？az当时刷到你的帖子的时候突然觉得好熟悉的文字，转念仔细一看这不是az之前向大家求助的内容吗？如果你是真的困难，应该诚恳的写一份求助文案来向大家求助，而不是直接复制az的文案你甚至没有帮az转发az的帖子。当时的处境是az真的要活不下去了，想了很久才不好意思的向大家求助，收到的每一分钱都有负罪感，前几天买的西酞普兰甚至都是小愈赞助给az的，平时吃饭生活也一直用的是京东，因为病的很严重而无法去工作。az有给大家好好测评药物甚至建了一个群来教大家怎么吃药，az之前账号被冻结的时间里甚至崩溃到无法好好生活，你是觉得欺负az是精神病不认识字还是怎么样，虽然az随时都有可能死去，但是我讨厌你。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080241070341013834",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shennaichuan_ https://t.co/8FX5W1ZCNH https://t.co/RIEQN1wVbX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080241061654626304"
+          ]
+        },
+        "author_id": "2010357366466990080",
+        "conversation_id": "2080241070341013834",
+        "created_at": "2026-07-23T10:38:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T11:38:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080241070341013834"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1IjTZWBVkM",
+              "end": 161,
+              "expanded_url": "https://x.com/shennaichuan_/status/2080241070341013834/photo/1",
+              "media_key": "3_2080241061654626304",
+              "start": 138,
+              "url": "https://t.co/1IjTZWBVkM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080241070341013834",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1567,
+          "like_count": 27,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "我没有钱吃饭了，找过很多工作都被拒绝了，不省着一点花我可能要死了，第一次向大家求助，原本还想着等5000百fo给大家抽奖，看来可以要等到我找到工作了……希望大家可以帮我一下，一分一块钱两块钱都没有关系的一分（实在困难的帮忙转发一下也可以），资助我的钱都是常生活吃饭和生活开销 https://t.co/1IjTZWBVkM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-22T20:03:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Changsha, Hunan, China",
+              "geo": {
+                "coordinates": [
+                  112.97087,
+                  28.19874
+                ],
+                "type": "Point"
+              },
+              "locality": "Changsha",
+              "region": "Hunan"
+            }
+          ]
+        },
+        "description": "你們好呀，我是az！成分：重抑中焦/od/自傷/自殺念頭/infp-t/音遊/二游（不怎麼玩了）/端遊（Steam上面的單機和一些網遊）/像素RPG/galgame/喜歡術力口（初音 可不 歌愛雪）/看番/看漫畫。\n戀人：@congng1327122\n小號：@confessAZ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 125,
+                "start": 111,
+                "username": "congng1327122"
+              },
+              {
+                "end": 139,
+                "start": 129,
+                "username": "confessAZ"
+              }
+            ]
+          }
+        },
+        "id": "1561806114274287616",
+        "location": "長沙",
+        "name": "AZ.",
+        "pinned_tweet_id": "2075487277191733409",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778090792390959104/-k1xKj1N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 610,
+          "following_count": 443,
+          "like_count": 3339,
+          "listed_count": 1,
+          "media_count": 127,
+          "tweet_count": 935
+        },
+        "url": "",
+        "username": "crossyangshe",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-11T14:25:51.000Z",
+        "description": "给我转钱我都射射你😭🙏",
+        "id": "2010357366466990080",
+        "name": "河南说唱之神",
+        "pinned_tweet_id": "2080241070341013834",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045722962678931456/2z1GHw2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4911,
+          "following_count": 629,
+          "like_count": 874,
+          "listed_count": 3,
+          "media_count": 445,
+          "tweet_count": 3431
+        },
+        "url": "",
+        "username": "shennaichuan_",
+        "verified": true
+      }
+    ]
+  }
+}

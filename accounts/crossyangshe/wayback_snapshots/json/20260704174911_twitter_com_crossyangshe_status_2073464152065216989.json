@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561806114274287616",
+    "conversation_id": "2073457605545218397",
+    "created_at": "2026-07-04T17:49:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T18:49:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073464152065216989"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2066323895972777984",
+          "start": 0,
+          "username": "whyaiu_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073464152065216989",
+    "in_reply_to_user_id": "2066323895972777984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073457605545218397",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whyaiu_ 什么时候az也能遇见同好一起愉快的玩上一天啊……"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2073457584787628032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMZmsA4bIAA1-t4.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2073457584837963776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMZmsBEbMAAzSZ4.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2073457584796041216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMZmsA6bgAAgB-n.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1280,
+        "media_key": "3_2073457584833736704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMZmsBDasAAfDuF.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561806114274287616",
+        "conversation_id": "2073457605545218397",
+        "created_at": "2026-07-04T17:49:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T18:49:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073464152065216989"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2066323895972777984",
+              "start": 0,
+              "username": "whyaiu_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073464152065216989",
+        "in_reply_to_user_id": "2066323895972777984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073457605545218397",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whyaiu_ 什么时候az也能遇见同好一起愉快的玩上一天啊……"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073457584787628032",
+            "3_2073457584837963776",
+            "3_2073457584796041216",
+            "3_2073457584833736704"
+          ]
+        },
+        "author_id": "2066323895972777984",
+        "conversation_id": "2073457605545218397",
+        "created_at": "2026-07-04T17:23:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T18:23:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073457605545218397"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2BClD7CKFb",
+              "end": 115,
+              "expanded_url": "https://x.com/whyaiu_/status/2073457605545218397/photo/1",
+              "media_key": "3_2073457584787628032",
+              "start": 92,
+              "url": "https://t.co/2BClD7CKFb"
+            },
+            {
+              "display_url": "pic.x.com/2BClD7CKFb",
+              "end": 115,
+              "expanded_url": "https://x.com/whyaiu_/status/2073457605545218397/photo/1",
+              "media_key": "3_2073457584837963776",
+              "start": 92,
+              "url": "https://t.co/2BClD7CKFb"
+            },
+            {
+              "display_url": "pic.x.com/2BClD7CKFb",
+              "end": 115,
+              "expanded_url": "https://x.com/whyaiu_/status/2073457605545218397/photo/1",
+              "media_key": "3_2073457584796041216",
+              "start": 92,
+              "url": "https://t.co/2BClD7CKFb"
+            },
+            {
+              "display_url": "pic.x.com/2BClD7CKFb",
+              "end": 115,
+              "expanded_url": "https://x.com/whyaiu_/status/2073457605545218397/photo/1",
+              "media_key": "3_2073457584833736704",
+              "start": 92,
+              "url": "https://t.co/2BClD7CKFb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073457605545218397",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 226,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天绝对是世界上最幸福的一天。和一年不见的朋友见面了 一起玩剧本杀一起抽烟喝酒 最后一起住在酒店同一间房间od 玉米片这种日子好幸福 我大概以后在国外就体会不到了吧。好想就现在去死啊 https://t.co/2BClD7CKFb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-22T20:03:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "你们好呀，我是az！成分：重抑中焦/od/自傷/自殺念头/infp-t/音游/二游（不怎么玩了）/端游（Steam上面的单机和一些网游）/日式像素RPG/galgame/喜欢术力口（初音 可不 歌爱雪）/看番/看漫画。\n没有什么特别的的主推，因为是成分太复杂，喜欢的东西太多啦！\n目前失业中~欢迎互fo，我爱你们！❤️",
+        "id": "1561806114274287616",
+        "location": "地狱",
+        "name": "AZ.",
+        "pinned_tweet_id": "2061092260226502954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778090792390959104/-k1xKj1N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 228,
+          "following_count": 308,
+          "like_count": 1559,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 495
+        },
+        "url": "",
+        "username": "crossyangshe",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-15T00:57:15.000Z",
+        "description": "=威士忌（三代目\n♀/高校生/海外/OD/自傷/病み垢/自発苦手\n無言fo失礼",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/tenshi00",
+                "end": 23,
+                "expanded_url": "https://ngl.link/tenshi00",
+                "start": 0,
+                "url": "https://t.co/6fJhGi3ZZ3"
+              }
+            ]
+          }
+        },
+        "id": "2066323895972777984",
+        "location": "浅尝辄止 是命运轻轻放过我",
+        "name": "病名は愛だった",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066324785001381888/dV5cly_f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 377,
+          "following_count": 185,
+          "like_count": 270,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 245
+        },
+        "url": "https://t.co/6fJhGi3ZZ3",
+        "username": "whyaiu_",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,135 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2071491021591166976"
+      ]
+    },
+    "author_id": "1561806114274287616",
+    "conversation_id": "2071491208573227368",
+    "created_at": "2026-06-29T07:09:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T08:09:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2071491208573227368"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/WppvMoO3YG",
+          "end": 160,
+          "expanded_url": "https://x.com/crossyangshe/status/2071491208573227368/photo/1",
+          "media_key": "3_2071491021591166976",
+          "start": 137,
+          "url": "https://t.co/WppvMoO3YG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071491208573227368",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我要吃普瑞巴林！我要吃普瑞巴林！我要吃普瑞巴林！我要吃普瑞巴林！我要吃普瑞巴林！我要吃普瑞巴林！我要吃普瑞巴林！我要吃普瑞巴林！我要吃普瑞巴林！我要吃普瑞巴林！我要吃普瑞巴林！我要吃普瑞巴林！我要吃普瑞巴林！我要吃普瑞巴林！我要吃普瑞巴林！我要吃普瑞巴林！我要吃普瑞巴林！ https://t.co/WppvMoO3YG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1356,
+        "media_key": "3_2071491021591166976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL9qG-FaQAA4snl.jpg",
+        "width": 1355
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071491021591166976"
+          ]
+        },
+        "author_id": "1561806114274287616",
+        "conversation_id": "2071491208573227368",
+        "created_at": "2026-06-29T07:09:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T08:09:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071491208573227368"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WppvMoO3YG",
+              "end": 160,
+              "expanded_url": "https://x.com/crossyangshe/status/2071491208573227368/photo/1",
+              "media_key": "3_2071491021591166976",
+              "start": 137,
+              "url": "https://t.co/WppvMoO3YG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071491208573227368",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我要吃普瑞巴林！我要吃普瑞巴林！我要吃普瑞巴林！我要吃普瑞巴林！我要吃普瑞巴林！我要吃普瑞巴林！我要吃普瑞巴林！我要吃普瑞巴林！我要吃普瑞巴林！我要吃普瑞巴林！我要吃普瑞巴林！我要吃普瑞巴林！我要吃普瑞巴林！我要吃普瑞巴林！我要吃普瑞巴林！我要吃普瑞巴林！我要吃普瑞巴林！ https://t.co/WppvMoO3YG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-22T20:03:01.000Z",
+        "description": "az，非健全人，努力生存中，希望有人关注我",
+        "id": "1561806114274287616",
+        "location": "地狱",
+        "name": "AZ.",
+        "pinned_tweet_id": "2061092260226502954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778090792390959104/-k1xKj1N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120,
+          "following_count": 214,
+          "like_count": 641,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 303
+        },
+        "url": "",
+        "username": "crossyangshe",
+        "verified": false
+      }
+    ]
+  }
+}

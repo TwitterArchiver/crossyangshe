@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561806114274287616",
+    "conversation_id": "2075005310427967963",
+    "created_at": "2026-07-09T02:36:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T03:36:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075046500292534769"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2074453617030090752",
+          "start": 0,
+          "username": "pvwk7c"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075046500292534769",
+    "in_reply_to_user_id": "2074453617030090752",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075005310427967963",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pvwk7c az这几年一直都没有好好过过生日，就算记得可能也就是随便买点好的东西吃，所以特别羡慕网上那些有人陪着过生日的人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561806114274287616",
+        "conversation_id": "2075005310427967963",
+        "created_at": "2026-07-09T02:36:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T03:36:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075046500292534769"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2074453617030090752",
+              "start": 0,
+              "username": "pvwk7c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075046500292534769",
+        "in_reply_to_user_id": "2074453617030090752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075005310427967963",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pvwk7c az这几年一直都没有好好过过生日，就算记得可能也就是随便买点好的东西吃，所以特别羡慕网上那些有人陪着过生日的人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2074453617030090752",
+        "conversation_id": "2075005310427967963",
+        "created_at": "2026-07-08T23:53:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T00:53:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075005310427967963"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2075005310427967963",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 52,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "别人生日都好多礼物真的好羡慕哎，没朋友没社交生日冷冷清清是我的命吗呵呵。一想到18岁生日也要这样就想哭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-22T20:03:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "你们好呀，我是az！成分：重抑中焦/od/自傷/自殺念头/infp-t/音游/二游（不怎么玩了）/端游（Steam上面的单机和一些网游）/日式像素RPG/galgame/喜欢术力口（初音 可不 歌爱雪）/看番/看漫画。\n没有什么特别的的主推，因为是成分太复杂，喜欢的东西太多啦！\n目前失业中~欢迎互fo，我爱你们！❤️",
+        "id": "1561806114274287616",
+        "location": "地狱",
+        "name": "AZ.",
+        "pinned_tweet_id": "2074534939966713943",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778090792390959104/-k1xKj1N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 418,
+          "following_count": 368,
+          "like_count": 2255,
+          "listed_count": 0,
+          "media_count": 86,
+          "tweet_count": 684
+        },
+        "url": "",
+        "username": "crossyangshe",
+        "verified": true
+      },
+      {
+        "created_at": "2026-07-07T11:24:14.000Z",
+        "description": "💕OD | 餐卷妹 | 165 79 | 正常聊天欢迎| 直fo就是喜欢你吖｜大号@nigich436594",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 41,
+                "username": "nigich436594"
+              }
+            ]
+          }
+        },
+        "id": "2074453617030090752",
+        "location": "🚪77聊天好友位",
+        "name": "想当幸福小猫",
+        "pinned_tweet_id": "2074458895955939382",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074455267388104705/9WMGUXHR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 82,
+          "like_count": 30,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 31
+        },
+        "url": "",
+        "username": "pvwk7c",
+        "verified": false
+      }
+    ]
+  }
+}

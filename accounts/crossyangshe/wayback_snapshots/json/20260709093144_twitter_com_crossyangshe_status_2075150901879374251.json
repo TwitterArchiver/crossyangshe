@@ -1,0 +1,182 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561806114274287616",
+    "conversation_id": "2075149894676066478",
+    "created_at": "2026-07-09T09:31:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T10:31:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075150901879374251"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2075150901879374251",
+    "in_reply_to_user_id": "1561806114274287616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075149894676066478",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "az又抽不了烟了，甚至什么都感觉到恶心，以前az还有动力和心情启动电脑，但现在他只能盯着手机屏幕发呆，说到底还是自己的问题，为什么自己问题就怎么这么多，为什么自己就这么多问题？！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 256,
+        "media_key": "3_2075149877697499136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMxp0bPa0AAXOYs.png",
+        "width": 296
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561806114274287616",
+        "conversation_id": "2075149894676066478",
+        "created_at": "2026-07-09T09:31:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T10:31:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075150901879374251"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2075150901879374251",
+        "in_reply_to_user_id": "1561806114274287616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075149894676066478",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "az又抽不了烟了，甚至什么都感觉到恶心，以前az还有动力和心情启动电脑，但现在他只能盯着手机屏幕发呆，说到底还是自己的问题，为什么自己问题就怎么这么多，为什么自己就这么多问题？！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075149877697499136"
+          ]
+        },
+        "author_id": "1561806114274287616",
+        "conversation_id": "2075149894676066478",
+        "created_at": "2026-07-09T09:27:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T10:27:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075149894676066478"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GqCzsBjoTQ",
+              "end": 159,
+              "expanded_url": "https://x.com/crossyangshe/status/2075149894676066478/photo/1",
+              "media_key": "3_2075149877697499136",
+              "start": 136,
+              "url": "https://t.co/GqCzsBjoTQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075149894676066478",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不行了，不行了，这种感觉又来了，在烟雾进入口腔的一瞬间，赶紧呼了出去。伴随着恶心，胃里仿佛要翻云倒海，可是却什么也干呕不出来……az看了一眼刚点燃的烟，恶狠狠的将它折成了两半，然后双手掐住自己的咽喉，窒息到无力放手，大口喘气只能吐出一些“去死”“好痛苦”这类词汇出来…… https://t.co/GqCzsBjoTQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-22T20:03:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "你们好呀，我是az！成分：重抑中焦/od/自傷/自殺念头/infp-t/音游/二游（不怎么玩了）/端游（Steam上面的单机和一些网游）/日式像素RPG/galgame/喜欢术力口（初音 可不 歌爱雪）/看番/看漫画。\n没有什么特别的的主推，因为是成分太复杂，喜欢的东西太多啦！\n目前失业中~欢迎互fo，我爱你们！❤️",
+        "id": "1561806114274287616",
+        "location": "地狱",
+        "name": "AZ.",
+        "pinned_tweet_id": "2074534939966713943",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778090792390959104/-k1xKj1N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 426,
+          "following_count": 375,
+          "like_count": 2329,
+          "listed_count": 0,
+          "media_count": 87,
+          "tweet_count": 697
+        },
+        "url": "",
+        "username": "crossyangshe",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,335 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1561806114274287616",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Mobile gaming",
+          "id": "847527946864607232",
+          "name": "Mobile gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "961618132874883072",
+          "name": "PlayerUnknown's Battlegrounds"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "961618132874883072",
+          "name": "PlayerUnknown's Battlegrounds"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      }
+    ],
+    "conversation_id": "1789259849835979062",
+    "created_at": "2024-06-07T17:38:18.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-07T18:38:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1799133800309596430"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1788608336226557952",
+          "start": 0,
+          "username": "zja20091016"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1799133800309596430",
+    "in_reply_to_user_id": "1788608336226557952",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1789259849835979062",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zja20091016 老板你买账号吗？这里有便宜的PUBG精品皮肤号"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1561806114274287616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile gaming",
+              "id": "847527946864607232",
+              "name": "Mobile gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "961618132874883072",
+              "name": "PlayerUnknown's Battlegrounds"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "961618132874883072",
+              "name": "PlayerUnknown's Battlegrounds"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          }
+        ],
+        "conversation_id": "1789259849835979062",
+        "created_at": "2024-06-07T17:38:18.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-07T18:38:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1799133800309596430"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1788608336226557952",
+              "start": 0,
+              "username": "zja20091016"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1799133800309596430",
+        "in_reply_to_user_id": "1788608336226557952",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1789259849835979062",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zja20091016 老板你买账号吗？这里有便宜的PUBG精品皮肤号"
+      },
+      {
+        "attachments": {},
+        "author_id": "1788608336226557952",
+        "conversation_id": "1789259849835979062",
+        "created_at": "2024-05-11T11:42:45.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-11T12:42:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1789259849835979062"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "有没有人能送我？PIBG的号",
+              "display_url": "x.com/i/broadcasts/1…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/i/broadcasts/1djGXNRkMABxZ",
+              "images": [
+                {
+                  "height": 568,
+                  "url": "https://pbs.twimg.com/news_img/1789259892185817088/GgCRDSnl?format=jpg&name=orig",
+                  "width": 320
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1789259892185817088/GgCRDSnl?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 15,
+              "status": 200,
+              "title": "zhu",
+              "unwound_url": "https://twitter.com/i/broadcasts/1djGXNRkMABxZ",
+              "url": "https://t.co/t9Frd8Jfbz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1789259849835979062",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有没有人能送我？PIBG的号 https://t.co/t9Frd8Jfbz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-22T20:03:01.000Z",
+        "description": "忘记伤痕和过去 就能得到幸福吗.",
+        "id": "1561806114274287616",
+        "location": "今天也辛苦了.",
+        "name": "AZ.",
+        "pinned_tweet_id": "1725205374507368558",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778090792390959104/-k1xKj1N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 12,
+          "like_count": 81,
+          "listed_count": 0,
+          "tweet_count": 89
+        },
+        "username": "crossyangshe",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-09T16:34:02.000Z",
+        "description": "",
+        "id": "1788608336226557952",
+        "name": "zhu",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1796185067468791808/jRUvy4Hd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 5,
+          "like_count": 3,
+          "listed_count": 0,
+          "tweet_count": 3
+        },
+        "username": "zja20091016",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561806114274287616",
+    "conversation_id": "2081549264828961053",
+    "created_at": "2026-07-27T09:15:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T10:15:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081669864754942460"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1612280433064185859",
+          "start": 0,
+          "username": "c2F4F4F"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081669864754942460",
+    "in_reply_to_user_id": "1612280433064185859",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081549264828961053",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@c2F4F4F 好厉害"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4032,
+        "media_key": "3_2081549207622881280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOMl-c7bkAA-cnW.jpg",
+        "width": 3024
+      },
+      {
+        "height": 1793,
+        "media_key": "3_2081549207656374272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOMl-dDaoAA53Cn.jpg",
+        "width": 3024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561806114274287616",
+        "conversation_id": "2081549264828961053",
+        "created_at": "2026-07-27T09:15:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T10:15:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081669864754942460"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1612280433064185859",
+              "start": 0,
+              "username": "c2F4F4F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081669864754942460",
+        "in_reply_to_user_id": "1612280433064185859",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081549264828961053",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@c2F4F4F 好厉害"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081549207622881280",
+            "3_2081549207656374272"
+          ]
+        },
+        "author_id": "1612280433064185859",
+        "conversation_id": "2081549264828961053",
+        "created_at": "2026-07-27T01:16:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T02:16:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081549264828961053"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QcsbSSlfXO",
+              "end": 108,
+              "expanded_url": "https://x.com/c2F4F4F/status/2081549264828961053/photo/1",
+              "media_key": "3_2081549207622881280",
+              "start": 85,
+              "url": "https://t.co/QcsbSSlfXO"
+            },
+            {
+              "display_url": "pic.x.com/QcsbSSlfXO",
+              "end": 108,
+              "expanded_url": "https://x.com/c2F4F4F/status/2081549264828961053/photo/1",
+              "media_key": "3_2081549207656374272",
+              "start": 85,
+              "url": "https://t.co/QcsbSSlfXO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081549264828961053",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2015,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "以防你不知道药物边上凹下去的东西是干什么的   用拉莫三嗪举例（我圈起来的东西）\n你把它戳开来然后把药片放进去  会发现正好能进去一半  一掰就成半片了👍🏻👍🏻👍🏻👍🏻 https://t.co/QcsbSSlfXO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-22T20:03:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Changsha, Hunan, China",
+              "geo": {
+                "coordinates": [
+                  112.97087,
+                  28.19874
+                ],
+                "type": "Point"
+              },
+              "locality": "Changsha",
+              "region": "Hunan"
+            }
+          ]
+        },
+        "description": "你們好呀，我是az！成分：重抑中焦/od/自傷/自殺念頭/infp-t/音遊/二游（不怎麼玩了）/端遊（Steam上面的單機和一些網遊）/像素RPG/galgame/喜歡術力口（初音 可不 歌愛雪）/看番/看漫畫。\n戀人：@congng1327122\n小號：@confessAZ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 125,
+                "start": 111,
+                "username": "congng1327122"
+              },
+              {
+                "end": 139,
+                "start": 129,
+                "username": "confessAZ"
+              }
+            ]
+          }
+        },
+        "id": "1561806114274287616",
+        "location": "長沙",
+        "name": "AZ.",
+        "pinned_tweet_id": "2075487277191733409",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778090792390959104/-k1xKj1N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 608,
+          "following_count": 446,
+          "like_count": 3660,
+          "listed_count": 1,
+          "media_count": 129,
+          "tweet_count": 969
+        },
+        "url": "",
+        "username": "crossyangshe",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-09T02:49:54.000Z",
+        "description": "OD | 是个傻卵二次元 | 画师 | 自残 | 同好互fo | 二游只玩舟 | 精神状态不稳定 | 感官失调中 | 女 | 重抑中焦吃药中 |望厨",
+        "id": "1612280433064185859",
+        "location": "Kanagawa-ken, Japan",
+        "name": "孙笑川",
+        "pinned_tweet_id": "2081508605111763013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080135043838816256/H8Ebl5jE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 228,
+          "following_count": 509,
+          "like_count": 9955,
+          "listed_count": 0,
+          "media_count": 113,
+          "tweet_count": 908
+        },
+        "url": "",
+        "username": "c2F4F4F",
+        "verified": false
+      }
+    ]
+  }
+}

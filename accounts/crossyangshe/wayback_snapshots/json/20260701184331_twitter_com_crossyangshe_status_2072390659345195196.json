@@ -1,0 +1,164 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561806114274287616",
+    "conversation_id": "2072386965937549571",
+    "created_at": "2026-07-01T18:43:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T19:43:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072390659345195196"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2072390659345195196",
+    "in_reply_to_user_id": "1561806114274287616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072389577214726178",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "可惜没有如果，当时有一天想着“要是死掉就好了，这样就不会再有痛苦了”，可是当时学校装了防护网跳楼也没有办法，az只能天天自伤和在寝室哭泣，这时候考试学习成绩的已经觉得无所谓，退步就退步吧——但是觉得活不过18岁，不过结局是虽然不想学了起码上了一个还可以的专科。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561806114274287616",
+        "conversation_id": "2072386965937549571",
+        "created_at": "2026-07-01T18:43:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T19:43:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072390659345195196"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2072390659345195196",
+        "in_reply_to_user_id": "1561806114274287616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072389577214726178",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "可惜没有如果，当时有一天想着“要是死掉就好了，这样就不会再有痛苦了”，可是当时学校装了防护网跳楼也没有办法，az只能天天自伤和在寝室哭泣，这时候考试学习成绩的已经觉得无所谓，退步就退步吧——但是觉得活不过18岁，不过结局是虽然不想学了起码上了一个还可以的专科。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561806114274287616",
+        "conversation_id": "2072386965937549571",
+        "created_at": "2026-07-01T18:39:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T19:39:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072389577214726178"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2072389577214726178",
+        "in_reply_to_user_id": "1561806114274287616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072388581319127279",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "当时az已经三个月没有回家了，在学校里面精神状态很不好，被同学冷暴力排挤取外号和欺凌，这段时间里学校里还有同学因为压力大跳楼和跳河还有拿刀捅死同学甚至上新闻的……可想而知，az的状态可以说非常不好，特别希望当时如果手机还在身边就好了，起码可以玩玩游戏和网上的人聊聊天听听歌看看小说"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-22T20:03:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "az，非健全人，努力生存中，希望有人关注我",
+        "id": "1561806114274287616",
+        "location": "地狱",
+        "name": "AZ.",
+        "pinned_tweet_id": "2061092260226502954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778090792390959104/-k1xKj1N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 185,
+          "following_count": 253,
+          "like_count": 999,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 392
+        },
+        "url": "",
+        "username": "crossyangshe",
+        "verified": false
+      }
+    ]
+  }
+}

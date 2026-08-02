@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561806114274287616",
+    "conversation_id": "2049169635761684485",
+    "created_at": "2026-04-28T16:55:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T17:55:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049170738314146227"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2049170738314146227",
+    "in_reply_to_user_id": "1561806114274287616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049169635761684485",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我一直好想当一个反派，做一个魔头……可是魔头他们总是为达目的不择手段的。他们刻苦修行，玩弄人心，自己真的能做的到吗……哪怕在游戏中都维持着自己善良的人设看见别人痛苦而不忍说两句内心就难受，可惜人生没有春秋蝉，再活一世，做个残忍的恶魔算了，这辈子当好人太累了……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561806114274287616",
+        "conversation_id": "2049169635761684485",
+        "created_at": "2026-04-28T16:55:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T17:55:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049170738314146227"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2049170738314146227",
+        "in_reply_to_user_id": "1561806114274287616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049169635761684485",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我一直好想当一个反派，做一个魔头……可是魔头他们总是为达目的不择手段的。他们刻苦修行，玩弄人心，自己真的能做的到吗……哪怕在游戏中都维持着自己善良的人设看见别人痛苦而不忍说两句内心就难受，可惜人生没有春秋蝉，再活一世，做个残忍的恶魔算了，这辈子当好人太累了……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561806114274287616",
+        "conversation_id": "2049169635761684485",
+        "created_at": "2026-04-28T16:51:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T17:51:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049169635761684485"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2049169635761684485",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "差劲差劲差劲差劲差劲差劲差劲差劲差劲差劲差劲差劲差劲差劲差劲差劲差劲真的是最差劲了……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-22T20:03:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "窝是恶魔羊AZ.#小恶魔系#术力口#galgame#会看vtuber#明日方舟，最近有玩终末地#严重网瘾Steam端游手游都玩#看番，有时候感觉这辈子有了......因为吃了奇怪的药和痛苦的经历我失去了好多记忆，如果不是有人告诉我可能不会再想起......但是还是忘了好多性格也变了。可以找窝一起打游戏和wyy听歌呐~",
+        "id": "1561806114274287616",
+        "location": "地狱",
+        "name": "AZ.",
+        "pinned_tweet_id": "1725205374507368558",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778090792390959104/-k1xKj1N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 20,
+          "like_count": 64,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 51
+        },
+        "username": "crossyangshe",
+        "verified": false
+      }
+    ]
+  }
+}

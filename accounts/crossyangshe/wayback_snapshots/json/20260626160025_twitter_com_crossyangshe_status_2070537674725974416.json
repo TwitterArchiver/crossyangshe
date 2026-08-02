@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561806114274287616",
+    "conversation_id": "2070535046424113642",
+    "created_at": "2026-06-26T16:00:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T17:00:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070537674725974416"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1782631239020662784",
+          "start": 0,
+          "username": "heishise1984"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070537674725974416",
+    "in_reply_to_user_id": "1782631239020662784",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070536427734282306",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@heishise1984 我们这边大桥上前几天刚跳了一个年轻人，如果我过几天趁着大雨人少也跳下去，会不会引起人们的关注，因为我真的活不下去了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561806114274287616",
+        "conversation_id": "2070535046424113642",
+        "created_at": "2026-06-26T16:00:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T17:00:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070537674725974416"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1782631239020662784",
+              "start": 0,
+              "username": "heishise1984"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070537674725974416",
+        "in_reply_to_user_id": "1782631239020662784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070536427734282306",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@heishise1984 我们这边大桥上前几天刚跳了一个年轻人，如果我过几天趁着大雨人少也跳下去，会不会引起人们的关注，因为我真的活不下去了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1782631239020662784",
+        "conversation_id": "2070535046424113642",
+        "created_at": "2026-06-26T15:55:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T16:55:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070536427734282306"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1561806114274287616",
+              "start": 0,
+              "username": "crossyangshe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070536427734282306",
+        "in_reply_to_user_id": "1561806114274287616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070535046424113642",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@crossyangshe 这么自厌吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-22T20:03:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "az，非健全人，努力生存中，希望有人关注我",
+        "id": "1561806114274287616",
+        "location": "地狱",
+        "name": "AZ.",
+        "pinned_tweet_id": "2061092260226502954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778090792390959104/-k1xKj1N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 87,
+          "like_count": 387,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 262
+        },
+        "url": "",
+        "username": "crossyangshe",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-23T04:43:08.000Z",
+        "description": "你好！这里是结型场半导体，她从冥河中归来，徜徉在废墟和残骸的狭间中，死寂的一切将重新被注入生机与活力。｜我一旦开始转推，就说明本回合的发言力条用尽了。｜",
+        "id": "1782631239020662784",
+        "location": "冥河",
+        "name": "IGFET Second",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1786767615295467520/dyRQq-FZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 140,
+          "like_count": 2445,
+          "listed_count": 0,
+          "media_count": 126,
+          "tweet_count": 1386
+        },
+        "url": "",
+        "username": "heishise1984",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561806114274287616",
+    "conversation_id": "2070169696683647364",
+    "created_at": "2026-06-25T15:44:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T16:44:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070171392709157033"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1782631239020662784",
+          "start": 0,
+          "username": "heishise1984"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070171392709157033",
+    "in_reply_to_user_id": "1782631239020662784",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070170519778046166",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@heishise1984 我没钱吃饭啊，而且根本吃不下去东西，每次吃几口就恶心到反胃，我真的要崩溃了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561806114274287616",
+        "conversation_id": "2070169696683647364",
+        "created_at": "2026-06-25T15:44:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T16:44:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070171392709157033"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1782631239020662784",
+              "start": 0,
+              "username": "heishise1984"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070171392709157033",
+        "in_reply_to_user_id": "1782631239020662784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070170519778046166",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@heishise1984 我没钱吃饭啊，而且根本吃不下去东西，每次吃几口就恶心到反胃，我真的要崩溃了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1782631239020662784",
+        "conversation_id": "2070169696683647364",
+        "created_at": "2026-06-25T15:41:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T16:41:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070170519778046166"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1561806114274287616",
+              "start": 0,
+              "username": "crossyangshe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070170519778046166",
+        "in_reply_to_user_id": "1561806114274287616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070169696683647364",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@crossyangshe 晚饭吃少了！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-22T20:03:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "az，非健全人，努力生存中，希望有人关注我",
+        "id": "1561806114274287616",
+        "location": "地狱",
+        "name": "AZ.",
+        "pinned_tweet_id": "2061092260226502954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778090792390959104/-k1xKj1N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 77,
+          "like_count": 360,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 252
+        },
+        "url": "",
+        "username": "crossyangshe",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-23T04:43:08.000Z",
+        "description": "你好！这里是结型场半导体，她从冥河中归来，徜徉在废墟和残骸的狭间中，死寂的一切将重新被注入生机与活力。｜我一旦开始转推，就说明本回合的发言力条用尽了。｜",
+        "id": "1782631239020662784",
+        "location": "冥河",
+        "name": "IGFET Second",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1786767615295467520/dyRQq-FZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101,
+          "following_count": 139,
+          "like_count": 2403,
+          "listed_count": 0,
+          "media_count": 126,
+          "tweet_count": 1373
+        },
+        "url": "",
+        "username": "heishise1984",
+        "verified": false
+      }
+    ]
+  }
+}

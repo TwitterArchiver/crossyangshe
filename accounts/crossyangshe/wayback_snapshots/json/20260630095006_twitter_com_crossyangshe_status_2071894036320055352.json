@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561806114274287616",
+    "conversation_id": "2071850254799167900",
+    "created_at": "2026-06-30T09:50:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T10:50:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071894036320055352"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2059212406451240960",
+          "start": 0,
+          "username": "Cxq6666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071894036320055352",
+    "in_reply_to_user_id": "1561806114274287616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071893781641908308",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cxq6666 而且拿着一张假的证明走进药店这种事情不要啊az做不到！（太胆小害怕社恐了）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561806114274287616",
+        "conversation_id": "2071850254799167900",
+        "created_at": "2026-06-30T09:50:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T10:50:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071894036320055352"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2059212406451240960",
+              "start": 0,
+              "username": "Cxq6666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071894036320055352",
+        "in_reply_to_user_id": "1561806114274287616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071893781641908308",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cxq6666 而且拿着一张假的证明走进药店这种事情不要啊az做不到！（太胆小害怕社恐了）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561806114274287616",
+        "conversation_id": "2071850254799167900",
+        "created_at": "2026-06-30T09:49:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T10:49:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071893781641908308"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2059212406451240960",
+              "start": 0,
+              "username": "Cxq6666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071893781641908308",
+        "in_reply_to_user_id": "2059212406451240960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071892985068073108",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cxq6666 医院开的线下打印出来应该可以，我不敢自己p或者用网上的，我怕药店核对身份药品信息发现不对劲然后把我抓起来"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-22T20:03:01.000Z",
+        "description": "az，非健全人，努力生存中，希望有人关注我",
+        "id": "1561806114274287616",
+        "location": "地狱",
+        "name": "AZ.",
+        "pinned_tweet_id": "2061092260226502954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778090792390959104/-k1xKj1N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 142,
+          "following_count": 237,
+          "like_count": 780,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 343
+        },
+        "url": "",
+        "username": "crossyangshe",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-26T09:58:33.000Z",
+        "description": "19｜餐券妹｜非职业coser｜非世一暮蝶｜轻松熊重度依赖\n欢迎互fo",
+        "id": "2059212406451240960",
+        "location": "浙江",
+        "name": "Chenxianq",
+        "pinned_tweet_id": "2071497448288346609",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059551275990306816/e_95Wxgs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 38,
+          "like_count": 38,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 72
+        },
+        "url": "",
+        "username": "Cxq6666",
+        "verified": false
+      }
+    ]
+  }
+}

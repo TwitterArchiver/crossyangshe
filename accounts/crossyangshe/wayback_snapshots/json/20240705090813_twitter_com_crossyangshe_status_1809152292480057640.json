@@ -1,0 +1,181 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1561806114274287616",
+    "conversation_id": "1808788826082717700",
+    "created_at": "2024-07-05T09:08:13.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-05T10:08:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1809152292480057640"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1615404813856178176",
+          "start": 0,
+          "username": "mengxintu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1809152292480057640",
+    "in_reply_to_user_id": "1615404813856178176",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1808788826082717700",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mengxintu 世上还是好同学多啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1561806114274287616",
+        "conversation_id": "1808788826082717700",
+        "created_at": "2024-07-05T09:08:13.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-05T10:08:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1809152292480057640"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1615404813856178176",
+              "start": 0,
+              "username": "mengxintu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1809152292480057640",
+        "in_reply_to_user_id": "1615404813856178176",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1808788826082717700",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mengxintu 世上还是好同学多啊"
+      },
+      {
+        "attachments": {},
+        "author_id": "1615404813856178176",
+        "conversation_id": "1808788826082717700",
+        "created_at": "2024-07-04T09:03:56.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-04T10:03:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1808788826082717700"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1808788826082717700",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 28779,
+          "like_count": 117,
+          "quote_count": 0,
+          "reply_count": 16,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好烦好烦，今天在车间外面我脱防静电外套给我同学的时候他突然盯着我奈子看然后用很大的声音叫“好大的奈子”。。。。搞得我好社死。。。要在班里炸了。。。我班学生本来就很恶心，天天手在我腿上蹭来蹭去，胳膊上摸来摸去，班长还经常碰我奈子（今天碰了四五次）好恶心好恶心，厌人情绪增长了（ ）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-22T20:03:01.000Z",
+        "description": "忘记伤痕和过去 就能得到幸福吗.",
+        "id": "1561806114274287616",
+        "location": "今天也辛苦了.",
+        "name": "AZ.",
+        "pinned_tweet_id": "1725205374507368558",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778090792390959104/-k1xKj1N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 15,
+          "like_count": 83,
+          "listed_count": 0,
+          "tweet_count": 90
+        },
+        "username": "crossyangshe",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-17T17:45:10.000Z",
+        "description": "这里是兔！03年大三无证含糖的MTX。是一只追寻人间美好和真理的狐娘哦~希望自己可以变得更温柔，更善良，也可以去保护更多的人哦~呐，如果不开心的话可以找我聊天哦，当然如果学习上面有困难也可以找我哦，兔兔学习好像还可以的样子\n一直守护的人@xukongbingyuan\n@MeviuslX_Xl\n欢迎大家互fo和找我聊天呀",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 118,
+                "username": "xukongbingyuan"
+              },
+              {
+                "end": 146,
+                "start": 134,
+                "username": "MeviuslX_Xl"
+              }
+            ]
+          }
+        },
+        "id": "1615404813856178176",
+        "location": "China",
+        "name": "MXT",
+        "pinned_tweet_id": "1806248650999521572",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1806927210127011840/Qr2ZXRYn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1770,
+          "following_count": 681,
+          "like_count": 13659,
+          "listed_count": 3,
+          "tweet_count": 4732
+        },
+        "username": "mengxintu",
+        "verified": false
+      }
+    ]
+  }
+}

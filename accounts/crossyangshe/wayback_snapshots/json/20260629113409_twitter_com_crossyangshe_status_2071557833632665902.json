@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561806114274287616",
+    "conversation_id": "2071557535690310015",
+    "created_at": "2026-06-29T11:34:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T12:34:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071557833632665902"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2071557833632665902",
+    "in_reply_to_user_id": "1561806114274287616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071557535690310015",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "今天完全很开心，走在路上也很开心，根本停不下来的那种，就算指甲疯狂的掐着自己，也激动的停不下来的那种，真的很开心啊！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561806114274287616",
+        "conversation_id": "2071557535690310015",
+        "created_at": "2026-06-29T11:34:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T12:34:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071557833632665902"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2071557833632665902",
+        "in_reply_to_user_id": "1561806114274287616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071557535690310015",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "今天完全很开心，走在路上也很开心，根本停不下来的那种，就算指甲疯狂的掐着自己，也激动的停不下来的那种，真的很开心啊！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561806114274287616",
+        "conversation_id": "2071557535690310015",
+        "created_at": "2026-06-29T11:32:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T12:32:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071557535690310015"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2071557535690310015",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "总是隐隐约约地感到高兴，而且当有更高兴的事情发生时，就会变得更加高兴，这种状态会持续一段时间并变得更加高兴，即使稍微平静下来，也会慢性地感到高兴。\n抑郁的情况下，总是伴随着自杀念头，要么只能想着死，要么情况更糟陷入思维停止，所以存在着完全相反的波。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-22T20:03:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "az，非健全人，努力生存中，希望有人关注我",
+        "id": "1561806114274287616",
+        "location": "地狱",
+        "name": "AZ.",
+        "pinned_tweet_id": "2061092260226502954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778090792390959104/-k1xKj1N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 216,
+          "like_count": 661,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 311
+        },
+        "url": "",
+        "username": "crossyangshe",
+        "verified": false
+      }
+    ]
+  }
+}

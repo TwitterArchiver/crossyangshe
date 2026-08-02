@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2070537820960382977"
+      ]
+    },
+    "author_id": "1561806114274287616",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      }
+    ],
+    "conversation_id": "2070538043044610481",
+    "created_at": "2026-06-26T16:01:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T17:01:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070538043044610481"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/DoTBMFgHGm",
+          "end": 108,
+          "expanded_url": "https://x.com/crossyangshe/status/2070538043044610481/photo/1",
+          "media_key": "3_2070537820960382977",
+          "start": 85,
+          "url": "https://t.co/DoTBMFgHGm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070538043044610481",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "沉醉于百分之九的化学药剂\n\n因生活艰难就随意倾吐\n\n脆弱又痛苦\n\n永不愈合的孤独快要撑破心脏\n\n无论播放列表放着什么音乐\n\n轻描淡写谈论生命的那些话\n\n啊啊真是愚蠢至极 https://t.co/DoTBMFgHGm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2070537820960382977",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLwHLZBa4AE_A5R.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070537820960382977"
+          ]
+        },
+        "author_id": "1561806114274287616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "2070538043044610481",
+        "created_at": "2026-06-26T16:01:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T17:01:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070538043044610481"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DoTBMFgHGm",
+              "end": 108,
+              "expanded_url": "https://x.com/crossyangshe/status/2070538043044610481/photo/1",
+              "media_key": "3_2070537820960382977",
+              "start": 85,
+              "url": "https://t.co/DoTBMFgHGm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070538043044610481",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "沉醉于百分之九的化学药剂\n\n因生活艰难就随意倾吐\n\n脆弱又痛苦\n\n永不愈合的孤独快要撑破心脏\n\n无论播放列表放着什么音乐\n\n轻描淡写谈论生命的那些话\n\n啊啊真是愚蠢至极 https://t.co/DoTBMFgHGm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-22T20:03:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "az，非健全人，努力生存中，希望有人关注我",
+        "id": "1561806114274287616",
+        "location": "地狱",
+        "name": "AZ.",
+        "pinned_tweet_id": "2061092260226502954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778090792390959104/-k1xKj1N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 87,
+          "like_count": 387,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 263
+        },
+        "url": "",
+        "username": "crossyangshe",
+        "verified": false
+      }
+    ]
+  }
+}

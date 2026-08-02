@@ -1,0 +1,109 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561806114274287616",
+    "conversation_id": "2060974339818922105",
+    "created_at": "2026-05-31T06:39:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T07:39:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060974339818922105"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2060974339818922105",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "真的很累，每天提不出来一点兴趣，明明很饿却一点东西都不想吃，就算吃东西也只能在网上点一些廉价外卖，好恶心这种感觉，玩了几个小时手机，简直和废物一样啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561806114274287616",
+        "conversation_id": "2060974339818922105",
+        "created_at": "2026-05-31T06:39:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T07:39:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060974339818922105"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060974339818922105",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "真的很累，每天提不出来一点兴趣，明明很饿却一点东西都不想吃，就算吃东西也只能在网上点一些廉价外卖，好恶心这种感觉，玩了几个小时手机，简直和废物一样啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-22T20:03:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "az，非健全人，努力生存中，希望有人关注我",
+        "id": "1561806114274287616",
+        "location": "地狱",
+        "name": "AZ.",
+        "pinned_tweet_id": "1725205374507368558",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778090792390959104/-k1xKj1N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 45,
+          "like_count": 217,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 171
+        },
+        "username": "crossyangshe",
+        "verified": false
+      }
+    ]
+  }
+}

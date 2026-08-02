@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561806114274287616",
+    "conversation_id": "2065482316751999249",
+    "created_at": "2026-06-12T17:12:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T18:12:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065482316751999249"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2065482316751999249",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "妈的傻逼推特能不能不要再给我推一些无聊水贴了，比如“震惊！xxxxxxxx”，“请问这个xxxxxxx”，我真的服了我上推不是来看你们把国内平台的史搬到上面来再看一遍的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561806114274287616",
+        "conversation_id": "2065482316751999249",
+        "created_at": "2026-06-12T17:12:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T18:12:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065482316751999249"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2065482316751999249",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "妈的傻逼推特能不能不要再给我推一些无聊水贴了，比如“震惊！xxxxxxxx”，“请问这个xxxxxxx”，我真的服了我上推不是来看你们把国内平台的史搬到上面来再看一遍的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-22T20:03:01.000Z",
+        "description": "az，非健全人，努力生存中，希望有人关注我",
+        "id": "1561806114274287616",
+        "location": "地狱",
+        "name": "AZ.",
+        "pinned_tweet_id": "2061092260226502954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778090792390959104/-k1xKj1N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 45,
+          "like_count": 275,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 208
+        },
+        "username": "crossyangshe",
+        "verified": false
+      }
+    ]
+  }
+}

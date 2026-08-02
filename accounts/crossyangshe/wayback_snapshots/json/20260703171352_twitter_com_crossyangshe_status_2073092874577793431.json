@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561806114274287616",
+    "conversation_id": "2072863177608749541",
+    "created_at": "2026-07-03T17:13:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T18:13:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073092874577793431"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1931114312296538112",
+          "start": 0,
+          "username": "Ayumi_0222_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073092874577793431",
+    "in_reply_to_user_id": "1931114312296538112",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072863177608749541",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ayumi_0222_ 小的时候想要的东西，长大了再买到有什么意义呢，刻舟求剑这件事本身就是虚假的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1165,
+        "media_key": "3_2072863166145724416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMRKES4bgAAlMA1.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561806114274287616",
+        "conversation_id": "2072863177608749541",
+        "created_at": "2026-07-03T17:13:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T18:13:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073092874577793431"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1931114312296538112",
+              "start": 0,
+              "username": "Ayumi_0222_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073092874577793431",
+        "in_reply_to_user_id": "1931114312296538112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072863177608749541",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ayumi_0222_ 小的时候想要的东西，长大了再买到有什么意义呢，刻舟求剑这件事本身就是虚假的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072863166145724416"
+          ]
+        },
+        "author_id": "1931114312296538112",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2072863177608749541",
+        "created_at": "2026-07-03T02:01:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T03:01:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072863177608749541"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YeJaQZXYll",
+              "end": 23,
+              "expanded_url": "https://x.com/Ayumi_0222_/status/2072863177608749541/photo/1",
+              "media_key": "3_2072863166145724416",
+              "start": 0,
+              "url": "https://t.co/YeJaQZXYll"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072863177608749541",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 154,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/YeJaQZXYll"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-22T20:03:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "az，非健全人，努力生存中，希望有人关注我",
+        "id": "1561806114274287616",
+        "location": "地狱",
+        "name": "AZ.",
+        "pinned_tweet_id": "2061092260226502954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778090792390959104/-k1xKj1N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 212,
+          "following_count": 285,
+          "like_count": 1330,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 444
+        },
+        "url": "",
+        "username": "crossyangshe",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-06T22:22:42.000Z",
+        "description": "AYUMI OF THE GODS\n@OneMultiplied",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 18,
+                "username": "OneMultiplied"
+              }
+            ]
+          }
+        },
+        "id": "1931114312296538112",
+        "location": "参宿四",
+        "name": "愛島零代目",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984666097728307205/dDatg5XI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 232,
+          "following_count": 401,
+          "like_count": 3313,
+          "listed_count": 0,
+          "media_count": 142,
+          "tweet_count": 1480
+        },
+        "url": "",
+        "username": "Ayumi_0222_",
+        "verified": true
+      }
+    ]
+  }
+}

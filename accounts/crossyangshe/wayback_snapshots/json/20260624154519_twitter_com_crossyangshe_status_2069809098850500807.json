@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561806114274287616",
+    "conversation_id": "2069809098850500807",
+    "created_at": "2026-06-24T15:45:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T16:45:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2069809098850500807"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2069809098850500807",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "还有一次，那天晚上我痛苦的不得了😣，我在楼道里连续点燃了四根七星香烟（原本我不想抽这个的但是当时我身边只有这个），抽的我头晕又恶心，心脏还飞快的跳动，我赶快回到房间喝了一大口水，缩在角落抖得不行，还流了一脸的泪水，但是真的觉得这样的人生真的没有意义……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561806114274287616",
+        "conversation_id": "2069809098850500807",
+        "created_at": "2026-06-24T15:45:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T16:45:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069809098850500807"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2069809098850500807",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "还有一次，那天晚上我痛苦的不得了😣，我在楼道里连续点燃了四根七星香烟（原本我不想抽这个的但是当时我身边只有这个），抽的我头晕又恶心，心脏还飞快的跳动，我赶快回到房间喝了一大口水，缩在角落抖得不行，还流了一脸的泪水，但是真的觉得这样的人生真的没有意义……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-22T20:03:01.000Z",
+        "description": "az，非健全人，努力生存中，希望有人关注我",
+        "id": "1561806114274287616",
+        "location": "地狱",
+        "name": "AZ.",
+        "pinned_tweet_id": "2061092260226502954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778090792390959104/-k1xKj1N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 62,
+          "like_count": 339,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 245
+        },
+        "url": "",
+        "username": "crossyangshe",
+        "verified": false
+      }
+    ]
+  }
+}

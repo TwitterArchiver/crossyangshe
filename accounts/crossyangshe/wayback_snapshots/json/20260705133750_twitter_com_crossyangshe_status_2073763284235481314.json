@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561806114274287616",
+    "conversation_id": "2073411598807671194",
+    "created_at": "2026-07-05T13:37:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T14:37:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073763284235481314"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1796192059495219200",
+          "start": 0,
+          "username": "celadon000"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073763284235481314",
+    "in_reply_to_user_id": "1796192059495219200",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073411598807671194",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@celadon000 好贵啊……az也想买，但是az穷穷的……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561806114274287616",
+        "conversation_id": "2073411598807671194",
+        "created_at": "2026-07-05T13:37:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T14:37:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073763284235481314"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1796192059495219200",
+              "start": 0,
+              "username": "celadon000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073763284235481314",
+        "in_reply_to_user_id": "1796192059495219200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073411598807671194",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@celadon000 好贵啊……az也想买，但是az穷穷的……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1796192059495219200",
+        "conversation_id": "2073411598807671194",
+        "created_at": "2026-07-04T14:20:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T15:20:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073411598807671194"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/celadon000/sta…",
+              "end": 103,
+              "expanded_url": "https://twitter.com/celadon000/status/2070473901608747282",
+              "start": 80,
+              "url": "https://t.co/19jdwzFSoX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073411598807671194",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1787,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070473901608747282",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好像确实有用喵！\n虽然现在还是有体毛，但是所有毛发轻轻一拽就会带着毛囊被拽出来，完全不疼，感觉毛囊被干掉了？\n\n🤔感觉现在要是做一次蜜蜡脱毛的话，会完全不疼？ https://t.co/19jdwzFSoX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-22T20:03:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "你们好呀，我是az！成分：重抑中焦/od/自傷/自殺念头/infp-t/音游/二游（不怎么玩了）/端游（Steam上面的单机和一些网游）/日式像素RPG/galgame/喜欢术力口（初音 可不 歌爱雪）/看番/看漫画。\n没有什么特别的的主推，因为是成分太复杂，喜欢的东西太多啦！\n目前失业中~欢迎互fo，我爱你们！❤️",
+        "id": "1561806114274287616",
+        "location": "地狱",
+        "name": "AZ.",
+        "pinned_tweet_id": "2061092260226502954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778090792390959104/-k1xKj1N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 271,
+          "following_count": 334,
+          "like_count": 1783,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 571
+        },
+        "url": "",
+        "username": "crossyangshe",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-30T14:49:04.000Z",
+        "description": "无证含糖🍥 | ArchLinux | 全栈 | 生产日期2008 | 前oier | INFP",
+        "id": "1796192059495219200",
+        "location": "Internet",
+        "name": "Celadon🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055488818493652992/x2Be0AsC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 293,
+          "following_count": 235,
+          "like_count": 280,
+          "listed_count": 1,
+          "media_count": 17,
+          "tweet_count": 190
+        },
+        "url": "",
+        "username": "celadon000",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561806114274287616",
+    "conversation_id": "2073502558518444047",
+    "created_at": "2026-07-04T20:26:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T21:26:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073503722534248712"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2073503722534248712",
+    "in_reply_to_user_id": "1561806114274287616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073502558518444047",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "因为喝了很多水，药效上来时候可能会想尿尿，还是根本尿不出来，这时候在厕所蹲下有耐心一点控制生殖器，努力一点就能尿出来了！然后躺地上感受药效。至于提升音乐鉴赏能力az放了歌但是没有感受到。不过药效中az会说胡话打不清字到处表白之类的……药效过了之后就会有一阵一阵的眩晕（结束）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561806114274287616",
+        "conversation_id": "2073502558518444047",
+        "created_at": "2026-07-04T20:26:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T21:26:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073503722534248712"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2073503722534248712",
+        "in_reply_to_user_id": "1561806114274287616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073502558518444047",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "因为喝了很多水，药效上来时候可能会想尿尿，还是根本尿不出来，这时候在厕所蹲下有耐心一点控制生殖器，努力一点就能尿出来了！然后躺地上感受药效。至于提升音乐鉴赏能力az放了歌但是没有感受到。不过药效中az会说胡话打不清字到处表白之类的……药效过了之后就会有一阵一阵的眩晕（结束）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561806114274287616",
+        "conversation_id": "2073502558518444047",
+        "created_at": "2026-07-04T20:21:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T21:21:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073502558518444047"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2073502558518444047",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "pr80测评：首先在药效最猛的时候抽两根香烟，到底是谁提出的普瑞配烟啊，真的爽死az了，强烈推荐万宝路黑冰（薄荷爆珠），抽完直接躺地上，什么东西都会转，真的爽上加爽！记得提前喝水这样胶囊化的快一点，有条件可以买瓶可乐（里面有咖啡因），这样药效会快一点！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-22T20:03:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "你们好呀，我是az！成分：重抑中焦/od/自傷/自殺念头/infp-t/音游/二游（不怎么玩了）/端游（Steam上面的单机和一些网游）/日式像素RPG/galgame/喜欢术力口（初音 可不 歌爱雪）/看番/看漫画。\n没有什么特别的的主推，因为是成分太复杂，喜欢的东西太多啦！\n目前失业中~欢迎互fo，我爱你们！❤️",
+        "id": "1561806114274287616",
+        "location": "地狱",
+        "name": "AZ.",
+        "pinned_tweet_id": "2061092260226502954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778090792390959104/-k1xKj1N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 232,
+          "following_count": 309,
+          "like_count": 1594,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 520
+        },
+        "url": "",
+        "username": "crossyangshe",
+        "verified": false
+      }
+    ]
+  }
+}

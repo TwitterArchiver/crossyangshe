@@ -1,0 +1,191 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1561806114274287616",
+    "conversation_id": "1790761725266137224",
+    "created_at": "2024-05-15T16:50:16.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-15T17:50:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1790786788069621920"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1483028560084299776",
+          "start": 0,
+          "username": "AskYU_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1790786788069621920",
+    "in_reply_to_user_id": "1483028560084299776",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1790761725266137224",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AskYU_ 可是你这样一直发推也是没有办法的，不如装作什么都无所谓的态度每天为自己而活吧！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1561806114274287616",
+        "conversation_id": "1790761725266137224",
+        "created_at": "2024-05-15T16:50:16.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-15T17:50:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1790786788069621920"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1483028560084299776",
+              "start": 0,
+              "username": "AskYU_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1790786788069621920",
+        "in_reply_to_user_id": "1483028560084299776",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1790761725266137224",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AskYU_ 可是你这样一直发推也是没有办法的，不如装作什么都无所谓的态度每天为自己而活吧！"
+      },
+      {
+        "attachments": {},
+        "author_id": "1483028560084299776",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Careers",
+              "id": "847544972781826048",
+              "name": "Careers"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Recruitment",
+              "id": "961961812492148736",
+              "name": "Recruitment"
+            }
+          }
+        ],
+        "conversation_id": "1790761725266137224",
+        "created_at": "2024-05-15T15:10:40.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-15T16:10:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1790761725266137224"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1790761725266137224",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谁都好谁都可以我能求求人来安慰我吗我不知道说什么突然感觉我又配不上了我不想和别人倾诉这些我不知道我知道还是那个还是因为那个问题我已经把我比不上别人的痛苦牢牢记住了 我现在觉得我的痛苦就是不值一提 过去就好\n但我真的要撑不住了我今年最痛苦的两天出现了我染上五月病了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-22T20:03:01.000Z",
+        "description": "忘记伤痕和过去 就能得到幸福吗.",
+        "id": "1561806114274287616",
+        "location": "今天也辛苦了.",
+        "name": "AZ.",
+        "pinned_tweet_id": "1725205374507368558",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778090792390959104/-k1xKj1N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 13,
+          "like_count": 75,
+          "listed_count": 0,
+          "tweet_count": 57
+        },
+        "username": "crossyangshe",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-17T10:49:03.000Z",
+        "description": "变得有钱是我的梦想——————",
+        "id": "1483028560084299776",
+        "location": "我说我不会原谅这个世界，",
+        "name": "5101",
+        "pinned_tweet_id": "1725837773863887269",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1719020103059345408/GaA9engd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 42,
+          "like_count": 1025,
+          "listed_count": 1,
+          "tweet_count": 194
+        },
+        "username": "AskYU_",
+        "verified": false
+      }
+    ]
+  }
+}

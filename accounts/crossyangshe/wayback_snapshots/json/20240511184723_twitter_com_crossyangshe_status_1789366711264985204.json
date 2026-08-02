@@ -1,0 +1,180 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1561806114274287616",
+    "conversation_id": "1789252600061120901",
+    "created_at": "2024-05-11T18:47:23.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-11T19:47:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1789366711264985204"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1483028560084299776",
+          "start": 0,
+          "username": "AskYU_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1789366711264985204",
+    "in_reply_to_user_id": "1483028560084299776",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1789252600061120901",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AskYU_ 没有必要再做这些无意义的事了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1561806114274287616",
+        "conversation_id": "1789252600061120901",
+        "created_at": "2024-05-11T18:47:23.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-11T19:47:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1789366711264985204"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1483028560084299776",
+              "start": 0,
+              "username": "AskYU_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1789366711264985204",
+        "in_reply_to_user_id": "1483028560084299776",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1789252600061120901",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AskYU_ 没有必要再做这些无意义的事了"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1789252587767689219"
+          ]
+        },
+        "author_id": "1483028560084299776",
+        "conversation_id": "1789252600061120901",
+        "created_at": "2024-05-11T11:13:57.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-11T12:13:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1789252600061120901"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/As4BLb2seF",
+              "end": 31,
+              "expanded_url": "https://twitter.com/AskYU_/status/1789252600061120901/photo/1",
+              "media_key": "3_1789252587767689219",
+              "start": 8,
+              "url": "https://t.co/As4BLb2seF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1789252600061120901",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "刚好咬在这上面 https://t.co/As4BLb2seF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-22T20:03:01.000Z",
+        "description": "忘记伤痕和过去 就能得到幸福吗.",
+        "id": "1561806114274287616",
+        "location": "今天也辛苦了.",
+        "name": "AZ.",
+        "pinned_tweet_id": "1725205374507368558",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778090792390959104/-k1xKj1N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 13,
+          "like_count": 75,
+          "listed_count": 0,
+          "tweet_count": 54
+        },
+        "username": "crossyangshe",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-17T10:49:03.000Z",
+        "description": "变得有钱是我的梦想——————",
+        "id": "1483028560084299776",
+        "location": "我说我不会原谅这个世界，",
+        "name": "5101",
+        "pinned_tweet_id": "1725837773863887269",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1719020103059345408/GaA9engd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 42,
+          "like_count": 1014,
+          "listed_count": 1,
+          "tweet_count": 183
+        },
+        "username": "AskYU_",
+        "verified": false
+      }
+    ]
+  }
+}

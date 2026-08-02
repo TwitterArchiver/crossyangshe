@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561806114274287616",
+    "conversation_id": "2073995162582413583",
+    "created_at": "2026-07-06T05:37:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T06:37:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074004830851579987"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "361248768",
+          "start": 0,
+          "username": "R1kOx033w"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074004830851579987",
+    "in_reply_to_user_id": "361248768",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073995162582413583",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@R1kOx033w 好奇怪的梦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561806114274287616",
+        "conversation_id": "2073995162582413583",
+        "created_at": "2026-07-06T05:37:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T06:37:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074004830851579987"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "361248768",
+              "start": 0,
+              "username": "R1kOx033w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074004830851579987",
+        "in_reply_to_user_id": "361248768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073995162582413583",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@R1kOx033w 好奇怪的梦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "361248768",
+        "conversation_id": "2073995162582413583",
+        "created_at": "2026-07-06T04:59:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T05:59:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073995162582413583"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2073995162582413583",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "梦到穿着电锯人公安制服那样的白衬衫黑领带黑西装 然后在做菜 糖醋里脊耶 是在家里吧 下班了 然后有好多穿着一样的同事来喝酒 最后来了位 我去开门 似乎是恶魔 关上门后询问同事怎么办 同事说如果你没有和它交易过可以选择用重要的东西交易换命 否则会被从概念上杀死 我思考着拒绝了交易"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-22T20:03:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "你们好呀，我是az！成分：重抑中焦/od/自傷/自殺念头/infp-t/音游/二游（不怎么玩了）/端游（Steam上面的单机和一些网游）/日式像素RPG/galgame/喜欢术力口（初音 可不 歌爱雪）/看番/看漫画。\n没有什么特别的的主推，因为是成分太复杂，喜欢的东西太多啦！\n目前失业中~欢迎互fo，我爱你们！❤️",
+        "id": "1561806114274287616",
+        "location": "地狱",
+        "name": "AZ.",
+        "pinned_tweet_id": "2061092260226502954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778090792390959104/-k1xKj1N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 305,
+          "following_count": 346,
+          "like_count": 1881,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 588
+        },
+        "url": "",
+        "username": "crossyangshe",
+        "verified": false
+      },
+      {
+        "created_at": "2011-08-24T13:58:30.000Z",
+        "description": "转生为鲤#颓废迷茫青年#混乱善良#收留一样善良的孩子",
+        "id": "361248768",
+        "location": "伽蓝洞",
+        "name": "鲤",
+        "pinned_tweet_id": "2036929448646500730",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063720447561347072/ht3bAq-U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 57,
+          "like_count": 273,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 212
+        },
+        "url": "",
+        "username": "R1kOx033w",
+        "verified": false
+      }
+    ]
+  }
+}

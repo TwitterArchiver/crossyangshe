@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2056751043116195840"
+      ],
+      "media_source_tweet_id": [
+        "2056751048132603989"
+      ]
+    },
+    "author_id": "1561806114274287616",
+    "conversation_id": "2061308299677782446",
+    "created_at": "2026-06-01T04:46:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T05:46:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061308299677782446"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 24,
+          "start": 13,
+          "tag": "闘病垢自己紹介カード"
+        },
+        {
+          "end": 38,
+          "start": 26,
+          "tag": "闘病垢さんと繋がりたい"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2044793518267453440",
+          "start": 3,
+          "username": "lxxe11_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0SVOfrxOrb",
+          "end": 100,
+          "expanded_url": "https://x.com/lxxe11_/status/2056751048132603989/photo/1",
+          "media_key": "3_2056751043116195840",
+          "start": 77,
+          "url": "https://t.co/0SVOfrxOrb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061308299677782446",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056751048132603989",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lxxe11_: #闘病垢自己紹介カード\n #闘病垢さんと繋がりたい\n♡でお迎え　DM挨拶不要\nゆるく仲良くしてくれる人と繋がれたら嬉しいです。 https://t.co/0SVOfrxOrb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1500,
+        "media_key": "3_2056751043116195840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIsMLTRa4AAFS9S.jpg",
+        "width": 2100
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056751043116195840"
+          ],
+          "media_source_tweet_id": [
+            "2056751048132603989"
+          ]
+        },
+        "author_id": "1561806114274287616",
+        "conversation_id": "2061308299677782446",
+        "created_at": "2026-06-01T04:46:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T05:46:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061308299677782446"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 24,
+              "start": 13,
+              "tag": "闘病垢自己紹介カード"
+            },
+            {
+              "end": 38,
+              "start": 26,
+              "tag": "闘病垢さんと繋がりたい"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2044793518267453440",
+              "start": 3,
+              "username": "lxxe11_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0SVOfrxOrb",
+              "end": 100,
+              "expanded_url": "https://x.com/lxxe11_/status/2056751048132603989/photo/1",
+              "media_key": "3_2056751043116195840",
+              "start": 77,
+              "url": "https://t.co/0SVOfrxOrb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061308299677782446",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056751048132603989",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lxxe11_: #闘病垢自己紹介カード\n #闘病垢さんと繋がりたい\n♡でお迎え　DM挨拶不要\nゆるく仲良くしてくれる人と繋がれたら嬉しいです。 https://t.co/0SVOfrxOrb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056751043116195840"
+          ]
+        },
+        "author_id": "2044793518267453440",
+        "conversation_id": "2056751048132603989",
+        "created_at": "2026-05-19T14:57:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T15:57:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056751048132603989"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 11,
+              "start": 0,
+              "tag": "闘病垢自己紹介カード"
+            },
+            {
+              "end": 25,
+              "start": 13,
+              "tag": "闘病垢さんと繋がりたい"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0SVOfrxOrb",
+              "end": 87,
+              "expanded_url": "https://x.com/lxxe11_/status/2056751048132603989/photo/1",
+              "media_key": "3_2056751043116195840",
+              "start": 64,
+              "url": "https://t.co/0SVOfrxOrb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056751048132603989",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1739,
+          "like_count": 93,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "#闘病垢自己紹介カード\n #闘病垢さんと繋がりたい\n♡でお迎え　DM挨拶不要\nゆるく仲良くしてくれる人と繋がれたら嬉しいです。 https://t.co/0SVOfrxOrb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-22T20:03:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "az，非健全人，努力生存中，希望有人关注我",
+        "id": "1561806114274287616",
+        "location": "地狱",
+        "name": "AZ.",
+        "pinned_tweet_id": "2061092260226502954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778090792390959104/-k1xKj1N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 44,
+          "like_count": 229,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 180
+        },
+        "username": "crossyangshe",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-16T15:02:20.000Z",
+        "description": "05 🚺｜未診断/双極疑い｜精神科通院中｜通信制大学生｜初手呼びタメ🙆‍♀️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lxxe11.hatenablog.com",
+                "end": 23,
+                "expanded_url": "https://lxxe11.hatenablog.com/",
+                "start": 0,
+                "url": "https://t.co/Kuwo3J2eMd"
+              }
+            ]
+          }
+        },
+        "id": "2044793518267453440",
+        "location": "質問など中身のある会話ならDM可",
+        "name": "茅野",
+        "pinned_tweet_id": "2056751048132603989",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053337402924769281/P9yk6OqO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 31,
+          "like_count": 102,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 580
+        },
+        "url": "https://t.co/Kuwo3J2eMd",
+        "username": "lxxe11_",
+        "verified": false
+      }
+    ]
+  }
+}

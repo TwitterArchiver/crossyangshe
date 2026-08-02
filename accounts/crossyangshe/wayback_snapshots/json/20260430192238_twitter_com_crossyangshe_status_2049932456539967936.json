@@ -1,0 +1,181 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561806114274287616",
+    "conversation_id": "2049932109041840537",
+    "created_at": "2026-04-30T19:22:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T20:22:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049932456539967936"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2049932456539967936",
+    "in_reply_to_user_id": "1561806114274287616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049932109041840537",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "每天都在想要是昨天死掉就好了……可是昨天的自己依旧没有让今天的自己快乐……"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2049932106118451200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHLSY7bb0AAZeLM.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561806114274287616",
+        "conversation_id": "2049932109041840537",
+        "created_at": "2026-04-30T19:22:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T20:22:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049932456539967936"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2049932456539967936",
+        "in_reply_to_user_id": "1561806114274287616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049932109041840537",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "每天都在想要是昨天死掉就好了……可是昨天的自己依旧没有让今天的自己快乐……"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049932106118451200"
+          ]
+        },
+        "author_id": "1561806114274287616",
+        "conversation_id": "2049932109041840537",
+        "created_at": "2026-04-30T19:21:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T20:21:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049932109041840537"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XlOoITfNGa",
+              "end": 180,
+              "expanded_url": "https://x.com/crossyangshe/status/2049932109041840537/photo/1",
+              "media_key": "3_2049932106118451200",
+              "start": 157,
+              "url": "https://t.co/XlOoITfNGa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049932109041840537",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "明明昨天就会死去的\n\n因为我啊 我啊\n\n没办法好好地吃下饭\n\n没办法好好地睡着觉\n\n明明昨天就会死去的\n\n因为我啊 我啊\n\n记不住的事情太多太多\n\n就这样还不如死去\n\n我本来昨天就会死去的\n\n但是我啊 我啊\n\n还没吃到好吃的肉\n\n还没好好地睡一觉\n\n我本来昨天就会死去的\n\n但是我却 我却\n\n满脑子只想着活着的事 https://t.co/XlOoITfNGa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-22T20:03:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "窝是恶魔羊AZ.#小恶魔系#术力口#galgame#会看vtuber#明日方舟，最近有玩终末地#严重网瘾Steam端游手游都玩#看番，有时候感觉这辈子有了......因为吃了奇怪的药和痛苦的经历我失去了好多记忆，如果不是有人告诉我可能不会再想起......但是还是忘了好多性格也变了。可以找窝一起打游戏和wyy听歌呐~",
+        "id": "1561806114274287616",
+        "location": "地狱",
+        "name": "AZ.",
+        "pinned_tweet_id": "1725205374507368558",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778090792390959104/-k1xKj1N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 21,
+          "like_count": 68,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 60
+        },
+        "username": "crossyangshe",
+        "verified": false
+      }
+    ]
+  }
+}

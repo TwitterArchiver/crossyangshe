@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561806114274287616",
+    "conversation_id": "2074371749219905970",
+    "created_at": "2026-07-07T12:06:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T13:06:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074465011796410750"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1543072342447771650",
+          "start": 0,
+          "username": "qsmhls"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074465011796410750",
+    "in_reply_to_user_id": "1543072342447771650",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074371749219905970",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qsmhls 好可怕要注意安全呀"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2074371742458662912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMmmG_lbUAAdQqY.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561806114274287616",
+        "conversation_id": "2074371749219905970",
+        "created_at": "2026-07-07T12:06:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T13:06:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074465011796410750"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1543072342447771650",
+              "start": 0,
+              "username": "qsmhls"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074465011796410750",
+        "in_reply_to_user_id": "1543072342447771650",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074371749219905970",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qsmhls 好可怕要注意安全呀"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074371742458662912"
+          ]
+        },
+        "author_id": "1543072342447771650",
+        "conversation_id": "2074371749219905970",
+        "created_at": "2026-07-07T05:55:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T06:55:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074371749219905970"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1BMqeyr4Oo",
+              "end": 23,
+              "expanded_url": "https://x.com/qsmhls/status/2074371749219905970/photo/1",
+              "media_key": "3_2074371742458662912",
+              "start": 0,
+              "url": "https://t.co/1BMqeyr4Oo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074371749219905970",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 2817,
+          "like_count": 197,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/1BMqeyr4Oo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-22T20:03:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "你们好呀，我是az！成分：重抑中焦/od/自傷/自殺念头/infp-t/音游/二游（不怎么玩了）/端游（Steam上面的单机和一些网游）/日式像素RPG/galgame/喜欢术力口（初音 可不 歌爱雪）/看番/看漫画。\n没有什么特别的的主推，因为是成分太复杂，喜欢的东西太多啦！\n目前失业中~欢迎互fo，我爱你们！❤️",
+        "id": "1561806114274287616",
+        "location": "地狱",
+        "name": "AZ.",
+        "pinned_tweet_id": "2061092260226502954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778090792390959104/-k1xKj1N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 344,
+          "following_count": 349,
+          "like_count": 1995,
+          "listed_count": 0,
+          "media_count": 80,
+          "tweet_count": 619
+        },
+        "url": "",
+        "username": "crossyangshe",
+        "verified": true
+      },
+      {
+        "created_at": "2022-07-02T03:21:36.000Z",
+        "description": "皮下男 皮下男 皮下男\n双相情感障碍 边缘型人格障碍/自伤/od/摄影\n 沙卵妹控一个 我的老婆包括但不限于和泉纱雾，谷风天音，七草荠（患七草荠cos ptsd），五更琉璃，桐生瑞叶\n请务必关注防炸@sagirinoinu\nあなた：@kuma02150128",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 111,
+                "start": 99,
+                "username": "sagirinoinu"
+              },
+              {
+                "end": 129,
+                "start": 116,
+                "username": "kuma02150128"
+              }
+            ]
+          }
+        },
+        "id": "1543072342447771650",
+        "name": "和泉紗霧の犬",
+        "pinned_tweet_id": "2053113025583014100",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074399926759628800/txo1uWRB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 193,
+          "following_count": 162,
+          "like_count": 5024,
+          "listed_count": 0,
+          "media_count": 118,
+          "tweet_count": 2113
+        },
+        "url": "",
+        "username": "qsmhls",
+        "verified": false
+      }
+    ]
+  }
+}

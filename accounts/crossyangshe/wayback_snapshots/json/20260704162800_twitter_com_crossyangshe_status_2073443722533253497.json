@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561806114274287616",
+    "conversation_id": "2073420055367631145",
+    "created_at": "2026-07-04T16:28:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T17:28:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073443722533253497"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1998751032650969088",
+          "start": 0,
+          "username": "Fox_Sakura233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073443722533253497",
+    "in_reply_to_user_id": "1998751032650969088",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073420055367631145",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Fox_Sakura233 有些人高高在上最以为自己了解几个圈子就成救世主了，真能拯救这个破碎的世界一样"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 644,
+        "media_key": "3_2073420044512755712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMZEi4dbgAAFCJA.jpg",
+        "width": 574
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561806114274287616",
+        "conversation_id": "2073420055367631145",
+        "created_at": "2026-07-04T16:28:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T17:28:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073443722533253497"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1998751032650969088",
+              "start": 0,
+              "username": "Fox_Sakura233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073443722533253497",
+        "in_reply_to_user_id": "1998751032650969088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073420055367631145",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Fox_Sakura233 有些人高高在上最以为自己了解几个圈子就成救世主了，真能拯救这个破碎的世界一样"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073420044512755712"
+          ]
+        },
+        "author_id": "1998751032650969088",
+        "conversation_id": "2073420055367631145",
+        "created_at": "2026-07-04T14:53:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T15:53:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073420055367631145"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TGiCWxgbsQ",
+              "end": 43,
+              "expanded_url": "https://x.com/Fox_Sakura233/status/2073420055367631145/photo/1",
+              "media_key": "3_2073420044512755712",
+              "start": 20,
+              "url": "https://t.co/TGiCWxgbsQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073420055367631145",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 979,
+          "like_count": 30,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "你们买不到药是有原因的\n有很多小丑真的 https://t.co/TGiCWxgbsQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-22T20:03:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "az，非健全人，努力生存中，希望有人关注我",
+        "id": "1561806114274287616",
+        "location": "地狱",
+        "name": "AZ.",
+        "pinned_tweet_id": "2061092260226502954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778090792390959104/-k1xKj1N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 225,
+          "following_count": 294,
+          "like_count": 1465,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 474
+        },
+        "url": "",
+        "username": "crossyangshe",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-10T13:46:18.000Z",
+        "description": "02 | ♂ |リスカ| OD | 病み垢 | 去勢済み | くず\n | 希死念慮 | 情緒不安定 |ZH/EN/JP|\n精神活性物質Wiki：https://t.co/XzFTNu4ouS｜本人发布的内容很危险，请合理使用，小心成瘾问题",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "jile.bid",
+                "end": 95,
+                "expanded_url": "https://jile.bid/",
+                "start": 72,
+                "url": "https://t.co/XzFTNu4ouS"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "jile.bid",
+                "end": 23,
+                "expanded_url": "https://jile.bid/",
+                "start": 0,
+                "url": "https://t.co/XzFTNu4ouS"
+              }
+            ]
+          }
+        },
+        "id": "1998751032650969088",
+        "name": "sakura👾",
+        "pinned_tweet_id": "2069373938770256251",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066312345912233984/vlN26lx1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 403,
+          "following_count": 519,
+          "like_count": 657,
+          "listed_count": 1,
+          "media_count": 28,
+          "tweet_count": 356
+        },
+        "url": "https://t.co/XzFTNu4ouS",
+        "username": "Fox_Sakura233",
+        "verified": false
+      }
+    ]
+  }
+}

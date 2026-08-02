@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561806114274287616",
+    "conversation_id": "2073310441519120884",
+    "created_at": "2026-07-04T19:10:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T20:10:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073484603466359253"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2053892249851998208",
+          "start": 0,
+          "username": "iiq1427276"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073484603466359253",
+    "in_reply_to_user_id": "2053892249851998208",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073484006759510322",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@iiq1427276 啊啊啊啊啊，az第一次吃了pr，还好哈哈哈哈哈哈哈字好难打！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561806114274287616",
+        "conversation_id": "2073310441519120884",
+        "created_at": "2026-07-04T19:10:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T20:10:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073484603466359253"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2053892249851998208",
+              "start": 0,
+              "username": "iiq1427276"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073484603466359253",
+        "in_reply_to_user_id": "2053892249851998208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073484006759510322",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@iiq1427276 啊啊啊啊啊，az第一次吃了pr，还好哈哈哈哈哈哈哈字好难打！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053892249851998208",
+        "conversation_id": "2073310441519120884",
+        "created_at": "2026-07-04T19:08:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T20:08:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073484006759510322"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1561806114274287616",
+              "start": 0,
+              "username": "crossyangshe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073484006759510322",
+        "in_reply_to_user_id": "1561806114274287616",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073443118440161724",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@crossyangshe 15t草酸"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-22T20:03:01.000Z",
+        "description": "你们好呀，我是az！成分：重抑中焦/od/自傷/自殺念头/infp-t/音游/二游（不怎么玩了）/端游（Steam上面的单机和一些网游）/日式像素RPG/galgame/喜欢术力口（初音 可不 歌爱雪）/看番/看漫画。\n没有什么特别的的主推，因为是成分太复杂，喜欢的东西太多啦！\n目前失业中~欢迎互fo，我爱你们！❤️",
+        "id": "1561806114274287616",
+        "location": "地狱",
+        "name": "AZ.",
+        "pinned_tweet_id": "2061092260226502954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778090792390959104/-k1xKj1N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 231,
+          "following_count": 308,
+          "like_count": 1582,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 512
+        },
+        "url": "",
+        "username": "crossyangshe",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-11T17:38:33.000Z",
+        "description": "夏美在此💟08|infp|双相|ADHD|双性恋|超高p线下无此人|几乎全是碎碎念神经发言偶尔雪图牢骚还有一点我的画🤲|日语学习中|水上由岐重度依赖|友跨友一切！我爱所有的宝宝们🥺💟查成分互fo~爱你们喵~\nhttps://t.co/2LuNaTO1e4提问箱来玩吧嗯",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/natsumi5005",
+                "end": 127,
+                "expanded_url": "https://ngl.link/natsumi5005",
+                "start": 104,
+                "url": "https://t.co/2LuNaTO1e4"
+              }
+            ]
+          }
+        },
+        "id": "2053892249851998208",
+        "location": "全世界最萌的夏美",
+        "name": "众生蒙太奇",
+        "pinned_tweet_id": "2068297602161054201",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072928025931661312/4z_pTR9s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 795,
+          "following_count": 180,
+          "like_count": 1623,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 753
+        },
+        "url": "",
+        "username": "iiq1427276",
+        "verified": false
+      }
+    ]
+  }
+}

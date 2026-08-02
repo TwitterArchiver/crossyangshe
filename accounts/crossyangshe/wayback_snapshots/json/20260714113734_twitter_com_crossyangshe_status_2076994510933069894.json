@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561806114274287616",
+    "conversation_id": "2076992055239446879",
+    "created_at": "2026-07-14T11:37:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T12:37:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076994510933069894"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2074453617030090752",
+          "start": 0,
+          "username": "pvwk7c"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076994510933069894",
+    "in_reply_to_user_id": "2074453617030090752",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076992055239446879",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pvwk7c 腿好好看~"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2076992012566609920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNL1OyZbQAAofYu.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561806114274287616",
+        "conversation_id": "2076992055239446879",
+        "created_at": "2026-07-14T11:37:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T12:37:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076994510933069894"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2074453617030090752",
+              "start": 0,
+              "username": "pvwk7c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076994510933069894",
+        "in_reply_to_user_id": "2074453617030090752",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076992055239446879",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pvwk7c 腿好好看~"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076992012566609920"
+          ]
+        },
+        "author_id": "2074453617030090752",
+        "conversation_id": "2076992055239446879",
+        "created_at": "2026-07-14T11:27:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T12:27:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076992055239446879"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YdzZ6CTuYt",
+              "end": 36,
+              "expanded_url": "https://x.com/pvwk7c/status/2076992055239446879/photo/1",
+              "media_key": "3_2076992012566609920",
+              "start": 13,
+              "url": "https://t.co/YdzZ6CTuYt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076992055239446879",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "发这个引导自杀。？我他妈 https://t.co/YdzZ6CTuYt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-22T20:03:01.000Z",
+        "description": "你们好呀，我是az！成分：重抑中焦/od/自傷/自殺念头/infp-t/音游/二游（不怎么玩了）/端游（Steam上面的单机和一些网游）/像素RPG/galgame/喜欢术力口（初音 可不 歌爱雪）/看番/看漫画。\n没有什么特别的的主推喜欢的东西太多啦\n同类群1053339675\n目前失业中~欢迎互fo，我爱你们！❤️",
+        "id": "1561806114274287616",
+        "location": "失乐园",
+        "name": "AZ.",
+        "pinned_tweet_id": "2075487277191733409",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778090792390959104/-k1xKj1N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 543,
+          "following_count": 422,
+          "like_count": 2873,
+          "listed_count": 0,
+          "media_count": 108,
+          "tweet_count": 825
+        },
+        "url": "",
+        "username": "crossyangshe",
+        "verified": true
+      },
+      {
+        "created_at": "2026-07-07T11:24:14.000Z",
+        "description": "碎碎念用的了，大号@nigich436594",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 9,
+                "username": "nigich436594"
+              }
+            ]
+          }
+        },
+        "id": "2074453617030090752",
+        "location": "🚪77聊天好友位",
+        "name": "小猫",
+        "pinned_tweet_id": "2076259031157788728",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074455267388104705/9WMGUXHR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78,
+          "following_count": 84,
+          "like_count": 33,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 54
+        },
+        "url": "",
+        "username": "pvwk7c",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561806114274287616",
+    "conversation_id": "2071945767498240332",
+    "created_at": "2026-06-30T14:53:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T15:53:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071970362116694380"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2004802306873982977",
+          "start": 0,
+          "username": "Len10x0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071970362116694380",
+    "in_reply_to_user_id": "2004802306873982977",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071945767498240332",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Len10x0 想陪一根，但是突然发现az最近抽不了烟的说……"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2071945632101683200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMEHkyNX0AAu2GF.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561806114274287616",
+        "conversation_id": "2071945767498240332",
+        "created_at": "2026-06-30T14:53:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T15:53:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071970362116694380"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2004802306873982977",
+              "start": 0,
+              "username": "Len10x0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071970362116694380",
+        "in_reply_to_user_id": "2004802306873982977",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071945767498240332",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Len10x0 想陪一根，但是突然发现az最近抽不了烟的说……"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071945632101683200"
+          ]
+        },
+        "author_id": "2004802306873982977",
+        "conversation_id": "2071945767498240332",
+        "created_at": "2026-06-30T13:15:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T14:15:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071945767498240332"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bK7XQMD5M3",
+              "end": 30,
+              "expanded_url": "https://x.com/Len10x0/status/2071945767498240332/photo/1",
+              "media_key": "3_2071945632101683200",
+              "start": 7,
+              "url": "https://t.co/bK7XQMD5M3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071945767498240332",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 53,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "发布抽烟任务 https://t.co/bK7XQMD5M3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-22T20:03:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "az，非健全人，努力生存中，希望有人关注我",
+        "id": "1561806114274287616",
+        "location": "地狱",
+        "name": "AZ.",
+        "pinned_tweet_id": "2061092260226502954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778090792390959104/-k1xKj1N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 158,
+          "following_count": 245,
+          "like_count": 859,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 360
+        },
+        "url": "",
+        "username": "crossyangshe",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-27T06:31:44.000Z",
+        "description": "泛性恋偏le老婆 @55ghcgxc\n#日系#餐券#地雷系#od\n双相患者2011.8.7\n同类互fo 可以叫我深晟或者小冷",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "55ghcgxc"
+              }
+            ]
+          }
+        },
+        "id": "2004802306873982977",
+        "location": "🚪52/88/188上不封顶不退",
+        "name": "冷幻觉（恶俗版",
+        "pinned_tweet_id": "2071854427619926090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071937367934369793/cVS-k0I7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 300,
+          "following_count": 248,
+          "like_count": 1620,
+          "listed_count": 0,
+          "media_count": 232,
+          "tweet_count": 2010
+        },
+        "url": "",
+        "username": "Len10x0",
+        "verified": false
+      }
+    ]
+  }
+}

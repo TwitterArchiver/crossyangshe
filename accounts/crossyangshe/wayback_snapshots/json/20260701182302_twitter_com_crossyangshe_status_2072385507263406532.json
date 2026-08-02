@@ -1,0 +1,110 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561806114274287616",
+    "conversation_id": "2072385507263406532",
+    "created_at": "2026-07-01T18:23:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T19:23:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072385507263406532"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2072385507263406532",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "今天不知道为什么，突发奇想把phigros下了回来，已经四五年没有打过音游了，下一次玩还是在高二那时期，结果打到现在才停下来打算吃药睡觉，不得不说在az这些年玩过的音游里面phigros算简单的了，但是可能是很久没玩了，以前13，14级能全连的现在11，12级打个s都费劲，可能是操作变菜了吧……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561806114274287616",
+        "conversation_id": "2072385507263406532",
+        "created_at": "2026-07-01T18:23:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T19:23:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072385507263406532"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2072385507263406532",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天不知道为什么，突发奇想把phigros下了回来，已经四五年没有打过音游了，下一次玩还是在高二那时期，结果打到现在才停下来打算吃药睡觉，不得不说在az这些年玩过的音游里面phigros算简单的了，但是可能是很久没玩了，以前13，14级能全连的现在11，12级打个s都费劲，可能是操作变菜了吧……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-22T20:03:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "az，非健全人，努力生存中，希望有人关注我",
+        "id": "1561806114274287616",
+        "location": "地狱",
+        "name": "AZ.",
+        "pinned_tweet_id": "2061092260226502954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778090792390959104/-k1xKj1N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 185,
+          "following_count": 253,
+          "like_count": 993,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 386
+        },
+        "url": "",
+        "username": "crossyangshe",
+        "verified": false
+      }
+    ]
+  }
+}

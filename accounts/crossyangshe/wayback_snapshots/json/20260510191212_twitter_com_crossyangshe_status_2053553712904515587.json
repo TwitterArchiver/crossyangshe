@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2053553052687421440",
+        "3_2053553695351304192"
+      ]
+    },
+    "author_id": "1561806114274287616",
+    "conversation_id": "2053553712904515587",
+    "created_at": "2026-05-10T19:12:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T20:12:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2053553712904515587"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/rXDl6DfapF",
+          "end": 89,
+          "expanded_url": "https://x.com/crossyangshe/status/2053553712904515587/photo/1",
+          "media_key": "3_2053553052687421440",
+          "start": 66,
+          "url": "https://t.co/rXDl6DfapF"
+        },
+        {
+          "display_url": "pic.x.com/rXDl6DfapF",
+          "end": 89,
+          "expanded_url": "https://x.com/crossyangshe/status/2053553712904515587/photo/1",
+          "media_key": "3_2053553695351304192",
+          "start": 66,
+          "url": "https://t.co/rXDl6DfapF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053553712904515587",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我要崩溃了啊，我两台手机都崩掉了，现在只能用网页版发推，我草了能不能杀死算了为什么什么麻烦的事都要找上我生活别逼我了傻逼也是逼吗？ https://t.co/rXDl6DfapF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 608,
+        "media_key": "3_2053553052687421440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH-vnwjaUAA8C8s.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2400,
+        "media_key": "3_2053553695351304192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH-wNKqa8AANLnZ.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053553052687421440",
+            "3_2053553695351304192"
+          ]
+        },
+        "author_id": "1561806114274287616",
+        "conversation_id": "2053553712904515587",
+        "created_at": "2026-05-10T19:12:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T20:12:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053553712904515587"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rXDl6DfapF",
+              "end": 89,
+              "expanded_url": "https://x.com/crossyangshe/status/2053553712904515587/photo/1",
+              "media_key": "3_2053553052687421440",
+              "start": 66,
+              "url": "https://t.co/rXDl6DfapF"
+            },
+            {
+              "display_url": "pic.x.com/rXDl6DfapF",
+              "end": 89,
+              "expanded_url": "https://x.com/crossyangshe/status/2053553712904515587/photo/1",
+              "media_key": "3_2053553695351304192",
+              "start": 66,
+              "url": "https://t.co/rXDl6DfapF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053553712904515587",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我要崩溃了啊，我两台手机都崩掉了，现在只能用网页版发推，我草了能不能杀死算了为什么什么麻烦的事都要找上我生活别逼我了傻逼也是逼吗？ https://t.co/rXDl6DfapF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-22T20:03:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "窝是恶魔羊AZ.#小恶魔系#术力口#galgame#会看vtuber#明日方舟，最近有玩终末地#严重网瘾Steam端游手游都玩#看番，有时候感觉这辈子有了......因为吃了奇怪的药和痛苦的经历我失去了好多记忆，如果不是有人告诉我可能不会再想起......但是还是忘了好多性格也变了。可以找窝一起打游戏和wyy听歌呐~",
+        "id": "1561806114274287616",
+        "location": "地狱",
+        "name": "AZ.",
+        "pinned_tweet_id": "1725205374507368558",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778090792390959104/-k1xKj1N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 0,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 93
+        },
+        "username": "crossyangshe",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561806114274287616",
+    "conversation_id": "2061092260226502954",
+    "created_at": "2026-06-23T15:30:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T16:30:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069443008836337906"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2069443008836337906",
+    "in_reply_to_user_id": "1561806114274287616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061092260226502954",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "补充：还有在吃草酸艾司西酞普兰和喹硫平"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1463,
+        "media_key": "3_2061091824576729088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJp4GCVbkAAe-QG.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1705,
+        "media_key": "3_2061091824576724992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJp4GCVbgAABz-H.jpg",
+        "width": 940
+      },
+      {
+        "height": 1400,
+        "media_key": "3_2061091824635383808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJp4GCjakAAdoKq.jpg",
+        "width": 1400
+      },
+      {
+        "height": 1400,
+        "media_key": "3_2061091824589328384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJp4GCYb0AASCLW.jpg",
+        "width": 1400
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561806114274287616",
+        "conversation_id": "2061092260226502954",
+        "created_at": "2026-06-23T15:30:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T16:30:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069443008836337906"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2069443008836337906",
+        "in_reply_to_user_id": "1561806114274287616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061092260226502954",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "补充：还有在吃草酸艾司西酞普兰和喹硫平"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061091824576729088",
+            "3_2061091824576724992",
+            "3_2061091824635383808",
+            "3_2061091824589328384"
+          ]
+        },
+        "author_id": "1561806114274287616",
+        "conversation_id": "2061092260226502954",
+        "created_at": "2026-05-31T14:27:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T15:27:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061092260226502954"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "个人简介"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/aTDbq8OTnx",
+              "end": 80,
+              "expanded_url": "https://x.com/crossyangshe/status/2061092260226502954/photo/1",
+              "media_key": "3_2061091824576729088",
+              "start": 57,
+              "url": "https://t.co/aTDbq8OTnx"
+            },
+            {
+              "display_url": "pic.x.com/aTDbq8OTnx",
+              "end": 80,
+              "expanded_url": "https://x.com/crossyangshe/status/2061092260226502954/photo/1",
+              "media_key": "3_2061091824576724992",
+              "start": 57,
+              "url": "https://t.co/aTDbq8OTnx"
+            },
+            {
+              "display_url": "pic.x.com/aTDbq8OTnx",
+              "end": 80,
+              "expanded_url": "https://x.com/crossyangshe/status/2061092260226502954/photo/1",
+              "media_key": "3_2061091824635383808",
+              "start": 57,
+              "url": "https://t.co/aTDbq8OTnx"
+            },
+            {
+              "display_url": "pic.x.com/aTDbq8OTnx",
+              "end": 80,
+              "expanded_url": "https://x.com/crossyangshe/status/2061092260226502954/photo/1",
+              "media_key": "3_2061091824589328384",
+              "start": 57,
+              "url": "https://t.co/aTDbq8OTnx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061092260226502954",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 226,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "#个人简介\n日本朋友教我做的模板，话说这么做像我这样的人真的能交到朋友吗，我只会把关系搞砸，维持关系真的很困难呐 https://t.co/aTDbq8OTnx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-22T20:03:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "az，非健全人，努力生存中，希望有人关注我",
+        "id": "1561806114274287616",
+        "location": "地狱",
+        "name": "AZ.",
+        "pinned_tweet_id": "2061092260226502954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778090792390959104/-k1xKj1N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 56,
+          "like_count": 331,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 240
+        },
+        "url": "",
+        "username": "crossyangshe",
+        "verified": false
+      }
+    ]
+  }
+}

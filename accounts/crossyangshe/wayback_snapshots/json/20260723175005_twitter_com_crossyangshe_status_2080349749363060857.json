@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561806114274287616",
+    "conversation_id": "2080343500902834508",
+    "created_at": "2026-07-23T17:50:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T18:50:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080349749363060857"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1686914633314013184",
+          "start": 0,
+          "username": "KTD593yug"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080349749363060857",
+    "in_reply_to_user_id": "1686914633314013184",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080346253314158801",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KTD593yug 谢谢你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561806114274287616",
+        "conversation_id": "2080343500902834508",
+        "created_at": "2026-07-23T17:50:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T18:50:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080349749363060857"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1686914633314013184",
+              "start": 0,
+              "username": "KTD593yug"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080349749363060857",
+        "in_reply_to_user_id": "1686914633314013184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080346253314158801",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KTD593yug 谢谢你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1686914633314013184",
+        "conversation_id": "2080343500902834508",
+        "created_at": "2026-07-23T17:36:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T18:36:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080346253314158801"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1561806114274287616",
+              "start": 0,
+              "username": "crossyangshe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080346253314158801",
+        "in_reply_to_user_id": "1561806114274287616",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080343500902834508",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@crossyangshe 抱抱az"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-22T20:03:01.000Z",
+        "description": "你們好呀，我是az！成分：重抑中焦/od/自傷/自殺念頭/infp-t/音遊/二游（不怎麼玩了）/端遊（Steam上面的單機和一些網遊）/像素RPG/galgame/喜歡術力口（初音 可不 歌愛雪）/看番/看漫畫。\n戀人：@congng1327122\n小號：@confessAZ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 125,
+                "start": 111,
+                "username": "congng1327122"
+              },
+              {
+                "end": 139,
+                "start": 129,
+                "username": "confessAZ"
+              }
+            ]
+          }
+        },
+        "id": "1561806114274287616",
+        "location": "長沙",
+        "name": "AZ.",
+        "pinned_tweet_id": "2075487277191733409",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778090792390959104/-k1xKj1N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 612,
+          "following_count": 445,
+          "like_count": 3320,
+          "listed_count": 1,
+          "media_count": 124,
+          "tweet_count": 928
+        },
+        "url": "",
+        "username": "crossyangshe",
+        "verified": true
+      },
+      {
+        "created_at": "2023-08-03T01:39:45.000Z",
+        "description": "雑魚ざこ♡ | 是ENFP喵 | 友跨喵 | 偶尔半夜emo | 简介不定期更新喵",
+        "id": "1686914633314013184",
+        "location": "-13cm",
+        "name": "千绘莉喵～",
+        "pinned_tweet_id": "2077804269668110515",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029148198111985664/FJjVvRik_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 100,
+          "like_count": 880,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 305
+        },
+        "url": "",
+        "username": "KTD593yug",
+        "verified": false
+      }
+    ]
+  }
+}

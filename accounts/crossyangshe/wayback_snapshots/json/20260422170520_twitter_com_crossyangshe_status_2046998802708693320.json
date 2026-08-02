@@ -1,0 +1,109 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561806114274287616",
+    "conversation_id": "2046998802708693320",
+    "created_at": "2026-04-22T17:05:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T18:05:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2046998802708693320"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2046998802708693320",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "连悲伤都忘记了\n\n明明是很痛苦的事，但是偏偏就是哭不出去，盯着漆黑一片的天花板\n\n连笑都不会了，快乐阈值有多高？你也不知道吧\n\n色情？爱情？亲情？友情？\n“这些是什么东西。”\n一点兴趣都没有啊！\n\n梦想，坚持，努力，学习\n“有动力去实现吗？”\n我只是个废物罢。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561806114274287616",
+        "conversation_id": "2046998802708693320",
+        "created_at": "2026-04-22T17:05:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T18:05:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046998802708693320"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2046998802708693320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "连悲伤都忘记了\n\n明明是很痛苦的事，但是偏偏就是哭不出去，盯着漆黑一片的天花板\n\n连笑都不会了，快乐阈值有多高？你也不知道吧\n\n色情？爱情？亲情？友情？\n“这些是什么东西。”\n一点兴趣都没有啊！\n\n梦想，坚持，努力，学习\n“有动力去实现吗？”\n我只是个废物罢。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-22T20:03:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "窝是恶魔羊AZ.#小恶魔系#术力口#galgame#会看vtuber#明日方舟，最近有玩终末地#严重网瘾Steam端游手游都玩#看番，有时候感觉这辈子有了......因为吃了奇怪的药和痛苦的经历我失去了好多记忆，如果不是有人告诉我可能不会再想起......但是还是忘了好多性格也变了。可以找窝一起打游戏和wyy听歌呐~",
+        "id": "1561806114274287616",
+        "location": "地狱",
+        "name": "AZ.",
+        "pinned_tweet_id": "1725205374507368558",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778090792390959104/-k1xKj1N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 13,
+          "like_count": 45,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 30
+        },
+        "username": "crossyangshe",
+        "verified": false
+      }
+    ]
+  }
+}

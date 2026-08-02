@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561806114274287616",
+    "conversation_id": "2048043263895179451",
+    "created_at": "2026-04-27T00:22:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T01:22:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048558303551320533"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1796451278630821888",
+          "start": 0,
+          "username": "zheng350981"
+        },
+        {
+          "end": 21,
+          "id": "1433678976564662273",
+          "start": 13,
+          "username": "hsn8086"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048558303551320533",
+    "in_reply_to_user_id": "1796451278630821888",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048471697406464153",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zheng350981 @hsn8086 哪里淫秽了？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561806114274287616",
+        "conversation_id": "2048043263895179451",
+        "created_at": "2026-04-27T00:22:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T01:22:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048558303551320533"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1796451278630821888",
+              "start": 0,
+              "username": "zheng350981"
+            },
+            {
+              "end": 21,
+              "id": "1433678976564662273",
+              "start": 13,
+              "username": "hsn8086"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048558303551320533",
+        "in_reply_to_user_id": "1796451278630821888",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048471697406464153",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zheng350981 @hsn8086 哪里淫秽了？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1796451278630821888",
+        "conversation_id": "2048043263895179451",
+        "created_at": "2026-04-26T18:38:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T19:38:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048471697406464153"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1561806114274287616",
+              "start": 0,
+              "username": "crossyangshe"
+            },
+            {
+              "end": 22,
+              "id": "1433678976564662273",
+              "start": 14,
+              "username": "hsn8086"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048471697406464153",
+        "in_reply_to_user_id": "1561806114274287616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 333,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048462008006426825",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@crossyangshe @hsn8086 会不会太隐晦了？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-22T20:03:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "窝是恶魔羊AZ.#小恶魔系#术力口#galgame#会看vtuber#明日方舟，最近有玩终末地#严重网瘾Steam端游手游都玩#看番，有时候感觉这辈子有了......因为吃了奇怪的药和痛苦的经历我失去了好多记忆，如果不是有人告诉我可能不会再想起......但是还是忘了好多性格也变了。可以找窝一起打游戏和wyy听歌呐~",
+        "id": "1561806114274287616",
+        "location": "地狱",
+        "name": "AZ.",
+        "pinned_tweet_id": "1725205374507368558",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778090792390959104/-k1xKj1N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 17,
+          "like_count": 56,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 46
+        },
+        "username": "crossyangshe",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-31T07:59:04.000Z",
+        "description": "",
+        "id": "1796451278630821888",
+        "name": "zheng350981",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 67,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 1
+        },
+        "username": "zheng350981",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-03T06:31:41.000Z",
+        "description": "你好, 我是hsn! 老图: @hsn8086xe | 注: 推文内容仅供娱乐, 真假自辨!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "hsn8086xe"
+              }
+            ]
+          }
+        },
+        "id": "1433678976564662273",
+        "location": "Internet",
+        "name": "hsn",
+        "pinned_tweet_id": "2038599257599713310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039156167285538816/Ica6XIlY_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119000,
+          "following_count": 1125,
+          "like_count": 52493,
+          "listed_count": 285,
+          "media_count": 20917,
+          "tweet_count": 31337
+        },
+        "username": "hsn8086",
+        "verified": true
+      }
+    ]
+  }
+}

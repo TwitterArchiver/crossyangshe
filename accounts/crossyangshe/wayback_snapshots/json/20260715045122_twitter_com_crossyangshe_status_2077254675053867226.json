@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561806114274287616",
+    "conversation_id": "2077133264050082109",
+    "created_at": "2026-07-15T04:51:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T05:51:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077254675053867226"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1998751032650969088",
+          "start": 0,
+          "username": "Fox_Sakura233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077254675053867226",
+    "in_reply_to_user_id": "1998751032650969088",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077133264050082109",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Fox_Sakura233 不吃给az"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561806114274287616",
+        "conversation_id": "2077133264050082109",
+        "created_at": "2026-07-15T04:51:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T05:51:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077254675053867226"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1998751032650969088",
+              "start": 0,
+              "username": "Fox_Sakura233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077254675053867226",
+        "in_reply_to_user_id": "1998751032650969088",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077133264050082109",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Fox_Sakura233 不吃给az"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1998751032650969088",
+        "conversation_id": "2077133264050082109",
+        "created_at": "2026-07-14T20:48:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T21:48:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077133264050082109"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2077133264050082109",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 796,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我应该避雷右美沙芬和曲马多，这两个一吃就高热，心动过速，其他药起码吃不死我，美金刚最多晕几天\n💀💀💀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-22T20:03:01.000Z",
+        "description": "你们好呀，我是az！成分：重抑中焦/od/自傷/自殺念头/infp-t/音游/二游（不怎么玩了）/端游（Steam上面的单机和一些网游）/像素RPG/galgame/喜欢术力口（初音 可不 歌爱雪）/看番/看漫画。\n没有什么特别的的主推喜欢的东西太多啦\n同类群1053339675\n目前失业中~欢迎互fo，我爱你们！❤️",
+        "id": "1561806114274287616",
+        "location": "失乐园",
+        "name": "AZ.",
+        "pinned_tweet_id": "2075487277191733409",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778090792390959104/-k1xKj1N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 576,
+          "following_count": 429,
+          "like_count": 3156,
+          "listed_count": 0,
+          "media_count": 111,
+          "tweet_count": 877
+        },
+        "url": "",
+        "username": "crossyangshe",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-10T13:46:18.000Z",
+        "description": "基于科学考察与研究，因为身处于这样的圈子，所以更加珍惜生命，热爱与研究\n精神活性物质百科：https://t.co/XzFTNu4ouS",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "jile.bid",
+                "end": 68,
+                "expanded_url": "https://jile.bid/",
+                "start": 45,
+                "url": "https://t.co/XzFTNu4ouS"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "jile.bid",
+                "end": 23,
+                "expanded_url": "https://jile.bid/",
+                "start": 0,
+                "url": "https://t.co/XzFTNu4ouS"
+              }
+            ]
+          }
+        },
+        "id": "1998751032650969088",
+        "name": "sakura👾",
+        "pinned_tweet_id": "2069373938770256251",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066312345912233984/vlN26lx1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 840,
+          "following_count": 700,
+          "like_count": 1067,
+          "listed_count": 1,
+          "media_count": 66,
+          "tweet_count": 724
+        },
+        "url": "https://t.co/XzFTNu4ouS",
+        "username": "Fox_Sakura233",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561806114274287616",
+    "conversation_id": "2075958204555825155",
+    "created_at": "2026-07-11T16:24:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T17:24:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075979563411366320"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1880152342324293632",
+          "start": 0,
+          "username": "xiaoyi00114514"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075979563411366320",
+    "in_reply_to_user_id": "1880152342324293632",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075975255596863576",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaoyi00114514 有一点点苦，但是这个药表面很光滑挺好吞的，可以吃一颗糖果"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561806114274287616",
+        "conversation_id": "2075958204555825155",
+        "created_at": "2026-07-11T16:24:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T17:24:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075979563411366320"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1880152342324293632",
+              "start": 0,
+              "username": "xiaoyi00114514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075979563411366320",
+        "in_reply_to_user_id": "1880152342324293632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075975255596863576",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoyi00114514 有一点点苦，但是这个药表面很光滑挺好吞的，可以吃一颗糖果"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880152342324293632",
+        "conversation_id": "2075958204555825155",
+        "created_at": "2026-07-11T16:07:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T17:07:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075975255596863576"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1561806114274287616",
+              "start": 0,
+              "username": "crossyangshe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075975255596863576",
+        "in_reply_to_user_id": "1561806114274287616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075958204555825155",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@crossyangshe 想知道新康泰克的会不会和云药的一样苦呀？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-22T20:03:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "你们好呀，我是az！成分：重抑中焦/od/自傷/自殺念头/infp-t/音游/二游（不怎么玩了）/端游（Steam上面的单机和一些网游）/像素RPG/galgame/喜欢术力口（初音 可不 歌爱雪）/看番/看漫画。\n没有什么特别的的主推喜欢的东西太多啦\n同类群1053339675\n目前失业中~欢迎互fo，我爱你们！❤️",
+        "id": "1561806114274287616",
+        "location": "地狱",
+        "name": "AZ.",
+        "pinned_tweet_id": "2075487277191733409",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778090792390959104/-k1xKj1N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 469,
+          "following_count": 399,
+          "like_count": 2647,
+          "listed_count": 0,
+          "media_count": 100,
+          "tweet_count": 758
+        },
+        "url": "",
+        "username": "crossyangshe",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-17T07:17:18.000Z",
+        "description": "你们好呀我是亦子\n最大爱好od宅家刷手机\n互fo请私信呀",
+        "id": "1880152342324293632",
+        "name": "亦子🍧❄️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066333837114908673/ERNAfWL9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 52,
+          "like_count": 461,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 42
+        },
+        "url": "",
+        "username": "xiaoyi00114514",
+        "verified": false
+      }
+    ]
+  }
+}

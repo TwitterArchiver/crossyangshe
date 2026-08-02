@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561806114274287616",
+    "conversation_id": "2059207732469907722",
+    "created_at": "2026-05-27T08:03:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T09:03:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059546039796068828"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1740340244510334976",
+          "start": 0,
+          "username": "yadapq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059546039796068828",
+    "in_reply_to_user_id": "1740340244510334976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059207732469907722",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yadapq 因为痛苦到没有其他方式发泄吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561806114274287616",
+        "conversation_id": "2059207732469907722",
+        "created_at": "2026-05-27T08:03:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T09:03:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059546039796068828"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1740340244510334976",
+              "start": 0,
+              "username": "yadapq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059546039796068828",
+        "in_reply_to_user_id": "1740340244510334976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059207732469907722",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yadapq 因为痛苦到没有其他方式发泄吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1740340244510334976",
+        "conversation_id": "2059207732469907722",
+        "created_at": "2026-05-26T09:39:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T10:39:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059207732469907722"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059207732469907722",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 3289,
+          "like_count": 171,
+          "quote_count": 6,
+          "reply_count": 5,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "リスカしてる人がみんな死にたくてやってると思うなよ！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-22T20:03:01.000Z",
+        "description": "恶魔羊az，圈子混的多不一一列举了，不是正常人，渴望被爱和渴望死亡",
+        "id": "1561806114274287616",
+        "location": "地狱",
+        "name": "AZ.",
+        "pinned_tweet_id": "1725205374507368558",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778090792390959104/-k1xKj1N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 45,
+          "like_count": 165,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 139
+        },
+        "username": "crossyangshe",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-28T11:54:10.000Z",
+        "description": "ljc│︎︎ ♀ │ メンヘラ │ 呼びタメ〇 │ 出会い厨× │",
+        "id": "1740340244510334976",
+        "name": "やだ",
+        "pinned_tweet_id": "2058843826941489339",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058841238787543040/I-zNuzOg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 280,
+          "following_count": 227,
+          "like_count": 2303,
+          "listed_count": 5,
+          "media_count": 11,
+          "tweet_count": 424
+        },
+        "username": "yadapq",
+        "verified": false
+      }
+    ]
+  }
+}

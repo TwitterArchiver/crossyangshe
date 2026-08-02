@@ -1,0 +1,149 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561806114274287616",
+    "conversation_id": "2072386965937549571",
+    "created_at": "2026-07-01T19:09:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T20:09:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072397280540553693"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2072397280540553693",
+    "in_reply_to_user_id": "1561806114274287616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072396242144067684",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "az他od了很长一段时间的右美，直到高考结束后不出所料选了所专科，之后的大学时光反而是az短暂的美好时光，可以天天有时间玩游戏，这段时间加上右美禁售和az打算也戒了右美，但是od带来的副作用也导致az失去了很多记忆，忘记了很多人和事情，就连od右美沙芬的经历都觉得是虚假的……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561806114274287616",
+        "conversation_id": "2072386965937549571",
+        "created_at": "2026-07-01T19:09:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T20:09:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072397280540553693"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2072397280540553693",
+        "in_reply_to_user_id": "1561806114274287616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072396242144067684",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "az他od了很长一段时间的右美，直到高考结束后不出所料选了所专科，之后的大学时光反而是az短暂的美好时光，可以天天有时间玩游戏，这段时间加上右美禁售和az打算也戒了右美，但是od带来的副作用也导致az失去了很多记忆，忘记了很多人和事情，就连od右美沙芬的经历都觉得是虚假的……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561806114274287616",
+        "conversation_id": "2072386965937549571",
+        "created_at": "2026-07-01T19:05:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T20:05:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072396242144067684"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2072396242144067684",
+        "in_reply_to_user_id": "1561806114274287616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072395561890980287",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "az后面不知道为什么发什么神经把od这种事情告诉了自认为关系还可以的同学，结果人家反手就说要告诉班主任，吓得az哭着求她不要这样子她才善罢甘休，这就导致了az以后很少再相信别人了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-22T20:03:01.000Z",
+        "description": "az，非健全人，努力生存中，希望有人关注我",
+        "id": "1561806114274287616",
+        "location": "地狱",
+        "name": "AZ.",
+        "pinned_tweet_id": "2061092260226502954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778090792390959104/-k1xKj1N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 185,
+          "following_count": 253,
+          "like_count": 1005,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 399
+        },
+        "url": "",
+        "username": "crossyangshe",
+        "verified": false
+      }
+    ]
+  }
+}

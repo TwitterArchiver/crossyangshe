@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561806114274287616",
+    "conversation_id": "2074449231340093829",
+    "created_at": "2026-07-07T11:41:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T12:41:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074458835427955175"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1965246583379034117",
+          "start": 0,
+          "username": "hyunjennagua"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074458835427955175",
+    "in_reply_to_user_id": "1965246583379034117",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074449231340093829",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hyunjennagua az也有，不过往好的方面想，万一没有事岂不是白嫖一年蓝V，不过这个蓝V到底有什么用，又不给az钱，流量感觉也一般般"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2074449223538675712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMnsk_GbkAAvO9_.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561806114274287616",
+        "conversation_id": "2074449231340093829",
+        "created_at": "2026-07-07T11:41:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T12:41:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074458835427955175"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1965246583379034117",
+              "start": 0,
+              "username": "hyunjennagua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074458835427955175",
+        "in_reply_to_user_id": "1965246583379034117",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074449231340093829",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hyunjennagua az也有，不过往好的方面想，万一没有事岂不是白嫖一年蓝V，不过这个蓝V到底有什么用，又不给az钱，流量感觉也一般般"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074449223538675712"
+          ]
+        },
+        "author_id": "1965246583379034117",
+        "conversation_id": "2074449231340093829",
+        "created_at": "2026-07-07T11:03:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T12:03:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074449231340093829"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FS5DELfWOf",
+              "end": 44,
+              "expanded_url": "https://x.com/hyunjennagua/status/2074449231340093829/photo/1",
+              "media_key": "3_2074449223538675712",
+              "start": 21,
+              "url": "https://t.co/FS5DELfWOf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074449231340093829",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 94,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "据说是别人利用漏洞送的 不会把我号封了吧 https://t.co/FS5DELfWOf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-22T20:03:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "你们好呀，我是az！成分：重抑中焦/od/自傷/自殺念头/infp-t/音游/二游（不怎么玩了）/端游（Steam上面的单机和一些网游）/日式像素RPG/galgame/喜欢术力口（初音 可不 歌爱雪）/看番/看漫画。\n没有什么特别的的主推，因为是成分太复杂，喜欢的东西太多啦！\n目前失业中~欢迎互fo，我爱你们！❤️",
+        "id": "1561806114274287616",
+        "location": "地狱",
+        "name": "AZ.",
+        "pinned_tweet_id": "2061092260226502954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778090792390959104/-k1xKj1N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 342,
+          "following_count": 349,
+          "like_count": 1973,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 614
+        },
+        "url": "",
+        "username": "crossyangshe",
+        "verified": true
+      },
+      {
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "description": "小号：@hyunjennnagua｜好闺蜜：@colleen_ab6642 @mikeas846141091🥰🥰🤤｜🩸💊｜匿名👇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "hyunjennnagua"
+              },
+              {
+                "end": 37,
+                "start": 22,
+                "username": "colleen_ab6642"
+              },
+              {
+                "end": 54,
+                "start": 38,
+                "username": "mikeas846141091"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jennie62981",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jennie62981",
+                "start": 0,
+                "url": "https://t.co/ia6I6dIa70"
+              }
+            ]
+          }
+        },
+        "id": "1965246583379034117",
+        "location": "你心里",
+        "name": "南瓜",
+        "pinned_tweet_id": "2071859776011833409",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052323306418626566/s5rMwD5k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1645,
+          "following_count": 988,
+          "like_count": 6333,
+          "listed_count": 1,
+          "media_count": 329,
+          "tweet_count": 3317
+        },
+        "url": "https://t.co/ia6I6dIa70",
+        "username": "hyunjennagua",
+        "verified": true
+      }
+    ]
+  }
+}

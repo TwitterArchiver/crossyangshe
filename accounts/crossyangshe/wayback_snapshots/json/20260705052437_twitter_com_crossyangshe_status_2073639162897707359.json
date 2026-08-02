@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561806114274287616",
+    "conversation_id": "2073293963554148497",
+    "created_at": "2026-07-05T05:24:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T06:24:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073639162897707359"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2061394480604073984",
+          "start": 0,
+          "username": "y6fi6040328"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073639162897707359",
+    "in_reply_to_user_id": "2061394480604073984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073293963554148497",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@y6fi6040328 当然是od啦！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561806114274287616",
+        "conversation_id": "2073293963554148497",
+        "created_at": "2026-07-05T05:24:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T06:24:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073639162897707359"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2061394480604073984",
+              "start": 0,
+              "username": "y6fi6040328"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073639162897707359",
+        "in_reply_to_user_id": "2061394480604073984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073293963554148497",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@y6fi6040328 当然是od啦！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2061394480604073984",
+        "conversation_id": "2073293963554148497",
+        "created_at": "2026-07-04T06:32:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T07:32:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073293963554148497"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2073293963554148497",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 276,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Σ( ° △ °|||)︴不会抽烟，不会喝酒。\n想问一下大家，精神压力大的时候都是怎么挺过来的。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-22T20:03:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "你们好呀，我是az！成分：重抑中焦/od/自傷/自殺念头/infp-t/音游/二游（不怎么玩了）/端游（Steam上面的单机和一些网游）/日式像素RPG/galgame/喜欢术力口（初音 可不 歌爱雪）/看番/看漫画。\n没有什么特别的的主推，因为是成分太复杂，喜欢的东西太多啦！\n目前失业中~欢迎互fo，我爱你们！❤️",
+        "id": "1561806114274287616",
+        "location": "地狱",
+        "name": "AZ.",
+        "pinned_tweet_id": "2061092260226502954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778090792390959104/-k1xKj1N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 246,
+          "following_count": 320,
+          "like_count": 1666,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 532
+        },
+        "url": "",
+        "username": "crossyangshe",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-01T10:30:24.000Z",
+        "description": "04MTF🍥｜cn栗子｜推曲林静树，梦想成为跟静树酱一样的人｜已脱离原生家庭版｜微癫｜165cm 48kg｜欢迎同类互fo",
+        "id": "2061394480604073984",
+        "location": "成都",
+        "name": "是栗子也是梨子🍥",
+        "pinned_tweet_id": "2073046014748233910",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061395100463505408/1ZOz7N8t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 59,
+          "like_count": 53,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 55
+        },
+        "url": "",
+        "username": "y6fi6040328",
+        "verified": false
+      }
+    ]
+  }
+}

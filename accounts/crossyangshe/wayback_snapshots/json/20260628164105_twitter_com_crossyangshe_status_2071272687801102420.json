@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561806114274287616",
+    "conversation_id": "2071207098793513294",
+    "created_at": "2026-06-28T16:41:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T17:41:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071272687801102420"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1627860014114168833",
+          "start": 0,
+          "username": "Snow_Xue_1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071272687801102420",
+    "in_reply_to_user_id": "1627860014114168833",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071270050808619149",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Snow_Xue_1 好想在死前吃一次。。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561806114274287616",
+        "conversation_id": "2071207098793513294",
+        "created_at": "2026-06-28T16:41:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T17:41:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071272687801102420"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1627860014114168833",
+              "start": 0,
+              "username": "Snow_Xue_1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071272687801102420",
+        "in_reply_to_user_id": "1627860014114168833",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071270050808619149",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Snow_Xue_1 好想在死前吃一次。。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1627860014114168833",
+        "conversation_id": "2071207098793513294",
+        "created_at": "2026-06-28T16:30:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T17:30:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071270050808619149"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1561806114274287616",
+              "start": 0,
+              "username": "crossyangshe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071270050808619149",
+        "in_reply_to_user_id": "1561806114274287616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071207098793513294",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@crossyangshe 欣快，会很爽"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-22T20:03:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "az，非健全人，努力生存中，希望有人关注我",
+        "id": "1561806114274287616",
+        "location": "地狱",
+        "name": "AZ.",
+        "pinned_tweet_id": "2061092260226502954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778090792390959104/-k1xKj1N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86,
+          "following_count": 185,
+          "like_count": 579,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 295
+        },
+        "url": "",
+        "username": "crossyangshe",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-21T02:39:25.000Z",
+        "description": "✝️普瑞巴林重度依赖✝️ \n| 普通的上海入 | hrt2025.11 🍥 | 生产日期 2010.3.16 | 半家长党（约等于家长不管党） od不管 | 姐姐 @vokleer",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 90,
+                "start": 82,
+                "username": "vokleer"
+              }
+            ]
+          }
+        },
+        "id": "1627860014114168833",
+        "location": "上海",
+        "name": "雪🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062076159492595713/NHormeLn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 275,
+          "following_count": 249,
+          "like_count": 4313,
+          "listed_count": 1,
+          "media_count": 34,
+          "tweet_count": 494
+        },
+        "url": "",
+        "username": "Snow_Xue_1",
+        "verified": false
+      }
+    ]
+  }
+}

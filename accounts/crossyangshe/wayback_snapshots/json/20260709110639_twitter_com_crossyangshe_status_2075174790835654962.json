@@ -1,0 +1,142 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561806114274287616",
+    "conversation_id": "2075174292602634357",
+    "created_at": "2026-07-09T11:06:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T12:06:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075174790835654962"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2075174790835654962",
+    "in_reply_to_user_id": "1561806114274287616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075174292602634357",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "一直在哭呐~虽然很饿但是不知道吃什么，今天明明已经吃过药了，但还是无法控制住自己的情绪，身体不自主的发抖，又想起不好的回忆了，自始至终，我来到这个世界上是为了什么？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561806114274287616",
+        "conversation_id": "2075174292602634357",
+        "created_at": "2026-07-09T11:06:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T12:06:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075174790835654962"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2075174790835654962",
+        "in_reply_to_user_id": "1561806114274287616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075174292602634357",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "一直在哭呐~虽然很饿但是不知道吃什么，今天明明已经吃过药了，但还是无法控制住自己的情绪，身体不自主的发抖，又想起不好的回忆了，自始至终，我来到这个世界上是为了什么？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561806114274287616",
+        "conversation_id": "2075174292602634357",
+        "created_at": "2026-07-09T11:04:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T12:04:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075174292602634357"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2075174292602634357",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么大家都能这么快乐，az在想，要不要过几天等普瑞到了，然后把冰箱里几十盒各种各样乱七八糟的药全部拿出来一起全部吃掉算了，虽然不知道能不能死，但是也不想活，跳楼割腕az很怕痛做不到，如果药物过量导致的从内而外的痛苦，是不是az忍一忍就过去了呢？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-22T20:03:01.000Z",
+        "description": "你们好呀，我是az！成分：重抑中焦/od/自傷/自殺念头/infp-t/音游/二游（不怎么玩了）/端游（Steam上面的单机和一些网游）/日式像素RPG/galgame/喜欢术力口（初音 可不 歌爱雪）/看番/看漫画。\n没有什么特别的的主推，因为是成分太复杂，喜欢的东西太多啦！\n目前失业中~欢迎互fo，我爱你们！❤️",
+        "id": "1561806114274287616",
+        "location": "地狱",
+        "name": "AZ.",
+        "pinned_tweet_id": "2074534939966713943",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778090792390959104/-k1xKj1N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 427,
+          "following_count": 375,
+          "like_count": 2333,
+          "listed_count": 0,
+          "media_count": 88,
+          "tweet_count": 700
+        },
+        "url": "",
+        "username": "crossyangshe",
+        "verified": true
+      }
+    ]
+  }
+}

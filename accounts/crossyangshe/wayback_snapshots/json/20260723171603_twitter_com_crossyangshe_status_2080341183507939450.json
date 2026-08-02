@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561806114274287616",
+    "conversation_id": "2080321564449599787",
+    "created_at": "2026-07-23T17:16:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T18:16:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080341183507939450"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1653266334619402245",
+          "start": 0,
+          "username": "itsagoodnameO_o"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080341183507939450",
+    "in_reply_to_user_id": "1653266334619402245",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080321564449599787",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@itsagoodnameO_o 好想吃！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2080321419297292288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN7JTw_aAAAZeV9.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2080311193869447169",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN7AAkTbcAEJV5K.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561806114274287616",
+        "conversation_id": "2080321564449599787",
+        "created_at": "2026-07-23T17:16:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T18:16:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080341183507939450"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1653266334619402245",
+              "start": 0,
+              "username": "itsagoodnameO_o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080341183507939450",
+        "in_reply_to_user_id": "1653266334619402245",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080321564449599787",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@itsagoodnameO_o 好想吃！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080321419297292288",
+            "3_2080311193869447169"
+          ]
+        },
+        "author_id": "1653266334619402245",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2080321564449599787",
+        "created_at": "2026-07-23T15:58:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T16:58:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080321564449599787"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/64qlBuxc2g",
+              "end": 51,
+              "expanded_url": "https://x.com/itsagoodnameO_o/status/2080321564449599787/photo/1",
+              "media_key": "3_2080321419297292288",
+              "start": 28,
+              "url": "https://t.co/64qlBuxc2g"
+            },
+            {
+              "display_url": "pic.x.com/64qlBuxc2g",
+              "end": 51,
+              "expanded_url": "https://x.com/itsagoodnameO_o/status/2080321564449599787/photo/1",
+              "media_key": "3_2080311193869447169",
+              "start": 28,
+              "url": "https://t.co/64qlBuxc2g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080321564449599787",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 70,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我二十块钱买了这些刺身，七块钱买了这些小番茄。好值吧！ https://t.co/64qlBuxc2g"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-22T20:03:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Changsha, Hunan, China",
+              "geo": {
+                "coordinates": [
+                  112.97087,
+                  28.19874
+                ],
+                "type": "Point"
+              },
+              "locality": "Changsha",
+              "region": "Hunan"
+            }
+          ]
+        },
+        "description": "你們好呀，我是az！成分：重抑中焦/od/自傷/自殺念頭/infp-t/音遊/二游（不怎麼玩了）/端遊（Steam上面的單機和一些網遊）/像素RPG/galgame/喜歡術力口（初音 可不 歌愛雪）/看番/看漫畫。\n戀人：@congng1327122\n小號：@confessAZ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 125,
+                "start": 111,
+                "username": "congng1327122"
+              },
+              {
+                "end": 139,
+                "start": 129,
+                "username": "confessAZ"
+              }
+            ]
+          }
+        },
+        "id": "1561806114274287616",
+        "location": "長沙",
+        "name": "AZ.",
+        "pinned_tweet_id": "2075487277191733409",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778090792390959104/-k1xKj1N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 613,
+          "following_count": 445,
+          "like_count": 3314,
+          "listed_count": 1,
+          "media_count": 121,
+          "tweet_count": 923
+        },
+        "url": "",
+        "username": "crossyangshe",
+        "verified": true
+      },
+      {
+        "created_at": "2023-05-02T05:13:29.000Z",
+        "description": "生理心理女｜06大学 软件工程在读｜心境情感障碍｜od戒割戒酒抽烟｜深圳&佛山｜不敢找你讲话但是想你找我讲话｜不接半绿非绿｜无门槛但是打钱给我我会非常开心(^^)",
+        "id": "1653266334619402245",
+        "name": "一週裡最討厭週二",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079572464414445568/oRlzRC9d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 107,
+          "following_count": 131,
+          "like_count": 1883,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 471
+        },
+        "url": "",
+        "username": "itsagoodnameO_o",
+        "verified": false
+      }
+    ]
+  }
+}

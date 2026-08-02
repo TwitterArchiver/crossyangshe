@@ -1,0 +1,110 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561806114274287616",
+    "conversation_id": "2075101630438285389",
+    "created_at": "2026-07-09T06:15:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T07:15:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075101630438285389"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2075101630438285389",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "啊啊啊az要吃普瑞巴林啊！没有普瑞巴林应该怎么活啊？！这种日复一日的无聊生活，每天活着不知道干什么，从白天到晚上，没有钱没有一点乐趣的日子，在这灯火通明的城市里，没有普瑞巴林az应该拿什么来填满他的心，每天只能看看手机这无聊的消遣真的是呜呜X﹏X"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561806114274287616",
+        "conversation_id": "2075101630438285389",
+        "created_at": "2026-07-09T06:15:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T07:15:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075101630438285389"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2075101630438285389",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "啊啊啊az要吃普瑞巴林啊！没有普瑞巴林应该怎么活啊？！这种日复一日的无聊生活，每天活着不知道干什么，从白天到晚上，没有钱没有一点乐趣的日子，在这灯火通明的城市里，没有普瑞巴林az应该拿什么来填满他的心，每天只能看看手机这无聊的消遣真的是呜呜X﹏X"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-22T20:03:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "你们好呀，我是az！成分：重抑中焦/od/自傷/自殺念头/infp-t/音游/二游（不怎么玩了）/端游（Steam上面的单机和一些网游）/日式像素RPG/galgame/喜欢术力口（初音 可不 歌爱雪）/看番/看漫画。\n没有什么特别的的主推，因为是成分太复杂，喜欢的东西太多啦！\n目前失业中~欢迎互fo，我爱你们！❤️",
+        "id": "1561806114274287616",
+        "location": "地狱",
+        "name": "AZ.",
+        "pinned_tweet_id": "2074534939966713943",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778090792390959104/-k1xKj1N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 422,
+          "following_count": 373,
+          "like_count": 2318,
+          "listed_count": 0,
+          "media_count": 86,
+          "tweet_count": 693
+        },
+        "url": "",
+        "username": "crossyangshe",
+        "verified": true
+      }
+    ]
+  }
+}

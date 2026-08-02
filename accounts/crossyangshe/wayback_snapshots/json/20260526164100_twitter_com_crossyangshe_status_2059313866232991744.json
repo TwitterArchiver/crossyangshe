@@ -1,0 +1,109 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561806114274287616",
+    "conversation_id": "2059313866232991744",
+    "created_at": "2026-05-26T16:41:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T17:41:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059313866232991744"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2059313866232991744",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我不惧怕死亡。\n\n我怕被疾病折磨却死不成，\n怕被背叛与荒唐席卷，\n怕被最亲之人驱逐至谎言的暗室\n\n他们说，生命嘛就这样\n消磨我，鼓动我，折损我\n“直至我生不如死。”"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561806114274287616",
+        "conversation_id": "2059313866232991744",
+        "created_at": "2026-05-26T16:41:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T17:41:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059313866232991744"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059313866232991744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我不惧怕死亡。\n\n我怕被疾病折磨却死不成，\n怕被背叛与荒唐席卷，\n怕被最亲之人驱逐至谎言的暗室\n\n他们说，生命嘛就这样\n消磨我，鼓动我，折损我\n“直至我生不如死。”"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-22T20:03:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "恶魔羊az，圈子混的多不一一列举了，不是正常人，渴望被爱和渴望死亡",
+        "id": "1561806114274287616",
+        "location": "地狱",
+        "name": "AZ.",
+        "pinned_tweet_id": "1725205374507368558",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778090792390959104/-k1xKj1N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 44,
+          "like_count": 160,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 135
+        },
+        "username": "crossyangshe",
+        "verified": false
+      }
+    ]
+  }
+}

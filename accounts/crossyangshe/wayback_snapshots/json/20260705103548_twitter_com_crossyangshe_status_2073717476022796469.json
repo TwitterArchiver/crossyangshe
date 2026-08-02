@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561806114274287616",
+    "conversation_id": "2073630281970721000",
+    "created_at": "2026-07-05T10:35:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T11:35:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073717476022796469"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1417099624922370056",
+          "start": 0,
+          "username": "XinGZiSaMa_8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073717476022796469",
+    "in_reply_to_user_id": "1417099624922370056",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073630281970721000",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XinGZiSaMa_8964 你怎么也买这个，az抽了手上都是香的，但是感觉没有什么劲还有前段不是很好抽"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2073630254195994624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMcDusja8AAMn9E.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561806114274287616",
+        "conversation_id": "2073630281970721000",
+        "created_at": "2026-07-05T10:35:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T11:35:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073717476022796469"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1417099624922370056",
+              "start": 0,
+              "username": "XinGZiSaMa_8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073717476022796469",
+        "in_reply_to_user_id": "1417099624922370056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073630281970721000",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XinGZiSaMa_8964 你怎么也买这个，az抽了手上都是香的，但是感觉没有什么劲还有前段不是很好抽"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073630254195994624"
+          ]
+        },
+        "author_id": "1417099624922370056",
+        "conversation_id": "2073630281970721000",
+        "created_at": "2026-07-05T04:49:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T05:49:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073630281970721000"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/o15KWs3udk",
+              "end": 29,
+              "expanded_url": "https://x.com/XinGZiSaMa_8964/status/2073630281970721000/photo/1",
+              "media_key": "3_2073630254195994624",
+              "start": 6,
+              "url": "https://t.co/o15KWs3udk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073630281970721000",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 91,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好香啊啊啊 https://t.co/o15KWs3udk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-22T20:03:01.000Z",
+        "description": "你们好呀，我是az！成分：重抑中焦/od/自傷/自殺念头/infp-t/音游/二游（不怎么玩了）/端游（Steam上面的单机和一些网游）/日式像素RPG/galgame/喜欢术力口（初音 可不 歌爱雪）/看番/看漫画。\n没有什么特别的的主推，因为是成分太复杂，喜欢的东西太多啦！\n目前失业中~欢迎互fo，我爱你们！❤️",
+        "id": "1561806114274287616",
+        "location": "地狱",
+        "name": "AZ.",
+        "pinned_tweet_id": "2061092260226502954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778090792390959104/-k1xKj1N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 264,
+          "following_count": 328,
+          "like_count": 1732,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 550
+        },
+        "url": "",
+        "username": "crossyangshe",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-19T12:31:06.000Z",
+        "description": "😈😈我是恶魔嘻嘻嘻｜男高｜友跨｜koishi激推｜电吉他学习ing｜Guns N' Roses｜不od｜不自残｜没双相｜日语学习中｜喜欢猫｜互fo请私信喵",
+        "id": "1417099624922370056",
+        "location": "天堂",
+        "name": "性子sama🐾🎸",
+        "pinned_tweet_id": "2052910402129051867",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010818938666733568/mI3QBzcv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 857,
+          "following_count": 455,
+          "like_count": 56200,
+          "listed_count": 3,
+          "media_count": 1623,
+          "tweet_count": 10353
+        },
+        "url": "",
+        "username": "XinGZiSaMa_8964",
+        "verified": false
+      }
+    ]
+  }
+}

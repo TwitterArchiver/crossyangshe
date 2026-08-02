@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2063632613626335233"
+      ]
+    },
+    "author_id": "1561806114274287616",
+    "conversation_id": "2063632724007760194",
+    "created_at": "2026-06-07T14:42:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T15:42:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063632724007760194"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/tQA5llVksK",
+          "end": 42,
+          "expanded_url": "https://x.com/crossyangshe/status/2063632724007760194/video/1",
+          "media_key": "13_2063632613626335233",
+          "start": 19,
+          "url": "https://t.co/tQA5llVksK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063632724007760194",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "“校长 人能为正义支付多少的代价呢” https://t.co/tQA5llVksK"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 33100,
+        "height": 1570,
+        "media_key": "13_2063632613626335233",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2063632613626335233/img/_uI7DM5dnorOE1jQ.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2063632613626335233/vid/avc1/320x464/6uPLxzNlBNUxkEj8.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2063632613626335233/vid/avc1/480x696/yZrTh1MwfaM81zxh.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2063632613626335233/vid/avc1/720x1046/pbhNFxOOaWsiTjFW.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2063632613626335233/pl/22Y-7pr-oXSo1gnw.m3u8?tag=14"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2063632613626335233"
+          ]
+        },
+        "author_id": "1561806114274287616",
+        "conversation_id": "2063632724007760194",
+        "created_at": "2026-06-07T14:42:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T15:42:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063632724007760194"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tQA5llVksK",
+              "end": 42,
+              "expanded_url": "https://x.com/crossyangshe/status/2063632724007760194/video/1",
+              "media_key": "13_2063632613626335233",
+              "start": 19,
+              "url": "https://t.co/tQA5llVksK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063632724007760194",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "“校长 人能为正义支付多少的代价呢” https://t.co/tQA5llVksK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-22T20:03:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "az，非健全人，努力生存中，希望有人关注我",
+        "id": "1561806114274287616",
+        "location": "地狱",
+        "name": "AZ.",
+        "pinned_tweet_id": "2061092260226502954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778090792390959104/-k1xKj1N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 44,
+          "like_count": 264,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 200
+        },
+        "username": "crossyangshe",
+        "verified": false
+      }
+    ]
+  }
+}

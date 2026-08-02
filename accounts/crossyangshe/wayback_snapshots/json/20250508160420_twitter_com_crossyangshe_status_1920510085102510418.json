@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561806114274287616",
+    "conversation_id": "1920399918998413671",
+    "created_at": "2025-05-08T16:04:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-08T17:04:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1920510085102510418"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1372480003401609216",
+          "start": 0,
+          "username": "MuronJungehaya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1920510085102510418",
+    "in_reply_to_user_id": "1372480003401609216",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1920399918998413671",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MuronJungehaya 那你能给我点钱花吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561806114274287616",
+        "conversation_id": "1920399918998413671",
+        "created_at": "2025-05-08T16:04:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-08T17:04:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1920510085102510418"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1372480003401609216",
+              "start": 0,
+              "username": "MuronJungehaya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920510085102510418",
+        "in_reply_to_user_id": "1372480003401609216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1920399918998413671",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MuronJungehaya 那你能给我点钱花吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1372480003401609216",
+        "conversation_id": "1920399918998413671",
+        "created_at": "2025-05-08T08:46:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-08T09:46:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1920399918998413671"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1920399918998413671",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 174,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我想谈恋爱，我想做爱，我想有人陪我打游戏，但是我不想有人在和我谈的时候和别人谈。我是情绪输出机器，我也想被别人安慰而不是一直由我来安慰别人，我好累，有谁能来陪陪我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-22T20:03:01.000Z",
+        "description": "“为什么要伤心 难道你的生活还不够可笑吗？”",
+        "id": "1561806114274287616",
+        "location": "今天也辛苦了.",
+        "name": "AZ.",
+        "pinned_tweet_id": "1725205374507368558",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778090792390959104/-k1xKj1N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 12,
+          "like_count": 61,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 11
+        },
+        "username": "crossyangshe",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-18T09:28:34.000Z",
+        "description": "TJU丨严以做事，温以对世，柔以待人丨粉丝群号782941108丨hrt ing~丨双相丨互关私信基本都会回的丨纯清水丨已关🚪全凭自愿丨不键政丨容貌焦虑不线下｜千粉前每100粉抄id丨不定时锁推",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.bilibili.com/space/325788065",
+                "end": 23,
+                "expanded_url": "https://m.bilibili.com/space/325788065",
+                "start": 0,
+                "url": "https://t.co/MQ7bJEvdlx"
+              }
+            ]
+          }
+        },
+        "id": "1372480003401609216",
+        "location": "-1m",
+        "name": "慕容云野haya🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1911318969732239508",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906538309914152960/J4yRU39p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 239,
+          "following_count": 341,
+          "like_count": 1525,
+          "listed_count": 2,
+          "media_count": 69,
+          "tweet_count": 986
+        },
+        "url": "https://t.co/MQ7bJEvdlx",
+        "username": "MuronJungehaya",
+        "verified": false
+      }
+    ]
+  }
+}

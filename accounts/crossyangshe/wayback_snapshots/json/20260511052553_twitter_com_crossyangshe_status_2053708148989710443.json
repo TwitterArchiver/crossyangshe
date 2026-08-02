@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2053708136364838912",
+        "3_2053708136348069888"
+      ]
+    },
+    "author_id": "1561806114274287616",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2053708148989710443",
+    "created_at": "2026-05-11T05:25:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T06:25:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2053708148989710443"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/cFHLYvPYSp",
+          "end": 40,
+          "expanded_url": "https://x.com/crossyangshe/status/2053708148989710443/photo/1",
+          "media_key": "3_2053708136364838912",
+          "start": 17,
+          "url": "https://t.co/cFHLYvPYSp"
+        },
+        {
+          "display_url": "pic.x.com/cFHLYvPYSp",
+          "end": 40,
+          "expanded_url": "https://x.com/crossyangshe/status/2053708148989710443/photo/1",
+          "media_key": "3_2053708136348069888",
+          "start": 17,
+          "url": "https://t.co/cFHLYvPYSp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053708148989710443",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "天黑黑我闭上双眼，又梦见你的那面 https://t.co/cFHLYvPYSp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2053708136364838912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIA8q0RbEAAu_K8.jpg",
+        "width": 1538
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2053708136348069888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIA8q0NbMAAZlw1.jpg",
+        "width": 944
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053708136364838912",
+            "3_2053708136348069888"
+          ]
+        },
+        "author_id": "1561806114274287616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2053708148989710443",
+        "created_at": "2026-05-11T05:25:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T06:25:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053708148989710443"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cFHLYvPYSp",
+              "end": 40,
+              "expanded_url": "https://x.com/crossyangshe/status/2053708148989710443/photo/1",
+              "media_key": "3_2053708136364838912",
+              "start": 17,
+              "url": "https://t.co/cFHLYvPYSp"
+            },
+            {
+              "display_url": "pic.x.com/cFHLYvPYSp",
+              "end": 40,
+              "expanded_url": "https://x.com/crossyangshe/status/2053708148989710443/photo/1",
+              "media_key": "3_2053708136348069888",
+              "start": 17,
+              "url": "https://t.co/cFHLYvPYSp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053708148989710443",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "天黑黑我闭上双眼，又梦见你的那面 https://t.co/cFHLYvPYSp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-22T20:03:01.000Z",
+        "description": "窝是恶魔羊AZ.#小恶魔系#术力口#galgame#会看vtuber#明日方舟，最近有玩终末地#严重网瘾Steam端游手游都玩#看番，有时候感觉这辈子有了......因为吃了奇怪的药和痛苦的经历我失去了好多记忆，如果不是有人告诉我可能不会再想起......但是还是忘了好多性格也变了。可以找窝一起打游戏和wyy听歌呐~",
+        "id": "1561806114274287616",
+        "location": "地狱",
+        "name": "AZ.",
+        "pinned_tweet_id": "1725205374507368558",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778090792390959104/-k1xKj1N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 24,
+          "like_count": 96,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 94
+        },
+        "username": "crossyangshe",
+        "verified": false
+      }
+    ]
+  }
+}

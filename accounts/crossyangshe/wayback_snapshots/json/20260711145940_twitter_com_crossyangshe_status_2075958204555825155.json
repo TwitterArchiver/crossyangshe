@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2075958185215893504",
+        "3_2075958184850890752"
+      ]
+    },
+    "author_id": "1561806114274287616",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2075958204555825155",
+    "created_at": "2026-07-11T14:59:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T15:59:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075958204555825155"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/rgARwVaIem",
+          "end": 42,
+          "expanded_url": "https://x.com/crossyangshe/status/2075958204555825155/photo/1",
+          "media_key": "3_2075958185215893504",
+          "start": 19,
+          "url": "https://t.co/rgARwVaIem"
+        },
+        {
+          "display_url": "pic.x.com/rgARwVaIem",
+          "end": 42,
+          "expanded_url": "https://x.com/crossyangshe/status/2075958204555825155/photo/1",
+          "media_key": "3_2075958184850890752",
+          "start": 19,
+          "url": "https://t.co/rgARwVaIem"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075958204555825155",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "22：58 12t愈美片➕西柚汁测试 https://t.co/rgARwVaIem"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1538,
+        "media_key": "3_2075958185215893504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM9I-HZboAAwNJl.jpg",
+        "width": 2048
+      },
+      {
+        "height": 256,
+        "media_key": "3_2075958184850890752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM9I-GCaIAAbJDD.png",
+        "width": 296
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075958185215893504",
+            "3_2075958184850890752"
+          ]
+        },
+        "author_id": "1561806114274287616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2075958204555825155",
+        "created_at": "2026-07-11T14:59:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T15:59:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075958204555825155"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rgARwVaIem",
+              "end": 42,
+              "expanded_url": "https://x.com/crossyangshe/status/2075958204555825155/photo/1",
+              "media_key": "3_2075958185215893504",
+              "start": 19,
+              "url": "https://t.co/rgARwVaIem"
+            },
+            {
+              "display_url": "pic.x.com/rgARwVaIem",
+              "end": 42,
+              "expanded_url": "https://x.com/crossyangshe/status/2075958204555825155/photo/1",
+              "media_key": "3_2075958184850890752",
+              "start": 19,
+              "url": "https://t.co/rgARwVaIem"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075958204555825155",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "22：58 12t愈美片➕西柚汁测试 https://t.co/rgARwVaIem"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-22T20:03:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "你们好呀，我是az！成分：重抑中焦/od/自傷/自殺念头/infp-t/音游/二游（不怎么玩了）/端游（Steam上面的单机和一些网游）/像素RPG/galgame/喜欢术力口（初音 可不 歌爱雪）/看番/看漫画。\n没有什么特别的的主推喜欢的东西太多啦\n同类群1053339675\n目前失业中~欢迎互fo，我爱你们！❤️",
+        "id": "1561806114274287616",
+        "location": "地狱",
+        "name": "AZ.",
+        "pinned_tweet_id": "2075487277191733409",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778090792390959104/-k1xKj1N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 465,
+          "following_count": 398,
+          "like_count": 2625,
+          "listed_count": 0,
+          "media_count": 100,
+          "tweet_count": 751
+        },
+        "url": "",
+        "username": "crossyangshe",
+        "verified": true
+      }
+    ]
+  }
+}
