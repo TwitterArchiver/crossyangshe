@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-08-02T10:26:22",
+  "last_updated": "2026-08-02T10:27:04",
   "html": {
     "https://web.archive.org/web/20240511084714if_/https://twitter.com/crossyangshe/status/1789215677657780426": {
       "status": "done",
@@ -7843,9 +7843,9 @@
       "referenced_by": [
         "20260704163134_twitter_com_crossyangshe_status_2073444620420469015.json"
       ],
-      "last_updated": "2026-08-02T10:19:19",
+      "last_updated": "2026-08-02T10:27:04",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260704163134/https://video.twimg.com/amplify_video/2073362441850036224/vid/avc1/720x1280/IXvIfTEHbBSeQFSh.mp4",
-      "miss_count": 2
+      "miss_count": 3
     },
     "https://video.twimg.com/ext_tw_video/2077018628172759041/pu/vid/avc1/720x960/SvOIKo_BuXUvQb6w.mp4?tag=12": {
       "status": "done",
