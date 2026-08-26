@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561806114274287616",
+    "conversation_id": "2085226140487311737",
+    "created_at": "2026-08-06T04:47:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T05:47:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085226140487311737"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2044793518267453440",
+          "start": 3,
+          "username": "lxxe11_"
+        }
+      ],
+      "urls": [
+        {
+          "description": "8/4 0:40 プレコ6cp 1:34 プレコ4cp 2:52 ちょっと眠い？効果なさすぎる 3:10 眠い！眠くなってきた！ぐらぐらする感じはない 3:28 眠い眠い眠い！でも若干効いてる気はする 3:33 ここで寝たらめちゃくちゃ気持ち良いんだろうな〜の眠気 でも寝ない方が気持ちいいはず 3:52 気持ち悪さが少…",
+          "display_url": "lxxe11.hatenablog.com/entry/2026/08/…",
+          "end": 36,
+          "expanded_url": "https://lxxe11.hatenablog.com/entry/2026/08/04/082548",
+          "images": [
+            {
+              "height": 630,
+              "url": "https://pbs.twimg.com/news_img/2084420549443457025/vtwB9Q3h?format=jpg&name=orig",
+              "width": 1200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2084420549443457025/vtwB9Q3h?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 13,
+          "status": 200,
+          "title": "ODレポ（プレコ編） - 精神疾患記録 - 茅野",
+          "unwound_url": "https://lxxe11.hatenablog.com/entry/2026/08/04/082548",
+          "url": "https://t.co/phTeeFjxMa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085226140487311737",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084420548759871674",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lxxe11_: https://t.co/phTeeFjxMa"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561806114274287616",
+        "conversation_id": "2085226140487311737",
+        "created_at": "2026-08-06T04:47:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T05:47:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085226140487311737"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2044793518267453440",
+              "start": 3,
+              "username": "lxxe11_"
+            }
+          ],
+          "urls": [
+            {
+              "description": "8/4 0:40 プレコ6cp 1:34 プレコ4cp 2:52 ちょっと眠い？効果なさすぎる 3:10 眠い！眠くなってきた！ぐらぐらする感じはない 3:28 眠い眠い眠い！でも若干効いてる気はする 3:33 ここで寝たらめちゃくちゃ気持ち良いんだろうな〜の眠気 でも寝ない方が気持ちいいはず 3:52 気持ち悪さが少…",
+              "display_url": "lxxe11.hatenablog.com/entry/2026/08/…",
+              "end": 36,
+              "expanded_url": "https://lxxe11.hatenablog.com/entry/2026/08/04/082548",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2084420549443457025/vtwB9Q3h?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2084420549443457025/vtwB9Q3h?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 13,
+              "status": 200,
+              "title": "ODレポ（プレコ編） - 精神疾患記録 - 茅野",
+              "unwound_url": "https://lxxe11.hatenablog.com/entry/2026/08/04/082548",
+              "url": "https://t.co/phTeeFjxMa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085226140487311737",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084420548759871674",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lxxe11_: https://t.co/phTeeFjxMa"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044793518267453440",
+        "conversation_id": "2084420548759871674",
+        "created_at": "2026-08-03T23:26:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T00:26:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084420548759871674"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "8/4 0:40 プレコ6cp 1:34 プレコ4cp 2:52 ちょっと眠い？効果なさすぎる 3:10 眠い！眠くなってきた！ぐらぐらする感じはない 3:28 眠い眠い眠い！でも若干効いてる気はする 3:33 ここで寝たらめちゃくちゃ気持ち良いんだろうな〜の眠気 でも寝ない方が気持ちいいはず 3:52 気持ち悪さが少…",
+              "display_url": "lxxe11.hatenablog.com/entry/2026/08/…",
+              "end": 23,
+              "expanded_url": "https://lxxe11.hatenablog.com/entry/2026/08/04/082548",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2084420549443457025/vtwB9Q3h?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2084420549443457025/vtwB9Q3h?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 0,
+              "status": 200,
+              "title": "ODレポ（プレコ編） - 精神疾患記録 - 茅野",
+              "unwound_url": "https://lxxe11.hatenablog.com/entry/2026/08/04/082548",
+              "url": "https://t.co/phTeeFjxMa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084420548759871674",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 156,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/phTeeFjxMa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-22T20:03:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Changsha, Hunan, China",
+              "geo": {
+                "coordinates": [
+                  112.97087,
+                  28.19874
+                ],
+                "type": "Point"
+              },
+              "locality": "Changsha",
+              "region": "Hunan"
+            }
+          ]
+        },
+        "description": "你們好呀，我是az！成分：重抑中焦/od/自傷/自殺念頭/infp-t/音遊/二游（不怎麼玩了）/端遊\n目前打算回归现实生活了，我真的希望陷入深渊的所有人都可以摆脱苦难，哪怕很难，但是我想试一下，要战胜逆流河，我多么无比渴望现实的美好，哪怕很难",
+        "id": "1561806114274287616",
+        "location": "長沙",
+        "name": "AZ.",
+        "pinned_tweet_id": "2084914582607511860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778090792390959104/-k1xKj1N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 604,
+          "following_count": 523,
+          "like_count": 4307,
+          "listed_count": 1,
+          "media_count": 145,
+          "tweet_count": 1099
+        },
+        "url": "",
+        "username": "crossyangshe",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-16T15:02:20.000Z",
+        "description": "05🚺｜未診断/双極疑い｜精神科通院中｜ASDグレー｜中退2回｜高卒認定持ち中卒｜通信制大学生｜フォロワー相互初手呼びタメ🙆‍♀️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lxxe11.hatenablog.com",
+                "end": 23,
+                "expanded_url": "https://lxxe11.hatenablog.com/",
+                "start": 0,
+                "url": "https://t.co/I6Trdwa1Ay"
+              }
+            ]
+          }
+        },
+        "id": "2044793518267453440",
+        "location": "質問など中身のある会話ならDM可",
+        "name": "茅野",
+        "pinned_tweet_id": "2056751048132603989",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064738641780559872/6Kc-kQEj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 36,
+          "like_count": 329,
+          "listed_count": 1,
+          "media_count": 27,
+          "tweet_count": 2001
+        },
+        "url": "https://t.co/I6Trdwa1Ay",
+        "username": "lxxe11_",
+        "verified": false
+      }
+    ]
+  }
+}

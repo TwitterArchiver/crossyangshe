@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561806114274287616",
+    "conversation_id": "2088697638103490889",
+    "created_at": "2026-08-15T18:43:15.000Z",
+    "display_text_range": [
+      0,
+      74
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T19:43:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088698049287909829"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2088698049287909829",
+    "in_reply_to_user_id": "1561806114274287616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088697638103490889",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "因为闲鱼账号之前借给别人被永久封号了所以也不能使用闲鱼了，你们有没有知道价格的私信一下AZ，还有AZ到底要不要卖掉电脑啊这是身边唯一值钱的东西了……"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2088697563944009728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPyLXjYbQAAPe_e.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561806114274287616",
+        "conversation_id": "2088697638103490889",
+        "created_at": "2026-08-15T18:43:15.000Z",
+        "display_text_range": [
+          0,
+          74
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T19:43:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088698049287909829"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2088698049287909829",
+        "in_reply_to_user_id": "1561806114274287616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088697638103490889",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "因为闲鱼账号之前借给别人被永久封号了所以也不能使用闲鱼了，你们有没有知道价格的私信一下AZ，还有AZ到底要不要卖掉电脑啊这是身边唯一值钱的东西了……"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088697563944009728"
+          ]
+        },
+        "author_id": "1561806114274287616",
+        "conversation_id": "2088697638103490889",
+        "created_at": "2026-08-15T18:41:37.000Z",
+        "display_text_range": [
+          0,
+          123
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T19:41:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088697638103490889"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Pf5WfDRV7a",
+              "end": 147,
+              "expanded_url": "https://x.com/crossyangshe/status/2088697638103490889/photo/1",
+              "media_key": "3_2088697563944009728",
+              "start": 124,
+              "url": "https://t.co/Pf5WfDRV7a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088697638103490889",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088697563944009728"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "AZ要吃不起饭了，想把手里唯一值钱的一台笔记本电脑卖了，是联想的thinkbooks16+，i512代2050系的，1tb内存，里面有两根内存条一根原装的和一根自己加的，想问一下有没有懂数码的兄弟大概可以卖多少钱，要去什么转转爱回收的线下店卖吗？ https://t.co/Pf5WfDRV7a"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-08-22T20:03:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Changsha, Hunan, China",
+              "geo": {
+                "coordinates": [
+                  112.97087,
+                  28.19874
+                ],
+                "type": "Point"
+              },
+              "locality": "Changsha",
+              "region": "Hunan"
+            }
+          ]
+        },
+        "description": "你們好呀，我是az！成分：重抑中焦/od/自傷/自殺念頭/infp-t/音遊/二游（不怎麼玩了）/端遊\n目前打算回归现实生活了，我真的希望陷入深渊的所有人都可以摆脱苦难，哪怕很难，但是我想试一下，要战胜逆流河，我多么无比渴望现实的美好，哪怕很难",
+        "id": "1561806114274287616",
+        "is_identity_verified": false,
+        "location": "長沙",
+        "most_recent_tweet_id": "2088698049287909829",
+        "name": "AZ.",
+        "pinned_tweet_id": "2085780050759328158",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1561806114274287616/1786474392",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778090792390959104/-k1xKj1N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 614,
+          "following_count": 576,
+          "like_count": 4861,
+          "listed_count": 1,
+          "media_count": 166,
+          "tweet_count": 1213
+        },
+        "url": "",
+        "username": "crossyangshe",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

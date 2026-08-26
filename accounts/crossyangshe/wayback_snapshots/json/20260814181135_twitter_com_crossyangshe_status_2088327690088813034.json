@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561806114274287616",
+    "conversation_id": "2088130879407145009",
+    "created_at": "2026-08-14T18:11:35.000Z",
+    "display_text_range": [
+      9,
+      45
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T19:11:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088327690088813034"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1728415914012311552",
+          "start": 0,
+          "username": "YZW0563"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088327690088813034",
+    "in_reply_to_user_id": "1728415914012311552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088130879407145009",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YZW0563 一直在停医生的话好好吃药呐，但是医生，我的病越来越严重了，真的会好吗……"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_2088130859345874944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPqH9APXkAAbXGT.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561806114274287616",
+        "conversation_id": "2088130879407145009",
+        "created_at": "2026-08-14T18:11:35.000Z",
+        "display_text_range": [
+          9,
+          45
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T19:11:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088327690088813034"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1728415914012311552",
+              "start": 0,
+              "username": "YZW0563"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088327690088813034",
+        "in_reply_to_user_id": "1728415914012311552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088130879407145009",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YZW0563 一直在停医生的话好好吃药呐，但是医生，我的病越来越严重了，真的会好吗……"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088130859345874944"
+          ]
+        },
+        "author_id": "1728415914012311552",
+        "conversation_id": "2088130879407145009",
+        "created_at": "2026-08-14T05:09:31.000Z",
+        "display_text_range": [
+          0,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T06:09:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088130879407145009"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2r41qY1CHR",
+              "end": 42,
+              "expanded_url": "https://x.com/bibi164795/status/2088130879407145009/photo/1",
+              "media_key": "3_2088130859345874944",
+              "start": 19,
+              "url": "https://t.co/2r41qY1CHR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088130879407145009",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088130859345874944"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 762,
+          "like_count": 18,
+          "quote_count": 1,
+          "reply_count": 14,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "孩子，医生给你开这些是让你好好睡觉的 https://t.co/2r41qY1CHR"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-08-22T20:03:01.000Z",
+        "description": "你們好呀，我是az！成分：重抑中焦/od/自傷/自殺念頭/infp-t/音遊/二游（不怎麼玩了）/端遊\n目前打算回归现实生活了，我真的希望陷入深渊的所有人都可以摆脱苦难，哪怕很难，但是我想试一下，要战胜逆流河，我多么无比渴望现实的美好，哪怕很难",
+        "id": "1561806114274287616",
+        "is_identity_verified": false,
+        "location": "長沙",
+        "most_recent_tweet_id": "2088327690088813034",
+        "name": "AZ.",
+        "pinned_tweet_id": "2085780050759328158",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1561806114274287616/1786474392",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778090792390959104/-k1xKj1N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 614,
+          "following_count": 571,
+          "like_count": 4741,
+          "listed_count": 1,
+          "media_count": 162,
+          "tweet_count": 1187
+        },
+        "url": "",
+        "username": "crossyangshe",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-11-25T14:10:53.000Z",
+        "description": "Hi我叫椰椰｜照 片 都 是 高 P｜INTP-T｜05｜双相情感障碍｜重重重焦｜🚬🔪💊｜偶尔发点🔞\n性感极其古怪，把这当🚽啥都发｜好友位🚪88\n如果你有钱，我可以为你做任何事，我包容程度极高",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/bibi1647951",
+                "end": 23,
+                "expanded_url": "https://ngl.link/bibi1647951",
+                "start": 0,
+                "url": "https://t.co/FAv3jMGDDE"
+              }
+            ]
+          }
+        },
+        "id": "1728415914012311552",
+        "is_identity_verified": false,
+        "location": " ",
+        "most_recent_tweet_id": "2088295199025877402",
+        "name": "我又不能发帖了滚吧",
+        "pinned_tweet_id": "2088034737608638527",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1728415914012311552/1786381557",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088026491011346432/Ah_Zy2yt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105,
+          "following_count": 212,
+          "like_count": 135,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 165
+        },
+        "url": "https://t.co/FAv3jMGDDE",
+        "username": "YZW0563",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

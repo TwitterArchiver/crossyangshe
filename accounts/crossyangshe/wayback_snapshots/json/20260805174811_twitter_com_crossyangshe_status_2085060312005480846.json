@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2085060277431869440",
+        "3_2085060286428672000",
+        "3_2085060295253540864",
+        "3_2085060303608557568"
+      ]
+    },
+    "author_id": "1561806114274287616",
+    "conversation_id": "2085060312005480846",
+    "created_at": "2026-08-05T17:48:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T18:48:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2085060312005480846"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/5sgoy8jNiJ",
+          "end": 138,
+          "expanded_url": "https://x.com/crossyangshe/status/2085060312005480846/photo/1",
+          "media_key": "3_2085060277431869440",
+          "start": 115,
+          "url": "https://t.co/5sgoy8jNiJ"
+        },
+        {
+          "display_url": "pic.x.com/5sgoy8jNiJ",
+          "end": 138,
+          "expanded_url": "https://x.com/crossyangshe/status/2085060312005480846/photo/1",
+          "media_key": "3_2085060286428672000",
+          "start": 115,
+          "url": "https://t.co/5sgoy8jNiJ"
+        },
+        {
+          "display_url": "pic.x.com/5sgoy8jNiJ",
+          "end": 138,
+          "expanded_url": "https://x.com/crossyangshe/status/2085060312005480846/photo/1",
+          "media_key": "3_2085060295253540864",
+          "start": 115,
+          "url": "https://t.co/5sgoy8jNiJ"
+        },
+        {
+          "display_url": "pic.x.com/5sgoy8jNiJ",
+          "end": 138,
+          "expanded_url": "https://x.com/crossyangshe/status/2085060312005480846/photo/1",
+          "media_key": "3_2085060303608557568",
+          "start": 115,
+          "url": "https://t.co/5sgoy8jNiJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085060312005480846",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 1,
+      "impression_count": 2,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "谢谢你们😿😿😿不会再买奇怪的药了，明天打算把冰箱里面的剩余加巴和mjg还有空的药盒和刀🔪全部丢了，这些日子确实做的太过了，还有就是很想省点钱，最近打算先吃泡面，离社会脱节太久了，目前不知道怎么生活，有什么好吃的泡面推荐的吗QAQ https://t.co/5sgoy8jNiJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2400,
+        "media_key": "3_2085060277431869440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO-fRnOaoAAAPti.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2400,
+        "media_key": "3_2085060286428672000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO-fSIva8AAmw_Q.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2400,
+        "media_key": "3_2085060295253540864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO-fSpnbwAAmk2b.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2400,
+        "media_key": "3_2085060303608557568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO-fTIvbMAAgY9q.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085060277431869440",
+            "3_2085060286428672000",
+            "3_2085060295253540864",
+            "3_2085060303608557568"
+          ]
+        },
+        "author_id": "1561806114274287616",
+        "conversation_id": "2085060312005480846",
+        "created_at": "2026-08-05T17:48:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T18:48:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085060312005480846"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5sgoy8jNiJ",
+              "end": 138,
+              "expanded_url": "https://x.com/crossyangshe/status/2085060312005480846/photo/1",
+              "media_key": "3_2085060277431869440",
+              "start": 115,
+              "url": "https://t.co/5sgoy8jNiJ"
+            },
+            {
+              "display_url": "pic.x.com/5sgoy8jNiJ",
+              "end": 138,
+              "expanded_url": "https://x.com/crossyangshe/status/2085060312005480846/photo/1",
+              "media_key": "3_2085060286428672000",
+              "start": 115,
+              "url": "https://t.co/5sgoy8jNiJ"
+            },
+            {
+              "display_url": "pic.x.com/5sgoy8jNiJ",
+              "end": 138,
+              "expanded_url": "https://x.com/crossyangshe/status/2085060312005480846/photo/1",
+              "media_key": "3_2085060295253540864",
+              "start": 115,
+              "url": "https://t.co/5sgoy8jNiJ"
+            },
+            {
+              "display_url": "pic.x.com/5sgoy8jNiJ",
+              "end": 138,
+              "expanded_url": "https://x.com/crossyangshe/status/2085060312005480846/photo/1",
+              "media_key": "3_2085060303608557568",
+              "start": 115,
+              "url": "https://t.co/5sgoy8jNiJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085060312005480846",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谢谢你们😿😿😿不会再买奇怪的药了，明天打算把冰箱里面的剩余加巴和mjg还有空的药盒和刀🔪全部丢了，这些日子确实做的太过了，还有就是很想省点钱，最近打算先吃泡面，离社会脱节太久了，目前不知道怎么生活，有什么好吃的泡面推荐的吗QAQ https://t.co/5sgoy8jNiJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-22T20:03:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Changsha, Hunan, China",
+              "geo": {
+                "coordinates": [
+                  112.97087,
+                  28.19874
+                ],
+                "type": "Point"
+              },
+              "locality": "Changsha",
+              "region": "Hunan"
+            }
+          ]
+        },
+        "description": "你們好呀，我是az！成分：重抑中焦/od/自傷/自殺念頭/infp-t/音遊/二游（不怎麼玩了）/端遊\n目前打算回归现实生活了，我真的希望陷入深渊的所有人都可以摆脱苦难，哪怕很难，但是我想试一下，要战胜逆流河，我多么无比渴望现实的美好，哪怕很难",
+        "id": "1561806114274287616",
+        "location": "長沙",
+        "name": "AZ.",
+        "pinned_tweet_id": "2084914582607511860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778090792390959104/-k1xKj1N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 604,
+          "following_count": 485,
+          "like_count": 4168,
+          "listed_count": 1,
+          "media_count": 142,
+          "tweet_count": 1075
+        },
+        "url": "",
+        "username": "crossyangshe",
+        "verified": false
+      }
+    ]
+  }
+}

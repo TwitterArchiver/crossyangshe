@@ -1,0 +1,311 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2090174996354408448",
+        "3_2090174996346011648",
+        "3_2090174996341739520"
+      ]
+    },
+    "author_id": "1561806114274287616",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2090175431077146851",
+    "created_at": "2026-08-19T20:33:51.000Z",
+    "display_text_range": [
+      0,
+      71
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T21:33:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2090175431077146851"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1620279272467476481",
+          "start": 5,
+          "username": "jackeynight1"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/gOMg93nQr8",
+          "end": 95,
+          "expanded_url": "https://x.com/crossyangshe/status/2090175431077146851/photo/1",
+          "media_key": "3_2090174996354408448",
+          "start": 72,
+          "url": "https://t.co/gOMg93nQr8"
+        },
+        {
+          "display_url": "pic.x.com/gOMg93nQr8",
+          "end": 95,
+          "expanded_url": "https://x.com/crossyangshe/status/2090175431077146851/photo/1",
+          "media_key": "3_2090174996346011648",
+          "start": 72,
+          "url": "https://t.co/gOMg93nQr8"
+        },
+        {
+          "display_url": "pic.x.com/gOMg93nQr8",
+          "end": 95,
+          "expanded_url": "https://x.com/crossyangshe/status/2090175431077146851/photo/1",
+          "media_key": "3_2090174996341739520",
+          "start": 72,
+          "url": "https://t.co/gOMg93nQr8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090175431077146851",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2090174996354408448"
+      },
+      {
+        "media_key": "3_2090174996346011648"
+      },
+      {
+        "media_key": "3_2090174996341739520"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这个夕颜 @jackeynight1 就是逊呀，怎么比得过一天抽了30多根烟的AZ呢？有人要玩抖音抽烟挑战吗？能抽过AZ的可以考虑给个小奖励哦 https://t.co/gOMg93nQr8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2090174996354408448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQHLFcAboAAjLox.jpg",
+        "width": 864
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2090174996346011648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQHLFb-bgAAVeLn.jpg",
+        "width": 864
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2090174996341739520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQHLFb9aUAAMOzo.jpg",
+        "width": 864
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090174996354408448",
+            "3_2090174996346011648",
+            "3_2090174996341739520"
+          ]
+        },
+        "author_id": "1561806114274287616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2090175431077146851",
+        "created_at": "2026-08-19T20:33:51.000Z",
+        "display_text_range": [
+          0,
+          71
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T21:33:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090175431077146851"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1620279272467476481",
+              "start": 5,
+              "username": "jackeynight1"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gOMg93nQr8",
+              "end": 95,
+              "expanded_url": "https://x.com/crossyangshe/status/2090175431077146851/photo/1",
+              "media_key": "3_2090174996354408448",
+              "start": 72,
+              "url": "https://t.co/gOMg93nQr8"
+            },
+            {
+              "display_url": "pic.x.com/gOMg93nQr8",
+              "end": 95,
+              "expanded_url": "https://x.com/crossyangshe/status/2090175431077146851/photo/1",
+              "media_key": "3_2090174996346011648",
+              "start": 72,
+              "url": "https://t.co/gOMg93nQr8"
+            },
+            {
+              "display_url": "pic.x.com/gOMg93nQr8",
+              "end": 95,
+              "expanded_url": "https://x.com/crossyangshe/status/2090175431077146851/photo/1",
+              "media_key": "3_2090174996341739520",
+              "start": 72,
+              "url": "https://t.co/gOMg93nQr8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090175431077146851",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090174996354408448"
+          },
+          {
+            "media_key": "3_2090174996346011648"
+          },
+          {
+            "media_key": "3_2090174996341739520"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这个夕颜 @jackeynight1 就是逊呀，怎么比得过一天抽了30多根烟的AZ呢？有人要玩抖音抽烟挑战吗？能抽过AZ的可以考虑给个小奖励哦 https://t.co/gOMg93nQr8"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-08-22T20:03:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Changsha, Hunan, China",
+              "geo": {
+                "coordinates": [
+                  112.97087,
+                  28.19874
+                ],
+                "type": "Point"
+              },
+              "locality": "Changsha",
+              "region": "Hunan"
+            }
+          ]
+        },
+        "description": "你們好呀，我是az！成分：重抑中焦/od/自傷/自殺念頭/infp-t/音遊/二游（不怎麼玩了）/端遊\n目前打算回归现实生活了，我真的希望陷入深渊的所有人都可以摆脱苦难，哪怕很难，但是我想试一下，要战胜逆流河，我多么无比渴望现实的美好，哪怕很难",
+        "id": "1561806114274287616",
+        "is_identity_verified": false,
+        "location": "長沙",
+        "most_recent_tweet_id": "2090175431077146851",
+        "name": "AZ.",
+        "pinned_tweet_id": "2085780050759328158",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1561806114274287616/1786474392",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778090792390959104/-k1xKj1N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 639,
+          "following_count": 573,
+          "like_count": 5241,
+          "listed_count": 2,
+          "media_count": 174,
+          "tweet_count": 1279
+        },
+        "url": "",
+        "username": "crossyangshe",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-01-31T04:35:09.000Z",
+        "description": "这个人很懒所以几乎没有留下什么介绍...⭕dm＃惰天使＃od＃自伤 cn夕颜",
+        "id": "1620279272467476481",
+        "is_identity_verified": false,
+        "location": "❤️你的心里❤️",
+        "most_recent_tweet_id": "2090173211245957582",
+        "name": "夕颜",
+        "pinned_tweet_id": "1861772867106636056",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1620279272467476481/1690386207",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998729382849032194/g1FkyEWQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 496,
+          "following_count": 511,
+          "like_count": 17183,
+          "listed_count": 1,
+          "media_count": 473,
+          "tweet_count": 9105
+        },
+        "url": "",
+        "username": "jackeynight1",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

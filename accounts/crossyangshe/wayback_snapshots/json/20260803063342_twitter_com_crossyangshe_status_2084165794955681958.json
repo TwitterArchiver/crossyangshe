@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2084165784461508608"
+      ]
+    },
+    "author_id": "1561806114274287616",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2084165794955681958",
+    "created_at": "2026-08-03T06:33:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T07:33:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084165794955681958"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 23,
+          "id": "1653666360604647424",
+          "start": 9,
+          "username": "congng1327122"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/OY2VpUzyMu",
+          "end": 47,
+          "expanded_url": "https://x.com/crossyangshe/status/2084165794955681958/photo/1",
+          "media_key": "3_2084165784461508608",
+          "start": 24,
+          "url": "https://t.co/OY2VpUzyMu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084165794955681958",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "与小愈成功线下见面@congng1327122 https://t.co/OY2VpUzyMu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1706,
+        "media_key": "3_2084165784461508608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOxxvRPaAAA9V2I.jpg",
+        "width": 1279
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084165784461508608"
+          ]
+        },
+        "author_id": "1561806114274287616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2084165794955681958",
+        "created_at": "2026-08-03T06:33:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T07:33:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084165794955681958"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 23,
+              "id": "1653666360604647424",
+              "start": 9,
+              "username": "congng1327122"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OY2VpUzyMu",
+              "end": 47,
+              "expanded_url": "https://x.com/crossyangshe/status/2084165794955681958/photo/1",
+              "media_key": "3_2084165784461508608",
+              "start": 24,
+              "url": "https://t.co/OY2VpUzyMu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084165794955681958",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "与小愈成功线下见面@congng1327122 https://t.co/OY2VpUzyMu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-22T20:03:01.000Z",
+        "description": "你們好呀，我是az！成分：重抑中焦/od/自傷/自殺念頭/infp-t/音遊/二游（不怎麼玩了）/端遊（Steam上面的單機和一些網遊）/像素RPG/galgame/喜歡術力口（初音 可不 歌愛雪）/看番/看漫畫。\n戀人：@congng1327122\n小號：@confessAZ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 125,
+                "start": 111,
+                "username": "congng1327122"
+              },
+              {
+                "end": 139,
+                "start": 129,
+                "username": "confessAZ"
+              }
+            ]
+          }
+        },
+        "id": "1561806114274287616",
+        "location": "長沙",
+        "name": "AZ.",
+        "pinned_tweet_id": "2075487277191733409",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778090792390959104/-k1xKj1N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 601,
+          "following_count": 466,
+          "like_count": 4041,
+          "listed_count": 1,
+          "media_count": 135,
+          "tweet_count": 1030
+        },
+        "url": "",
+        "username": "crossyangshe",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-03T07:42:51.000Z",
+        "description": "yukiso/愈｜我不怎么会回复 不过我很喜欢你们！感谢评论｜互fo 基本只回同类｜想了解我的请看置顶\n@crossyangshe",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 52,
+                "username": "crossyangshe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ac22161",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ac22161",
+                "start": 0,
+                "url": "https://t.co/eE4dYT727y"
+              }
+            ]
+          }
+        },
+        "id": "1653666360604647424",
+        "location": "距离你0.1km",
+        "name": "小雨愈愈",
+        "pinned_tweet_id": "2075613937496973404",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076000289099046912/XGLbQTfV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 211,
+          "following_count": 322,
+          "like_count": 2310,
+          "listed_count": 0,
+          "media_count": 160,
+          "tweet_count": 1959
+        },
+        "url": "https://t.co/eE4dYT727y",
+        "username": "congng1327122",
+        "verified": false
+      }
+    ]
+  }
+}

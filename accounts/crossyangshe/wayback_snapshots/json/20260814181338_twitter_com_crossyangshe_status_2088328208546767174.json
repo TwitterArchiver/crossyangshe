@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561806114274287616",
+    "conversation_id": "2088277726843318498",
+    "created_at": "2026-08-14T18:13:38.000Z",
+    "display_text_range": [
+      10,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T19:13:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088328208546767174"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2082727251372847104",
+          "start": 0,
+          "username": "yume_034"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088328208546767174",
+    "in_reply_to_user_id": "2082727251372847104",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088277726843318498",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yume_034 理智是对的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561806114274287616",
+        "conversation_id": "2088277726843318498",
+        "created_at": "2026-08-14T18:13:38.000Z",
+        "display_text_range": [
+          10,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T19:13:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088328208546767174"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2082727251372847104",
+              "start": 0,
+              "username": "yume_034"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088328208546767174",
+        "in_reply_to_user_id": "2082727251372847104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088277726843318498",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yume_034 理智是对的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2082727251372847104",
+        "conversation_id": "2088277726843318498",
+        "created_at": "2026-08-14T14:53:03.000Z",
+        "display_text_range": [
+          0,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T15:53:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088277726843318498"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2088277726843318498",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的精神状态告诉我该磕点药缓解一下但是我的理智告诉我最好别磕"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-08-22T20:03:01.000Z",
+        "description": "你們好呀，我是az！成分：重抑中焦/od/自傷/自殺念頭/infp-t/音遊/二游（不怎麼玩了）/端遊\n目前打算回归现实生活了，我真的希望陷入深渊的所有人都可以摆脱苦难，哪怕很难，但是我想试一下，要战胜逆流河，我多么无比渴望现实的美好，哪怕很难",
+        "id": "1561806114274287616",
+        "is_identity_verified": false,
+        "location": "長沙",
+        "most_recent_tweet_id": "2088328208546767174",
+        "name": "AZ.",
+        "pinned_tweet_id": "2085780050759328158",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1561806114274287616/1786474392",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778090792390959104/-k1xKj1N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 614,
+          "following_count": 571,
+          "like_count": 4751,
+          "listed_count": 1,
+          "media_count": 162,
+          "tweet_count": 1189
+        },
+        "url": "",
+        "username": "crossyangshe",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-30T07:19:51.000Z",
+        "description": "可以叫我梦境！友跨顺女，中焦中抑，可以找我聊天喵，直fo就是眼熟你喜欢你😽，查成分回fo\n防炸号备用@yume_047",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 50,
+                "username": "yume_047"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/qi56064",
+                "end": 23,
+                "expanded_url": "https://ngl.link/qi56064",
+                "start": 0,
+                "url": "https://t.co/yyjHf709bL"
+              }
+            ]
+          }
+        },
+        "id": "2082727251372847104",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088277726843318498",
+        "name": "🦋2.0",
+        "pinned_tweet_id": "2082740288548995457",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2082727251372847104/1785396639",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082730573668536320/LAcfOek0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 91,
+          "like_count": 86,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 423
+        },
+        "url": "https://t.co/yyjHf709bL",
+        "username": "yume_034",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

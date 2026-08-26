@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561806114274287616",
+    "conversation_id": "2083696187245527467",
+    "created_at": "2026-08-01T23:29:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T00:29:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083696698107494834"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2083696698107494834",
+    "in_reply_to_user_id": "1561806114274287616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083696187245527467",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "人不是只有老了才会s，人是随时随地都会s，吃饭时难过，走路上难过，一个人时也好难过。真的好累，不知道这样有什么意义，世界都在歧视我们，不会有人觉得我们应该也配huo在这个世界上，为什么呢？为什么啊？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2252,
+        "media_key": "3_2083696179947454464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOrGosGbQAAxsfu.jpg",
+        "width": 918
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561806114274287616",
+        "conversation_id": "2083696187245527467",
+        "created_at": "2026-08-01T23:29:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T00:29:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083696698107494834"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083696698107494834",
+        "in_reply_to_user_id": "1561806114274287616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083696187245527467",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "人不是只有老了才会s，人是随时随地都会s，吃饭时难过，走路上难过，一个人时也好难过。真的好累，不知道这样有什么意义，世界都在歧视我们，不会有人觉得我们应该也配huo在这个世界上，为什么呢？为什么啊？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083696179947454464"
+          ]
+        },
+        "author_id": "1561806114274287616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2083696187245527467",
+        "created_at": "2026-08-01T23:27:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T00:27:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083696187245527467"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hHKAKqFiJx",
+              "end": 128,
+              "expanded_url": "https://x.com/crossyangshe/status/2083696187245527467/photo/1",
+              "media_key": "3_2083696179947454464",
+              "start": 105,
+              "url": "https://t.co/hHKAKqFiJx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083696187245527467",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大家都可以，这个人为什么不能是我呢？我已经扮演不好“az”这个角色了，从22年注册账号至至今，见证了太多推友的离开，从小蓝鸟到x，az也可以的！我只是缺乏一个契机，我觉得差不多快到了，呜呜呜，az眼泪一直在流 https://t.co/hHKAKqFiJx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-22T20:03:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Changsha, Hunan, China",
+              "geo": {
+                "coordinates": [
+                  112.97087,
+                  28.19874
+                ],
+                "type": "Point"
+              },
+              "locality": "Changsha",
+              "region": "Hunan"
+            }
+          ]
+        },
+        "description": "你們好呀，我是az！成分：重抑中焦/od/自傷/自殺念頭/infp-t/音遊/二游（不怎麼玩了）/端遊（Steam上面的單機和一些網遊）/像素RPG/galgame/喜歡術力口（初音 可不 歌愛雪）/看番/看漫畫。\n戀人：@congng1327122\n小號：@confessAZ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 125,
+                "start": 111,
+                "username": "congng1327122"
+              },
+              {
+                "end": 139,
+                "start": 129,
+                "username": "confessAZ"
+              }
+            ]
+          }
+        },
+        "id": "1561806114274287616",
+        "location": "長沙",
+        "name": "AZ.",
+        "pinned_tweet_id": "2075487277191733409",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778090792390959104/-k1xKj1N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 594,
+          "following_count": 447,
+          "like_count": 3893,
+          "listed_count": 1,
+          "media_count": 134,
+          "tweet_count": 1012
+        },
+        "url": "",
+        "username": "crossyangshe",
+        "verified": false
+      }
+    ]
+  }
+}

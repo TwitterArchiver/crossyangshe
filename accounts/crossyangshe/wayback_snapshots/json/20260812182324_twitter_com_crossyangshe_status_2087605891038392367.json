@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561806114274287616",
+    "conversation_id": "2087605891038392367",
+    "created_at": "2026-08-12T18:23:24.000Z",
+    "display_text_range": [
+      0,
+      110
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T19:23:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2087605891038392367"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Fooogfox/statu…",
+          "end": 134,
+          "expanded_url": "https://twitter.com/Fooogfox/status/2087568373576249769",
+          "start": 111,
+          "url": "https://t.co/HOrOnoDw1j"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087605891038392367",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087568373576249769",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好久不见呀，离开你也有一段时间了呢，最近你过得怎么样啦，最近有好好吃饭吗，还在经常熬夜通宵吗？我还记得你你最喜欢偷偷熬夜了？记得累了要早点休息哦。对了，你还要变得外向起来呀，也希望你真的早日遇到你爱的人，要好好对待他哦。 https://t.co/HOrOnoDw1j"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561806114274287616",
+        "conversation_id": "2087605891038392367",
+        "created_at": "2026-08-12T18:23:24.000Z",
+        "display_text_range": [
+          0,
+          110
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T19:23:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087605891038392367"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Fooogfox/statu…",
+              "end": 134,
+              "expanded_url": "https://twitter.com/Fooogfox/status/2087568373576249769",
+              "start": 111,
+              "url": "https://t.co/HOrOnoDw1j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087605891038392367",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087568373576249769",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好久不见呀，离开你也有一段时间了呢，最近你过得怎么样啦，最近有好好吃饭吗，还在经常熬夜通宵吗？我还记得你你最喜欢偷偷熬夜了？记得累了要早点休息哦。对了，你还要变得外向起来呀，也希望你真的早日遇到你爱的人，要好好对待他哦。 https://t.co/HOrOnoDw1j"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776162571709796352",
+        "conversation_id": "2087568373576249769",
+        "created_at": "2026-08-12T15:54:20.000Z",
+        "display_text_range": [
+          0,
+          110
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T16:54:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087568373576249769"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/AmeAsukaLangle…",
+              "end": 134,
+              "expanded_url": "https://twitter.com/AmeAsukaLangley/status/2087545168736247993",
+              "start": 111,
+              "url": "https://t.co/95mEaRfx6y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087568373576249769",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 220,
+          "like_count": 6,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087545168736247993",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好久不见呀，离开你也有一段时间了呢，最近你过得怎么样啦，最近有好好吃饭吗，还在经常熬夜通宵吗？我还记得你你最喜欢偷偷熬夜了？记得累了要早点休息哦。对了，你还要变得外向起来呀，也希望你真的早日遇到你爱的人，要好好对待他哦。 https://t.co/95mEaRfx6y"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-08-22T20:03:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Changsha, Hunan, China",
+              "geo": {
+                "coordinates": [
+                  112.97087,
+                  28.19874
+                ],
+                "type": "Point"
+              },
+              "locality": "Changsha",
+              "region": "Hunan"
+            }
+          ]
+        },
+        "description": "你們好呀，我是az！成分：重抑中焦/od/自傷/自殺念頭/infp-t/音遊/二游（不怎麼玩了）/端遊\n目前打算回归现实生活了，我真的希望陷入深渊的所有人都可以摆脱苦难，哪怕很难，但是我想试一下，要战胜逆流河，我多么无比渴望现实的美好，哪怕很难",
+        "id": "1561806114274287616",
+        "is_identity_verified": false,
+        "location": "長沙",
+        "most_recent_tweet_id": "2087605891038392367",
+        "name": "AZ.",
+        "pinned_tweet_id": "2085780050759328158",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1561806114274287616/1786474392",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778090792390959104/-k1xKj1N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 613,
+          "following_count": 562,
+          "like_count": 4497,
+          "listed_count": 1,
+          "media_count": 157,
+          "tweet_count": 1155
+        },
+        "url": "",
+        "username": "crossyangshe",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-04-05T08:18:58.000Z",
+        "description": "五月生，请称呼我为阿间/雨原花咲\nftx🏳️‍🌈🏳️‍⚧️\nhttps://t.co/xgC1f8meqx\n不喜欢我请直接ban我\n药物于我如酒精和作家",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/fooogfox",
+                "end": 53,
+                "expanded_url": "https://ngl.link/fooogfox",
+                "start": 30,
+                "url": "https://t.co/xgC1f8meqx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/fooooogfox",
+                "end": 23,
+                "expanded_url": "https://t.me/fooooogfox",
+                "start": 0,
+                "url": "https://t.co/rO2rYtJvdt"
+              }
+            ]
+          }
+        },
+        "id": "1776162571709796352",
+        "is_identity_verified": false,
+        "location": "世界",
+        "most_recent_tweet_id": "2087597944426156393",
+        "name": "猫不理茶茶罐头",
+        "pinned_tweet_id": "2087481194414055471",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1776162571709796352/1786162843",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085954969455513600/vrMZ8he4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 162,
+          "following_count": 369,
+          "like_count": 2053,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 509
+        },
+        "url": "https://t.co/rO2rYtJvdt",
+        "username": "Fooogfox",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

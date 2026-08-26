@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561806114274287616",
+    "conversation_id": "2087611969956466888",
+    "created_at": "2026-08-12T18:47:34.000Z",
+    "display_text_range": [
+      0,
+      67
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T19:47:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2087611969956466888"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/isouko125/stat…",
+          "end": 91,
+          "expanded_url": "https://twitter.com/isouko125/status/2087598300589625395",
+          "start": 68,
+          "url": "https://t.co/dmworJZFDa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087611969956466888",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087598300589625395",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "眼泪要是可以变成棉花就好了，每掉一颗就变成一朵蓬松的棉花，这样哪怕一直在哭，眼泪也只会变成棉花团，后知后觉发现自己被毛绒绒包围了... https://t.co/dmworJZFDa"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561806114274287616",
+        "conversation_id": "2087611969956466888",
+        "created_at": "2026-08-12T18:47:34.000Z",
+        "display_text_range": [
+          0,
+          67
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T19:47:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087611969956466888"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/isouko125/stat…",
+              "end": 91,
+              "expanded_url": "https://twitter.com/isouko125/status/2087598300589625395",
+              "start": 68,
+              "url": "https://t.co/dmworJZFDa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087611969956466888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087598300589625395",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "眼泪要是可以变成棉花就好了，每掉一颗就变成一朵蓬松的棉花，这样哪怕一直在哭，眼泪也只会变成棉花团，后知后觉发现自己被毛绒绒包围了... https://t.co/dmworJZFDa"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2087450430649544704",
+        "conversation_id": "2087598300589625395",
+        "created_at": "2026-08-12T17:53:15.000Z",
+        "display_text_range": [
+          0,
+          67
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T18:53:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087598300589625395"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2087598300589625395",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "眼泪要是可以变成棉花就好了，每掉一颗就变成一朵蓬松的棉花，这样哪怕一直在哭，眼泪也只会变成棉花团，后知后觉发现自己被毛绒绒包围了..."
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-08-22T20:03:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Changsha, Hunan, China",
+              "geo": {
+                "coordinates": [
+                  112.97087,
+                  28.19874
+                ],
+                "type": "Point"
+              },
+              "locality": "Changsha",
+              "region": "Hunan"
+            }
+          ]
+        },
+        "description": "你們好呀，我是az！成分：重抑中焦/od/自傷/自殺念頭/infp-t/音遊/二游（不怎麼玩了）/端遊\n目前打算回归现实生活了，我真的希望陷入深渊的所有人都可以摆脱苦难，哪怕很难，但是我想试一下，要战胜逆流河，我多么无比渴望现实的美好，哪怕很难",
+        "id": "1561806114274287616",
+        "is_identity_verified": false,
+        "location": "長沙",
+        "most_recent_tweet_id": "2087611969956466888",
+        "name": "AZ.",
+        "pinned_tweet_id": "2085780050759328158",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1561806114274287616/1786474392",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778090792390959104/-k1xKj1N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 613,
+          "following_count": 565,
+          "like_count": 4527,
+          "listed_count": 1,
+          "media_count": 157,
+          "tweet_count": 1160
+        },
+        "url": "",
+        "username": "crossyangshe",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-12T08:07:29.000Z",
+        "description": "イソウコって呼んでくれればいいよ！主に日常の出来事や好きなもの、そして少しネガティブな気持ちも混じっています，\n日本語/English/한국어，这里是郁郁子二代目",
+        "id": "2087450430649544704",
+        "is_identity_verified": false,
+        "location": "🚪100",
+        "most_recent_tweet_id": "2087599376214749318",
+        "name": "isouko",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087451503644778496/9wapZlZl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 25,
+          "like_count": 40,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 15
+        },
+        "url": "",
+        "username": "isouko125",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

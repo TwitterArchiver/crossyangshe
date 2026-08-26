@@ -1,0 +1,309 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2088938476934930432",
+        "3_2088938476863643648",
+        "3_2088938476943347712"
+      ]
+    },
+    "author_id": "1561806114274287616",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2088939997797990707",
+    "created_at": "2026-08-16T10:44:40.000Z",
+    "display_text_range": [
+      0,
+      125
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T11:44:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2088939997797990707"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 63,
+          "id": "1717388840938135552",
+          "start": 48,
+          "username": "DingGongYinLin"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/9ulzpHGwlZ",
+          "end": 149,
+          "expanded_url": "https://x.com/crossyangshe/status/2088939997797990707/photo/1",
+          "media_key": "3_2088938476934930432",
+          "start": 126,
+          "url": "https://t.co/9ulzpHGwlZ"
+        },
+        {
+          "display_url": "pic.x.com/9ulzpHGwlZ",
+          "end": 149,
+          "expanded_url": "https://x.com/crossyangshe/status/2088939997797990707/photo/1",
+          "media_key": "3_2088938476863643648",
+          "start": 126,
+          "url": "https://t.co/9ulzpHGwlZ"
+        },
+        {
+          "display_url": "pic.x.com/9ulzpHGwlZ",
+          "end": 149,
+          "expanded_url": "https://x.com/crossyangshe/status/2088939997797990707/photo/1",
+          "media_key": "3_2088938476943347712",
+          "start": 126,
+          "url": "https://t.co/9ulzpHGwlZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088939997797990707",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2088938476934930432"
+      },
+      {
+        "media_key": "3_2088938476863643648"
+      },
+      {
+        "media_key": "3_2088938476943347712"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "谢谢你们呜呜呜😭😭😭让AZ吃上好吃的了，很抱歉睡到现在才醒来真的很感谢你们，谢谢天使阿琳啊 \n @DingGongYinLin 收到援助的那一刻腿都发发软了没想到你这么好心帮助AZ，AZ真的不知道怎么报答你了，花了十几块钱做了一锅粉丝煲，给你们看看吧 https://t.co/9ulzpHGwlZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2088938476934930432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP1meiNaIAAneLL.jpg",
+        "width": 922
+      },
+      {
+        "height": 1440,
+        "media_key": "3_2088938476863643648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP1meh8aYAAzsPk.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1538,
+        "media_key": "3_2088938476943347712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP1meiPakAApOiQ.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088938476934930432",
+            "3_2088938476863643648",
+            "3_2088938476943347712"
+          ]
+        },
+        "author_id": "1561806114274287616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2088939997797990707",
+        "created_at": "2026-08-16T10:44:40.000Z",
+        "display_text_range": [
+          0,
+          125
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T11:44:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088939997797990707"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 63,
+              "id": "1717388840938135552",
+              "start": 48,
+              "username": "DingGongYinLin"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9ulzpHGwlZ",
+              "end": 149,
+              "expanded_url": "https://x.com/crossyangshe/status/2088939997797990707/photo/1",
+              "media_key": "3_2088938476934930432",
+              "start": 126,
+              "url": "https://t.co/9ulzpHGwlZ"
+            },
+            {
+              "display_url": "pic.x.com/9ulzpHGwlZ",
+              "end": 149,
+              "expanded_url": "https://x.com/crossyangshe/status/2088939997797990707/photo/1",
+              "media_key": "3_2088938476863643648",
+              "start": 126,
+              "url": "https://t.co/9ulzpHGwlZ"
+            },
+            {
+              "display_url": "pic.x.com/9ulzpHGwlZ",
+              "end": 149,
+              "expanded_url": "https://x.com/crossyangshe/status/2088939997797990707/photo/1",
+              "media_key": "3_2088938476943347712",
+              "start": 126,
+              "url": "https://t.co/9ulzpHGwlZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088939997797990707",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088938476934930432"
+          },
+          {
+            "media_key": "3_2088938476863643648"
+          },
+          {
+            "media_key": "3_2088938476943347712"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谢谢你们呜呜呜😭😭😭让AZ吃上好吃的了，很抱歉睡到现在才醒来真的很感谢你们，谢谢天使阿琳啊 \n @DingGongYinLin 收到援助的那一刻腿都发发软了没想到你这么好心帮助AZ，AZ真的不知道怎么报答你了，花了十几块钱做了一锅粉丝煲，给你们看看吧 https://t.co/9ulzpHGwlZ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-08-22T20:03:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Changsha, Hunan, China",
+              "geo": {
+                "coordinates": [
+                  112.97087,
+                  28.19874
+                ],
+                "type": "Point"
+              },
+              "locality": "Changsha",
+              "region": "Hunan"
+            }
+          ]
+        },
+        "description": "你們好呀，我是az！成分：重抑中焦/od/自傷/自殺念頭/infp-t/音遊/二游（不怎麼玩了）/端遊\n目前打算回归现实生活了，我真的希望陷入深渊的所有人都可以摆脱苦难，哪怕很难，但是我想试一下，要战胜逆流河，我多么无比渴望现实的美好，哪怕很难",
+        "id": "1561806114274287616",
+        "is_identity_verified": false,
+        "location": "長沙",
+        "most_recent_tweet_id": "2088939997797990707",
+        "name": "AZ.",
+        "pinned_tweet_id": "2085780050759328158",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1561806114274287616/1786474392",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778090792390959104/-k1xKj1N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 608,
+          "following_count": 568,
+          "like_count": 4969,
+          "listed_count": 2,
+          "media_count": 167,
+          "tweet_count": 1224
+        },
+        "url": "",
+        "username": "crossyangshe",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-10-26T03:53:18.000Z",
+        "description": "o(￣ヘ￣o#)",
+        "id": "1717388840938135552",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2088911902542008705",
+        "name": "钉宫银琳",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1717388840938135552/1771354221",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023832209636163584/ozoek5lt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 196,
+          "following_count": 313,
+          "like_count": 16300,
+          "listed_count": 0,
+          "media_count": 154,
+          "tweet_count": 4011
+        },
+        "url": "",
+        "username": "DingGongYinLin",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

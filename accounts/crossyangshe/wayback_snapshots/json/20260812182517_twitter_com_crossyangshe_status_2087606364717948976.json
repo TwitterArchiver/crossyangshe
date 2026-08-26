@@ -1,0 +1,305 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561806114274287616",
+    "conversation_id": "2087600997996834877",
+    "created_at": "2026-08-12T18:25:17.000Z",
+    "display_text_range": [
+      10,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T19:25:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087606364717948976"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2076841557802864640",
+          "start": 0,
+          "username": "kuukiwtf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087606364717948976",
+    "in_reply_to_user_id": "2076841557802864640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087600997996834877",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kuukiwtf 这是在干嘛"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 14644,
+        "height": 1080,
+        "media_key": "13_2087600928094666752",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2087600928094666752/img/Tovj3lX8ys9vGRe-.jpg",
+        "public_metrics": {
+          "view_count": 47
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2087600928094666752/vid/avc1/1280x720/oHD6DHMjUyeLAPln.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2087600928094666752/vid/avc1/480x270/s0sGStdmdGNZhJ2T.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2087600928094666752/vid/avc1/640x360/fZdv56efUstlIHLO.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2087600928094666752/vid/avc1/1920x1080/yrAqCm9p8lxnK2XL.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2087600928094666752/pl/Ps7Anh9FsMVUO5vr.m3u8"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561806114274287616",
+        "conversation_id": "2087600997996834877",
+        "created_at": "2026-08-12T18:25:17.000Z",
+        "display_text_range": [
+          10,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T19:25:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087606364717948976"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2076841557802864640",
+              "start": 0,
+              "username": "kuukiwtf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087606364717948976",
+        "in_reply_to_user_id": "2076841557802864640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087600997996834877",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kuukiwtf 这是在干嘛"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2087600928094666752"
+          ]
+        },
+        "author_id": "2076841557802864640",
+        "conversation_id": "2087600997996834877",
+        "created_at": "2026-08-12T18:03:58.000Z",
+        "display_text_range": [
+          0,
+          93
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T19:03:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087600997996834877"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Q1IRD5xSh5",
+              "end": 117,
+              "expanded_url": "https://x.com/kuukiwtf/status/2087600997996834877/video/1",
+              "media_key": "13_2087600928094666752",
+              "start": 94,
+              "url": "https://t.co/Q1IRD5xSh5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087600997996834877",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2087600928094666752"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 78,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我就這麽宴請八方 \n\n呃呃呃呃餓啊好像漏了 .. 什麽部位呢 呃呃慎入 我打成人標簽了 別打我 我吃了 1200mg pr emm上勁了我瘋了 \n\n裏面能看見我的..emm我炸了 對不起 https://t.co/Q1IRD5xSh5"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-08-22T20:03:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Changsha, Hunan, China",
+              "geo": {
+                "coordinates": [
+                  112.97087,
+                  28.19874
+                ],
+                "type": "Point"
+              },
+              "locality": "Changsha",
+              "region": "Hunan"
+            }
+          ]
+        },
+        "description": "你們好呀，我是az！成分：重抑中焦/od/自傷/自殺念頭/infp-t/音遊/二游（不怎麼玩了）/端遊\n目前打算回归现实生活了，我真的希望陷入深渊的所有人都可以摆脱苦难，哪怕很难，但是我想试一下，要战胜逆流河，我多么无比渴望现实的美好，哪怕很难",
+        "id": "1561806114274287616",
+        "is_identity_verified": false,
+        "location": "長沙",
+        "most_recent_tweet_id": "2087606364717948976",
+        "name": "AZ.",
+        "pinned_tweet_id": "2085780050759328158",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1561806114274287616/1786474392",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778090792390959104/-k1xKj1N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 613,
+          "following_count": 562,
+          "like_count": 4500,
+          "listed_count": 1,
+          "media_count": 157,
+          "tweet_count": 1156
+        },
+        "url": "",
+        "username": "crossyangshe",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "GENDER\n#NONBINARY \njoined 14/7/26 (3rd acc\n\n████████████████████\nother acc\n@kuukiwfn\n@kuuki_official",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 17,
+                "start": 7,
+                "tag": "NONBINARY"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 84,
+                "start": 75,
+                "username": "kuukiwfn"
+              },
+              {
+                "end": 100,
+                "start": 85,
+                "username": "kuuki_official"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "is_identity_verified": true,
+        "location": "✟ インタネット ✟",
+        "most_recent_tweet_id": "2087606060878303590",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2076844122519019904",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2076841557802864640/1783992817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 733,
+          "following_count": 636,
+          "like_count": 10850,
+          "listed_count": 0,
+          "media_count": 461,
+          "tweet_count": 2213
+        },
+        "url": "",
+        "username": "kuukiwtf",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

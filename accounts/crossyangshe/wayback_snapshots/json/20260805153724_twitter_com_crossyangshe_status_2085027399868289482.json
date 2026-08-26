@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561806114274287616",
+    "conversation_id": "2084982871211585741",
+    "created_at": "2026-08-05T15:37:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T16:37:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085027399868289482"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2084973651229626368",
+          "start": 0,
+          "username": "Yuki132831"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085027399868289482",
+    "in_reply_to_user_id": "2084973651229626368",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084982871211585741",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yuki132831 互fo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 728,
+        "media_key": "3_2084982860721565696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO9Y3XgWMAARCXT.jpg",
+        "width": 991
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561806114274287616",
+        "conversation_id": "2084982871211585741",
+        "created_at": "2026-08-05T15:37:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T16:37:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085027399868289482"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2084973651229626368",
+              "start": 0,
+              "username": "Yuki132831"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085027399868289482",
+        "in_reply_to_user_id": "2084973651229626368",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084982871211585741",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yuki132831 互fo"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084982860721565696"
+          ]
+        },
+        "author_id": "2084973651229626368",
+        "conversation_id": "2084982871211585741",
+        "created_at": "2026-08-05T12:40:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T13:40:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084982871211585741"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TIh1Za0xk0",
+              "end": 107,
+              "expanded_url": "https://x.com/Yuki132831/status/2084982871211585741/photo/1",
+              "media_key": "3_2084982860721565696",
+              "start": 84,
+              "url": "https://t.co/TIh1Za0xk0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084982871211585741",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 822,
+          "like_count": 37,
+          "quote_count": 1,
+          "reply_count": 13,
+          "retweet_count": 25
+        },
+        "reply_settings": "everyone",
+        "text": "我是岐，账号全被邪恶msk击落😭\n我发誓这世再也不系度，老实当农民\n不闲麻烦的朋友可以请帮转帖，互fo抽20r\n3名朋友8.9日开奖\n打扰了，请帮转帖互fo魂归夕来😔 https://t.co/TIh1Za0xk0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-22T20:03:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Changsha, Hunan, China",
+              "geo": {
+                "coordinates": [
+                  112.97087,
+                  28.19874
+                ],
+                "type": "Point"
+              },
+              "locality": "Changsha",
+              "region": "Hunan"
+            }
+          ]
+        },
+        "description": "你們好呀，我是az！成分：重抑中焦/od/自傷/自殺念頭/infp-t/音遊/二游（不怎麼玩了）/端遊\n目前打算回归现实生活了，我真的希望陷入深渊的所有人都可以摆脱苦难，哪怕很难，但是我想试一下，要战胜逆流河，我多么无比渴望现实的美好，哪怕很难",
+        "id": "1561806114274287616",
+        "location": "長沙",
+        "name": "AZ.",
+        "pinned_tweet_id": "2084914582607511860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778090792390959104/-k1xKj1N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 603,
+          "following_count": 478,
+          "like_count": 4137,
+          "listed_count": 1,
+          "media_count": 141,
+          "tweet_count": 1065
+        },
+        "url": "",
+        "username": "crossyangshe",
+        "verified": false
+      },
+      {
+        "created_at": "2026-08-05T12:04:41.000Z",
+        "description": "早已逝去之人，早已宽恕之罪。\n前世  防炸回fo较慢，对不起，我已老实\n@Yuki312813_初号机雪图坠机\n@Yuki281331_二号机系度坠机\n@Yuki283113_四号机还没坠机",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 36,
+                "username": "Yuki312813_"
+              },
+              {
+                "end": 68,
+                "start": 56,
+                "username": "Yuki281331_"
+              },
+              {
+                "end": 88,
+                "start": 76,
+                "username": "Yuki283113_"
+              }
+            ]
+          }
+        },
+        "id": "2084973651229626368",
+        "location": "衫之宫区 北校 C栋楼顶",
+        "name": "岐哥，梦想吐了。3.0。",
+        "pinned_tweet_id": "2084982871211585741",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084984735097372672/LhDRHVRS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 50,
+          "like_count": 29,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 21
+        },
+        "url": "",
+        "username": "Yuki132831",
+        "verified": false
+      }
+    ]
+  }
+}

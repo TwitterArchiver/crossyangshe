@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561806114274287616",
+    "conversation_id": "2085355203231141990",
+    "created_at": "2026-08-06T13:19:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T14:19:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2085355203231141990"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Hemlock_114/st…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/Hemlock_114/status/2085348042065215651",
+          "start": 7,
+          "url": "https://t.co/q3RnGJ9jgi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085355203231141990",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085348042065215651",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "抱抱你😿😿😿 https://t.co/q3RnGJ9jgi"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561806114274287616",
+        "conversation_id": "2085355203231141990",
+        "created_at": "2026-08-06T13:19:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T14:19:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085355203231141990"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Hemlock_114/st…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/Hemlock_114/status/2085348042065215651",
+              "start": 7,
+              "url": "https://t.co/q3RnGJ9jgi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085355203231141990",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085348042065215651",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "抱抱你😿😿😿 https://t.co/q3RnGJ9jgi"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2069131894957191168",
+        "conversation_id": "2085348042065215651",
+        "created_at": "2026-08-06T12:51:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T13:51:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085348042065215651"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2085348042065215651",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我希望我爸妈明天可以突然出意外马上死掉 让我变成孤儿 然后我突然中100万六合彩 成功读完大学找到一个好工作安安稳稳自己过完这一生"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-22T20:03:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Changsha, Hunan, China",
+              "geo": {
+                "coordinates": [
+                  112.97087,
+                  28.19874
+                ],
+                "type": "Point"
+              },
+              "locality": "Changsha",
+              "region": "Hunan"
+            }
+          ]
+        },
+        "description": "你們好呀，我是az！成分：重抑中焦/od/自傷/自殺念頭/infp-t/音遊/二游（不怎麼玩了）/端遊\n目前打算回归现实生活了，我真的希望陷入深渊的所有人都可以摆脱苦难，哪怕很难，但是我想试一下，要战胜逆流河，我多么无比渴望现实的美好，哪怕很难",
+        "id": "1561806114274287616",
+        "location": "長沙",
+        "name": "AZ.",
+        "pinned_tweet_id": "2084914582607511860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778090792390959104/-k1xKj1N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 610,
+          "following_count": 531,
+          "like_count": 4327,
+          "listed_count": 1,
+          "media_count": 146,
+          "tweet_count": 1105
+        },
+        "url": "",
+        "username": "crossyangshe",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-22T18:56:04.000Z",
+        "description": "🇭🇰 10 单机透明人🍋\noder｜🩸｜碎碎念｜小作文\n前世@Hemlock_113 (´；ω；｀)\n害怕社交 社交恐惧 只互fo同类\n无门 不接线下 \n防走丢 @Hemlock_115",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 30,
+                "username": "Hemlock_113"
+              },
+              {
+                "end": 93,
+                "start": 81,
+                "username": "Hemlock_115"
+              }
+            ]
+          }
+        },
+        "id": "2069131894957191168",
+        "name": "凝檬_☆2.0",
+        "pinned_tweet_id": "2083964937383350440",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069134933218705408/DX0rO-YL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 437,
+          "following_count": 109,
+          "like_count": 274,
+          "listed_count": 2,
+          "media_count": 14,
+          "tweet_count": 409
+        },
+        "url": "",
+        "username": "Hemlock_114",
+        "verified": true
+      }
+    ]
+  }
+}

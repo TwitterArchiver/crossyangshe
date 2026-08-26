@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2085755992994910209",
+        "3_2085756214185721856"
+      ]
+    },
+    "author_id": "1561806114274287616",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2085756286474567959",
+    "created_at": "2026-08-07T15:53:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T16:53:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2085756286474567959"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/4D15bmG9NX",
+          "end": 57,
+          "expanded_url": "https://x.com/crossyangshe/status/2085756286474567959/photo/1",
+          "media_key": "3_2085755992994910209",
+          "start": 34,
+          "url": "https://t.co/4D15bmG9NX"
+        },
+        {
+          "display_url": "pic.x.com/4D15bmG9NX",
+          "end": 57,
+          "expanded_url": "https://x.com/crossyangshe/status/2085756286474567959/photo/1",
+          "media_key": "3_2085756214185721856",
+          "start": 34,
+          "url": "https://t.co/4D15bmG9NX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085756286474567959",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "配个药吃，1t扎来普隆+1t米安色林+1t喹硫平，药盒还没有到…… https://t.co/4D15bmG9NX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2085755992994910209",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPIYBlqakAEuSke.jpg",
+        "width": 1538
+      },
+      {
+        "height": 362,
+        "media_key": "3_2085756214185721856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPIYOdqagAAYTDT.jpg",
+        "width": 735
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085755992994910209",
+            "3_2085756214185721856"
+          ]
+        },
+        "author_id": "1561806114274287616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2085756286474567959",
+        "created_at": "2026-08-07T15:53:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T16:53:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085756286474567959"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4D15bmG9NX",
+              "end": 57,
+              "expanded_url": "https://x.com/crossyangshe/status/2085756286474567959/photo/1",
+              "media_key": "3_2085755992994910209",
+              "start": 34,
+              "url": "https://t.co/4D15bmG9NX"
+            },
+            {
+              "display_url": "pic.x.com/4D15bmG9NX",
+              "end": 57,
+              "expanded_url": "https://x.com/crossyangshe/status/2085756286474567959/photo/1",
+              "media_key": "3_2085756214185721856",
+              "start": 34,
+              "url": "https://t.co/4D15bmG9NX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085756286474567959",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "配个药吃，1t扎来普隆+1t米安色林+1t喹硫平，药盒还没有到…… https://t.co/4D15bmG9NX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-22T20:03:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Changsha, Hunan, China",
+              "geo": {
+                "coordinates": [
+                  112.97087,
+                  28.19874
+                ],
+                "type": "Point"
+              },
+              "locality": "Changsha",
+              "region": "Hunan"
+            }
+          ]
+        },
+        "description": "你們好呀，我是az！成分：重抑中焦/od/自傷/自殺念頭/infp-t/音遊/二游（不怎麼玩了）/端遊\n目前打算回归现实生活了，我真的希望陷入深渊的所有人都可以摆脱苦难，哪怕很难，但是我想试一下，要战胜逆流河，我多么无比渴望现实的美好，哪怕很难",
+        "id": "1561806114274287616",
+        "location": "長沙",
+        "name": "AZ.",
+        "pinned_tweet_id": "2084914582607511860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778090792390959104/-k1xKj1N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 619,
+          "following_count": 548,
+          "like_count": 4380,
+          "listed_count": 1,
+          "media_count": 151,
+          "tweet_count": 1122
+        },
+        "url": "",
+        "username": "crossyangshe",
+        "verified": false
+      }
+    ]
+  }
+}

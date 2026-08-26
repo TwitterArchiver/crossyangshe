@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561806114274287616",
+    "conversation_id": "2085365888426078563",
+    "created_at": "2026-08-07T12:51:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T13:51:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085710514798420072"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1902297181157257218",
+          "start": 0,
+          "username": "aoya_toboso_01"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085710514798420072",
+    "in_reply_to_user_id": "1902297181157257218",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085365888426078563",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aoya_toboso_01 az也在长沙"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3046,
+        "media_key": "3_2085364601223536641",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPC0DlsaYAEg2yY.jpg",
+        "width": 2396
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561806114274287616",
+        "conversation_id": "2085365888426078563",
+        "created_at": "2026-08-07T12:51:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T13:51:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085710514798420072"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1902297181157257218",
+              "start": 0,
+              "username": "aoya_toboso_01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085710514798420072",
+        "in_reply_to_user_id": "1902297181157257218",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085365888426078563",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aoya_toboso_01 az也在长沙"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085364601223536641"
+          ]
+        },
+        "author_id": "1902297181157257218",
+        "conversation_id": "2085365888426078563",
+        "created_at": "2026-08-06T14:02:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T15:02:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085365888426078563"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vVfzpiNg8a",
+              "end": 124,
+              "expanded_url": "https://x.com/aoya_toboso_01/status/2085365888426078563/photo/1",
+              "media_key": "3_2085364601223536641",
+              "start": 101,
+              "url": "https://t.co/vVfzpiNg8a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085365888426078563",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3859,
+          "like_count": 63,
+          "quote_count": 0,
+          "reply_count": 70,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我没嗑药也没发表过恨国言论，就算透露了学校应该问题不大吧？🤔\n\n湖南农大学生、县城人在长沙读书，乡音很重，你可能听不清。\n不约不割不嗑药不处对象，面基可以到处逛，送多余的补佳乐和芬吗通。\n\n仅限跨子。 https://t.co/vVfzpiNg8a"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-22T20:03:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Changsha, Hunan, China",
+              "geo": {
+                "coordinates": [
+                  112.97087,
+                  28.19874
+                ],
+                "type": "Point"
+              },
+              "locality": "Changsha",
+              "region": "Hunan"
+            }
+          ]
+        },
+        "description": "你們好呀，我是az！成分：重抑中焦/od/自傷/自殺念頭/infp-t/音遊/二游（不怎麼玩了）/端遊\n目前打算回归现实生活了，我真的希望陷入深渊的所有人都可以摆脱苦难，哪怕很难，但是我想试一下，要战胜逆流河，我多么无比渴望现实的美好，哪怕很难",
+        "id": "1561806114274287616",
+        "location": "長沙",
+        "name": "AZ.",
+        "pinned_tweet_id": "2084914582607511860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778090792390959104/-k1xKj1N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 619,
+          "following_count": 547,
+          "like_count": 4376,
+          "listed_count": 1,
+          "media_count": 149,
+          "tweet_count": 1121
+        },
+        "url": "",
+        "username": "crossyangshe",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-19T09:52:52.000Z",
+        "description": "都来喜欢葵矢枢",
+        "id": "1902297181157257218",
+        "location": "长沙",
+        "name": "葵矢枢",
+        "pinned_tweet_id": "2082334556414218461",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987808395265757184/o24pdc04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1961,
+          "following_count": 73,
+          "like_count": 12312,
+          "listed_count": 4,
+          "media_count": 87,
+          "tweet_count": 1018
+        },
+        "url": "",
+        "username": "aoya_toboso_01",
+        "verified": false
+      }
+    ]
+  }
+}

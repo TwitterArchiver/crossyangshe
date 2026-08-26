@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2085715594708684800",
+        "3_2085715594725511168",
+        "3_2085715594675142656",
+        "3_2085715594691878912"
+      ]
+    },
+    "author_id": "1561806114274287616",
+    "conversation_id": "2085715614493200572",
+    "created_at": "2026-08-07T13:12:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T14:12:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2085715614493200572"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 20,
+          "id": "2044793518267453440",
+          "start": 12,
+          "username": "lxxe11_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/bU2qtoHPCO",
+          "end": 133,
+          "expanded_url": "https://x.com/crossyangshe/status/2085715614493200572/photo/1",
+          "media_key": "3_2085715594708684800",
+          "start": 110,
+          "url": "https://t.co/bU2qtoHPCO"
+        },
+        {
+          "display_url": "pic.x.com/bU2qtoHPCO",
+          "end": 133,
+          "expanded_url": "https://x.com/crossyangshe/status/2085715614493200572/photo/1",
+          "media_key": "3_2085715594725511168",
+          "start": 110,
+          "url": "https://t.co/bU2qtoHPCO"
+        },
+        {
+          "display_url": "pic.x.com/bU2qtoHPCO",
+          "end": 133,
+          "expanded_url": "https://x.com/crossyangshe/status/2085715614493200572/photo/1",
+          "media_key": "3_2085715594675142656",
+          "start": 110,
+          "url": "https://t.co/bU2qtoHPCO"
+        },
+        {
+          "display_url": "pic.x.com/bU2qtoHPCO",
+          "end": 133,
+          "expanded_url": "https://x.com/crossyangshe/status/2085715614493200572/photo/1",
+          "media_key": "3_2085715594691878912",
+          "start": 110,
+          "url": "https://t.co/bU2qtoHPCO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085715614493200572",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "给大家分享我的日本朋友 @lxxe11_ \n她人真的很好，认识很久了有经常一起聊天，另外az被幽灵禁令了，大家看不见az的回复留言，帖子也没有流量，我打算试着48-72小时不使用推特，期间不点赞留言发帖，实在不好意思了 https://t.co/bU2qtoHPCO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2085715594708684800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPHzSGUakAAhQc5.jpg",
+        "width": 922
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2085715594725511168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPHzSGYbUAARx4t.jpg",
+        "width": 922
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2085715594675142656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPHzSGMawAATr-a.jpg",
+        "width": 922
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2085715594691878912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPHzSGQaIAAgaii.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085715594708684800",
+            "3_2085715594725511168",
+            "3_2085715594675142656",
+            "3_2085715594691878912"
+          ]
+        },
+        "author_id": "1561806114274287616",
+        "conversation_id": "2085715614493200572",
+        "created_at": "2026-08-07T13:12:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T14:12:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085715614493200572"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 20,
+              "id": "2044793518267453440",
+              "start": 12,
+              "username": "lxxe11_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bU2qtoHPCO",
+              "end": 133,
+              "expanded_url": "https://x.com/crossyangshe/status/2085715614493200572/photo/1",
+              "media_key": "3_2085715594708684800",
+              "start": 110,
+              "url": "https://t.co/bU2qtoHPCO"
+            },
+            {
+              "display_url": "pic.x.com/bU2qtoHPCO",
+              "end": 133,
+              "expanded_url": "https://x.com/crossyangshe/status/2085715614493200572/photo/1",
+              "media_key": "3_2085715594725511168",
+              "start": 110,
+              "url": "https://t.co/bU2qtoHPCO"
+            },
+            {
+              "display_url": "pic.x.com/bU2qtoHPCO",
+              "end": 133,
+              "expanded_url": "https://x.com/crossyangshe/status/2085715614493200572/photo/1",
+              "media_key": "3_2085715594675142656",
+              "start": 110,
+              "url": "https://t.co/bU2qtoHPCO"
+            },
+            {
+              "display_url": "pic.x.com/bU2qtoHPCO",
+              "end": 133,
+              "expanded_url": "https://x.com/crossyangshe/status/2085715614493200572/photo/1",
+              "media_key": "3_2085715594691878912",
+              "start": 110,
+              "url": "https://t.co/bU2qtoHPCO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085715614493200572",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "给大家分享我的日本朋友 @lxxe11_ \n她人真的很好，认识很久了有经常一起聊天，另外az被幽灵禁令了，大家看不见az的回复留言，帖子也没有流量，我打算试着48-72小时不使用推特，期间不点赞留言发帖，实在不好意思了 https://t.co/bU2qtoHPCO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-22T20:03:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Changsha, Hunan, China",
+              "geo": {
+                "coordinates": [
+                  112.97087,
+                  28.19874
+                ],
+                "type": "Point"
+              },
+              "locality": "Changsha",
+              "region": "Hunan"
+            }
+          ]
+        },
+        "description": "你們好呀，我是az！成分：重抑中焦/od/自傷/自殺念頭/infp-t/音遊/二游（不怎麼玩了）/端遊\n目前打算回归现实生活了，我真的希望陷入深渊的所有人都可以摆脱苦难，哪怕很难，但是我想试一下，要战胜逆流河，我多么无比渴望现实的美好，哪怕很难",
+        "id": "1561806114274287616",
+        "location": "長沙",
+        "name": "AZ.",
+        "pinned_tweet_id": "2084914582607511860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778090792390959104/-k1xKj1N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 619,
+          "following_count": 548,
+          "like_count": 4381,
+          "listed_count": 1,
+          "media_count": 150,
+          "tweet_count": 1121
+        },
+        "url": "",
+        "username": "crossyangshe",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-16T15:02:20.000Z",
+        "description": "05🚺｜双極性障害疑い｜精神科通院中｜ASDグレー｜中退2回｜高卒認定持ち中卒｜通信制大学生｜フォロワー相互初手呼びタメ🙆‍♀️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lxxe11.hatenablog.com",
+                "end": 23,
+                "expanded_url": "https://lxxe11.hatenablog.com/",
+                "start": 0,
+                "url": "https://t.co/I6Trdw9tL0"
+              }
+            ]
+          }
+        },
+        "id": "2044793518267453440",
+        "location": "質問など中身のある会話ならDM可",
+        "name": "茅野",
+        "pinned_tweet_id": "2056751048132603989",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064738641780559872/6Kc-kQEj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 36,
+          "like_count": 336,
+          "listed_count": 1,
+          "media_count": 27,
+          "tweet_count": 2038
+        },
+        "url": "https://t.co/I6Trdw9tL0",
+        "username": "lxxe11_",
+        "verified": false
+      }
+    ]
+  }
+}

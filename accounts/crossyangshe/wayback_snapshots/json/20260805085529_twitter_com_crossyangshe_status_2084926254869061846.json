@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2084926246153334784"
+      ]
+    },
+    "author_id": "1561806114274287616",
+    "conversation_id": "2084914582607511860",
+    "created_at": "2026-08-05T08:55:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T09:55:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084926254869061846"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/nSUAY3Hz1m",
+          "end": 37,
+          "expanded_url": "https://x.com/crossyangshe/status/2084926254869061846/photo/1",
+          "media_key": "3_2084926246153334784",
+          "start": 14,
+          "url": "https://t.co/nSUAY3Hz1m"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084926254869061846",
+    "in_reply_to_user_id": "1561806114274287616",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084919895792538014",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "q群；1053339675 https://t.co/nSUAY3Hz1m"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2400,
+        "media_key": "3_2084926246153334784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO8lX9zbsAAeRDF.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084926246153334784"
+          ]
+        },
+        "author_id": "1561806114274287616",
+        "conversation_id": "2084914582607511860",
+        "created_at": "2026-08-05T08:55:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T09:55:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084926254869061846"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nSUAY3Hz1m",
+              "end": 37,
+              "expanded_url": "https://x.com/crossyangshe/status/2084926254869061846/photo/1",
+              "media_key": "3_2084926246153334784",
+              "start": 14,
+              "url": "https://t.co/nSUAY3Hz1m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084926254869061846",
+        "in_reply_to_user_id": "1561806114274287616",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084919895792538014",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "q群；1053339675 https://t.co/nSUAY3Hz1m"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561806114274287616",
+        "conversation_id": "2084914582607511860",
+        "created_at": "2026-08-05T08:30:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T09:30:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084919895792538014"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2084919895792538014",
+        "in_reply_to_user_id": "1561806114274287616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084917961735970906",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我以前就有严重的yaowulanyong史，没想到再一次打开了潘多拉魔盒，我不清楚我在干什么"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-22T20:03:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Changsha, Hunan, China",
+              "geo": {
+                "coordinates": [
+                  112.97087,
+                  28.19874
+                ],
+                "type": "Point"
+              },
+              "locality": "Changsha",
+              "region": "Hunan"
+            }
+          ]
+        },
+        "description": "你們好呀，我是az！成分：重抑中焦/od/自傷/自殺念頭/infp-t/音遊/二游（不怎麼玩了）/端遊\n目前打算回归现实生活了，我真的希望陷入深渊的所有人都可以摆脱苦难，哪怕很难，但是我想试一下，要战胜逆流河，我多么无比渴望现实的美好，哪怕很难",
+        "id": "1561806114274287616",
+        "location": "長沙",
+        "name": "AZ.",
+        "pinned_tweet_id": "2084914582607511860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778090792390959104/-k1xKj1N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 601,
+          "following_count": 473,
+          "like_count": 4120,
+          "listed_count": 1,
+          "media_count": 141,
+          "tweet_count": 1058
+        },
+        "url": "",
+        "username": "crossyangshe",
+        "verified": false
+      }
+    ]
+  }
+}

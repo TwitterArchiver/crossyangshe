@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561806114274287616",
+    "conversation_id": "2090148654510407829",
+    "created_at": "2026-08-19T19:02:43.000Z",
+    "display_text_range": [
+      17,
+      156
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T20:02:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090152499114307695"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1732763258325762048",
+          "start": 0,
+          "username": "AmeAsukaLangley"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090152499114307695",
+    "in_reply_to_user_id": "1732763258325762048",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090148654510407829",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AmeAsukaLangley 游戏嘛玩的开心就好了呀，AZ的phigros也才12出头，但是AZ玩的很开心，这个游戏是单机游戏呀，反倒是以前能天天打游戏的过去回不去了……玩游戏最好不要混圈子，找个不压力人的朋友一起玩是最开心的，然后就是自己玩的话就把队友屏蔽就可以了呀，玩单机自己摸索的过程往往也是很开心的！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2090148645182316544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQGzHmPbIAAbtrU.jpg",
+        "width": 494
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561806114274287616",
+        "conversation_id": "2090148654510407829",
+        "created_at": "2026-08-19T19:02:43.000Z",
+        "display_text_range": [
+          17,
+          156
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T20:02:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090152499114307695"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1732763258325762048",
+              "start": 0,
+              "username": "AmeAsukaLangley"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090152499114307695",
+        "in_reply_to_user_id": "1732763258325762048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090148654510407829",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AmeAsukaLangley 游戏嘛玩的开心就好了呀，AZ的phigros也才12出头，但是AZ玩的很开心，这个游戏是单机游戏呀，反倒是以前能天天打游戏的过去回不去了……玩游戏最好不要混圈子，找个不压力人的朋友一起玩是最开心的，然后就是自己玩的话就把队友屏蔽就可以了呀，玩单机自己摸索的过程往往也是很开心的！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090148645182316544"
+          ]
+        },
+        "author_id": "1732763258325762048",
+        "conversation_id": "2090148654510407829",
+        "created_at": "2026-08-19T18:47:26.000Z",
+        "display_text_range": [
+          0,
+          132
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T19:47:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090148654510407829"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5H0YzPM3j0",
+              "end": 156,
+              "expanded_url": "https://x.com/AmeAsukaLangley/status/2090148654510407829/photo/1",
+              "media_key": "3_2090148645182316544",
+              "start": 133,
+              "url": "https://t.co/5H0YzPM3j0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090148654510407829",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090148645182316544"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不是说好的好好学习努努力就可以上本科了，那我的本科呢，不是说菜就多练就可以提高游戏水平吗，那我的游戏水平呢，一堆phigros的rks都十五十六的说自己好菜一堆kd一点几二点几的说自己玩的不好，我请问了，不好在哪，卖弱凡尔赛的跟踩头有什么区别，去死去死去死去死去死 https://t.co/5H0YzPM3j0"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-08-22T20:03:01.000Z",
+        "description": "你們好呀，我是az！成分：重抑中焦/od/自傷/自殺念頭/infp-t/音遊/二游（不怎麼玩了）/端遊\n目前打算回归现实生活了，我真的希望陷入深渊的所有人都可以摆脱苦难，哪怕很难，但是我想试一下，要战胜逆流河，我多么无比渴望现实的美好，哪怕很难",
+        "id": "1561806114274287616",
+        "is_identity_verified": false,
+        "location": "長沙",
+        "most_recent_tweet_id": "2090152499114307695",
+        "name": "AZ.",
+        "pinned_tweet_id": "2085780050759328158",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1561806114274287616/1786474392",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778090792390959104/-k1xKj1N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 638,
+          "following_count": 572,
+          "like_count": 5218,
+          "listed_count": 2,
+          "media_count": 173,
+          "tweet_count": 1273
+        },
+        "url": "",
+        "username": "crossyangshe",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-12-07T14:05:39.000Z",
+        "description": "应是那永恒的未许之地。\n不是所有同类都互fo看主页有没有喜欢的内容\n欢迎匿名提问↓↓↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/raincandyu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/raincandyu",
+                "start": 0,
+                "url": "https://t.co/tFlSitQsZ3"
+              }
+            ]
+          }
+        },
+        "id": "1732763258325762048",
+        "is_identity_verified": false,
+        "location": "玉川上水",
+        "most_recent_tweet_id": "2090148654510407829",
+        "name": "fmPf1KVp6",
+        "pinned_tweet_id": "2084320725029023983",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1732763258325762048/1778511915",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082239509287350272/OMgYwrUM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 536,
+          "following_count": 381,
+          "like_count": 32580,
+          "listed_count": 0,
+          "media_count": 151,
+          "tweet_count": 2925
+        },
+        "url": "https://t.co/tFlSitQsZ3",
+        "username": "AmeAsukaLangley",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

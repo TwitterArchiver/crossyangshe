@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561806114274287616",
+    "conversation_id": "2085333775182106962",
+    "created_at": "2026-08-06T11:54:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T12:54:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2085333775182106962"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/aberyoheiskm/s…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/aberyoheiskm/status/2085313315505627193",
+          "start": 6,
+          "url": "https://t.co/qiHYZbYL79"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085333775182106962",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085313315505627193",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "求药盒链接 https://t.co/qiHYZbYL79"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3075,
+        "media_key": "3_2085313296144732160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPCFZPYbEAAaiEK.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561806114274287616",
+        "conversation_id": "2085333775182106962",
+        "created_at": "2026-08-06T11:54:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T12:54:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085333775182106962"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/aberyoheiskm/s…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/aberyoheiskm/status/2085313315505627193",
+              "start": 6,
+              "url": "https://t.co/qiHYZbYL79"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085333775182106962",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085313315505627193",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "求药盒链接 https://t.co/qiHYZbYL79"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085313296144732160"
+          ]
+        },
+        "author_id": "1804875241367433216",
+        "conversation_id": "2085313315505627193",
+        "created_at": "2026-08-06T10:33:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T11:33:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085313315505627193"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AaJ0GcYpbF",
+              "end": 103,
+              "expanded_url": "https://x.com/aberyoheiskm/status/2085313315505627193/photo/1",
+              "media_key": "3_2085313296144732160",
+              "start": 80,
+              "url": "https://t.co/AaJ0GcYpbF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085313315505627193",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 124,
+          "like_count": 13,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "用大家给的钱买了新的药盒喵！\n之前的药盒总是盖不紧药都会撒一口袋\n这下不用担心药会撒出来了……\n         𓂋\n꒰ঌ៸៸᳐&gt;⩊&lt;៸៸᳐໒꒱🩵 https://t.co/AaJ0GcYpbF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-22T20:03:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Changsha, Hunan, China",
+              "geo": {
+                "coordinates": [
+                  112.97087,
+                  28.19874
+                ],
+                "type": "Point"
+              },
+              "locality": "Changsha",
+              "region": "Hunan"
+            }
+          ]
+        },
+        "description": "你們好呀，我是az！成分：重抑中焦/od/自傷/自殺念頭/infp-t/音遊/二游（不怎麼玩了）/端遊\n目前打算回归现实生活了，我真的希望陷入深渊的所有人都可以摆脱苦难，哪怕很难，但是我想试一下，要战胜逆流河，我多么无比渴望现实的美好，哪怕很难",
+        "id": "1561806114274287616",
+        "location": "長沙",
+        "name": "AZ.",
+        "pinned_tweet_id": "2084914582607511860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778090792390959104/-k1xKj1N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 610,
+          "following_count": 531,
+          "like_count": 4318,
+          "listed_count": 1,
+          "media_count": 146,
+          "tweet_count": 1101
+        },
+        "url": "",
+        "username": "crossyangshe",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-23T13:53:01.000Z",
+        "description": "⊹ 𝚜𝚞𝚣𝚞𝚖𝚎 ⊹ サブ垢：@aberyoheiabe⌇𝟢𝟧⌇天使/水色界隈 🫧\nメンヘラ  ✟  依存症  ✟  〇Ð ✟ お掃除 💉\n​*⑅୨୧  無言フォローでお迎え​  ୨୧⑅* \n仲良くしてくれる子 DM待ってます💤\n​他担・他界隈様◎同担◎( 恋愛不可 🆖)看成分互fo↓来玩提问箱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 15,
+                "username": "aberyoheiabe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aberyoheiskm",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aberyoheiskm",
+                "start": 0,
+                "url": "https://t.co/gj0HdlxzyS"
+              }
+            ]
+          }
+        },
+        "id": "1804875241367433216",
+        "location": "キラキラな世界ʚ✞ɞ ",
+        "name": "⊹すずめ⊹🩵",
+        "pinned_tweet_id": "2040494384823874007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040630139747553280/HymSNJZ__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 592,
+          "following_count": 532,
+          "like_count": 6843,
+          "listed_count": 2,
+          "media_count": 411,
+          "tweet_count": 4020
+        },
+        "url": "https://t.co/gj0HdlxzyS",
+        "username": "aberyoheiskm",
+        "verified": false
+      }
+    ]
+  }
+}
