@@ -1,0 +1,112 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561806114274287616",
+    "conversation_id": "2085111116628361371",
+    "created_at": "2026-08-05T21:10:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T22:10:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2085111116628361371"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2085111116628361371",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "不知道怎么办，彻夜的失眠，白天的麻木感和乏力感，对什么事都不感兴趣，恶心的戒断反应，无法控制的瘾。\n我做过的事，一次一次的还给了我，我是个罪人，自己最大的罪人，我有罪，我不知道该怎么办。我都不知道az是谁？这是幻想还是真实，好迷茫。\n善恶终有报，天道好轮回，不信抬头看，苍天饶过谁。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561806114274287616",
+        "conversation_id": "2085111116628361371",
+        "created_at": "2026-08-05T21:10:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T22:10:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085111116628361371"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2085111116628361371",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不知道怎么办，彻夜的失眠，白天的麻木感和乏力感，对什么事都不感兴趣，恶心的戒断反应，无法控制的瘾。\n我做过的事，一次一次的还给了我，我是个罪人，自己最大的罪人，我有罪，我不知道该怎么办。我都不知道az是谁？这是幻想还是真实，好迷茫。\n善恶终有报，天道好轮回，不信抬头看，苍天饶过谁。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-22T20:03:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Changsha, Hunan, China",
+              "geo": {
+                "coordinates": [
+                  112.97087,
+                  28.19874
+                ],
+                "type": "Point"
+              },
+              "locality": "Changsha",
+              "region": "Hunan"
+            }
+          ]
+        },
+        "description": "你們好呀，我是az！成分：重抑中焦/od/自傷/自殺念頭/infp-t/音遊/二游（不怎麼玩了）/端遊\n目前打算回归现实生活了，我真的希望陷入深渊的所有人都可以摆脱苦难，哪怕很难，但是我想试一下，要战胜逆流河，我多么无比渴望现实的美好，哪怕很难",
+        "id": "1561806114274287616",
+        "location": "長沙",
+        "name": "AZ.",
+        "pinned_tweet_id": "2084914582607511860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778090792390959104/-k1xKj1N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 603,
+          "following_count": 517,
+          "like_count": 4268,
+          "listed_count": 1,
+          "media_count": 145,
+          "tweet_count": 1090
+        },
+        "url": "",
+        "username": "crossyangshe",
+        "verified": false
+      }
+    ]
+  }
+}

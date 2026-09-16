@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561806114274287616",
+    "conversation_id": "2085081496915005582",
+    "created_at": "2026-08-05T19:12:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T20:12:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2085081496915005582"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Iove4k/status/…",
+          "end": 155,
+          "expanded_url": "https://twitter.com/Iove4k/status/2073074525454115195",
+          "start": 132,
+          "url": "https://t.co/JnEfF6JCRI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085081496915005582",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073074525454115195",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "小时候，家人总是教导我要成为一个好人，成为一个对社会有用的人。可是我的人生已经被毁掉了。除了哭 发脾气 自残 嗑药 呕吐和疼痛以外，还有其他东西吗？\n毕业之前我还是学生 至少还可以假装学习 可是现在我不知道要做什么。我没有未来了。阳光明媚，正是结束生命的好时光。 https://t.co/JnEfF6JCRI"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561806114274287616",
+        "conversation_id": "2085081496915005582",
+        "created_at": "2026-08-05T19:12:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T20:12:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085081496915005582"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Iove4k/status/…",
+              "end": 155,
+              "expanded_url": "https://twitter.com/Iove4k/status/2073074525454115195",
+              "start": 132,
+              "url": "https://t.co/JnEfF6JCRI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085081496915005582",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073074525454115195",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "小时候，家人总是教导我要成为一个好人，成为一个对社会有用的人。可是我的人生已经被毁掉了。除了哭 发脾气 自残 嗑药 呕吐和疼痛以外，还有其他东西吗？\n毕业之前我还是学生 至少还可以假装学习 可是现在我不知道要做什么。我没有未来了。阳光明媚，正是结束生命的好时光。 https://t.co/JnEfF6JCRI"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1594584034809589761",
+        "conversation_id": "2073074525454115195",
+        "created_at": "2026-07-03T16:00:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T17:00:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073074525454115195"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2073074525454115195",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1346,
+          "like_count": 8,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "小时候，家人总是教导我要成为一个好人，成为一个对社会有用的人。可是我的人生已经被毁掉了。除了哭 发脾气 自残 嗑药 呕吐和疼痛以外，还有其他东西吗？\n毕业之前我还是学生 至少还可以假装学习 可是现在我不知道要做什么。我没有未来了。阳光明媚，正是结束生命的好时光。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-22T20:03:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Changsha, Hunan, China",
+              "geo": {
+                "coordinates": [
+                  112.97087,
+                  28.19874
+                ],
+                "type": "Point"
+              },
+              "locality": "Changsha",
+              "region": "Hunan"
+            }
+          ]
+        },
+        "description": "你們好呀，我是az！成分：重抑中焦/od/自傷/自殺念頭/infp-t/音遊/二游（不怎麼玩了）/端遊\n目前打算回归现实生活了，我真的希望陷入深渊的所有人都可以摆脱苦难，哪怕很难，但是我想试一下，要战胜逆流河，我多么无比渴望现实的美好，哪怕很难",
+        "id": "1561806114274287616",
+        "location": "長沙",
+        "name": "AZ.",
+        "pinned_tweet_id": "2084914582607511860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778090792390959104/-k1xKj1N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 604,
+          "following_count": 488,
+          "like_count": 4212,
+          "listed_count": 1,
+          "media_count": 145,
+          "tweet_count": 1086
+        },
+        "url": "",
+        "username": "crossyangshe",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-21T06:50:35.000Z",
+        "description": "🌻^^🌻",
+        "id": "1594584034809589761",
+        "name": "风见幽香",
+        "pinned_tweet_id": "1968573157469487410",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968572629620817920/wVT5Wt6h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2045,
+          "following_count": 815,
+          "like_count": 14753,
+          "listed_count": 4,
+          "media_count": 7,
+          "tweet_count": 2286
+        },
+        "url": "",
+        "username": "Iove4k",
+        "verified": false
+      }
+    ]
+  }
+}

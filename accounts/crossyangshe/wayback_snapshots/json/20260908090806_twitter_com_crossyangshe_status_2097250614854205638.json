@@ -1,0 +1,359 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2097065134074335232"
+      ],
+      "media_source_tweet_id": [
+        "2097065139031986630"
+      ]
+    },
+    "author_id": "1561806114274287616",
+    "conversation_id": "2097250614854205638",
+    "created_at": "2026-09-08T09:08:06.000Z",
+    "display_text_range": [
+      0,
+      123
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-08T10:08:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097250614854205638"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 24,
+          "start": 13,
+          "tag": "闘病垢自己紹介カード"
+        },
+        {
+          "end": 37,
+          "start": 25,
+          "tag": "闘病垢さんと繋がりたい"
+        },
+        {
+          "end": 53,
+          "start": 38,
+          "tag": "精神疾患を持つ人と繋がりたい"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2044793518267453440",
+          "start": 3,
+          "username": "lxxe11_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Aqj5Afs3Ir",
+          "end": 123,
+          "expanded_url": "https://x.com/lxxe11_/status/2097065139031986630/photo/1",
+          "media_key": "3_2097065134074335232",
+          "start": 100,
+          "url": "https://t.co/Aqj5Afs3Ir"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097250614854205638",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2097065134074335232"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097065139031986630",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lxxe11_: #闘病垢自己紹介カード\n#闘病垢さんと繋がりたい\n#精神疾患を持つ人と繋がりたい\n歳をとったので更新\n♡でお迎え　挨拶不要\nゆるく仲良くしてくれる人と繋がれたら嬉しいです。 https://t.co/Aqj5Afs3Ir"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1500,
+        "media_key": "3_2097065134074335232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRpFoPNbkAA_4UO.jpg",
+        "width": 2100
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097065134074335232"
+          ],
+          "media_source_tweet_id": [
+            "2097065139031986630"
+          ]
+        },
+        "author_id": "1561806114274287616",
+        "conversation_id": "2097250614854205638",
+        "created_at": "2026-09-08T09:08:06.000Z",
+        "display_text_range": [
+          0,
+          123
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T10:08:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097250614854205638"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 24,
+              "start": 13,
+              "tag": "闘病垢自己紹介カード"
+            },
+            {
+              "end": 37,
+              "start": 25,
+              "tag": "闘病垢さんと繋がりたい"
+            },
+            {
+              "end": 53,
+              "start": 38,
+              "tag": "精神疾患を持つ人と繋がりたい"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2044793518267453440",
+              "start": 3,
+              "username": "lxxe11_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Aqj5Afs3Ir",
+              "end": 123,
+              "expanded_url": "https://x.com/lxxe11_/status/2097065139031986630/photo/1",
+              "media_key": "3_2097065134074335232",
+              "start": 100,
+              "url": "https://t.co/Aqj5Afs3Ir"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097250614854205638",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2097065134074335232"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097065139031986630",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lxxe11_: #闘病垢自己紹介カード\n#闘病垢さんと繋がりたい\n#精神疾患を持つ人と繋がりたい\n歳をとったので更新\n♡でお迎え　挨拶不要\nゆるく仲良くしてくれる人と繋がれたら嬉しいです。 https://t.co/Aqj5Afs3Ir"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097065134074335232"
+          ]
+        },
+        "author_id": "2044793518267453440",
+        "conversation_id": "2097065139031986630",
+        "created_at": "2026-09-07T20:51:05.000Z",
+        "display_text_range": [
+          0,
+          86
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T21:51:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097065139031986630"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 11,
+              "start": 0,
+              "tag": "闘病垢自己紹介カード"
+            },
+            {
+              "end": 24,
+              "start": 12,
+              "tag": "闘病垢さんと繋がりたい"
+            },
+            {
+              "end": 40,
+              "start": 25,
+              "tag": "精神疾患を持つ人と繋がりたい"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Aqj5Afs3Ir",
+              "end": 110,
+              "expanded_url": "https://x.com/lxxe11_/status/2097065139031986630/photo/1",
+              "media_key": "3_2097065134074335232",
+              "start": 87,
+              "url": "https://t.co/Aqj5Afs3Ir"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097065139031986630",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2097065134074335232"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1167,
+          "like_count": 102,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "#闘病垢自己紹介カード\n#闘病垢さんと繋がりたい\n#精神疾患を持つ人と繋がりたい\n歳をとったので更新\n♡でお迎え　挨拶不要\nゆるく仲良くしてくれる人と繋がれたら嬉しいです。 https://t.co/Aqj5Afs3Ir"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-08-22T20:03:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Changsha, Hunan, China",
+              "geo": {
+                "coordinates": [
+                  112.97087,
+                  28.19874
+                ],
+                "type": "Point"
+              },
+              "locality": "Changsha",
+              "region": "Hunan"
+            }
+          ]
+        },
+        "description": "你們好呀，我是az！成分：重抑中焦/od/自傷/自殺念頭/infp-t/音遊/二游（不怎麼玩了）/端遊/最喜欢的作家是太宰治\n目前打算回归现实生活了，我真的希望陷入深渊的所有人都可以摆脱苦难，哪怕很难，但是我想试一下，要战胜逆流河，我多么无比渴望现实的美好，哪怕很难",
+        "id": "1561806114274287616",
+        "is_identity_verified": false,
+        "location": "長沙",
+        "most_recent_tweet_id": "2097250614854205638",
+        "name": "AZ.",
+        "pinned_tweet_id": "2085780050759328158",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1561806114274287616/1786474392",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778090792390959104/-k1xKj1N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 724,
+          "following_count": 623,
+          "like_count": 6390,
+          "listed_count": 2,
+          "media_count": 215,
+          "tweet_count": 1543
+        },
+        "url": "",
+        "username": "crossyangshe",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-16T15:02:20.000Z",
+        "description": "05🚺｜双極性障害疑い｜ASDグレー｜精神科通院中｜中退2回｜高卒認定持ち中卒｜通信制大学生｜フォロワー相互初手呼びタメ🙆‍♀️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lxxe11.hatenablog.com",
+                "end": 23,
+                "expanded_url": "https://lxxe11.hatenablog.com/",
+                "start": 0,
+                "url": "https://t.co/I6Trdw9tL0"
+              }
+            ]
+          }
+        },
+        "id": "2044793518267453440",
+        "is_identity_verified": false,
+        "location": "質問など中身のある会話ならDM可",
+        "most_recent_tweet_id": "2097236220304891956",
+        "name": "茅野",
+        "pinned_tweet_id": "2097065139031986630",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2044793518267453440/1777101938",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064738641780559872/6Kc-kQEj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106,
+          "following_count": 37,
+          "like_count": 364,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 2462
+        },
+        "url": "https://t.co/I6Trdw9tL0",
+        "username": "lxxe11_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

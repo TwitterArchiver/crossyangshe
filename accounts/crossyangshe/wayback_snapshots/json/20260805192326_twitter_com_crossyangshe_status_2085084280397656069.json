@@ -1,0 +1,181 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561806114274287616",
+    "conversation_id": "2084037212845580776",
+    "created_at": "2026-08-05T19:23:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T20:23:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085084280397656069"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1839881314155278340",
+          "start": 0,
+          "username": "nei_hua7675"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085084280397656069",
+    "in_reply_to_user_id": "1839881314155278340",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084037212845580776",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nei_hua7675 不是的，生病的人是很难感受到自己是有病的，我有无数次觉得自己没有病，但是如果仅仅看事实来说我以前做的事可以用疯狂来形容，而且在朋友的角度来看我似乎病得很严重"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561806114274287616",
+        "conversation_id": "2084037212845580776",
+        "created_at": "2026-08-05T19:23:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T20:23:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085084280397656069"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1839881314155278340",
+              "start": 0,
+              "username": "nei_hua7675"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085084280397656069",
+        "in_reply_to_user_id": "1839881314155278340",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084037212845580776",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nei_hua7675 不是的，生病的人是很难感受到自己是有病的，我有无数次觉得自己没有病，但是如果仅仅看事实来说我以前做的事可以用疯狂来形容，而且在朋友的角度来看我似乎病得很严重"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839881314155278340",
+        "conversation_id": "2084037212845580776",
+        "created_at": "2026-08-02T22:02:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T23:02:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084037212845580776"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2084037212845580776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 2735,
+          "like_count": 46,
+          "quote_count": 1,
+          "reply_count": 20,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我难道是健全b吗...？每天看到其他人在展示痛苦诉说痛苦，以及折磨自己，常常会想我到底是不是真的有病，我的病是假的吗？可是我有医生的诊断，有定期复查，去吃药。也偶尔会情绪崩坏一会儿，但是要生活，所以不能自伤，要去工作，成年人不可以有瑕疵。看到别人宣泄我其实是嫉妒的。我是很糟糕的健全b"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-22T20:03:01.000Z",
+        "description": "你們好呀，我是az！成分：重抑中焦/od/自傷/自殺念頭/infp-t/音遊/二游（不怎麼玩了）/端遊\n目前打算回归现实生活了，我真的希望陷入深渊的所有人都可以摆脱苦难，哪怕很难，但是我想试一下，要战胜逆流河，我多么无比渴望现实的美好，哪怕很难",
+        "id": "1561806114274287616",
+        "location": "長沙",
+        "name": "AZ.",
+        "pinned_tweet_id": "2084914582607511860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778090792390959104/-k1xKj1N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 604,
+          "following_count": 500,
+          "like_count": 4231,
+          "listed_count": 1,
+          "media_count": 145,
+          "tweet_count": 1088
+        },
+        "url": "",
+        "username": "crossyangshe",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-28T04:14:54.000Z",
+        "description": "୨୧ .*･ﾟ 痛み止め依存症 │DM 〇 │ 空气系界隈│我想变成地瓜🍠│ ﾟ･*.ೀ",
+        "id": "1839881314155278340",
+        "location": "無の中",
+        "name": "もちもちもち",
+        "pinned_tweet_id": "1984257066735919499",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984240985078153217/pIJESQg7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 47,
+          "like_count": 44,
+          "listed_count": 1,
+          "media_count": 38,
+          "tweet_count": 460
+        },
+        "url": "",
+        "username": "nei_hua7675",
+        "verified": false
+      }
+    ]
+  }
+}

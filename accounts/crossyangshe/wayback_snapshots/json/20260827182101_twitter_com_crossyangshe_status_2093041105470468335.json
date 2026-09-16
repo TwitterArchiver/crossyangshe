@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2093040102440423424",
+        "3_2093040102436192257"
+      ]
+    },
+    "author_id": "1561806114274287616",
+    "conversation_id": "2093041105470468335",
+    "created_at": "2026-08-27T18:21:01.000Z",
+    "display_text_range": [
+      0,
+      122
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T19:21:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2093041105470468335"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/FQdTyIN98y",
+          "end": 146,
+          "expanded_url": "https://x.com/crossyangshe/status/2093041105470468335/photo/1",
+          "media_key": "3_2093040102440423424",
+          "start": 123,
+          "url": "https://t.co/FQdTyIN98y"
+        },
+        {
+          "display_url": "pic.x.com/FQdTyIN98y",
+          "end": 146,
+          "expanded_url": "https://x.com/crossyangshe/status/2093041105470468335/photo/1",
+          "media_key": "3_2093040102436192257",
+          "start": 123,
+          "url": "https://t.co/FQdTyIN98y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093041105470468335",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2093040102440423424"
+      },
+      {
+        "media_key": "3_2093040102436192257"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "出两个小米原装充电器和原装数据线，线有点脏但是都能保证是原装的，需要的可以私信AZ，吃不起饭了只能把身边的不需要的东西都卖掉了，55一套，不相信AZ的可以走闲鱼，相信的话发钱给AZ发收货地址就可以。真的有人需要吗……好崩溃每天只吃一顿火腿蛋盖饭 https://t.co/FQdTyIN98y"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2093040102440423424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQv44j6b0AAW7IT.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2093040102436192257",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQv44j5bQAEQ4dE.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093040102440423424",
+            "3_2093040102436192257"
+          ]
+        },
+        "author_id": "1561806114274287616",
+        "conversation_id": "2093041105470468335",
+        "created_at": "2026-08-27T18:21:01.000Z",
+        "display_text_range": [
+          0,
+          122
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T19:21:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093041105470468335"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FQdTyIN98y",
+              "end": 146,
+              "expanded_url": "https://x.com/crossyangshe/status/2093041105470468335/photo/1",
+              "media_key": "3_2093040102440423424",
+              "start": 123,
+              "url": "https://t.co/FQdTyIN98y"
+            },
+            {
+              "display_url": "pic.x.com/FQdTyIN98y",
+              "end": 146,
+              "expanded_url": "https://x.com/crossyangshe/status/2093041105470468335/photo/1",
+              "media_key": "3_2093040102436192257",
+              "start": 123,
+              "url": "https://t.co/FQdTyIN98y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093041105470468335",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2093040102440423424"
+          },
+          {
+            "media_key": "3_2093040102436192257"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "出两个小米原装充电器和原装数据线，线有点脏但是都能保证是原装的，需要的可以私信AZ，吃不起饭了只能把身边的不需要的东西都卖掉了，55一套，不相信AZ的可以走闲鱼，相信的话发钱给AZ发收货地址就可以。真的有人需要吗……好崩溃每天只吃一顿火腿蛋盖饭 https://t.co/FQdTyIN98y"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-08-22T20:03:01.000Z",
+        "description": "你們好呀，我是az！成分：重抑中焦/od/自傷/自殺念頭/infp-t/音遊/二游（不怎麼玩了）/端遊/最喜欢的作家是太宰治\n目前打算回归现实生活了，我真的希望陷入深渊的所有人都可以摆脱苦难，哪怕很难，但是我想试一下，要战胜逆流河，我多么无比渴望现实的美好，哪怕很难",
+        "id": "1561806114274287616",
+        "is_identity_verified": false,
+        "location": "長沙",
+        "most_recent_tweet_id": "2093041105470468335",
+        "name": "AZ.",
+        "pinned_tweet_id": "2085780050759328158",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1561806114274287616/1786474392",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778090792390959104/-k1xKj1N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 673,
+          "following_count": 600,
+          "like_count": 5834,
+          "listed_count": 2,
+          "media_count": 194,
+          "tweet_count": 1415
+        },
+        "url": "",
+        "username": "crossyangshe",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

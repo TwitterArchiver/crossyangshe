@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2096617001657765888",
+        "3_2096617001666125824"
+      ]
+    },
+    "author_id": "1561806114274287616",
+    "conversation_id": "2096617248492589402",
+    "created_at": "2026-09-06T15:11:19.000Z",
+    "display_text_range": [
+      0,
+      41
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T16:11:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2096617248492589402"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/BBCck9vOkk",
+          "end": 65,
+          "expanded_url": "https://x.com/crossyangshe/status/2096617248492589402/photo/1",
+          "media_key": "3_2096617001657765888",
+          "start": 42,
+          "url": "https://t.co/BBCck9vOkk"
+        },
+        {
+          "display_url": "pic.x.com/BBCck9vOkk",
+          "end": 65,
+          "expanded_url": "https://x.com/crossyangshe/status/2096617248492589402/photo/1",
+          "media_key": "3_2096617001666125824",
+          "start": 42,
+          "url": "https://t.co/BBCck9vOkk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096617248492589402",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2096617001657765888"
+      },
+      {
+        "media_key": "3_2096617001666125824"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "真的是好烟呀，长沙本地买不到，还是在抖音上加了一个湖北便利店老板的微信快递寄过来的 https://t.co/BBCck9vOkk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2096617001657765888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRiuDf3bEAAq0qq.jpg",
+        "width": 1538
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2096617001666125824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRiuDf5aoAAPRh3.jpg",
+        "width": 1249
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096617001657765888",
+            "3_2096617001666125824"
+          ]
+        },
+        "author_id": "1561806114274287616",
+        "conversation_id": "2096617248492589402",
+        "created_at": "2026-09-06T15:11:19.000Z",
+        "display_text_range": [
+          0,
+          41
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T16:11:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096617248492589402"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BBCck9vOkk",
+              "end": 65,
+              "expanded_url": "https://x.com/crossyangshe/status/2096617248492589402/photo/1",
+              "media_key": "3_2096617001657765888",
+              "start": 42,
+              "url": "https://t.co/BBCck9vOkk"
+            },
+            {
+              "display_url": "pic.x.com/BBCck9vOkk",
+              "end": 65,
+              "expanded_url": "https://x.com/crossyangshe/status/2096617248492589402/photo/1",
+              "media_key": "3_2096617001666125824",
+              "start": 42,
+              "url": "https://t.co/BBCck9vOkk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096617248492589402",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096617001657765888"
+          },
+          {
+            "media_key": "3_2096617001666125824"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "真的是好烟呀，长沙本地买不到，还是在抖音上加了一个湖北便利店老板的微信快递寄过来的 https://t.co/BBCck9vOkk"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-08-22T20:03:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Changsha, Hunan, China",
+              "geo": {
+                "coordinates": [
+                  112.97087,
+                  28.19874
+                ],
+                "type": "Point"
+              },
+              "locality": "Changsha",
+              "region": "Hunan"
+            }
+          ]
+        },
+        "description": "你們好呀，我是az！成分：重抑中焦/od/自傷/自殺念頭/infp-t/音遊/二游（不怎麼玩了）/端遊/最喜欢的作家是太宰治\n目前打算回归现实生活了，我真的希望陷入深渊的所有人都可以摆脱苦难，哪怕很难，但是我想试一下，要战胜逆流河，我多么无比渴望现实的美好，哪怕很难",
+        "id": "1561806114274287616",
+        "is_identity_verified": false,
+        "location": "長沙",
+        "most_recent_tweet_id": "2096617248492589402",
+        "name": "AZ.",
+        "pinned_tweet_id": "2085780050759328158",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1561806114274287616/1786474392",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778090792390959104/-k1xKj1N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 722,
+          "following_count": 616,
+          "like_count": 6341,
+          "listed_count": 2,
+          "media_count": 211,
+          "tweet_count": 1528
+        },
+        "url": "",
+        "username": "crossyangshe",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561806114274287616",
+    "conversation_id": "2097589461387505729",
+    "created_at": "2026-09-10T16:45:47.000Z",
+    "display_text_range": [
+      16,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-10T17:45:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098090569809670478"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1717388840938135552",
+          "start": 0,
+          "username": "DingGongYinLin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098090569809670478",
+    "in_reply_to_user_id": "1717388840938135552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097589461387505729",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DingGongYinLin 写得很厉害哦！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561806114274287616",
+        "conversation_id": "2097589461387505729",
+        "created_at": "2026-09-10T16:45:47.000Z",
+        "display_text_range": [
+          16,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T17:45:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098090569809670478"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1717388840938135552",
+              "start": 0,
+              "username": "DingGongYinLin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098090569809670478",
+        "in_reply_to_user_id": "1717388840938135552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097589461387505729",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DingGongYinLin 写得很厉害哦！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1717388840938135552",
+        "conversation_id": "2097589461387505729",
+        "created_at": "2026-09-09T07:34:33.000Z",
+        "display_text_range": [
+          0,
+          99
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T08:34:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097589461387505729"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2097589461387505729",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "2神明是真实存在的      \n         琳原来是不相信神的存在的，但现在祂就在琳面前，那个自称性格恶劣的神明。无法直视，光白得眼睛发疼，感觉眼睛要像布一样燃烧起来，琳赶紧用手挡住眼睛前面。\n         懒洋洋的声音从四面八方传来：“你不懂生命的珍贵，漠视但又想掌控自己的生命。但我不存乎，现在你存在的目的就是让我欣赏一出好的戏剧。”\n        “恶心、混蛋、无耻的杂种，全家只有一个人……”琳用尽毕生所学的脏话辱骂祂。\n       “大胆，竟敢侮辱神明。”祂震怒了。可以看见周围的光在剧烈闪烁。\n       “哟，原来是破防了啊，看来也不怎么样吗！”琳轻蔑的看着祂。琳还想继续骂，但发现自己说不出话来，感觉喉咙被掐住了。“竟然直接封口，真是玻璃心。”\n       祂继续说到，仿佛刚才的插曲并不存在“我会赋予你一项能力，它可以转移他人的痛苦，让他人不可思议的恢复，但你会在精神上承受同样的痛苦，还变得越来越虚弱。”像分配玩具一样，一个光团进入琳的身体。\n      “好鸡肋的能力”。琳无力的吐槽到这个槽点满满的能力。周围的光逐渐暗淡下来，最后陷入深沉的黑暗。\n      “好戏开演了。”琳隐约听到远方传来的声音，随后失去了意识。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 71,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "2神明是真实存在的      \n         琳原来是不相信神的存在的，但现在祂就在琳面前，那个自称性格恶劣的神明。无法直视，光白得眼睛发疼，感觉眼睛要像布一样燃烧起来，琳赶紧用手挡住眼睛前面。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-08-22T20:03:01.000Z",
+        "description": "你們好呀，我是az！成分：重抑中焦/od/自傷/自殺念頭/infp-t/音遊/二游（不怎麼玩了）/端遊/最喜欢的作家是太宰治\n目前打算回归现实生活了，我真的希望陷入深渊的所有人都可以摆脱苦难，哪怕很难，但是我想试一下，要战胜逆流河，我多么无比渴望现实的美好，哪怕很难",
+        "id": "1561806114274287616",
+        "is_identity_verified": false,
+        "location": "長沙",
+        "most_recent_tweet_id": "2098090569809670478",
+        "name": "AZ.",
+        "pinned_tweet_id": "2085780050759328158",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1561806114274287616/1786474392",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778090792390959104/-k1xKj1N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 724,
+          "following_count": 623,
+          "like_count": 6450,
+          "listed_count": 2,
+          "media_count": 217,
+          "tweet_count": 1551
+        },
+        "url": "",
+        "username": "crossyangshe",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-10-26T03:53:18.000Z",
+        "description": "o(￣ヘ￣o#)",
+        "id": "1717388840938135552",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2098090281799434567",
+        "name": "钉宫银琳",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1717388840938135552/1771354221",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023832209636163584/ozoek5lt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 234,
+          "following_count": 338,
+          "like_count": 22274,
+          "listed_count": 0,
+          "media_count": 191,
+          "tweet_count": 5022
+        },
+        "url": "",
+        "username": "DingGongYinLin",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

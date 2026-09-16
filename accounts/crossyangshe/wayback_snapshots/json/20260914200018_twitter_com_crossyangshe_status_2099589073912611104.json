@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561806114274287616",
+    "conversation_id": "2099439804425638388",
+    "created_at": "2026-09-14T20:00:18.000Z",
+    "display_text_range": [
+      13,
+      36
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-14T21:00:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099589073912611104"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2031535722071732226",
+          "start": 0,
+          "username": "kiukiu44442"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099589073912611104",
+    "in_reply_to_user_id": "2031535722071732226",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099439804425638388",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kiukiu44442 烟头烫很痛的！经常抽烟都不小心被烟头烫多少回了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561806114274287616",
+        "conversation_id": "2099439804425638388",
+        "created_at": "2026-09-14T20:00:18.000Z",
+        "display_text_range": [
+          13,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T21:00:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099589073912611104"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2031535722071732226",
+              "start": 0,
+              "username": "kiukiu44442"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099589073912611104",
+        "in_reply_to_user_id": "2031535722071732226",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099439804425638388",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kiukiu44442 烟头烫很痛的！经常抽烟都不小心被烟头烫多少回了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2031535722071732226",
+        "conversation_id": "2099439804425638388",
+        "created_at": "2026-09-14T10:07:09.000Z",
+        "display_text_range": [
+          0,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T11:07:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099439804425638388"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2099439804425638388",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1427,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "之前把煙頭燙在我手上直至熄滅 那個疤確實很醜"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-08-22T20:03:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Changsha, Hunan, China",
+              "geo": {
+                "coordinates": [
+                  112.97087,
+                  28.19874
+                ],
+                "type": "Point"
+              },
+              "locality": "Changsha",
+              "region": "Hunan"
+            }
+          ]
+        },
+        "description": "你們好呀，我是az！成分：重抑中焦/od/自傷/自殺念頭/infp-t/音遊/二游（不怎麼玩了）/端遊/最喜欢的作家是太宰治\n目前打算回归现实生活了，我真的希望陷入深渊的所有人都可以摆脱苦难，哪怕很难，但是我想试一下，要战胜逆流河，我多么无比渴望现实的美好，哪怕很难，1125306051（AZ的q群）",
+        "id": "1561806114274287616",
+        "is_identity_verified": false,
+        "location": "長沙",
+        "most_recent_tweet_id": "2099589073912611104",
+        "name": "AZ.",
+        "pinned_tweet_id": "2085780050759328158",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1561806114274287616/1786474392",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778090792390959104/-k1xKj1N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 734,
+          "following_count": 630,
+          "like_count": 6632,
+          "listed_count": 2,
+          "media_count": 222,
+          "tweet_count": 1601
+        },
+        "url": "",
+        "username": "crossyangshe",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-11T01:00:51.000Z",
+        "description": "前世@kiukiu4444 請助我尋找互fol\n防炸@kiukiu44443\n💊🪬💟🗑️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 2,
+                "username": "kiukiu4444"
+              },
+              {
+                "end": 38,
+                "start": 26,
+                "username": "kiukiu44443"
+              }
+            ]
+          }
+        },
+        "id": "2031535722071732226",
+        "is_identity_verified": false,
+        "location": "shtwt odtwt",
+        "most_recent_tweet_id": "2099528980227555701",
+        "name": "kiu2.0",
+        "pinned_tweet_id": "2098707655212851217",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2031535722071732226/1789227423",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098798145220337664/5Kc2Nm_I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 242,
+          "following_count": 75,
+          "like_count": 238,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 63
+        },
+        "url": "",
+        "username": "kiukiu44442",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2093297194564808704",
+        "3_2093297194619273216",
+        "3_2093297194543792130",
+        "3_2093297194640269312"
+      ]
+    },
+    "author_id": "1561806114274287616",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2093297656349249917",
+    "created_at": "2026-08-28T11:20:27.000Z",
+    "display_text_range": [
+      0,
+      86
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-28T12:20:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2093297656349249917"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/I65pnlfNJa",
+          "end": 110,
+          "expanded_url": "https://x.com/crossyangshe/status/2093297656349249917/photo/1",
+          "media_key": "3_2093297194564808704",
+          "start": 87,
+          "url": "https://t.co/I65pnlfNJa"
+        },
+        {
+          "display_url": "pic.x.com/I65pnlfNJa",
+          "end": 110,
+          "expanded_url": "https://x.com/crossyangshe/status/2093297656349249917/photo/1",
+          "media_key": "3_2093297194619273216",
+          "start": 87,
+          "url": "https://t.co/I65pnlfNJa"
+        },
+        {
+          "display_url": "pic.x.com/I65pnlfNJa",
+          "end": 110,
+          "expanded_url": "https://x.com/crossyangshe/status/2093297656349249917/photo/1",
+          "media_key": "3_2093297194543792130",
+          "start": 87,
+          "url": "https://t.co/I65pnlfNJa"
+        },
+        {
+          "display_url": "pic.x.com/I65pnlfNJa",
+          "end": 110,
+          "expanded_url": "https://x.com/crossyangshe/status/2093297656349249917/photo/1",
+          "media_key": "3_2093297194640269312",
+          "start": 87,
+          "url": "https://t.co/I65pnlfNJa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093297656349249917",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2093297194564808704"
+      },
+      {
+        "media_key": "3_2093297194619273216"
+      },
+      {
+        "media_key": "3_2093297194543792130"
+      },
+      {
+        "media_key": "3_2093297194640269312"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "谢谢你们啊😭😭😭，你的都是永远的天使，AZ祝福你们永远不死，然后就是今天睡不着直接熬通宵，早上去菜市场买了几块钱排骨，炖的玉米排骨汤，真的特别鲜美，你们要喝吗味道真的很不错 https://t.co/I65pnlfNJa"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2800,
+        "media_key": "3_2093297194564808704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQzitStbcAAPY3e.jpg",
+        "width": 1260
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2093297194619273216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQzitS6agAA-jvT.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2093297194543792130",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQzitSoawAIJVl-.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2093297194640269312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQzitS_a4AA-7zS.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093297194564808704",
+            "3_2093297194619273216",
+            "3_2093297194543792130",
+            "3_2093297194640269312"
+          ]
+        },
+        "author_id": "1561806114274287616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2093297656349249917",
+        "created_at": "2026-08-28T11:20:27.000Z",
+        "display_text_range": [
+          0,
+          86
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T12:20:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093297656349249917"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/I65pnlfNJa",
+              "end": 110,
+              "expanded_url": "https://x.com/crossyangshe/status/2093297656349249917/photo/1",
+              "media_key": "3_2093297194564808704",
+              "start": 87,
+              "url": "https://t.co/I65pnlfNJa"
+            },
+            {
+              "display_url": "pic.x.com/I65pnlfNJa",
+              "end": 110,
+              "expanded_url": "https://x.com/crossyangshe/status/2093297656349249917/photo/1",
+              "media_key": "3_2093297194619273216",
+              "start": 87,
+              "url": "https://t.co/I65pnlfNJa"
+            },
+            {
+              "display_url": "pic.x.com/I65pnlfNJa",
+              "end": 110,
+              "expanded_url": "https://x.com/crossyangshe/status/2093297656349249917/photo/1",
+              "media_key": "3_2093297194543792130",
+              "start": 87,
+              "url": "https://t.co/I65pnlfNJa"
+            },
+            {
+              "display_url": "pic.x.com/I65pnlfNJa",
+              "end": 110,
+              "expanded_url": "https://x.com/crossyangshe/status/2093297656349249917/photo/1",
+              "media_key": "3_2093297194640269312",
+              "start": 87,
+              "url": "https://t.co/I65pnlfNJa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093297656349249917",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2093297194564808704"
+          },
+          {
+            "media_key": "3_2093297194619273216"
+          },
+          {
+            "media_key": "3_2093297194543792130"
+          },
+          {
+            "media_key": "3_2093297194640269312"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谢谢你们啊😭😭😭，你的都是永远的天使，AZ祝福你们永远不死，然后就是今天睡不着直接熬通宵，早上去菜市场买了几块钱排骨，炖的玉米排骨汤，真的特别鲜美，你们要喝吗味道真的很不错 https://t.co/I65pnlfNJa"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-08-22T20:03:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Changsha, Hunan, China",
+              "geo": {
+                "coordinates": [
+                  112.97087,
+                  28.19874
+                ],
+                "type": "Point"
+              },
+              "locality": "Changsha",
+              "region": "Hunan"
+            }
+          ]
+        },
+        "description": "你們好呀，我是az！成分：重抑中焦/od/自傷/自殺念頭/infp-t/音遊/二游（不怎麼玩了）/端遊/最喜欢的作家是太宰治\n目前打算回归现实生活了，我真的希望陷入深渊的所有人都可以摆脱苦难，哪怕很难，但是我想试一下，要战胜逆流河，我多么无比渴望现实的美好，哪怕很难",
+        "id": "1561806114274287616",
+        "is_identity_verified": false,
+        "location": "長沙",
+        "most_recent_tweet_id": "2093297656349249917",
+        "name": "AZ.",
+        "pinned_tweet_id": "2085780050759328158",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1561806114274287616/1786474392",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778090792390959104/-k1xKj1N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 677,
+          "following_count": 600,
+          "like_count": 5849,
+          "listed_count": 2,
+          "media_count": 195,
+          "tweet_count": 1419
+        },
+        "url": "",
+        "username": "crossyangshe",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

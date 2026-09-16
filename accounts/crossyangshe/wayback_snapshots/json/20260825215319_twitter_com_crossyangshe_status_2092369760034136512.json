@@ -1,0 +1,377 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2078364083141951488",
+        "3_2078364083100004352"
+      ],
+      "media_source_tweet_id": [
+        "2078364102158963012",
+        "2078364102158963012"
+      ]
+    },
+    "author_id": "1561806114274287616",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2092369760034136512",
+    "created_at": "2026-08-25T21:53:19.000Z",
+    "display_text_range": [
+      0,
+      82
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-25T22:53:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092369760034136512"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1674081369830436864",
+          "start": 3,
+          "username": "yshidhe3"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/TxwcjCIAuj",
+          "end": 82,
+          "expanded_url": "https://x.com/yshidhe3/status/2078364102158963012/photo/1",
+          "media_key": "3_2078364083141951488",
+          "start": 59,
+          "url": "https://t.co/TxwcjCIAuj"
+        },
+        {
+          "display_url": "pic.x.com/TxwcjCIAuj",
+          "end": 82,
+          "expanded_url": "https://x.com/yshidhe3/status/2078364102158963012/photo/1",
+          "media_key": "3_2078364083100004352",
+          "start": 59,
+          "url": "https://t.co/TxwcjCIAuj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092369760034136512",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2078364083141951488"
+      },
+      {
+        "media_key": "3_2078364083100004352"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078364102158963012",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yshidhe3: 自介~\n\n給我點讚轉發吧(*≧ω≦)\n我需要錢...如果想可以買個照片當打賞的(⌒▽⌒) https://t.co/TxwcjCIAuj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1511,
+        "media_key": "3_2078364083141951488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNfVHzmbQAABFXc.jpg",
+        "width": 1065
+      },
+      {
+        "height": 1973,
+        "media_key": "3_2078364083100004352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNfVHzcbMAA68n9.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078364083141951488",
+            "3_2078364083100004352"
+          ],
+          "media_source_tweet_id": [
+            "2078364102158963012",
+            "2078364102158963012"
+          ]
+        },
+        "author_id": "1561806114274287616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2092369760034136512",
+        "created_at": "2026-08-25T21:53:19.000Z",
+        "display_text_range": [
+          0,
+          82
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T22:53:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092369760034136512"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1674081369830436864",
+              "start": 3,
+              "username": "yshidhe3"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TxwcjCIAuj",
+              "end": 82,
+              "expanded_url": "https://x.com/yshidhe3/status/2078364102158963012/photo/1",
+              "media_key": "3_2078364083141951488",
+              "start": 59,
+              "url": "https://t.co/TxwcjCIAuj"
+            },
+            {
+              "display_url": "pic.x.com/TxwcjCIAuj",
+              "end": 82,
+              "expanded_url": "https://x.com/yshidhe3/status/2078364102158963012/photo/1",
+              "media_key": "3_2078364083100004352",
+              "start": 59,
+              "url": "https://t.co/TxwcjCIAuj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092369760034136512",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2078364083141951488"
+          },
+          {
+            "media_key": "3_2078364083100004352"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078364102158963012",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yshidhe3: 自介~\n\n給我點讚轉發吧(*≧ω≦)\n我需要錢...如果想可以買個照片當打賞的(⌒▽⌒) https://t.co/TxwcjCIAuj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078364083141951488",
+            "3_2078364083100004352"
+          ]
+        },
+        "author_id": "1674081369830436864",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2078364102158963012",
+        "created_at": "2026-07-18T06:19:50.000Z",
+        "display_text_range": [
+          0,
+          44
+        ],
+        "edit_controls": {
+          "editable_until": "2026-07-18T07:19:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078364102158963012"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TxwcjCIAuj",
+              "end": 68,
+              "expanded_url": "https://x.com/yshidhe3/status/2078364102158963012/photo/1",
+              "media_key": "3_2078364083141951488",
+              "start": 45,
+              "url": "https://t.co/TxwcjCIAuj"
+            },
+            {
+              "display_url": "pic.x.com/TxwcjCIAuj",
+              "end": 68,
+              "expanded_url": "https://x.com/yshidhe3/status/2078364102158963012/photo/1",
+              "media_key": "3_2078364083100004352",
+              "start": 45,
+              "url": "https://t.co/TxwcjCIAuj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078364102158963012",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2078364083141951488"
+          },
+          {
+            "media_key": "3_2078364083100004352"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 9206,
+          "like_count": 49,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "自介~\n\n給我點讚轉發吧(*≧ω≦)\n我需要錢...如果想可以買個照片當打賞的(⌒▽⌒) https://t.co/TxwcjCIAuj"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-08-22T20:03:01.000Z",
+        "description": "你們好呀，我是az！成分：重抑中焦/od/自傷/自殺念頭/infp-t/音遊/二游（不怎麼玩了）/端遊/最喜欢的作家是太宰治\n目前打算回归现实生活了，我真的希望陷入深渊的所有人都可以摆脱苦难，哪怕很难，但是我想试一下，要战胜逆流河，我多么无比渴望现实的美好，哪怕很难",
+        "id": "1561806114274287616",
+        "is_identity_verified": false,
+        "location": "長沙",
+        "most_recent_tweet_id": "2092369760034136512",
+        "name": "AZ.",
+        "pinned_tweet_id": "2085780050759328158",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1561806114274287616/1786474392",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778090792390959104/-k1xKj1N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 665,
+          "following_count": 593,
+          "like_count": 5586,
+          "listed_count": 2,
+          "media_count": 184,
+          "tweet_count": 1352
+        },
+        "url": "",
+        "username": "crossyangshe",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-06-28T15:44:58.000Z",
+        "description": "要升天了呢(´♡ω♡`)（病嬌/地雷~）\n抑鬱焦慮會o:d/割 喔\n跟我聊天要先看自介噢 \n前世 @yshidhe 不露臉不線下",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 49,
+                "username": "yshidhe"
+              }
+            ]
+          }
+        },
+        "id": "1674081369830436864",
+        "is_identity_verified": false,
+        "location": "在你心中",
+        "most_recent_tweet_id": "2092279943279595729",
+        "name": "ゆうく；已壊掉2.0",
+        "pinned_tweet_id": "2078364102158963012",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1674081369830436864/1781309511",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065587970690998272/p_gIuBa4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 416,
+          "following_count": 33,
+          "like_count": 1801,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 1100
+        },
+        "url": "",
+        "username": "yshidhe3",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

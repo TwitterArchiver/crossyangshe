@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561806114274287616",
+    "conversation_id": "2095102983876788506",
+    "created_at": "2026-09-02T10:57:48.000Z",
+    "display_text_range": [
+      0,
+      143
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-02T11:57:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095103895743987797"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2095103895743987797",
+    "in_reply_to_user_id": "1561806114274287616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095102983876788506",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "大家如果想吃的话最好去好一点的医院，AZ去的是湖南省第二人民医院（脑科医院），就说吃了其他药没有用，什么右佐匹克隆扎来普隆没有用，看网上说唑吡坦有用就可以开了。AZ没有说要思诺思这个品牌，这个医院直接开的就是这个（AZ不是拿来乱吃的，确实是吃其他的药没有用）第一次开不到可以下次换个医生"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2095102969129963520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRNNDNLbkAAlYfP.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561806114274287616",
+        "conversation_id": "2095102983876788506",
+        "created_at": "2026-09-02T10:57:48.000Z",
+        "display_text_range": [
+          0,
+          143
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T11:57:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095103895743987797"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2095103895743987797",
+        "in_reply_to_user_id": "1561806114274287616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095102983876788506",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "大家如果想吃的话最好去好一点的医院，AZ去的是湖南省第二人民医院（脑科医院），就说吃了其他药没有用，什么右佐匹克隆扎来普隆没有用，看网上说唑吡坦有用就可以开了。AZ没有说要思诺思这个品牌，这个医院直接开的就是这个（AZ不是拿来乱吃的，确实是吃其他的药没有用）第一次开不到可以下次换个医生"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095102969129963520"
+          ]
+        },
+        "author_id": "1561806114274287616",
+        "conversation_id": "2095102983876788506",
+        "created_at": "2026-09-02T10:54:11.000Z",
+        "display_text_range": [
+          0,
+          144
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T11:54:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095102983876788506"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rapDbDOE8C",
+              "end": 168,
+              "expanded_url": "https://x.com/crossyangshe/status/2095102983876788506/photo/1",
+              "media_key": "3_2095102969129963520",
+              "start": 145,
+              "url": "https://t.co/rapDbDOE8C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095102983876788506",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2095102969129963520"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "去医院成功开到了一个月的唑吡坦（AZ用于正常治疗失眠和入睡障碍，不提倡任何滥用行为），上次去没有开到只开到了扎来普隆（因为医生说AZ以前吃了右佐匹克隆没有用唑吡坦不一定有用就给我开了），这次去的时候不是上次那个医生AZ就说扎来普隆没有用看网上说可以吃唑吡坦就成功开到了。阿琳支援AZ的药费 https://t.co/rapDbDOE8C"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-08-22T20:03:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Changsha, Hunan, China",
+              "geo": {
+                "coordinates": [
+                  112.97087,
+                  28.19874
+                ],
+                "type": "Point"
+              },
+              "locality": "Changsha",
+              "region": "Hunan"
+            }
+          ]
+        },
+        "description": "你們好呀，我是az！成分：重抑中焦/od/自傷/自殺念頭/infp-t/音遊/二游（不怎麼玩了）/端遊/最喜欢的作家是太宰治\n目前打算回归现实生活了，我真的希望陷入深渊的所有人都可以摆脱苦难，哪怕很难，但是我想试一下，要战胜逆流河，我多么无比渴望现实的美好，哪怕很难",
+        "id": "1561806114274287616",
+        "is_identity_verified": false,
+        "location": "長沙",
+        "most_recent_tweet_id": "2095103895743987797",
+        "name": "AZ.",
+        "pinned_tweet_id": "2085780050759328158",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1561806114274287616/1786474392",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778090792390959104/-k1xKj1N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 694,
+          "following_count": 612,
+          "like_count": 6171,
+          "listed_count": 2,
+          "media_count": 206,
+          "tweet_count": 1486
+        },
+        "url": "",
+        "username": "crossyangshe",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
