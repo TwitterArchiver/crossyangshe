@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-10-07T20:02:06",
+  "last_updated": "2026-10-07T20:03:30",
   "html": {
     "https://web.archive.org/web/20240511084714if_/https://twitter.com/crossyangshe/status/1789215677657780426": {
       "status": "done",
@@ -15899,9 +15899,9 @@
       "referenced_by": [
         "20240526161756_twitter_com_crossyangshe_status_1794764919214366799.json"
       ],
-      "last_updated": "2026-09-16T18:09:34",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20240526161756if_/https://pbs.twimg.com/profile_images/1794735976977461248/O374LMf2_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fdaa6a775c0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 8
+      "last_updated": "2026-10-07T20:02:37",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20240526161756if_/https://pbs.twimg.com/profile_images/1794735976977461248/O374LMf2_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fb7d229f320>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 10
     },
     "https://pbs.twimg.com/profile_images/1706114207266271232/tr1L43GT_normal.jpg": {
       "status": "done",
@@ -15931,9 +15931,9 @@
       "referenced_by": [
         "20240607173818_twitter_com_crossyangshe_status_1799133800309596430.json"
       ],
-      "last_updated": "2026-09-16T18:09:36",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20240607173818if_/https://pbs.twimg.com/profile_images/1796185067468791808/jRUvy4Hd_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fdaa6a77c80>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 8
+      "last_updated": "2026-10-07T20:02:39",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20240607173818if_/https://pbs.twimg.com/profile_images/1796185067468791808/jRUvy4Hd_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fb7d26648f0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 10
     },
     "https://pbs.twimg.com/profile_images/1805296389821546498/FzQ8VHNq_normal.jpg": {
       "status": "done",
@@ -16054,9 +16054,9 @@
         "20260423180957_twitter_com_crossyangshe_status_2047377451681198292.json",
         "20260426163433_twitter_com_crossyangshe_status_2048440608063414339.json"
       ],
-      "last_updated": "2026-09-16T18:09:39",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260426163433if_/https://pbs.twimg.com/profile_images/2045452791028867072/Ttw0a1lN_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fdaa6a76de0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 8
+      "last_updated": "2026-10-07T20:02:42",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260426163433if_/https://pbs.twimg.com/profile_images/2045452791028867072/Ttw0a1lN_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fb7d26643e0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 10
     },
     "https://pbs.twimg.com/profile_images/2016066428231983104/79xN9vjj_normal.jpg": {
       "status": "failed_all",
@@ -16103,9 +16103,9 @@
       "referenced_by": [
         "20260427172514_twitter_com_crossyangshe_status_2048815749414994263.json"
       ],
-      "last_updated": "2026-09-16T18:09:41",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260427172514if_/https://pbs.twimg.com/profile_images/2046832513193324544/JWFdPzZ9_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fdaa6a760f0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 8
+      "last_updated": "2026-10-07T20:02:44",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260427172514if_/https://pbs.twimg.com/profile_images/2046832513193324544/JWFdPzZ9_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fb7d26535f0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 10
     },
     "https://pbs.twimg.com/profile_images/2037399554107285504/Jn_VgwVu_normal.jpg": {
       "status": "done",
@@ -16335,9 +16335,9 @@
       "referenced_by": [
         "20260525075009_twitter_com_crossyangshe_status_2058817885032820916.json"
       ],
-      "last_updated": "2026-09-16T18:09:44",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260525075009if_/https://pbs.twimg.com/profile_images/2056062746073120769/OCl3WziO_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fdaa6a74620>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 8
+      "last_updated": "2026-10-07T20:02:47",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260525075009if_/https://pbs.twimg.com/profile_images/2056062746073120769/OCl3WziO_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fb7d2650da0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 10
     },
     "https://pbs.twimg.com/profile_images/1976089588579090433/lnZGW3mk_normal.jpg": {
       "status": "done",
@@ -16351,9 +16351,9 @@
       "referenced_by": [
         "20260525100646_twitter_com_crossyangshe_status_2058852267064013231.json"
       ],
-      "last_updated": "2026-09-16T18:09:46",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260525100646if_/https://pbs.twimg.com/profile_images/2051459135775158272/2O8PbP43_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fdaa6a77260>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 8
+      "last_updated": "2026-10-07T20:02:49",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260525100646if_/https://pbs.twimg.com/profile_images/2051459135775158272/2O8PbP43_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fb7d2651520>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 10
     },
     "https://pbs.twimg.com/profile_images/2043146436347613185/S_9YQ-s3_normal.jpg": {
       "status": "done",
@@ -16368,9 +16368,9 @@
       "referenced_by": [
         "20260527080335_twitter_com_crossyangshe_status_2059546039796068828.json"
       ],
-      "last_updated": "2026-09-16T18:09:49",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260527080335if_/https://pbs.twimg.com/profile_images/2058841238787543040/I-zNuzOg_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fdaa6a941a0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 8
+      "last_updated": "2026-10-07T20:02:51",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260527080335if_/https://pbs.twimg.com/profile_images/2058841238787543040/I-zNuzOg_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fb7d2664800>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 10
     },
     "https://pbs.twimg.com/profile_images/2006314736926023680/cGeyEHpv_normal.jpg": {
       "status": "done",
@@ -16912,9 +16912,9 @@
       "referenced_by": [
         "20260702143049_twitter_com_crossyangshe_status_2072689454800916842.json"
       ],
-      "last_updated": "2026-09-16T18:09:51",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260702143049if_/https://pbs.twimg.com/profile_images/2072631268341415936/4PgDdaAG_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fdaa6aea090>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 8
+      "last_updated": "2026-10-07T20:02:54",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260702143049if_/https://pbs.twimg.com/profile_images/2072631268341415936/4PgDdaAG_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fb7d229fbf0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 10
     },
     "https://pbs.twimg.com/profile_images/2047006666068307968/ZVRv_hZa_normal.jpg": {
       "status": "done",
@@ -17048,9 +17048,9 @@
       "referenced_by": [
         "20260704163134_twitter_com_crossyangshe_status_2073444620420469015.json"
       ],
-      "last_updated": "2026-09-16T18:09:54",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260704163134if_/https://pbs.twimg.com/profile_images/2068199958814261249/8HjbmmbY_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fdaa6ae8440>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 8
+      "last_updated": "2026-10-07T20:02:56",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260704163134if_/https://pbs.twimg.com/profile_images/2068199958814261249/8HjbmmbY_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fb7d268eea0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 10
     },
     "https://pbs.twimg.com/profile_images/2029148198111985664/FJjVvRik_normal.jpg": {
       "status": "done",
@@ -17289,9 +17289,9 @@
         "20260707133219_twitter_com_crossyangshe_status_2074486671316516976.json",
         "20260707172546_twitter_com_crossyangshe_status_2074545420412604661.json"
       ],
-      "last_updated": "2026-09-16T18:09:56",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260707172546if_/https://pbs.twimg.com/profile_images/2073546508511870976/b7Wec30W_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fdaa6a75190>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 8
+      "last_updated": "2026-10-07T20:02:58",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260707172546if_/https://pbs.twimg.com/profile_images/2073546508511870976/b7Wec30W_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fb7d268e4b0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 10
     },
     "https://pbs.twimg.com/profile_images/2074437862884577280/ft1iXgA5_normal.jpg": {
       "status": "failed",
@@ -17299,9 +17299,9 @@
         "20260707121031_twitter_com_crossyangshe_status_2074466086536478827.json",
         "20260707132336_twitter_com_crossyangshe_status_2074484480484782423.json"
       ],
-      "last_updated": "2026-09-16T18:09:59",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260707132336if_/https://pbs.twimg.com/profile_images/2074437862884577280/ft1iXgA5_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fdaa6a76780>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 8
+      "last_updated": "2026-10-07T20:03:01",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260707132336if_/https://pbs.twimg.com/profile_images/2074437862884577280/ft1iXgA5_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fb7d229ff80>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 10
     },
     "https://pbs.twimg.com/profile_images/2073992169661267968/ds1sTuCu_normal.jpg": {
       "status": "done",
@@ -17622,9 +17622,9 @@
         "20260712163311_twitter_com_crossyangshe_status_2076344128619884654.json",
         "20260714113055_twitter_com_crossyangshe_status_2076992836885721412.json"
       ],
-      "last_updated": "2026-09-16T18:10:02",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260714113055if_/https://pbs.twimg.com/profile_images/2073260174660505600/Oe2THbEB_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fdaa6ae83b0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 8
+      "last_updated": "2026-10-07T20:03:03",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260714113055if_/https://pbs.twimg.com/profile_images/2073260174660505600/Oe2THbEB_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fb7d268ef30>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 10
     },
     "https://pbs.twimg.com/profile_images/2075301904578650112/x1XfixFT_normal.jpg": {
       "status": "done",
@@ -17648,9 +17648,9 @@
       "referenced_by": [
         "20260711162432_twitter_com_crossyangshe_status_2075979563411366320.json"
       ],
-      "last_updated": "2026-09-16T18:10:04",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260711162432if_/https://pbs.twimg.com/profile_images/2066333837114908673/ERNAfWL9_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fdaa6ae9ac0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 8
+      "last_updated": "2026-10-07T20:03:06",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260711162432if_/https://pbs.twimg.com/profile_images/2066333837114908673/ERNAfWL9_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fb7d268e5d0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 10
     },
     "https://pbs.twimg.com/profile_images/2028782212678873088/UrFJFh7m_normal.jpg": {
       "status": "done",
@@ -17678,9 +17678,9 @@
       "referenced_by": [
         "20260712062704_twitter_com_crossyangshe_status_2076191595125420203.json"
       ],
-      "last_updated": "2026-09-16T18:10:06",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260712062704if_/https://pbs.twimg.com/profile_images/2075448572548673536/hSj-2G5h_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fdaa6a74d10>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 8
+      "last_updated": "2026-10-07T20:03:08",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260712062704if_/https://pbs.twimg.com/profile_images/2075448572548673536/hSj-2G5h_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fb7d268c710>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 10
     },
     "https://pbs.twimg.com/profile_images/2060341293654446087/kw56RKjl_normal.jpg": {
       "status": "done",
@@ -17701,9 +17701,9 @@
       "referenced_by": [
         "20260713073807_twitter_com_crossyangshe_status_2076571862205862236.json"
       ],
-      "last_updated": "2026-09-16T18:10:09",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260713073807if_/https://pbs.twimg.com/profile_images/2076387592149307392/htQPnL8D_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fdaa6a74080>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 8
+      "last_updated": "2026-10-07T20:03:10",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260713073807if_/https://pbs.twimg.com/profile_images/2076387592149307392/htQPnL8D_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fb7d2666ff0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 10
     },
     "https://pbs.twimg.com/profile_images/1787861672113340416/SpVcbYZ5_normal.jpg": {
       "status": "done",
@@ -17749,9 +17749,9 @@
       "referenced_by": [
         "20260714120251_twitter_com_crossyangshe_status_2077000872387887573.json"
       ],
-      "last_updated": "2026-09-16T18:10:11",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260714120251if_/https://pbs.twimg.com/profile_images/2076982344737800193/qxX21Avo_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fdaa6ae8f50>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 8
+      "last_updated": "2026-10-07T20:03:13",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260714120251if_/https://pbs.twimg.com/profile_images/2076982344737800193/qxX21Avo_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fb7d2665df0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 10
     },
     "https://pbs.twimg.com/profile_images/2039013777560227840/6M7222YJ_normal.jpg": {
       "status": "done",
@@ -17773,9 +17773,9 @@
       "referenced_by": [
         "20260714121203_twitter_com_crossyangshe_status_2077003187878593013.json"
       ],
-      "last_updated": "2026-09-16T18:10:14",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260714121203if_/https://pbs.twimg.com/profile_images/2076734439686799360/xTx8TaWj_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fdaa6a77b30>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 8
+      "last_updated": "2026-10-07T20:03:15",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260714121203if_/https://pbs.twimg.com/profile_images/2076734439686799360/xTx8TaWj_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fb7d268d070>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 10
     },
     "https://pbs.twimg.com/profile_images/2069459272237453314/oe_JsCpY_normal.jpg": {
       "status": "done",
@@ -17789,9 +17789,9 @@
       "referenced_by": [
         "20260714135152_twitter_com_crossyangshe_status_2077028307032490155.json"
       ],
-      "last_updated": "2026-09-16T18:10:16",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260714135152if_/https://pbs.twimg.com/profile_images/2076987990535180288/cScmQL2u_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fdaa6ae8080>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 8
+      "last_updated": "2026-10-07T20:03:18",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260714135152if_/https://pbs.twimg.com/profile_images/2076987990535180288/cScmQL2u_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fb7d268d580>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 10
     },
     "https://pbs.twimg.com/profile_images/2076897182289203200/OhHC7trJ_normal.jpg": {
       "status": "done",
@@ -17834,9 +17834,9 @@
       "referenced_by": [
         "20260714152232_twitter_com_crossyangshe_status_2077051122553077883.json"
       ],
-      "last_updated": "2026-09-16T18:10:19",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260714152232if_/https://pbs.twimg.com/profile_images/2076341900722802688/b_YtNFwg_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fdaa6a75610>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 8
+      "last_updated": "2026-10-07T20:03:20",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260714152232if_/https://pbs.twimg.com/profile_images/2076341900722802688/b_YtNFwg_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fb7d2666060>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 10
     },
     "https://pbs.twimg.com/profile_images/2073740142737846272/5wS-JDPo_normal.jpg": {
       "status": "done",
@@ -18171,9 +18171,9 @@
         "20260805180014_twitter_com_crossyangshe_status_2085063345158361476.json",
         "20260805180039_twitter_com_crossyangshe_status_2085063450225733987.json"
       ],
-      "last_updated": "2026-09-16T18:10:21",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260805180039if_/https://pbs.twimg.com/profile_images/2076377343783018496/Xp37vFwK_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fdaa6a960f0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 4
+      "last_updated": "2026-10-07T20:03:22",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260805180039if_/https://pbs.twimg.com/profile_images/2076377343783018496/Xp37vFwK_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fb7d268ff80>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/profile_images/2082455513657163777/DTzFWFLf_normal.jpg": {
       "status": "done",
@@ -18353,9 +18353,9 @@
       "referenced_by": [
         "20260814181135_twitter_com_crossyangshe_status_2088327690088813034.json"
       ],
-      "last_updated": "2026-09-16T18:10:24",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260814181135if_/https://pbs.twimg.com/profile_images/2088026491011346432/Ah_Zy2yt_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fdaa6a95bb0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 4
+      "last_updated": "2026-10-07T20:03:25",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260814181135if_/https://pbs.twimg.com/profile_images/2088026491011346432/Ah_Zy2yt_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fb7d26b9280>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/profile_images/1927299071166865408/wn5xxLLI_normal.jpg": {
       "status": "done",
@@ -18576,9 +18576,9 @@
         "20260825211734_twitter_com_crossyangshe_status_2092360762752893147.json",
         "20260825214945_twitter_com_crossyangshe_status_2092368862591533111.json"
       ],
-      "last_updated": "2026-09-16T18:10:26",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260825214945if_/https://pbs.twimg.com/profile_images/2090787483235790848/Bfto0aeh_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fdaa6a95d30>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 2
+      "last_updated": "2026-10-07T20:03:27",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260825214945if_/https://pbs.twimg.com/profile_images/2090787483235790848/Bfto0aeh_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fb7d268f620>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/profile_images/2079459942181007360/74nzgbYS_normal.jpg": {
       "status": "done",
@@ -18809,277 +18809,323 @@
       "last_updated": "2026-09-16T18:09:28"
     },
     "https://pbs.twimg.com/profile_images/2062087359597056000/pUtBVXRM_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260915181937_twitter_com_crossyangshe_status_2099926122964365782.json",
         "20260925225355_twitter_com_crossyangshe_status_2103619034994589784.json",
         "20260925231007_twitter_com_crossyangshe_status_2103623109261881517.json"
-      ]
+      ],
+      "last_updated": "2026-10-07T20:02:30"
     },
     "https://pbs.twimg.com/profile_images/2099424592356048897/F8mHp1Nz_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260917141037_twitter_com_crossyangshe_status_2100588236976664842.json"
-      ]
+      ],
+      "last_updated": "2026-10-07T20:02:30"
     },
     "https://pbs.twimg.com/profile_images/2085411546067562496/5VeeZkJW_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260918160727_twitter_com_crossyangshe_status_2100980027693334720.json",
         "20260918160745_twitter_com_crossyangshe_status_2100980101936816453.json",
         "20260925224532_twitter_com_crossyangshe_status_2103616922143322497.json",
         "20260925225650_twitter_com_crossyangshe_status_2103619766531567619.json"
-      ]
+      ],
+      "last_updated": "2026-10-07T20:02:30"
     },
     "https://pbs.twimg.com/profile_images/2054887710725484544/mXCHCwKE_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260918165409_twitter_com_crossyangshe_status_2100991781206954383.json",
         "20260918172323_twitter_com_crossyangshe_status_2100999135298191756.json",
         "20260921203659_twitter_com_crossyangshe_status_2102135022505582848.json"
-      ]
+      ],
+      "last_updated": "2026-10-07T20:02:30"
     },
     "https://pbs.twimg.com/profile_images/2085916596443254785/EAYdjpYs_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260918174349_twitter_com_crossyangshe_status_2101004279041696010.json"
-      ]
+      ],
+      "last_updated": "2026-10-07T20:02:31"
     },
     "https://pbs.twimg.com/profile_images/2098056313330921472/fZVMYsyY_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260919185230_twitter_com_crossyangshe_status_2101383950820426074.json"
-      ]
+      ],
+      "last_updated": "2026-10-07T20:02:31"
     },
     "https://pbs.twimg.com/profile_images/2099863843078115328/OzDdPsOO_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260919185551_twitter_com_crossyangshe_status_2101384794282299439.json"
-      ]
+      ],
+      "last_updated": "2026-10-07T20:02:31"
     },
     "https://pbs.twimg.com/profile_images/2097649932895440896/8PEMx7km_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260920215228_twitter_com_crossyangshe_status_2101791628180799960.json"
-      ]
+      ],
+      "last_updated": "2026-10-07T20:02:30"
     },
     "https://pbs.twimg.com/profile_images/1898374011295522816/t9_3UaIW_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260920221434_twitter_com_crossyangshe_status_2101797192772235450.json",
         "20260920221500_twitter_com_crossyangshe_status_2101797298573660427.json"
-      ]
+      ],
+      "last_updated": "2026-10-07T20:02:31"
     },
     "https://pbs.twimg.com/profile_images/2101919809571373056/SrVBDs-E_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260921202528_twitter_com_crossyangshe_status_2102132123134251245.json"
-      ]
+      ],
+      "last_updated": "2026-10-07T20:02:31"
     },
     "https://pbs.twimg.com/profile_images/2061983051593461760/Z-a20rjF_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260922205201_twitter_com_crossyangshe_status_2102501193230717370.json",
         "20260925223913_twitter_com_crossyangshe_status_2103615333143822697.json",
         "20260925224346_twitter_com_crossyangshe_status_2103616477819736504.json"
-      ]
+      ],
+      "last_updated": "2026-10-07T20:02:30"
     },
     "https://pbs.twimg.com/profile_images/2089218334667788288/kDANtfwN_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260922205528_twitter_com_crossyangshe_status_2102502058628903117.json"
-      ]
+      ],
+      "last_updated": "2026-10-07T20:02:31"
     },
     "https://pbs.twimg.com/profile_images/2100632358261276672/GKXFBK_v_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260922210423_twitter_com_crossyangshe_status_2102504304976462194.json"
-      ]
+      ],
+      "last_updated": "2026-10-07T20:02:31"
     },
     "https://pbs.twimg.com/profile_images/1986657732955664384/9POfHcEh_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260922210647_twitter_com_crossyangshe_status_2102504909560287630.json"
-      ]
+      ],
+      "last_updated": "2026-10-07T20:02:31"
     },
     "https://pbs.twimg.com/profile_images/2099037596374765568/gILxcbTL_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260923184228_twitter_com_crossyangshe_status_2102830975936057379.json"
-      ]
+      ],
+      "last_updated": "2026-10-07T20:03:27",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260923184228if_/https://pbs.twimg.com/profile_images/2099037596374765568/gILxcbTL_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f903959ab70>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 1
     },
     "https://pbs.twimg.com/profile_images/2103009666305548288/YRVjmW6I_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260925223512_twitter_com_crossyangshe_status_2103614323176374277.json",
         "20260928101130_twitter_com_crossyangshe_status_2104514327440986329.json",
         "20261001102757_twitter_com_crossyangshe_status_2105605630983909689.json",
         "20261003162904_twitter_com_crossyangshe_status_2106421284016169352.json"
-      ]
+      ],
+      "last_updated": "2026-10-07T20:02:31"
     },
     "https://pbs.twimg.com/profile_images/2101306684962742272/v5Rha9Bq_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260925223702_twitter_com_crossyangshe_status_2103614784864403696.json",
         "20260925223726_twitter_com_crossyangshe_status_2103614884382671049.json",
         "20260928102652_twitter_com_crossyangshe_status_2104518195638059121.json",
         "20261004053018_twitter_com_crossyangshe_status_2106617889361207429.json"
-      ]
+      ],
+      "last_updated": "2026-10-07T20:02:31"
     },
     "https://pbs.twimg.com/profile_images/2100239627810701312/g17fxp1M_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260925224237_twitter_com_crossyangshe_status_2103616188651917704.json"
-      ]
+      ],
+      "last_updated": "2026-10-07T20:02:31"
     },
     "https://pbs.twimg.com/profile_images/2096672324552712192/157kREMe_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260925224554_twitter_com_crossyangshe_status_2103617015957393713.json"
-      ]
+      ],
+      "last_updated": "2026-10-07T20:02:31"
     },
     "https://pbs.twimg.com/profile_images/2103136759404236800/hJgcJQ6Q_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260925225732_twitter_com_crossyangshe_status_2103619945062158659.json",
         "20260928102235_twitter_com_crossyangshe_status_2104517118746337360.json"
-      ]
+      ],
+      "last_updated": "2026-10-07T20:02:31"
     },
     "https://pbs.twimg.com/profile_images/2090450616925454337/5jFPvzI4_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260925230526_twitter_com_crossyangshe_status_2103621931018944830.json"
-      ]
+      ],
+      "last_updated": "2026-10-07T20:02:31"
     },
     "https://pbs.twimg.com/profile_images/2103824583262720000/FEanJ-c7_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260927200546_twitter_com_crossyangshe_status_2104301491049882070.json"
-      ]
+      ],
+      "last_updated": "2026-10-07T20:02:31"
     },
     "https://pbs.twimg.com/profile_images/2103770733524758528/eDiPscKO_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260927201257_twitter_com_crossyangshe_status_2104303299298300096.json",
         "20261001164804_twitter_com_crossyangshe_status_2105701289489494348.json"
-      ]
+      ],
+      "last_updated": "2026-10-07T20:02:31"
     },
     "https://pbs.twimg.com/profile_images/2103825378959904768/ov_01XOC_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260927201629_twitter_com_crossyangshe_status_2104304191032487942.json",
         "20261001103121_twitter_com_crossyangshe_status_2105606485426483624.json",
         "20261004054346_twitter_com_crossyangshe_status_2106621276152537246.json"
-      ]
+      ],
+      "last_updated": "2026-10-07T20:02:31"
     },
     "https://pbs.twimg.com/profile_images/2103868927441047553/0tWUwN0S_normal.jpg": {
-      "status": "unknown",
+      "status": "failed",
       "referenced_by": [
         "20260927201745_twitter_com_crossyangshe_status_2104304506167324766.json"
-      ]
+      ],
+      "last_updated": "2026-10-07T20:03:30",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260927201745if_/https://pbs.twimg.com/profile_images/2103868927441047553/0tWUwN0S_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fb7d29f3740>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 2
     },
     "https://pbs.twimg.com/profile_images/2104172620275195904/Id7xbOZv_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260927201948_twitter_com_crossyangshe_status_2104305026130960653.json"
-      ]
+      ],
+      "last_updated": "2026-10-07T20:02:31"
     },
     "https://pbs.twimg.com/profile_images/2091678852078800896/FiyJCER3_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260927204701_twitter_com_crossyangshe_status_2104311875400012180.json"
-      ]
+      ],
+      "last_updated": "2026-10-07T20:02:31"
     },
     "https://pbs.twimg.com/profile_images/2092555375119941632/i7JViKFp_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260928102025_twitter_com_crossyangshe_status_2104516570244350388.json"
-      ]
+      ],
+      "last_updated": "2026-10-07T20:02:31"
     },
     "https://pbs.twimg.com/profile_images/2101675924127444992/adPvqHpw_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260929205658_twitter_com_crossyangshe_status_2105039154312847417.json"
-      ]
+      ],
+      "last_updated": "2026-10-07T20:02:31"
     },
     "https://pbs.twimg.com/profile_images/2103522442517917696/16DbwQDk_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260929211516_twitter_com_crossyangshe_status_2105043757532070270.json",
         "20260930104045_twitter_com_crossyangshe_status_2105246465383883100.json"
-      ]
+      ],
+      "last_updated": "2026-10-07T20:02:31"
     },
     "https://pbs.twimg.com/profile_images/2068702900038381568/FDPyXAHn_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260929212157_twitter_com_crossyangshe_status_2105045439603167713.json"
-      ]
+      ],
+      "last_updated": "2026-10-07T20:02:31"
     },
     "https://pbs.twimg.com/profile_images/2041124868553609216/vxjMMYj3_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260930001010_twitter_com_crossyangshe_status_2105087772654760100.json"
-      ]
+      ],
+      "last_updated": "2026-10-07T20:02:31"
     },
     "https://pbs.twimg.com/profile_images/2105372923762737152/p3X5d3YI_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20261001103324_twitter_com_crossyangshe_status_2105607002550681640.json"
-      ]
+      ],
+      "last_updated": "2026-10-07T20:02:31"
     },
     "https://pbs.twimg.com/profile_images/2105378501595648000/1hiAzsjH_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20261003163304_twitter_com_crossyangshe_status_2106422291173363999.json"
-      ]
+      ],
+      "last_updated": "2026-10-07T20:02:31"
     },
     "https://pbs.twimg.com/profile_images/2093619255745085441/fnbaIHoX_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20261003163706_twitter_com_crossyangshe_status_2106423307088343548.json"
-      ]
+      ],
+      "last_updated": "2026-10-07T20:02:31"
     },
     "https://pbs.twimg.com/profile_images/2106002437526196224/QN65Q_T4_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20261004053018_twitter_com_crossyangshe_status_2106617889361207429.json"
-      ]
+      ],
+      "last_updated": "2026-10-07T20:02:32"
     },
     "https://pbs.twimg.com/profile_images/1937052623523168256/NWtxx8z__normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20261004055103_twitter_com_crossyangshe_status_2106623112028795225.json"
-      ]
+      ],
+      "last_updated": "2026-10-07T20:02:31"
     },
     "https://pbs.twimg.com/profile_images/1797280153359499264/xavXjUcR_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20261004055223_twitter_com_crossyangshe_status_2106623448265220269.json"
-      ]
+      ],
+      "last_updated": "2026-10-07T20:02:31"
     },
     "https://pbs.twimg.com/profile_images/2089971410626347008/CBvV8wvE_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20261004060229_twitter_com_crossyangshe_status_2106625990214726135.json"
-      ]
+      ],
+      "last_updated": "2026-10-07T20:02:31"
     },
     "https://pbs.twimg.com/profile_images/2100622981588525056/J8a-SEBf_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20261004161303_twitter_com_crossyangshe_status_2106779644125192304.json"
-      ]
+      ],
+      "last_updated": "2026-10-07T20:02:32"
     },
     "https://pbs.twimg.com/profile_images/2094487922905116672/jcFm84nz_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20261004161303_twitter_com_crossyangshe_status_2106779644125192304.json"
-      ]
+      ],
+      "last_updated": "2026-10-07T20:02:32"
     },
     "https://pbs.twimg.com/profile_images/2099395002032082944/kNlF44OK_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20261004161544_twitter_com_crossyangshe_status_2106780318539956628.json"
-      ]
+      ],
+      "last_updated": "2026-10-07T20:02:32"
     }
   },
   "media": {
@@ -40118,7 +40164,7 @@
       "last_updated": "2026-09-16T18:03:00"
     },
     "20260915181937_twitter_com_crossyangshe_status_2099926122964365782.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HSQv287agAEBpUT.jpg"
@@ -40129,7 +40175,7 @@
           "https://pbs.twimg.com/profile_images/2062087359597056000/pUtBVXRM_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-07T20:02:03"
+      "last_updated": "2026-10-07T20:02:30"
     },
     "20260915182203_twitter_com_crossyangshe_status_2099926735265665463.json": {
       "status": "done",
@@ -40317,7 +40363,7 @@
       "last_updated": "2026-10-07T19:57:25"
     },
     "20260917141037_twitter_com_crossyangshe_status_2100588236976664842.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -40326,7 +40372,7 @@
           "https://pbs.twimg.com/profile_images/2099424592356048897/F8mHp1Nz_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-07T20:02:03"
+      "last_updated": "2026-10-07T20:02:30"
     },
     "20260917141144_twitter_com_crossyangshe_status_2100588518980600179.json": {
       "status": "done",
@@ -40505,7 +40551,7 @@
       "last_updated": "2026-10-07T19:57:26"
     },
     "20260918160727_twitter_com_crossyangshe_status_2100980027693334720.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -40514,10 +40560,10 @@
           "https://pbs.twimg.com/profile_images/2085411546067562496/5VeeZkJW_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-07T20:02:03"
+      "last_updated": "2026-10-07T20:02:30"
     },
     "20260918160745_twitter_com_crossyangshe_status_2100980101936816453.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -40526,7 +40572,7 @@
           "https://pbs.twimg.com/profile_images/2085411546067562496/5VeeZkJW_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-07T20:02:03"
+      "last_updated": "2026-10-07T20:02:30"
     },
     "20260918161857_twitter_com_crossyangshe_status_2100982920177729792.json": {
       "status": "done",
@@ -40541,7 +40587,7 @@
       "last_updated": "2026-10-07T19:57:25"
     },
     "20260918165409_twitter_com_crossyangshe_status_2100991781206954383.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HRccLR3akAAxAr9.jpg",
@@ -40553,7 +40599,7 @@
           "https://pbs.twimg.com/profile_images/2054887710725484544/mXCHCwKE_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-07T20:02:03"
+      "last_updated": "2026-10-07T20:02:30"
     },
     "20260918171521_twitter_com_crossyangshe_status_2100997117024321939.json": {
       "status": "done",
@@ -40589,7 +40635,7 @@
       "last_updated": "2026-10-07T19:57:25"
     },
     "20260918172323_twitter_com_crossyangshe_status_2100999135298191756.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -40598,7 +40644,7 @@
           "https://pbs.twimg.com/profile_images/2054887710725484544/mXCHCwKE_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-07T20:02:03"
+      "last_updated": "2026-10-07T20:02:30"
     },
     "20260918173427_twitter_com_crossyangshe_status_2101001919779205467.json": {
       "status": "failed",
@@ -40631,7 +40677,7 @@
       "miss_count": 2
     },
     "20260918174349_twitter_com_crossyangshe_status_2101004279041696010.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HSd3x-6W8AAxcag.jpg"
@@ -40642,7 +40688,7 @@
           "https://pbs.twimg.com/profile_images/2085916596443254785/EAYdjpYs_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-07T20:02:03"
+      "last_updated": "2026-10-07T20:02:31"
     },
     "20260919135334_twitter_com_crossyangshe_status_2101308724346552374.json": {
       "status": "done",
@@ -40730,7 +40776,7 @@
       "last_updated": "2026-10-07T19:57:26"
     },
     "20260919185230_twitter_com_crossyangshe_status_2101383950820426074.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HSlJWoob0AIwL7o.jpg"
@@ -40741,7 +40787,7 @@
           "https://pbs.twimg.com/profile_images/2098056313330921472/fZVMYsyY_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-07T20:02:03"
+      "last_updated": "2026-10-07T20:02:31"
     },
     "20260919185423_twitter_com_crossyangshe_status_2101384426555101373.json": {
       "status": "done",
@@ -40756,7 +40802,7 @@
       "last_updated": "2026-10-07T19:57:26"
     },
     "20260919185551_twitter_com_crossyangshe_status_2101384794282299439.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -40765,7 +40811,7 @@
           "https://pbs.twimg.com/profile_images/2099863843078115328/OzDdPsOO_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-07T20:02:03"
+      "last_updated": "2026-10-07T20:02:31"
     },
     "20260920075351_twitter_com_crossyangshe_status_2101580586544685101.json": {
       "status": "done",
@@ -40802,7 +40848,7 @@
       "last_updated": "2026-10-07T19:57:26"
     },
     "20260920215228_twitter_com_crossyangshe_status_2101791628180799960.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -40811,7 +40857,7 @@
           "https://pbs.twimg.com/profile_images/2097649932895440896/8PEMx7km_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-07T20:02:03"
+      "last_updated": "2026-10-07T20:02:30"
     },
     "20260920215342_twitter_com_crossyangshe_status_2101791940987732386.json": {
       "status": "done",
@@ -40897,7 +40943,7 @@
       "last_updated": "2026-10-07T19:57:26"
     },
     "20260920221434_twitter_com_crossyangshe_status_2101797192772235450.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -40906,10 +40952,10 @@
           "https://pbs.twimg.com/profile_images/1898374011295522816/t9_3UaIW_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-07T20:02:03"
+      "last_updated": "2026-10-07T20:02:31"
     },
     "20260920221500_twitter_com_crossyangshe_status_2101797298573660427.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -40918,7 +40964,7 @@
           "https://pbs.twimg.com/profile_images/1898374011295522816/t9_3UaIW_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-07T20:02:03"
+      "last_updated": "2026-10-07T20:02:31"
     },
     "20260921091529_twitter_com_crossyangshe_status_2101963514399035557.json": {
       "status": "done",
@@ -41022,7 +41068,7 @@
       "last_updated": "2026-10-07T19:57:26"
     },
     "20260921202528_twitter_com_crossyangshe_status_2102132123134251245.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -41031,7 +41077,7 @@
           "https://pbs.twimg.com/profile_images/2101919809571373056/SrVBDs-E_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-07T20:02:03"
+      "last_updated": "2026-10-07T20:02:31"
     },
     "20260921203223_twitter_com_crossyangshe_status_2102133864303087633.json": {
       "status": "done",
@@ -41070,7 +41116,7 @@
       "last_updated": "2026-10-07T19:57:26"
     },
     "20260921203659_twitter_com_crossyangshe_status_2102135022505582848.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HSvNBIWaQAA3ALW.jpg"
@@ -41081,7 +41127,7 @@
           "https://pbs.twimg.com/profile_images/2054887710725484544/mXCHCwKE_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-07T20:02:03"
+      "last_updated": "2026-10-07T20:02:30"
     },
     "20260921210053_twitter_com_crossyangshe_status_2102141037175312555.json": {
       "status": "done",
@@ -41175,7 +41221,7 @@
       "last_updated": "2026-10-07T19:57:26"
     },
     "20260922205201_twitter_com_crossyangshe_status_2102501193230717370.json": {
-      "status": "unknown",
+      "status": "failed",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HSyTTr5bkAAYXuY.jpg"
@@ -41186,7 +41232,7 @@
           "https://pbs.twimg.com/profile_images/2061983051593461760/Z-a20rjF_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-07T20:02:03"
+      "last_updated": "2026-10-07T20:02:30"
     },
     "20260922205450_twitter_com_crossyangshe_status_2102501900667195452.json": {
       "status": "failed",
@@ -41204,7 +41250,7 @@
       "miss_count": 2
     },
     "20260922205528_twitter_com_crossyangshe_status_2102502058628903117.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -41213,7 +41259,7 @@
           "https://pbs.twimg.com/profile_images/2089218334667788288/kDANtfwN_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-07T20:02:03"
+      "last_updated": "2026-10-07T20:02:31"
     },
     "20260922210131_twitter_com_crossyangshe_status_2102503583216447493.json": {
       "status": "done",
@@ -41227,7 +41273,7 @@
       "last_updated": "2026-10-07T19:57:26"
     },
     "20260922210423_twitter_com_crossyangshe_status_2102504304976462194.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HS007ikbwAAXKJP.jpg"
@@ -41238,10 +41284,10 @@
           "https://pbs.twimg.com/profile_images/2100632358261276672/GKXFBK_v_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-07T20:02:03"
+      "last_updated": "2026-10-07T20:02:31"
     },
     "20260922210647_twitter_com_crossyangshe_status_2102504909560287630.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HSu0nmJaQAAe2MR.jpg"
@@ -41252,7 +41298,7 @@
           "https://pbs.twimg.com/profile_images/1986657732955664384/9POfHcEh_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-07T20:02:03"
+      "last_updated": "2026-10-07T20:02:31"
     },
     "20260923064204_twitter_com_crossyangshe_status_2102649683613212980.json": {
       "status": "done",
@@ -41312,7 +41358,7 @@
       "last_updated": "2026-10-07T19:57:27"
     },
     "20260923184228_twitter_com_crossyangshe_status_2102830975936057379.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -41321,7 +41367,7 @@
           "https://pbs.twimg.com/profile_images/2099037596374765568/gILxcbTL_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-07T20:02:03"
+      "last_updated": "2026-10-07T20:03:27"
     },
     "20260923184501_twitter_com_crossyangshe_status_2102831620160102596.json": {
       "status": "done",
@@ -41519,7 +41565,7 @@
       "last_updated": "2026-10-07T19:57:27"
     },
     "20260925223512_twitter_com_crossyangshe_status_2103614323176374277.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -41528,10 +41574,10 @@
           "https://pbs.twimg.com/profile_images/2103009666305548288/YRVjmW6I_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-07T20:02:03"
+      "last_updated": "2026-10-07T20:02:31"
     },
     "20260925223702_twitter_com_crossyangshe_status_2103614784864403696.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HTEAvTYbkAArj2n.jpg"
@@ -41542,10 +41588,10 @@
           "https://pbs.twimg.com/profile_images/2101306684962742272/v5Rha9Bq_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-07T20:02:03"
+      "last_updated": "2026-10-07T20:02:31"
     },
     "20260925223726_twitter_com_crossyangshe_status_2103614884382671049.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -41554,7 +41600,7 @@
           "https://pbs.twimg.com/profile_images/2101306684962742272/v5Rha9Bq_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-07T20:02:03"
+      "last_updated": "2026-10-07T20:02:31"
     },
     "20260925223816_twitter_com_crossyangshe_status_2103615093036748922.json": {
       "status": "done",
@@ -41570,7 +41616,7 @@
       "last_updated": "2026-10-07T19:57:28"
     },
     "20260925223913_twitter_com_crossyangshe_status_2103615333143822697.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -41579,7 +41625,7 @@
           "https://pbs.twimg.com/profile_images/2061983051593461760/Z-a20rjF_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-07T20:02:03"
+      "last_updated": "2026-10-07T20:02:30"
     },
     "20260925224149_twitter_com_crossyangshe_status_2103615989531476453.json": {
       "status": "done",
@@ -41593,7 +41639,7 @@
       "last_updated": "2026-10-07T19:57:27"
     },
     "20260925224237_twitter_com_crossyangshe_status_2103616188651917704.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -41602,10 +41648,10 @@
           "https://pbs.twimg.com/profile_images/2100239627810701312/g17fxp1M_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-07T20:02:03"
+      "last_updated": "2026-10-07T20:02:31"
     },
     "20260925224346_twitter_com_crossyangshe_status_2103616477819736504.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -41614,10 +41660,10 @@
           "https://pbs.twimg.com/profile_images/2061983051593461760/Z-a20rjF_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-07T20:02:03"
+      "last_updated": "2026-10-07T20:02:30"
     },
     "20260925224532_twitter_com_crossyangshe_status_2103616922143322497.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -41626,10 +41672,10 @@
           "https://pbs.twimg.com/profile_images/2085411546067562496/5VeeZkJW_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-07T20:02:03"
+      "last_updated": "2026-10-07T20:02:30"
     },
     "20260925224554_twitter_com_crossyangshe_status_2103617015957393713.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -41638,10 +41684,10 @@
           "https://pbs.twimg.com/profile_images/2096672324552712192/157kREMe_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-07T20:02:03"
+      "last_updated": "2026-10-07T20:02:31"
     },
     "20260925225355_twitter_com_crossyangshe_status_2103619034994589784.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HTDrDsgaoAA-OUs.jpg"
@@ -41652,7 +41698,7 @@
           "https://pbs.twimg.com/profile_images/2062087359597056000/pUtBVXRM_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-07T20:02:03"
+      "last_updated": "2026-10-07T20:02:30"
     },
     "20260925225406_twitter_com_crossyangshe_status_2103619080788033580.json": {
       "status": "done",
@@ -41679,7 +41725,7 @@
       "last_updated": "2026-10-07T19:57:27"
     },
     "20260925225650_twitter_com_crossyangshe_status_2103619766531567619.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -41688,10 +41734,10 @@
           "https://pbs.twimg.com/profile_images/2085411546067562496/5VeeZkJW_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-07T20:02:03"
+      "last_updated": "2026-10-07T20:02:30"
     },
     "20260925225732_twitter_com_crossyangshe_status_2103619945062158659.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [
@@ -41702,7 +41748,7 @@
           "https://pbs.twimg.com/profile_images/2103136759404236800/hJgcJQ6Q_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-07T20:02:03"
+      "last_updated": "2026-10-07T20:02:31"
     },
     "20260925230137_twitter_com_crossyangshe_status_2103620972507189653.json": {
       "status": "done",
@@ -41717,7 +41763,7 @@
       "last_updated": "2026-10-07T19:57:27"
     },
     "20260925230526_twitter_com_crossyangshe_status_2103621931018944830.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -41726,10 +41772,10 @@
           "https://pbs.twimg.com/profile_images/2090450616925454337/5jFPvzI4_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-07T20:02:03"
+      "last_updated": "2026-10-07T20:02:31"
     },
     "20260925231007_twitter_com_crossyangshe_status_2103623109261881517.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -41738,7 +41784,7 @@
           "https://pbs.twimg.com/profile_images/2062087359597056000/pUtBVXRM_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-07T20:02:03"
+      "last_updated": "2026-10-07T20:02:30"
     },
     "20260925231336_twitter_com_crossyangshe_status_2103623985913319905.json": {
       "status": "done",
@@ -41799,7 +41845,7 @@
       "last_updated": "2026-10-07T19:57:27"
     },
     "20260927200546_twitter_com_crossyangshe_status_2104301491049882070.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -41808,7 +41854,7 @@
           "https://pbs.twimg.com/profile_images/2103824583262720000/FEanJ-c7_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-07T20:02:03"
+      "last_updated": "2026-10-07T20:02:31"
     },
     "20260927200724_twitter_com_crossyangshe_status_2104301903207338052.json": {
       "status": "done",
@@ -41879,7 +41925,7 @@
       "last_updated": "2026-10-07T19:57:27"
     },
     "20260927201257_twitter_com_crossyangshe_status_2104303299298300096.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -41888,7 +41934,7 @@
           "https://pbs.twimg.com/profile_images/2103770733524758528/eDiPscKO_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-07T20:02:03"
+      "last_updated": "2026-10-07T20:02:31"
     },
     "20260927201331_twitter_com_crossyangshe_status_2104303442412155106.json": {
       "status": "done",
@@ -41903,7 +41949,7 @@
       "last_updated": "2026-10-07T19:57:27"
     },
     "20260927201629_twitter_com_crossyangshe_status_2104304191032487942.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HTNei3_bkAA2H-C.jpg"
@@ -41914,10 +41960,10 @@
           "https://pbs.twimg.com/profile_images/2103825378959904768/ov_01XOC_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-07T20:02:03"
+      "last_updated": "2026-10-07T20:02:31"
     },
     "20260927201745_twitter_com_crossyangshe_status_2104304506167324766.json": {
-      "status": "unknown",
+      "status": "failed",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HTPmB0FacAEq8TP.jpg"
@@ -41928,10 +41974,10 @@
           "https://pbs.twimg.com/profile_images/2103868927441047553/0tWUwN0S_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-07T20:02:03"
+      "last_updated": "2026-10-07T20:02:33"
     },
     "20260927201948_twitter_com_crossyangshe_status_2104305026130960653.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -41940,7 +41986,7 @@
           "https://pbs.twimg.com/profile_images/2104172620275195904/Id7xbOZv_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-07T20:02:03"
+      "last_updated": "2026-10-07T20:02:31"
     },
     "20260927202051_twitter_com_crossyangshe_status_2104305287478087731.json": {
       "status": "done",
@@ -42008,7 +42054,7 @@
       "last_updated": "2026-10-07T19:57:28"
     },
     "20260927204701_twitter_com_crossyangshe_status_2104311875400012180.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -42017,7 +42063,7 @@
           "https://pbs.twimg.com/profile_images/2091678852078800896/FiyJCER3_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-07T20:02:03"
+      "last_updated": "2026-10-07T20:02:31"
     },
     "20260927210035_twitter_com_crossyangshe_status_2104315289399955649.json": {
       "status": "done",
@@ -42068,7 +42114,7 @@
       "last_updated": "2026-10-07T19:57:28"
     },
     "20260928101130_twitter_com_crossyangshe_status_2104514327440986329.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HTSJKXwaAAAelVS.jpg"
@@ -42079,7 +42125,7 @@
           "https://pbs.twimg.com/profile_images/2103009666305548288/YRVjmW6I_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-07T20:02:03"
+      "last_updated": "2026-10-07T20:02:31"
     },
     "20260928101230_twitter_com_crossyangshe_status_2104514578285760797.json": {
       "status": "done",
@@ -42096,7 +42142,7 @@
       "last_updated": "2026-10-07T19:57:28"
     },
     "20260928102025_twitter_com_crossyangshe_status_2104516570244350388.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -42105,7 +42151,7 @@
           "https://pbs.twimg.com/profile_images/2092555375119941632/i7JViKFp_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-07T20:02:03"
+      "last_updated": "2026-10-07T20:02:31"
     },
     "20260928102123_twitter_com_crossyangshe_status_2104516814390931686.json": {
       "status": "done",
@@ -42120,7 +42166,7 @@
       "last_updated": "2026-10-07T19:57:28"
     },
     "20260928102235_twitter_com_crossyangshe_status_2104517118746337360.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HTPNdh3aAAE7F3Y.jpg"
@@ -42131,7 +42177,7 @@
           "https://pbs.twimg.com/profile_images/2103136759404236800/hJgcJQ6Q_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-07T20:02:03"
+      "last_updated": "2026-10-07T20:02:31"
     },
     "20260928102340_twitter_com_crossyangshe_status_2104517389459116180.json": {
       "status": "done",
@@ -42158,7 +42204,7 @@
       "last_updated": "2026-10-07T19:57:28"
     },
     "20260928102652_twitter_com_crossyangshe_status_2104518195638059121.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HTRFq5wa0AAFoA5.jpg"
@@ -42169,7 +42215,7 @@
           "https://pbs.twimg.com/profile_images/2101306684962742272/v5Rha9Bq_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-07T20:02:03"
+      "last_updated": "2026-10-07T20:02:31"
     },
     "20260928103201_twitter_com_crossyangshe_status_2104519490243535083.json": {
       "status": "done",
@@ -42530,7 +42576,7 @@
       "last_updated": "2026-10-07T19:57:28"
     },
     "20260929205658_twitter_com_crossyangshe_status_2105039154312847417.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HTXS6QGaEAA-Awj.jpg"
@@ -42541,7 +42587,7 @@
           "https://pbs.twimg.com/profile_images/2101675924127444992/adPvqHpw_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-07T20:02:03"
+      "last_updated": "2026-10-07T20:02:31"
     },
     "20260929210407_twitter_com_crossyangshe_status_2105040950523511255.json": {
       "status": "done",
@@ -42589,7 +42635,7 @@
       "last_updated": "2026-10-07T19:57:28"
     },
     "20260929211516_twitter_com_crossyangshe_status_2105043757532070270.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HTWD-k6XIAAToZR.jpg"
@@ -42600,10 +42646,10 @@
           "https://pbs.twimg.com/profile_images/2103522442517917696/16DbwQDk_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-07T20:02:03"
+      "last_updated": "2026-10-07T20:02:31"
     },
     "20260929212157_twitter_com_crossyangshe_status_2105045439603167713.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -42612,7 +42658,7 @@
           "https://pbs.twimg.com/profile_images/2068702900038381568/FDPyXAHn_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-07T20:02:03"
+      "last_updated": "2026-10-07T20:02:31"
     },
     "20260930000806_twitter_com_crossyangshe_status_2105087251848011915.json": {
       "status": "done",
@@ -42626,7 +42672,7 @@
       "last_updated": "2026-10-07T19:57:28"
     },
     "20260930001010_twitter_com_crossyangshe_status_2105087772654760100.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -42635,7 +42681,7 @@
           "https://pbs.twimg.com/profile_images/2041124868553609216/vxjMMYj3_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-07T20:02:03"
+      "last_updated": "2026-10-07T20:02:31"
     },
     "20260930001150_twitter_com_crossyangshe_status_2105088194375201044.json": {
       "status": "done",
@@ -42649,7 +42695,7 @@
       "last_updated": "2026-10-07T19:57:28"
     },
     "20260930104045_twitter_com_crossyangshe_status_2105246465383883100.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -42658,7 +42704,7 @@
           "https://pbs.twimg.com/profile_images/2103522442517917696/16DbwQDk_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-07T20:02:03"
+      "last_updated": "2026-10-07T20:02:31"
     },
     "20260930104229_twitter_com_crossyangshe_status_2105246899922239721.json": {
       "status": "done",
@@ -42833,7 +42879,7 @@
       "last_updated": "2026-10-07T19:57:28"
     },
     "20261001102757_twitter_com_crossyangshe_status_2105605630983909689.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -42842,10 +42888,10 @@
           "https://pbs.twimg.com/profile_images/2103009666305548288/YRVjmW6I_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-07T20:02:03"
+      "last_updated": "2026-10-07T20:02:31"
     },
     "20261001103121_twitter_com_crossyangshe_status_2105606485426483624.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -42854,10 +42900,10 @@
           "https://pbs.twimg.com/profile_images/2103825378959904768/ov_01XOC_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-07T20:02:03"
+      "last_updated": "2026-10-07T20:02:31"
     },
     "20261001103324_twitter_com_crossyangshe_status_2105607002550681640.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [
@@ -42868,7 +42914,7 @@
           "https://pbs.twimg.com/profile_images/2105372923762737152/p3X5d3YI_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-07T20:02:03"
+      "last_updated": "2026-10-07T20:02:31"
     },
     "20261001164119_twitter_com_crossyangshe_status_2105699593321410864.json": {
       "status": "done",
@@ -42893,7 +42939,7 @@
       "last_updated": "2026-10-07T19:57:28"
     },
     "20261001164804_twitter_com_crossyangshe_status_2105701289489494348.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -42902,7 +42948,7 @@
           "https://pbs.twimg.com/profile_images/2103770733524758528/eDiPscKO_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-07T20:02:03"
+      "last_updated": "2026-10-07T20:02:31"
     },
     "20261001164941_twitter_com_crossyangshe_status_2105701696945127884.json": {
       "status": "done",
@@ -43031,7 +43077,7 @@
       "last_updated": "2026-10-07T19:57:28"
     },
     "20261003162904_twitter_com_crossyangshe_status_2106421284016169352.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -43040,7 +43086,7 @@
           "https://pbs.twimg.com/profile_images/2103009666305548288/YRVjmW6I_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-07T20:02:03"
+      "last_updated": "2026-10-07T20:02:31"
     },
     "20261003163019_twitter_com_crossyangshe_status_2106421600841265291.json": {
       "status": "done",
@@ -43055,7 +43101,7 @@
       "last_updated": "2026-10-07T19:57:28"
     },
     "20261003163304_twitter_com_crossyangshe_status_2106422291173363999.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HTslzrub0AAmolP.jpg"
@@ -43066,10 +43112,10 @@
           "https://pbs.twimg.com/profile_images/2105378501595648000/1hiAzsjH_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-07T20:02:03"
+      "last_updated": "2026-10-07T20:02:31"
     },
     "20261003163706_twitter_com_crossyangshe_status_2106423307088343548.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -43078,7 +43124,7 @@
           "https://pbs.twimg.com/profile_images/2093619255745085441/fnbaIHoX_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-07T20:02:03"
+      "last_updated": "2026-10-07T20:02:31"
     },
     "20261004050839_twitter_com_crossyangshe_status_2106612439274123277.json": {
       "status": "done",
@@ -43190,7 +43236,7 @@
       "last_updated": "2026-10-07T19:57:29"
     },
     "20261004053018_twitter_com_crossyangshe_status_2106617889361207429.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -43200,10 +43246,10 @@
           "https://pbs.twimg.com/profile_images/2106002437526196224/QN65Q_T4_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-07T20:02:03"
+      "last_updated": "2026-10-07T20:02:32"
     },
     "20261004054346_twitter_com_crossyangshe_status_2106621276152537246.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -43212,10 +43258,10 @@
           "https://pbs.twimg.com/profile_images/2103825378959904768/ov_01XOC_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-07T20:02:03"
+      "last_updated": "2026-10-07T20:02:31"
     },
     "20261004055103_twitter_com_crossyangshe_status_2106623112028795225.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HToILFJa0AAKbr2.jpg",
@@ -43227,10 +43273,10 @@
           "https://pbs.twimg.com/profile_images/1937052623523168256/NWtxx8z__normal.jpg"
         ]
       },
-      "last_updated": "2026-10-07T20:02:03"
+      "last_updated": "2026-10-07T20:02:31"
     },
     "20261004055223_twitter_com_crossyangshe_status_2106623448265220269.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HTsPLQxaAAACTxP.jpg"
@@ -43241,10 +43287,10 @@
           "https://pbs.twimg.com/profile_images/1797280153359499264/xavXjUcR_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-07T20:02:03"
+      "last_updated": "2026-10-07T20:02:31"
     },
     "20261004060229_twitter_com_crossyangshe_status_2106625990214726135.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HTwnKFnbIAACNhZ.jpg",
@@ -43256,7 +43302,7 @@
           "https://pbs.twimg.com/profile_images/2089971410626347008/CBvV8wvE_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-07T20:02:03"
+      "last_updated": "2026-10-07T20:02:31"
     },
     "20261004153247_twitter_com_crossyangshe_status_2106769509617218003.json": {
       "status": "done",
@@ -43314,7 +43360,7 @@
       "last_updated": "2026-10-07T19:57:29"
     },
     "20261004161303_twitter_com_crossyangshe_status_2106779644125192304.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -43324,7 +43370,7 @@
           "https://pbs.twimg.com/profile_images/2094487922905116672/jcFm84nz_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-07T20:02:03"
+      "last_updated": "2026-10-07T20:02:32"
     },
     "20261004161406_twitter_com_crossyangshe_status_2106779905212162297.json": {
       "status": "done",
@@ -43350,7 +43396,7 @@
       "last_updated": "2026-10-07T19:57:29"
     },
     "20261004161544_twitter_com_crossyangshe_status_2106780318539956628.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HTyHBq7aYAAZo7S.jpg"
@@ -43361,7 +43407,7 @@
           "https://pbs.twimg.com/profile_images/2099395002032082944/kNlF44OK_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-07T20:02:03"
+      "last_updated": "2026-10-07T20:02:32"
     },
     "20261004161633_twitter_com_crossyangshe_status_2106780523763007866.json": {
       "status": "done",
