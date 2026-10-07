@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561806114274287616",
+    "conversation_id": "2100883384327373017",
+    "created_at": "2026-09-18T16:07:45.000Z",
+    "display_text_range": [
+      12,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-18T17:07:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100980101936816453"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1974420946045071360",
+          "start": 0,
+          "username": "sunny98398"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100980101936816453",
+    "in_reply_to_user_id": "1561806114274287616",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100980027693334720",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sunny98398 AZ相信你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561806114274287616",
+        "conversation_id": "2100883384327373017",
+        "created_at": "2026-09-18T16:07:45.000Z",
+        "display_text_range": [
+          12,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T17:07:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100980101936816453"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1974420946045071360",
+              "start": 0,
+              "username": "sunny98398"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100980101936816453",
+        "in_reply_to_user_id": "1561806114274287616",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100980027693334720",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sunny98398 AZ相信你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561806114274287616",
+        "conversation_id": "2100883384327373017",
+        "created_at": "2026-09-18T16:07:27.000Z",
+        "display_text_range": [
+          12,
+          133
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T17:07:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100980027693334720"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1974420946045071360",
+              "start": 0,
+              "username": "sunny98398"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100980027693334720",
+        "in_reply_to_user_id": "1974420946045071360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100883384327373017",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sunny98398 因为去看了得了诊断就证明他们的教育是如此失败，就算你得了重度抑郁想要好好治疗到最后还会把你药丢了说吃药一点用没有用，你脑子里面在想什么啊，你有我辛苦？你天天有吃有穿还卖惨。所以啊这种事情的话还是得靠自己，去医院确诊了就拿药藏起来，靠自己慢慢来"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-08-22T20:03:01.000Z",
+        "description": "你們好呀，我是az！成分：重抑中焦/od/自傷/自殺念頭/infp-t/音遊/二游（不怎麼玩了）/端遊/最喜欢的作家是太宰治\n目前打算回归现实生活了，我真的希望陷入深渊的所有人都可以摆脱苦难，哪怕很难，但是我想试一下，要战胜逆流河，我多么无比渴望现实的美好，哪怕很难，1125306051（AZ的q群）",
+        "id": "1561806114274287616",
+        "is_identity_verified": false,
+        "location": "長沙",
+        "most_recent_tweet_id": "2100980101936816453",
+        "name": "AZ.",
+        "pinned_tweet_id": "2085780050759328158",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1561806114274287616/1786474392",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778090792390959104/-k1xKj1N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 752,
+          "following_count": 645,
+          "like_count": 6794,
+          "listed_count": 2,
+          "media_count": 228,
+          "tweet_count": 1641
+        },
+        "url": "",
+        "username": "crossyangshe",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-10-04T10:27:10.000Z",
+        "description": "觀察主頁與推文回fo｜友LGBTQ+｜同類 無發表爭議性話題必回｜我是健全人(你猜)｜不定時產出較為高深推文｜碎碎念｜主吃泡麵｜畫圖與手作｜主研究生物與一點心理學 醫學也有碰過一點｜上學中｜已有對象請勿騷擾謝謝｜負面發佈於小號 ｜@cicilngy197653｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 130,
+                "start": 115,
+                "username": "cicilngy197653"
+              }
+            ]
+          }
+        },
+        "id": "1974420946045071360",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100907874524475609",
+        "name": "濪",
+        "pinned_tweet_id": "2081484508357070991",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1974420946045071360/1774704832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085411546067562496/5VeeZkJW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 130,
+          "following_count": 134,
+          "like_count": 4085,
+          "listed_count": 0,
+          "media_count": 139,
+          "tweet_count": 1781
+        },
+        "url": "",
+        "username": "sunny98398",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

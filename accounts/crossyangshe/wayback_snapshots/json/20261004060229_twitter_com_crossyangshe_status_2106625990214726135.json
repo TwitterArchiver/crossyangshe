@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561806114274287616",
+    "conversation_id": "2106601797506969933",
+    "created_at": "2026-10-04T06:02:29.000Z",
+    "display_text_range": [
+      11,
+      40
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-04T07:02:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106625990214726135"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2075187156268773376",
+          "start": 0,
+          "username": "seaskyfor"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106625990214726135",
+    "in_reply_to_user_id": "2075187156268773376",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106601797506969933",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@seaskyfor 父母都被AZ拉黑了，估计他们下次再见到只能见到AZ的尸体了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2026,
+        "media_key": "3_2106601779962257408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTwnKFnbIAACNhZ.jpg",
+        "width": 1885
+      },
+      {
+        "height": 3225,
+        "media_key": "3_2106601788535431168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTwnKljbYAA4AXN.jpg",
+        "width": 1885
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561806114274287616",
+        "conversation_id": "2106601797506969933",
+        "created_at": "2026-10-04T06:02:29.000Z",
+        "display_text_range": [
+          11,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T07:02:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106625990214726135"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2075187156268773376",
+              "start": 0,
+              "username": "seaskyfor"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106625990214726135",
+        "in_reply_to_user_id": "2075187156268773376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106601797506969933",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@seaskyfor 父母都被AZ拉黑了，估计他们下次再见到只能见到AZ的尸体了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2106601779962257408",
+            "3_2106601788535431168"
+          ]
+        },
+        "author_id": "2075187156268773376",
+        "conversation_id": "2106601797506969933",
+        "created_at": "2026-10-04T04:26:21.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T05:26:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106601797506969933"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8Ew6boXqpa",
+              "end": 164,
+              "expanded_url": "https://x.com/seaskyfor/status/2106601797506969933/photo/1",
+              "media_key": "3_2106601779962257408",
+              "start": 141,
+              "url": "https://t.co/8Ew6boXqpa"
+            },
+            {
+              "display_url": "pic.x.com/8Ew6boXqpa",
+              "end": 164,
+              "expanded_url": "https://x.com/seaskyfor/status/2106601797506969933/photo/1",
+              "media_key": "3_2106601788535431168",
+              "start": 141,
+              "url": "https://t.co/8Ew6boXqpa"
+            },
+            {
+              "display_url": "x.com/seaskyfor/stat…",
+              "end": 188,
+              "expanded_url": "https://twitter.com/seaskyfor/status/2106599690624278565",
+              "start": 165,
+              "url": "https://t.co/5KrDh6Wxfc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106601797506969933",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2106601779962257408"
+          },
+          {
+            "media_key": "3_2106601788535431168"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 939,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106599690624278565",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "后续和他们大吵了一架   他们妥协了  作为补偿  他们给我转了3万块钱让我好好生活  \n遗憾是这些钱对我来说已经没什么必要了  18岁买得起10岁想要的玩偶  但早就失去了当初的意义\n\n单纯是恶心他们一下  至于这些钱该怎么花呢 我觉得可以换辆新车  能开到200km/h的那种 https://t.co/8Ew6boXqpa https://t.co/5KrDh6Wxfc"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-08-22T20:03:01.000Z",
+        "description": "你們好呀，我是az！成分：重抑中焦/od/自傷/自殺念頭/infp-t/音遊/二游（不怎麼玩了）/端遊/最喜欢的作家是太宰治\n目前打算回归现实生活了，我真的希望陷入深渊的所有人都可以摆脱苦难，哪怕很难，但是我想试一下，要战胜逆流河，我多么无比渴望现实的美好，哪怕很难，1125306051（AZ的q群）",
+        "id": "1561806114274287616",
+        "is_identity_verified": false,
+        "location": "長沙",
+        "most_recent_tweet_id": "2106625990214726135",
+        "name": "AZ.",
+        "pinned_tweet_id": "2085780050759328158",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1561806114274287616/1786474392",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778090792390959104/-k1xKj1N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 815,
+          "following_count": 718,
+          "like_count": 7588,
+          "listed_count": 2,
+          "media_count": 246,
+          "tweet_count": 1867
+        },
+        "url": "",
+        "username": "crossyangshe",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-09T11:57:07.000Z",
+        "description": "永远的南京城 / illusion  / 08 高三 /  crypto trader / 许你岁岁平安 / 不像女生 不是男生 / 终将成为你 / 永不失联的tg逃生仓  https://t.co/qP2RTqn4g8",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/illusion5201314",
+                "end": 110,
+                "expanded_url": "http://t.me/illusion5201314",
+                "start": 87,
+                "url": "https://t.co/qP2RTqn4g8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lanyuan",
+                "end": 23,
+                "expanded_url": "https://t.me/lanyuan",
+                "start": 0,
+                "url": "https://t.co/gXd2q9b752"
+              }
+            ]
+          }
+        },
+        "id": "2075187156268773376",
+        "is_identity_verified": false,
+        "location": "南京医科大学江宁校区",
+        "most_recent_tweet_id": "2106621312852791712",
+        "name": "ill",
+        "pinned_tweet_id": "2101563683998749090",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089971410626347008/CBvV8wvE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1466,
+          "following_count": 304,
+          "like_count": 613,
+          "listed_count": 3,
+          "media_count": 217,
+          "tweet_count": 536
+        },
+        "url": "https://t.co/gXd2q9b752",
+        "username": "seaskyfor",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

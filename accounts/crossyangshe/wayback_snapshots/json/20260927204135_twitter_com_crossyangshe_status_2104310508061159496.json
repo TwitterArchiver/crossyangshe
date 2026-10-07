@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561806114274287616",
+    "conversation_id": "2104309389616374007",
+    "created_at": "2026-09-27T20:41:35.000Z",
+    "display_text_range": [
+      0,
+      148
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-27T21:41:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104310508061159496"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2104310508061159496",
+    "in_reply_to_user_id": "1561806114274287616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104309389616374007",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "AZ的世界就只剩下你们两个了呀，你不要离开AZ好不好，你们是AZ唯一的精神支柱，AZ每天都活得很痛苦很痛苦很痛苦，只要睡着了至少还有你们可以陪你让AZ远离这残酷的世界，你们怎么不都不开心呀，AZ也不开心，你们笑一个吧逗逗AZ好不好，AZ开心不起来不能让你们笑了，我们三个就抱在一起互相取暖吧呜呜呜"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2104309357987102720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTQCNkRaAAA7Mk0.jpg",
+        "width": 3072
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2104309378539233280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTQCOw1aoAAh1zn.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561806114274287616",
+        "conversation_id": "2104309389616374007",
+        "created_at": "2026-09-27T20:41:35.000Z",
+        "display_text_range": [
+          0,
+          148
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T21:41:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104310508061159496"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2104310508061159496",
+        "in_reply_to_user_id": "1561806114274287616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104309389616374007",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "AZ的世界就只剩下你们两个了呀，你不要离开AZ好不好，你们是AZ唯一的精神支柱，AZ每天都活得很痛苦很痛苦很痛苦，只要睡着了至少还有你们可以陪你让AZ远离这残酷的世界，你们怎么不都不开心呀，AZ也不开心，你们笑一个吧逗逗AZ好不好，AZ开心不起来不能让你们笑了，我们三个就抱在一起互相取暖吧呜呜呜"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104309357987102720",
+            "3_2104309378539233280"
+          ]
+        },
+        "author_id": "1561806114274287616",
+        "conversation_id": "2104309389616374007",
+        "created_at": "2026-09-27T20:37:09.000Z",
+        "display_text_range": [
+          0,
+          61
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T21:37:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104309389616374007"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mVH6xzz3cC",
+              "end": 85,
+              "expanded_url": "https://x.com/crossyangshe/status/2104309389616374007/photo/1",
+              "media_key": "3_2104309357987102720",
+              "start": 62,
+              "url": "https://t.co/mVH6xzz3cC"
+            },
+            {
+              "display_url": "pic.x.com/mVH6xzz3cC",
+              "end": 85,
+              "expanded_url": "https://x.com/crossyangshe/status/2104309389616374007/photo/1",
+              "media_key": "3_2104309378539233280",
+              "start": 62,
+              "url": "https://t.co/mVH6xzz3cC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104309389616374007",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2104309357987102720"
+          },
+          {
+            "media_key": "3_2104309378539233280"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这个不开心的兔兔，这个不开心的可不，陪伴着不开心的AZ睡觉。这个兔子毛茸茸的，摸起来很舒服，真的可不呆呆的，袜子还经常掉。 https://t.co/mVH6xzz3cC"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-08-22T20:03:01.000Z",
+        "description": "你們好呀，我是az！成分：重抑中焦/od/自傷/自殺念頭/infp-t/音遊/二游（不怎麼玩了）/端遊/最喜欢的作家是太宰治\n目前打算回归现实生活了，我真的希望陷入深渊的所有人都可以摆脱苦难，哪怕很难，但是我想试一下，要战胜逆流河，我多么无比渴望现实的美好，哪怕很难，1125306051（AZ的q群）",
+        "id": "1561806114274287616",
+        "is_identity_verified": false,
+        "location": "長沙",
+        "most_recent_tweet_id": "2104310508061159496",
+        "name": "AZ.",
+        "pinned_tweet_id": "2085780050759328158",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1561806114274287616/1786474392",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778090792390959104/-k1xKj1N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 789,
+          "following_count": 684,
+          "like_count": 7275,
+          "listed_count": 2,
+          "media_count": 238,
+          "tweet_count": 1763
+        },
+        "url": "",
+        "username": "crossyangshe",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561806114274287616",
+    "conversation_id": "2104463756680204394",
+    "created_at": "2026-09-28T10:21:23.000Z",
+    "display_text_range": [
+      11,
+      29
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-28T11:21:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104516814390931686"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2087450430649544704",
+          "start": 0,
+          "username": "isouko125"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104516814390931686",
+    "in_reply_to_user_id": "2087450430649544704",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104463756680204394",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@isouko125 啊？是谁啊，找茬都说不出跨性别这种话"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561806114274287616",
+        "conversation_id": "2104463756680204394",
+        "created_at": "2026-09-28T10:21:23.000Z",
+        "display_text_range": [
+          11,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T11:21:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104516814390931686"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2087450430649544704",
+              "start": 0,
+              "username": "isouko125"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104516814390931686",
+        "in_reply_to_user_id": "2087450430649544704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104463756680204394",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@isouko125 啊？是谁啊，找茬都说不出跨性别这种话"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2087450430649544704",
+        "conversation_id": "2104463756680204394",
+        "created_at": "2026-09-28T06:50:33.000Z",
+        "display_text_range": [
+          0,
+          35
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T07:50:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104463756680204394"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2104463756680204394",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 77,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "真的好诡异啊在群里突然来个人莫名其妙的攻击我还说我是跨性别还给我扣帽子"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-08-22T20:03:01.000Z",
+        "description": "你們好呀，我是az！成分：重抑中焦/od/自傷/自殺念頭/infp-t/音遊/二游（不怎麼玩了）/端遊/最喜欢的作家是太宰治\n目前打算回归现实生活了，我真的希望陷入深渊的所有人都可以摆脱苦难，哪怕很难，但是我想试一下，要战胜逆流河，我多么无比渴望现实的美好，哪怕很难，1125306051（AZ的q群）",
+        "id": "1561806114274287616",
+        "is_identity_verified": false,
+        "location": "長沙",
+        "most_recent_tweet_id": "2104516814390931686",
+        "name": "AZ.",
+        "pinned_tweet_id": "2085780050759328158",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1561806114274287616/1786474392",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778090792390959104/-k1xKj1N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 787,
+          "following_count": 682,
+          "like_count": 7315,
+          "listed_count": 2,
+          "media_count": 240,
+          "tweet_count": 1772
+        },
+        "url": "",
+        "username": "crossyangshe",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-12T08:07:29.000Z",
+        "description": "双相精分焦虑asd/无性别/泛性恋/爱好/碎碎念/尼特/电波系/💊恋痛症/黑深残/啥都沾点\n同类互fo喵，大号被击毙了 ，清水推\nqq群854686674，永遠に幻想の中で溺れている\n日本語/English/한국어，这里是郁郁子二代目",
+        "id": "2087450430649544704",
+        "is_identity_verified": false,
+        "location": "宇宙",
+        "most_recent_tweet_id": "2104465077990805725",
+        "name": "鬱utsuko",
+        "pinned_tweet_id": "2096864988078215250",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2087450430649544704/1789877394",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087451503644778496/9wapZlZl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 132,
+          "following_count": 87,
+          "like_count": 1431,
+          "listed_count": 0,
+          "media_count": 74,
+          "tweet_count": 398
+        },
+        "url": "",
+        "username": "isouko125",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561806114274287616",
+    "conversation_id": "2102479942168797431",
+    "created_at": "2026-09-25T22:43:46.000Z",
+    "display_text_range": [
+      12,
+      48
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-25T23:43:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103616477819736504"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2018496315647500289",
+          "start": 0,
+          "username": "RFg1147121"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103616477819736504",
+    "in_reply_to_user_id": "2018496315647500289",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102479942168797431",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RFg1147121 再多活两个月呗，起码活到平安夜，平安夜是AZ最喜欢的节日，因为可以吃苹果"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561806114274287616",
+        "conversation_id": "2102479942168797431",
+        "created_at": "2026-09-25T22:43:46.000Z",
+        "display_text_range": [
+          12,
+          48
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T23:43:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103616477819736504"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2018496315647500289",
+              "start": 0,
+              "username": "RFg1147121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103616477819736504",
+        "in_reply_to_user_id": "2018496315647500289",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102479942168797431",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RFg1147121 再多活两个月呗，起码活到平安夜，平安夜是AZ最喜欢的节日，因为可以吃苹果"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018496315647500289",
+        "conversation_id": "2102479942168797431",
+        "created_at": "2026-09-22T19:27:35.000Z",
+        "display_text_range": [
+          0,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T20:27:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102479942168797431"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2102479942168797431",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1717,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 23,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "沒有意外十月會自sha\n請大家在此之前好好活著"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-08-22T20:03:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Changsha, Hunan, China",
+              "geo": {
+                "coordinates": [
+                  112.97087,
+                  28.19874
+                ],
+                "type": "Point"
+              },
+              "locality": "Changsha",
+              "region": "Hunan"
+            }
+          ]
+        },
+        "description": "你們好呀，我是az！成分：重抑中焦/od/自傷/自殺念頭/infp-t/音遊/二游（不怎麼玩了）/端遊/最喜欢的作家是太宰治\n目前打算回归现实生活了，我真的希望陷入深渊的所有人都可以摆脱苦难，哪怕很难，但是我想试一下，要战胜逆流河，我多么无比渴望现实的美好，哪怕很难，1125306051（AZ的q群）",
+        "id": "1561806114274287616",
+        "is_identity_verified": false,
+        "location": "長沙",
+        "most_recent_tweet_id": "2103616477819736504",
+        "name": "AZ.",
+        "pinned_tweet_id": "2085780050759328158",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1561806114274287616/1786474392",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778090792390959104/-k1xKj1N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 788,
+          "following_count": 683,
+          "like_count": 7165,
+          "listed_count": 2,
+          "media_count": 235,
+          "tweet_count": 1731
+        },
+        "url": "",
+        "username": "crossyangshe",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-02-03T01:30:29.000Z",
+        "description": "一个希望能够拯救大家的100%小男孩）\n可以叫我喵弟\n內容負面不喜勿喷\n我系100%🇭🇰本地人喔",
+        "id": "2018496315647500289",
+        "is_identity_verified": false,
+        "location": "天堂",
+        "most_recent_tweet_id": "2103529182005506454",
+        "name": "Михоша",
+        "pinned_tweet_id": "2102479942168797431",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2018496315647500289/1784386569",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061983051593461760/Z-a20rjF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112,
+          "following_count": 134,
+          "like_count": 1385,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 910
+        },
+        "url": "",
+        "username": "RFg1147121",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

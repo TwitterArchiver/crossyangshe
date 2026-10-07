@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561806114274287616",
+    "conversation_id": "2103600995020472798",
+    "created_at": "2026-09-25T22:45:54.000Z",
+    "display_text_range": [
+      10,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-25T23:45:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103617015957393713"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2030021360785694720",
+          "start": 0,
+          "username": "iris0571"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103617015957393713",
+    "in_reply_to_user_id": "2030021360785694720",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103600995020472798",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@iris0571 给你开666感冒灵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561806114274287616",
+        "conversation_id": "2103600995020472798",
+        "created_at": "2026-09-25T22:45:54.000Z",
+        "display_text_range": [
+          10,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T23:45:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103617015957393713"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2030021360785694720",
+              "start": 0,
+              "username": "iris0571"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103617015957393713",
+        "in_reply_to_user_id": "2030021360785694720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103600995020472798",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@iris0571 给你开666感冒灵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2030021360785694720",
+        "conversation_id": "2103600995020472798",
+        "created_at": "2026-09-25T21:42:14.000Z",
+        "display_text_range": [
+          0,
+          8
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T22:42:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103600995020472798"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2103600995020472798",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "医生我一直在咳嗽"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-08-22T20:03:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Changsha, Hunan, China",
+              "geo": {
+                "coordinates": [
+                  112.97087,
+                  28.19874
+                ],
+                "type": "Point"
+              },
+              "locality": "Changsha",
+              "region": "Hunan"
+            }
+          ]
+        },
+        "description": "你們好呀，我是az！成分：重抑中焦/od/自傷/自殺念頭/infp-t/音遊/二游（不怎麼玩了）/端遊/最喜欢的作家是太宰治\n目前打算回归现实生活了，我真的希望陷入深渊的所有人都可以摆脱苦难，哪怕很难，但是我想试一下，要战胜逆流河，我多么无比渴望现实的美好，哪怕很难，1125306051（AZ的q群）",
+        "id": "1561806114274287616",
+        "is_identity_verified": false,
+        "location": "長沙",
+        "most_recent_tweet_id": "2103617015957393713",
+        "name": "AZ.",
+        "pinned_tweet_id": "2085780050759328158",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1561806114274287616/1786474392",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778090792390959104/-k1xKj1N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 788,
+          "following_count": 683,
+          "like_count": 7173,
+          "listed_count": 2,
+          "media_count": 235,
+          "tweet_count": 1733
+        },
+        "url": "",
+        "username": "crossyangshe",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-06T20:44:15.000Z",
+        "description": "oder/🏳️‍🌈/bpd/偏执狂/🩸/🚬/tcc/08/安那其妈妈/长发男/许珀耳玻瑞亚游牧中",
+        "id": "2030021360785694720",
+        "is_identity_verified": false,
+        "location": "千高原",
+        "most_recent_tweet_id": "2103600995020472798",
+        "name": "la mort🏴",
+        "pinned_tweet_id": "2103391828166992210",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2030021360785694720/1788745413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096672324552712192/157kREMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 84,
+          "like_count": 1963,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 140
+        },
+        "url": "",
+        "username": "iris0571",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

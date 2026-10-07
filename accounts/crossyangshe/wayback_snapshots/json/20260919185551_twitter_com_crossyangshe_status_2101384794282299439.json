@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561806114274287616",
+    "conversation_id": "2101381146970030226",
+    "created_at": "2026-09-19T18:55:51.000Z",
+    "display_text_range": [
+      17,
+      38
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-19T19:55:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101384794282299439"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1988669689543946240",
+          "start": 0,
+          "username": "MSg1aaMEBC90676"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101384794282299439",
+    "in_reply_to_user_id": "1988669689543946240",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101382754776814063",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MSg1aaMEBC90676 得个肺癌早点死掉的事最好了，反正也不想活了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561806114274287616",
+        "conversation_id": "2101381146970030226",
+        "created_at": "2026-09-19T18:55:51.000Z",
+        "display_text_range": [
+          17,
+          38
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T19:55:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101384794282299439"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1988669689543946240",
+              "start": 0,
+              "username": "MSg1aaMEBC90676"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101384794282299439",
+        "in_reply_to_user_id": "1988669689543946240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101382754776814063",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MSg1aaMEBC90676 得个肺癌早点死掉的事最好了，反正也不想活了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988669689543946240",
+        "conversation_id": "2101381146970030226",
+        "created_at": "2026-09-19T18:47:45.000Z",
+        "display_text_range": [
+          14,
+          43
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T19:47:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101382754776814063"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1561806114274287616",
+              "start": 0,
+              "username": "crossyangshe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101382754776814063",
+        "in_reply_to_user_id": "1561806114274287616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101381146970030226",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@crossyangshe 很想试试烟但是家里有亲戚因为这个一半肺都没有了。害怕ing"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-08-22T20:03:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Changsha, Hunan, China",
+              "geo": {
+                "coordinates": [
+                  112.97087,
+                  28.19874
+                ],
+                "type": "Point"
+              },
+              "locality": "Changsha",
+              "region": "Hunan"
+            }
+          ]
+        },
+        "description": "你們好呀，我是az！成分：重抑中焦/od/自傷/自殺念頭/infp-t/音遊/二游（不怎麼玩了）/端遊/最喜欢的作家是太宰治\n目前打算回归现实生活了，我真的希望陷入深渊的所有人都可以摆脱苦难，哪怕很难，但是我想试一下，要战胜逆流河，我多么无比渴望现实的美好，哪怕很难，1125306051（AZ的q群）",
+        "id": "1561806114274287616",
+        "is_identity_verified": false,
+        "location": "長沙",
+        "most_recent_tweet_id": "2101384794282299439",
+        "name": "AZ.",
+        "pinned_tweet_id": "2085780050759328158",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1561806114274287616/1786474392",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778090792390959104/-k1xKj1N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 764,
+          "following_count": 660,
+          "like_count": 6868,
+          "listed_count": 2,
+          "media_count": 229,
+          "tweet_count": 1659
+        },
+        "url": "",
+        "username": "crossyangshe",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-11-12T18:06:37.000Z",
+        "description": "不喜欢被叫宝宝\n随机回消息 不会提供情绪价值",
+        "id": "1988669689543946240",
+        "is_identity_verified": false,
+        "location": "お墓",
+        "most_recent_tweet_id": "2101382754776814063",
+        "name": "C",
+        "pinned_tweet_id": "2101358479114133672",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2099863843078115328/OzDdPsOO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 134,
+          "following_count": 79,
+          "like_count": 1779,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 887
+        },
+        "url": "",
+        "username": "MSg1aaMEBC90676",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

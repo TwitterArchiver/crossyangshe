@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561806114274287616",
+    "conversation_id": "2101291359776989468",
+    "created_at": "2026-09-19T18:52:30.000Z",
+    "display_text_range": [
+      13,
+      59
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-19T19:52:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101383950820426074"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2098055160480280576",
+          "start": 0,
+          "username": "Y_0102_Zero"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101383950820426074",
+    "in_reply_to_user_id": "2098055160480280576",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101291359776989468",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Y_0102_Zero 想起5月份当时原本想去河边打算跳河的，水面汹涌的样子，看旁边有人在钓鱼怕吓到别人就不打算跳了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1919,
+        "media_key": "3_2101291354358009858",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSlJWoob0AIwL7o.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561806114274287616",
+        "conversation_id": "2101291359776989468",
+        "created_at": "2026-09-19T18:52:30.000Z",
+        "display_text_range": [
+          13,
+          59
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T19:52:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101383950820426074"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2098055160480280576",
+              "start": 0,
+              "username": "Y_0102_Zero"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101383950820426074",
+        "in_reply_to_user_id": "2098055160480280576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101291359776989468",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Y_0102_Zero 想起5月份当时原本想去河边打算跳河的，水面汹涌的样子，看旁边有人在钓鱼怕吓到别人就不打算跳了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2101291354358009858"
+          ]
+        },
+        "author_id": "2098055160480280576",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2101291359776989468",
+        "created_at": "2026-09-19T12:44:34.000Z",
+        "display_text_range": [
+          0,
+          5
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T13:44:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101291359776989468"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NMEvC57ufN",
+              "end": 29,
+              "expanded_url": "https://x.com/Y_0102_Zero/status/2101291359776989468/photo/1",
+              "media_key": "3_2101291354358009858",
+              "start": 6,
+              "url": "https://t.co/NMEvC57ufN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101291359776989468",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2101291354358009858"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 44,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "听水声好爽 https://t.co/NMEvC57ufN"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-08-22T20:03:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Changsha, Hunan, China",
+              "geo": {
+                "coordinates": [
+                  112.97087,
+                  28.19874
+                ],
+                "type": "Point"
+              },
+              "locality": "Changsha",
+              "region": "Hunan"
+            }
+          ]
+        },
+        "description": "你們好呀，我是az！成分：重抑中焦/od/自傷/自殺念頭/infp-t/音遊/二游（不怎麼玩了）/端遊/最喜欢的作家是太宰治\n目前打算回归现实生活了，我真的希望陷入深渊的所有人都可以摆脱苦难，哪怕很难，但是我想试一下，要战胜逆流河，我多么无比渴望现实的美好，哪怕很难，1125306051（AZ的q群）",
+        "id": "1561806114274287616",
+        "is_identity_verified": false,
+        "location": "長沙",
+        "most_recent_tweet_id": "2101383950820426074",
+        "name": "AZ.",
+        "pinned_tweet_id": "2085780050759328158",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1561806114274287616/1786474392",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778090792390959104/-k1xKj1N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 764,
+          "following_count": 660,
+          "like_count": 6859,
+          "listed_count": 2,
+          "media_count": 229,
+          "tweet_count": 1657
+        },
+        "url": "",
+        "username": "crossyangshe",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-09-10T14:27:56.000Z",
+        "description": "もう二度と顔も見たくないってくらいに\n最低最悪な僕になれたかな？",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shimakwaii",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shimakwaii",
+                "start": 0,
+                "url": "https://t.co/pzP4rIUIMN"
+              }
+            ]
+          }
+        },
+        "id": "2098055160480280576",
+        "is_identity_verified": false,
+        "location": "幸せ？",
+        "most_recent_tweet_id": "2101291359776989468",
+        "name": "下手くそな恋も終わり",
+        "pinned_tweet_id": "2098065080181289460",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2098055160480280576/1789050662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098056313330921472/fZVMYsyY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 25,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 64
+        },
+        "url": "https://t.co/pzP4rIUIMN",
+        "username": "Y_0102_Zero",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

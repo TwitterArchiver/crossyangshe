@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561806114274287616",
+    "conversation_id": "2104296873028907361",
+    "created_at": "2026-09-27T20:47:01.000Z",
+    "display_text_range": [
+      15,
+      32
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-27T21:47:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104311875400012180"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1868781247461572611",
+          "start": 0,
+          "username": "4foRaiin44444"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104311875400012180",
+    "in_reply_to_user_id": "1868781247461572611",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104296873028907361",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@4foRaiin44444 药要好好吃的，生活嘛，哎，感同身受"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561806114274287616",
+        "conversation_id": "2104296873028907361",
+        "created_at": "2026-09-27T20:47:01.000Z",
+        "display_text_range": [
+          15,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T21:47:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104311875400012180"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1868781247461572611",
+              "start": 0,
+              "username": "4foRaiin44444"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104311875400012180",
+        "in_reply_to_user_id": "1868781247461572611",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104296873028907361",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@4foRaiin44444 药要好好吃的，生活嘛，哎，感同身受"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868781247461572611",
+        "conversation_id": "2104296873028907361",
+        "created_at": "2026-09-27T19:47:25.000Z",
+        "display_text_range": [
+          0,
+          138
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T20:47:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104296873028907361"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2104296873028907361",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一想到明天还要起床还要吃饭还要洗澡我就好累，就算是这么简单的事就算有人给我做饭就算有人在关心我，但是我真的好累我又开始乱想了，感觉想到什么都会烦躁疲惫，我不知道还该不该吃药，我再继续吃究竟是在自救还是自毁，我真的有病吗，我真的不是只是因为懒因为不想好好生活而装病吗，我不知道。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-08-22T20:03:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Changsha, Hunan, China",
+              "geo": {
+                "coordinates": [
+                  112.97087,
+                  28.19874
+                ],
+                "type": "Point"
+              },
+              "locality": "Changsha",
+              "region": "Hunan"
+            }
+          ]
+        },
+        "description": "你們好呀，我是az！成分：重抑中焦/od/自傷/自殺念頭/infp-t/音遊/二游（不怎麼玩了）/端遊/最喜欢的作家是太宰治\n目前打算回归现实生活了，我真的希望陷入深渊的所有人都可以摆脱苦难，哪怕很难，但是我想试一下，要战胜逆流河，我多么无比渴望现实的美好，哪怕很难，1125306051（AZ的q群）",
+        "id": "1561806114274287616",
+        "is_identity_verified": false,
+        "location": "長沙",
+        "most_recent_tweet_id": "2104311875400012180",
+        "name": "AZ.",
+        "pinned_tweet_id": "2085780050759328158",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1561806114274287616/1786474392",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778090792390959104/-k1xKj1N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 789,
+          "following_count": 685,
+          "like_count": 7279,
+          "listed_count": 2,
+          "media_count": 238,
+          "tweet_count": 1764
+        },
+        "url": "",
+        "username": "crossyangshe",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-12-16T22:12:49.000Z",
+        "description": "讨厌自己的一个人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/4raiiin/bit",
+                "end": 23,
+                "expanded_url": "https://ngl.link/4raiiin/bit",
+                "start": 0,
+                "url": "https://t.co/yNZdTYJUM9"
+              }
+            ]
+          }
+        },
+        "id": "1868781247461572611",
+        "is_identity_verified": false,
+        "location": "重特兰大",
+        "most_recent_tweet_id": "2104311352764645799",
+        "name": "4foRaiin",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1868781247461572611/1785704935",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091678852078800896/FiyJCER3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 273,
+          "like_count": 797,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 100
+        },
+        "url": "https://t.co/yNZdTYJUM9",
+        "username": "4foRaiin44444",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

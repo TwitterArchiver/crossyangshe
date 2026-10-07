@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561806114274287616",
+    "conversation_id": "2101825503930057131",
+    "created_at": "2026-09-21T20:34:35.000Z",
+    "display_text_range": [
+      13,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-21T21:34:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102134416055456107"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1775846129243942912",
+          "start": 0,
+          "username": "yelai431420"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102134416055456107",
+    "in_reply_to_user_id": "1775846129243942912",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101825503930057131",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yelai431420 看到AZ了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2800,
+        "media_key": "3_2101825483210166272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSsvJBqbEAA9AQk.jpg",
+        "width": 2800
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561806114274287616",
+        "conversation_id": "2101825503930057131",
+        "created_at": "2026-09-21T20:34:35.000Z",
+        "display_text_range": [
+          13,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T21:34:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102134416055456107"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1775846129243942912",
+              "start": 0,
+              "username": "yelai431420"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102134416055456107",
+        "in_reply_to_user_id": "1775846129243942912",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101825503930057131",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yelai431420 看到AZ了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2101825483210166272"
+          ]
+        },
+        "author_id": "1775846129243942912",
+        "conversation_id": "2101825503930057131",
+        "created_at": "2026-09-21T00:07:04.000Z",
+        "display_text_range": [
+          0,
+          55
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T01:07:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101825503930057131"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "分析你的 X 互动圈，找出最活跃的互动用户",
+              "display_url": "circle.catsuki.cc/zh/circle/p48b…",
+              "end": 37,
+              "expanded_url": "https://circle.catsuki.cc/zh/circle/p48bv5ov",
+              "start": 14,
+              "status": 200,
+              "title": "X 互动圈生成器 — NekoCircle",
+              "unwound_url": "https://circle.catsuki.cc/zh/circle/p48bv5ov",
+              "url": "https://t.co/YT6JoBIlSu"
+            },
+            {
+              "display_url": "pic.x.com/Zlrhq7PoEk",
+              "end": 79,
+              "expanded_url": "https://x.com/yelai431420/status/2101825503930057131/photo/1",
+              "media_key": "3_2101825483210166272",
+              "start": 56,
+              "url": "https://t.co/Zlrhq7PoEk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101825503930057131",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2101825483210166272"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 326,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的推特圈!\n快速寻找自己 https://t.co/YT6JoBIlSu\n使用 NekoCircle 创建! https://t.co/Zlrhq7PoEk"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-08-22T20:03:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Changsha, Hunan, China",
+              "geo": {
+                "coordinates": [
+                  112.97087,
+                  28.19874
+                ],
+                "type": "Point"
+              },
+              "locality": "Changsha",
+              "region": "Hunan"
+            }
+          ]
+        },
+        "description": "你們好呀，我是az！成分：重抑中焦/od/自傷/自殺念頭/infp-t/音遊/二游（不怎麼玩了）/端遊/最喜欢的作家是太宰治\n目前打算回归现实生活了，我真的希望陷入深渊的所有人都可以摆脱苦难，哪怕很难，但是我想试一下，要战胜逆流河，我多么无比渴望现实的美好，哪怕很难，1125306051（AZ的q群）",
+        "id": "1561806114274287616",
+        "is_identity_verified": false,
+        "location": "長沙",
+        "most_recent_tweet_id": "2102134416055456107",
+        "name": "AZ.",
+        "pinned_tweet_id": "2085780050759328158",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1561806114274287616/1786474392",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778090792390959104/-k1xKj1N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 778,
+          "following_count": 673,
+          "like_count": 6991,
+          "listed_count": 2,
+          "media_count": 229,
+          "tweet_count": 1685
+        },
+        "url": "",
+        "username": "crossyangshe",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-04-04T11:21:36.000Z",
+        "description": "/💊💉🩸/略人机构幸存者/理性崩塌/",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yalailinlin",
+                "end": 23,
+                "expanded_url": "https://t.me/yalailinlin",
+                "start": 0,
+                "url": "https://t.co/yiPFTgeP3T"
+              }
+            ]
+          }
+        },
+        "id": "1775846129243942912",
+        "is_identity_verified": false,
+        "location": "Please just have laugh withme",
+        "most_recent_tweet_id": "2102054627319660853",
+        "name": "yella Iwase～天仓五",
+        "pinned_tweet_id": "2080162737750188215",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1775846129243942912/1784987105",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005233648988303360/Y2SDBKng_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 347,
+          "following_count": 347,
+          "like_count": 4089,
+          "listed_count": 0,
+          "media_count": 106,
+          "tweet_count": 846
+        },
+        "url": "https://t.co/yiPFTgeP3T",
+        "username": "yelai431420",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561806114274287616",
+    "conversation_id": "2101928264814231877",
+    "created_at": "2026-09-21T20:25:28.000Z",
+    "display_text_range": [
+      16,
+      24
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-21T21:25:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102132123134251245"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1507522456180854784",
+          "start": 0,
+          "username": "drug_artistgod"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102132123134251245",
+    "in_reply_to_user_id": "1507522456180854784",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101928264814231877",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@drug_artistgod 那要是成功了呢？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561806114274287616",
+        "conversation_id": "2101928264814231877",
+        "created_at": "2026-09-21T20:25:28.000Z",
+        "display_text_range": [
+          16,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T21:25:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102132123134251245"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1507522456180854784",
+              "start": 0,
+              "username": "drug_artistgod"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102132123134251245",
+        "in_reply_to_user_id": "1507522456180854784",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101928264814231877",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@drug_artistgod 那要是成功了呢？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1507522456180854784",
+        "conversation_id": "2101928264814231877",
+        "created_at": "2026-09-21T06:55:24.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T07:55:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101928264814231877"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2101928264814231877",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 8095,
+          "like_count": 192,
+          "quote_count": 5,
+          "reply_count": 21,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "真的不要自杀 各位\n自杀成功痛苦留给在意你的生者\n自杀失败只会更痛苦 你身边人也是\n这会导致你众叛亲离 真的\n这是我亲身经历得到的教训\n自杀还会导致很多\n你无法接受的巨大损失\n这次因为一次自杀 损失惨重\n需要给几天内部重新整修梳理一下\n好烦头好疼\n对接下来的事情没有任何头绪和规划"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-08-22T20:03:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Changsha, Hunan, China",
+              "geo": {
+                "coordinates": [
+                  112.97087,
+                  28.19874
+                ],
+                "type": "Point"
+              },
+              "locality": "Changsha",
+              "region": "Hunan"
+            }
+          ]
+        },
+        "description": "你們好呀，我是az！成分：重抑中焦/od/自傷/自殺念頭/infp-t/音遊/二游（不怎麼玩了）/端遊/最喜欢的作家是太宰治\n目前打算回归现实生活了，我真的希望陷入深渊的所有人都可以摆脱苦难，哪怕很难，但是我想试一下，要战胜逆流河，我多么无比渴望现实的美好，哪怕很难，1125306051（AZ的q群）",
+        "id": "1561806114274287616",
+        "is_identity_verified": false,
+        "location": "長沙",
+        "most_recent_tweet_id": "2102132123134251245",
+        "name": "AZ.",
+        "pinned_tweet_id": "2085780050759328158",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1561806114274287616/1786474392",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778090792390959104/-k1xKj1N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 778,
+          "following_count": 673,
+          "like_count": 6980,
+          "listed_count": 2,
+          "media_count": 229,
+          "tweet_count": 1682
+        },
+        "url": "",
+        "username": "crossyangshe",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-03-26T00:59:12.000Z",
+        "description": "前药物百科wiki主|投稿报告请私信我|4i男娘INFPI|愿每一位药物滥用者都能脱离深渊|\n提供药物/精神病咨询|im crazy! 年号雨玄二年\n名人堂梦工厂-沐雨 零售试剂产品联系我的https://t.co/QsZVHyAmQG \n我的双子星：@qiyueqiye11",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 138,
+                "start": 126,
+                "username": "qiyueqiye11"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/drug_artist",
+                "end": 118,
+                "expanded_url": "http://t.me/drug_artist",
+                "start": 95,
+                "url": "https://t.co/QsZVHyAmQG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/fB5xuitaE8"
+              }
+            ]
+          }
+        },
+        "id": "1507522456180854784",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2102013263240196200",
+        "name": "沐雨#角宿一",
+        "pinned_tweet_id": "2101933820400615857",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1507522456180854784/1789971709",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101919809571373056/SrVBDs-E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 132,
+          "following_count": 42,
+          "like_count": 28,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 13
+        },
+        "url": "https://t.co/fB5xuitaE8",
+        "username": "drug_artistgod",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

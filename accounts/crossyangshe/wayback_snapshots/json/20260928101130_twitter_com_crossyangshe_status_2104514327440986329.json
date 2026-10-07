@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561806114274287616",
+    "conversation_id": "2104457743352680891",
+    "created_at": "2026-09-28T10:11:30.000Z",
+    "display_text_range": [
+      7,
+      11
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-28T11:11:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104514327440986329"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "2097464710199377920",
+          "start": 0,
+          "username": "dx0zo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104514327440986329",
+    "in_reply_to_user_id": "2097464710199377920",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104457743352680891",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dx0zo 恭喜呀！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 867,
+        "media_key": "3_2104457737157607424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTSJKXwaAAAelVS.jpg",
+        "width": 1862
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561806114274287616",
+        "conversation_id": "2104457743352680891",
+        "created_at": "2026-09-28T10:11:30.000Z",
+        "display_text_range": [
+          7,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T11:11:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104514327440986329"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "2097464710199377920",
+              "start": 0,
+              "username": "dx0zo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104514327440986329",
+        "in_reply_to_user_id": "2097464710199377920",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104457743352680891",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dx0zo 恭喜呀！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104457737157607424"
+          ]
+        },
+        "author_id": "2097464710199377920",
+        "conversation_id": "2104457743352680891",
+        "created_at": "2026-09-28T06:26:39.000Z",
+        "display_text_range": [
+          0,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T07:26:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104457743352680891"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wq9W1bXBkl",
+              "end": 42,
+              "expanded_url": "https://x.com/dx0zo/status/2104457743352680891/photo/1",
+              "media_key": "3_2104457737157607424",
+              "start": 19,
+              "url": "https://t.co/wq9W1bXBkl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104457743352680891",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2104457737157607424"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 463,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 25,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🎉1000fo🎉\n🙏感谢大家的支持🙏 https://t.co/wq9W1bXBkl"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-08-22T20:03:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Changsha, Hunan, China",
+              "geo": {
+                "coordinates": [
+                  112.97087,
+                  28.19874
+                ],
+                "type": "Point"
+              },
+              "locality": "Changsha",
+              "region": "Hunan"
+            }
+          ]
+        },
+        "description": "你們好呀，我是az！成分：重抑中焦/od/自傷/自殺念頭/infp-t/音遊/二游（不怎麼玩了）/端遊/最喜欢的作家是太宰治\n目前打算回归现实生活了，我真的希望陷入深渊的所有人都可以摆脱苦难，哪怕很难，但是我想试一下，要战胜逆流河，我多么无比渴望现实的美好，哪怕很难，1125306051（AZ的q群）",
+        "id": "1561806114274287616",
+        "is_identity_verified": false,
+        "location": "長沙",
+        "most_recent_tweet_id": "2104514327440986329",
+        "name": "AZ.",
+        "pinned_tweet_id": "2085780050759328158",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1561806114274287616/1786474392",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778090792390959104/-k1xKj1N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 787,
+          "following_count": 682,
+          "like_count": 7287,
+          "listed_count": 2,
+          "media_count": 240,
+          "tweet_count": 1769
+        },
+        "url": "",
+        "username": "crossyangshe",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-09-08T23:20:28.000Z",
+        "description": "|01年|9年中度抑郁焦虑|辞职躺平中|懒狗INFP|",
+        "id": "2097464710199377920",
+        "is_identity_verified": false,
+        "location": "家里蹲有限公司",
+        "most_recent_tweet_id": "2104475152335646770",
+        "name": "西酞普兰",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2097464710199377920/1789561313",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2103009666305548288/YRVjmW6I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1039,
+          "following_count": 1025,
+          "like_count": 175,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 737
+        },
+        "url": "",
+        "username": "dx0zo",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561806114274287616",
+    "conversation_id": "2104278378530627903",
+    "created_at": "2026-09-27T20:17:45.000Z",
+    "display_text_range": [
+      15,
+      36
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-27T21:17:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104304506167324766"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2055352445514227713",
+          "start": 0,
+          "username": "jiangchuanlan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104304506167324766",
+    "in_reply_to_user_id": "2055352445514227713",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104278378530627903",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jiangchuanlan 其实没有关系的，忍着痛过几天它就自己消掉了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2104278369747759105",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTPmB0FacAEq8TP.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561806114274287616",
+        "conversation_id": "2104278378530627903",
+        "created_at": "2026-09-27T20:17:45.000Z",
+        "display_text_range": [
+          15,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T21:17:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104304506167324766"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2055352445514227713",
+              "start": 0,
+              "username": "jiangchuanlan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104304506167324766",
+        "in_reply_to_user_id": "2055352445514227713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104278378530627903",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiangchuanlan 其实没有关系的，忍着痛过几天它就自己消掉了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104278369747759105"
+          ]
+        },
+        "author_id": "2055352445514227713",
+        "conversation_id": "2104278378530627903",
+        "created_at": "2026-09-27T18:33:55.000Z",
+        "display_text_range": [
+          0,
+          86
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T19:33:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104278378530627903"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Jule0QKlRy",
+              "end": 110,
+              "expanded_url": "https://x.com/jiangchuanlan/status/2104278378530627903/photo/1",
+              "media_key": "3_2104278369747759105",
+              "start": 87,
+              "url": "https://t.co/Jule0QKlRy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104278378530627903",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2104278369747759105"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "鼻子上有一个很大的痘 我哭了。😡\n每次碰到都很痛😓😓😓 我想挤了 但是想起来之前看新闻 说挤鼻子周围的痘痘可能会什么感染 然后死掉 并且还这么多案例 吓得我 不敢招惹😓😓😓 https://t.co/Jule0QKlRy"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-08-22T20:03:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Changsha, Hunan, China",
+              "geo": {
+                "coordinates": [
+                  112.97087,
+                  28.19874
+                ],
+                "type": "Point"
+              },
+              "locality": "Changsha",
+              "region": "Hunan"
+            }
+          ]
+        },
+        "description": "你們好呀，我是az！成分：重抑中焦/od/自傷/自殺念頭/infp-t/音遊/二游（不怎麼玩了）/端遊/最喜欢的作家是太宰治\n目前打算回归现实生活了，我真的希望陷入深渊的所有人都可以摆脱苦难，哪怕很难，但是我想试一下，要战胜逆流河，我多么无比渴望现实的美好，哪怕很难，1125306051（AZ的q群）",
+        "id": "1561806114274287616",
+        "is_identity_verified": false,
+        "location": "長沙",
+        "most_recent_tweet_id": "2104304506167324766",
+        "name": "AZ.",
+        "pinned_tweet_id": "2085780050759328158",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1561806114274287616/1786474392",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778090792390959104/-k1xKj1N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 789,
+          "following_count": 684,
+          "like_count": 7259,
+          "listed_count": 2,
+          "media_count": 237,
+          "tweet_count": 1757
+        },
+        "url": "",
+        "username": "crossyangshe",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-15T18:20:44.000Z",
+        "description": "可以叫我蒋川澜 14 初三\n平时喜欢国家题材的东西  平时没什么讨厌的 不怎么磕cp \n特别喜欢：亚瑟柯克兰 江泽民 褚嬴\n一个生活在岭南的人类",
+        "id": "2055352445514227713",
+        "is_identity_verified": false,
+        "location": "廣東",
+        "most_recent_tweet_id": "2104278378530627903",
+        "name": "彈川瀾",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2055352445514227713/1788447180",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2103868927441047553/0tWUwN0S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 29,
+          "like_count": 3476,
+          "listed_count": 1,
+          "media_count": 65,
+          "tweet_count": 421
+        },
+        "url": "",
+        "username": "jiangchuanlan",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

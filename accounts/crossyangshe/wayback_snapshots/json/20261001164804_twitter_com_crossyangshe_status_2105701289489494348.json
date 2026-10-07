@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561806114274287616",
+    "conversation_id": "2105250962915119241",
+    "created_at": "2026-10-01T16:48:04.000Z",
+    "display_text_range": [
+      12,
+      22
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-01T17:48:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105701289489494348"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2021385985612001280",
+          "start": 0,
+          "username": "msksml8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105701289489494348",
+    "in_reply_to_user_id": "2021385985612001280",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105630539499929981",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@msksml8964 谢谢你把AZ当作朋友"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561806114274287616",
+        "conversation_id": "2105250962915119241",
+        "created_at": "2026-10-01T16:48:04.000Z",
+        "display_text_range": [
+          12,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T17:48:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105701289489494348"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2021385985612001280",
+              "start": 0,
+              "username": "msksml8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105701289489494348",
+        "in_reply_to_user_id": "2021385985612001280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105630539499929981",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@msksml8964 谢谢你把AZ当作朋友"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2021385985612001280",
+        "conversation_id": "2105250962915119241",
+        "created_at": "2026-10-01T12:06:55.000Z",
+        "display_text_range": [
+          14,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T13:06:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105630539499929981"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1561806114274287616",
+              "start": 0,
+              "username": "crossyangshe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105630539499929981",
+        "in_reply_to_user_id": "1561806114274287616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105250962915119241",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@crossyangshe 谢谢🥺az真是我最好的朋友……"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-08-22T20:03:01.000Z",
+        "description": "你們好呀，我是az！成分：重抑中焦/od/自傷/自殺念頭/infp-t/音遊/二游（不怎麼玩了）/端遊/最喜欢的作家是太宰治\n目前打算回归现实生活了，我真的希望陷入深渊的所有人都可以摆脱苦难，哪怕很难，但是我想试一下，要战胜逆流河，我多么无比渴望现实的美好，哪怕很难，1125306051（AZ的q群）",
+        "id": "1561806114274287616",
+        "is_identity_verified": false,
+        "location": "長沙",
+        "most_recent_tweet_id": "2105701289489494348",
+        "name": "AZ.",
+        "pinned_tweet_id": "2085780050759328158",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1561806114274287616/1786474392",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778090792390959104/-k1xKj1N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 802,
+          "following_count": 700,
+          "like_count": 7488,
+          "listed_count": 2,
+          "media_count": 242,
+          "tweet_count": 1838
+        },
+        "url": "",
+        "username": "crossyangshe",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-02-11T00:49:25.000Z",
+        "description": "梦想是和所有人成为朋友！！！！\n“你可听到人们在唱愤怒的人群歌声嘹亮……”",
+        "id": "2021385985612001280",
+        "is_identity_verified": false,
+        "location": "0.1km",
+        "most_recent_tweet_id": "2105690807114338332",
+        "name": "偷面包的米格鲁",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2021385985612001280/1770771337",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2103770733524758528/eDiPscKO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 166,
+          "following_count": 753,
+          "like_count": 5762,
+          "listed_count": 0,
+          "media_count": 323,
+          "tweet_count": 2944
+        },
+        "url": "",
+        "username": "msksml8964",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

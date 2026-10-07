@@ -1,0 +1,326 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561806114274287616",
+    "conversation_id": "2106612863129251848",
+    "created_at": "2026-10-04T16:13:03.000Z",
+    "display_text_range": [
+      24,
+      59
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-04T17:13:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106779644125192304"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2059995381115842560",
+          "start": 0,
+          "username": "me1tingsnow"
+        },
+        {
+          "end": 23,
+          "id": "2094487614992814080",
+          "start": 13,
+          "username": "painun1is"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106779644125192304",
+    "in_reply_to_user_id": "2059995381115842560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106769707147956341",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@me1tingsnow @painun1is 实际上是因为冰箱根本没有电，然后房间里没有多余的柜子，所以只能放冰箱里"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561806114274287616",
+        "conversation_id": "2106612863129251848",
+        "created_at": "2026-10-04T16:13:03.000Z",
+        "display_text_range": [
+          24,
+          59
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T17:13:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106779644125192304"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2059995381115842560",
+              "start": 0,
+              "username": "me1tingsnow"
+            },
+            {
+              "end": 23,
+              "id": "2094487614992814080",
+              "start": 13,
+              "username": "painun1is"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106779644125192304",
+        "in_reply_to_user_id": "2059995381115842560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106769707147956341",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@me1tingsnow @painun1is 实际上是因为冰箱根本没有电，然后房间里没有多余的柜子，所以只能放冰箱里"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059995381115842560",
+        "conversation_id": "2106612863129251848",
+        "created_at": "2026-10-04T15:33:34.000Z",
+        "display_text_range": [
+          25,
+          54
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T16:33:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106769707147956341"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2094487614992814080",
+              "start": 0,
+              "username": "painun1is"
+            },
+            {
+              "end": 24,
+              "id": "1561806114274287616",
+              "start": 11,
+              "username": "crossyangshe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106769707147956341",
+        "in_reply_to_user_id": "2094487614992814080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106666706982867254",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@painun1is @crossyangshe 低温能减缓烟草氧化 好像可以延长保质期 也有人说冰了更好抽"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-08-22T20:03:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Changsha, Hunan, China",
+              "geo": {
+                "coordinates": [
+                  112.97087,
+                  28.19874
+                ],
+                "type": "Point"
+              },
+              "locality": "Changsha",
+              "region": "Hunan"
+            }
+          ]
+        },
+        "description": "你們好呀，我是az！成分：重抑中焦/od/自傷/自殺念頭/infp-t/音遊/二游（不怎麼玩了）/端遊/最喜欢的作家是太宰治\n目前打算回归现实生活了，我真的希望陷入深渊的所有人都可以摆脱苦难，哪怕很难，但是我想试一下，要战胜逆流河，我多么无比渴望现实的美好，哪怕很难，1125306051（AZ的q群）",
+        "id": "1561806114274287616",
+        "is_identity_verified": false,
+        "location": "長沙",
+        "most_recent_tweet_id": "2106779644125192304",
+        "name": "AZ.",
+        "pinned_tweet_id": "2085780050759328158",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1561806114274287616/1786474392",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778090792390959104/-k1xKj1N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 828,
+          "following_count": 720,
+          "like_count": 7597,
+          "listed_count": 2,
+          "media_count": 246,
+          "tweet_count": 1873
+        },
+        "url": "",
+        "username": "crossyangshe",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-28T13:50:42.000Z",
+        "description": "08｜HK｜overdose｜不自殘｜厭學｜高中在讀\n繁中｜简中｜English\n\n可以叫我若雪 歡迎互fol",
+        "id": "2059995381115842560",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2106772219871600652",
+        "name": "不識字",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2059995381115842560/1789661062",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100622981588525056/J8a-SEBf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 171,
+          "like_count": 13059,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 578
+        },
+        "url": "",
+        "username": "me1tingsnow",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-31T18:09:51.000Z",
+        "description": "這裡是五代目愈美戰士 \n兜麦官方群：https://t.co/2wYda3c3vg兜麦关方号：@doumaiNPS\n=买药找：https://t.co/O2CYgTng2g 匿名提問:https://t.co/GfYJD8p5il｜長髮男｜非友跨｜反中共｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 47,
+                "username": "doumaiNPS"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/doumaiRC",
+                "end": 41,
+                "expanded_url": "http://t.me/doumaiRC",
+                "start": 18,
+                "url": "https://t.co/2wYda3c3vg"
+              },
+              {
+                "display_url": "t.me/king_pppai",
+                "end": 86,
+                "expanded_url": "https://t.me/king_pppai",
+                "start": 63,
+                "url": "https://t.co/O2CYgTng2g"
+              },
+              {
+                "display_url": "ngl.link/pai30558",
+                "end": 115,
+                "expanded_url": "http://ngl.link/pai30558",
+                "start": 92,
+                "url": "https://t.co/GfYJD8p5il"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/king_pppai",
+                "end": 23,
+                "expanded_url": "http://t.me/king_pppai",
+                "start": 0,
+                "url": "https://t.co/nbbu7eiMa5"
+              }
+            ]
+          }
+        },
+        "id": "2094487614992814080",
+        "is_identity_verified": false,
+        "location": "藥國",
+        "most_recent_tweet_id": "2106769779822588328",
+        "name": "愈美戰士 (兜麦创始人版）",
+        "pinned_tweet_id": "2102565422168224153",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2094487614992814080/1788199867",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094487922905116672/jcFm84nz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 142,
+          "following_count": 94,
+          "like_count": 116,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 193
+        },
+        "url": "https://t.co/nbbu7eiMa5",
+        "username": "painun1is",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

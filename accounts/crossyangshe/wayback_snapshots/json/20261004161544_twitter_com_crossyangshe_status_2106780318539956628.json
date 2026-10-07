@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561806114274287616",
+    "conversation_id": "2106707209929576616",
+    "created_at": "2026-10-04T16:15:44.000Z",
+    "display_text_range": [
+      14,
+      22
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-04T17:15:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106780318539956628"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1678100718438449152",
+          "start": 0,
+          "username": "jinqianhanji"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106780318539956628",
+    "in_reply_to_user_id": "1678100718438449152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106707209929576616",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jinqianhanji 怎么可以加入你们"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_2106707188475650048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTyHBq7aYAAZo7S.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561806114274287616",
+        "conversation_id": "2106707209929576616",
+        "created_at": "2026-10-04T16:15:44.000Z",
+        "display_text_range": [
+          14,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T17:15:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106780318539956628"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1678100718438449152",
+              "start": 0,
+              "username": "jinqianhanji"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106780318539956628",
+        "in_reply_to_user_id": "1678100718438449152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106707209929576616",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jinqianhanji 怎么可以加入你们"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2106707188475650048"
+          ]
+        },
+        "author_id": "1678100718438449152",
+        "conversation_id": "2106707209929576616",
+        "created_at": "2026-10-04T11:25:14.000Z",
+        "display_text_range": [
+          0,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T12:25:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106707209929576616"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zaGcyKASKp",
+              "end": 56,
+              "expanded_url": "https://x.com/jinqianhanji/status/2106707209929576616/photo/1",
+              "media_key": "3_2106707188475650048",
+              "start": 33,
+              "url": "https://t.co/zaGcyKASKp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106707209929576616",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2106707188475650048"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1271,
+          "like_count": 39,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "三个傻逼玉米片🌽吃多了，在地上当蛆。我好像变成了，。。一只鸡。？ https://t.co/zaGcyKASKp"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-08-22T20:03:01.000Z",
+        "description": "你們好呀，我是az！成分：重抑中焦/od/自傷/自殺念頭/infp-t/音遊/二游（不怎麼玩了）/端遊/最喜欢的作家是太宰治\n目前打算回归现实生活了，我真的希望陷入深渊的所有人都可以摆脱苦难，哪怕很难，但是我想试一下，要战胜逆流河，我多么无比渴望现实的美好，哪怕很难，1125306051（AZ的q群）",
+        "id": "1561806114274287616",
+        "is_identity_verified": false,
+        "location": "長沙",
+        "most_recent_tweet_id": "2106780318539956628",
+        "name": "AZ.",
+        "pinned_tweet_id": "2085780050759328158",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1561806114274287616/1786474392",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778090792390959104/-k1xKj1N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 828,
+          "following_count": 720,
+          "like_count": 7604,
+          "listed_count": 2,
+          "media_count": 246,
+          "tweet_count": 1876
+        },
+        "url": "",
+        "username": "crossyangshe",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-07-09T17:56:24.000Z",
+        "description": "るるじばここび、生活が気持ち",
+        "id": "1678100718438449152",
+        "is_identity_verified": false,
+        "location": "新大東亞共榮圈大中華帝國",
+        "most_recent_tweet_id": "2106779659409231955",
+        "name": "狂気电波精神病",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1678100718438449152/1753966701",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2099395002032082944/kNlF44OK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 318,
+          "following_count": 351,
+          "like_count": 8422,
+          "listed_count": 0,
+          "media_count": 121,
+          "tweet_count": 1086
+        },
+        "url": "",
+        "username": "jinqianhanji",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

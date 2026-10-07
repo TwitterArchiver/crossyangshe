@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561806114274287616",
+    "conversation_id": "2101004279041696010",
+    "created_at": "2026-09-18T17:43:49.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-18T18:43:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101004279041696010"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2079622802466869248",
+          "start": 3,
+          "username": "anno1234v"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/Ee7q",
+          "end": 139,
+          "start": 122,
+          "url": "https://t.co/Ee7q"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101004279041696010",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 132
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100779463256555890",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @anno1234v: 明明割腕 抽烟 喝酒 性都是缓解压力且自我伤害的一种\n但为什么却只有割腕被唾弃的这么严重\n装伤感抽烟的也有\n装深情喝酒的也有\n却只有割腕被排斥\n看到一个人割腕说脖子吃醋了不就相当于看到一个人跳楼说\"快点跳\"一样吗 https://t.co/Ee7q…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_2100779451776692224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSd3x-6W8AAxcag.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561806114274287616",
+        "conversation_id": "2101004279041696010",
+        "created_at": "2026-09-18T17:43:49.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T18:43:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101004279041696010"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2079622802466869248",
+              "start": 3,
+              "username": "anno1234v"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co/Ee7q",
+              "end": 139,
+              "start": 122,
+              "url": "https://t.co/Ee7q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101004279041696010",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 132
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100779463256555890",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @anno1234v: 明明割腕 抽烟 喝酒 性都是缓解压力且自我伤害的一种\n但为什么却只有割腕被唾弃的这么严重\n装伤感抽烟的也有\n装深情喝酒的也有\n却只有割腕被排斥\n看到一个人割腕说脖子吃醋了不就相当于看到一个人跳楼说\"快点跳\"一样吗 https://t.co/Ee7q…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100779451776692224"
+          ]
+        },
+        "author_id": "2079622802466869248",
+        "conversation_id": "2100779463256555890",
+        "created_at": "2026-09-18T02:50:29.000Z",
+        "display_text_range": [
+          0,
+          106
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T03:50:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100779463256555890"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ee7qoHQbkZ",
+              "end": 130,
+              "expanded_url": "https://x.com/anno1234v/status/2100779463256555890/photo/1",
+              "media_key": "3_2100779451776692224",
+              "start": 107,
+              "url": "https://t.co/Ee7qoHQbkZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100779463256555890",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2100779451776692224"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 47,
+          "impression_count": 17341,
+          "like_count": 878,
+          "quote_count": 9,
+          "reply_count": 58,
+          "retweet_count": 132
+        },
+        "reply_settings": "everyone",
+        "text": "明明割腕 抽烟 喝酒 性都是缓解压力且自我伤害的一种\n但为什么却只有割腕被唾弃的这么严重\n装伤感抽烟的也有\n装深情喝酒的也有\n却只有割腕被排斥\n看到一个人割腕说脖子吃醋了不就相当于看到一个人跳楼说\"快点跳\"一样吗 https://t.co/Ee7qoHQbkZ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-08-22T20:03:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Changsha, Hunan, China",
+              "geo": {
+                "coordinates": [
+                  112.97087,
+                  28.19874
+                ],
+                "type": "Point"
+              },
+              "locality": "Changsha",
+              "region": "Hunan"
+            }
+          ]
+        },
+        "description": "你們好呀，我是az！成分：重抑中焦/od/自傷/自殺念頭/infp-t/音遊/二游（不怎麼玩了）/端遊/最喜欢的作家是太宰治\n目前打算回归现实生活了，我真的希望陷入深渊的所有人都可以摆脱苦难，哪怕很难，但是我想试一下，要战胜逆流河，我多么无比渴望现实的美好，哪怕很难，1125306051（AZ的q群）",
+        "id": "1561806114274287616",
+        "is_identity_verified": false,
+        "location": "長沙",
+        "most_recent_tweet_id": "2101004279041696010",
+        "name": "AZ.",
+        "pinned_tweet_id": "2085780050759328158",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1561806114274287616/1786474392",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778090792390959104/-k1xKj1N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 757,
+          "following_count": 659,
+          "like_count": 6822,
+          "listed_count": 2,
+          "media_count": 228,
+          "tweet_count": 1650
+        },
+        "url": "",
+        "username": "crossyangshe",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-21T17:43:14.000Z",
+        "description": "08︳168cm 46kg |辍学/社恐/精神病/od/自伤/情感漠视 随便发的推 交友🉑",
+        "id": "2079622802466869248",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100782092216946982",
+        "name": "灰沉沉尘",
+        "pinned_tweet_id": "2095186650963788245",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2079622802466869248/1786156246",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085916596443254785/EAYdjpYs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 33,
+          "like_count": 187,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 195
+        },
+        "url": "",
+        "username": "anno1234v",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561806114274287616",
+    "conversation_id": "2105159169859092865",
+    "created_at": "2026-10-01T10:33:24.000Z",
+    "display_text_range": [
+      15,
+      24
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-01T11:33:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105607002550681640"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2096078893912621056",
+          "start": 0,
+          "username": "RomeMyerstaki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105607002550681640",
+    "in_reply_to_user_id": "2096078893912621056",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105159169859092865",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RomeMyerstaki 根本没有这样的视频"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 54066,
+        "height": 1280,
+        "media_key": "13_2105159074140831744",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2105159074140831744/img/n9HEN6lLc9ux7P1C.jpg",
+        "public_metrics": {
+          "view_count": 17984
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2105159074140831744/vid/avc1/320x568/nrBVfiW-QRUxDbCn.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2105159074140831744/vid/avc1/480x852/po3xoZFRinNp4aQT.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2105159074140831744/vid/avc1/720x1280/ht2WvwhunVkwcEyK.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2105159074140831744/pl/65X2rNvRrHS2Si9h.m3u8?v=ccd"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561806114274287616",
+        "conversation_id": "2105159169859092865",
+        "created_at": "2026-10-01T10:33:24.000Z",
+        "display_text_range": [
+          15,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T11:33:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105607002550681640"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2096078893912621056",
+              "start": 0,
+              "username": "RomeMyerstaki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105607002550681640",
+        "in_reply_to_user_id": "2096078893912621056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105159169859092865",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RomeMyerstaki 根本没有这样的视频"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2105159074140831744"
+          ]
+        },
+        "author_id": "2096078893912621056",
+        "conversation_id": "2105159169859092865",
+        "created_at": "2026-09-30T04:53:52.000Z",
+        "display_text_range": [
+          0,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T05:53:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105159169859092865"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BuWOUZUwf8",
+              "end": 41,
+              "expanded_url": "https://x.com/RomeMyerstaki/status/2105159169859092865/video/1",
+              "media_key": "13_2105159074140831744",
+              "start": 18,
+              "url": "https://t.co/BuWOUZUwf8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105159169859092865",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2105159074140831744"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 39,
+          "impression_count": 31987,
+          "like_count": 472,
+          "quote_count": 21,
+          "reply_count": 128,
+          "retweet_count": 22
+        },
+        "reply_settings": "everyone",
+        "text": "回顾经典抖人o12t愈美片怕死洗胃 https://t.co/BuWOUZUwf8"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-08-22T20:03:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Changsha, Hunan, China",
+              "geo": {
+                "coordinates": [
+                  112.97087,
+                  28.19874
+                ],
+                "type": "Point"
+              },
+              "locality": "Changsha",
+              "region": "Hunan"
+            }
+          ]
+        },
+        "description": "你們好呀，我是az！成分：重抑中焦/od/自傷/自殺念頭/infp-t/音遊/二游（不怎麼玩了）/端遊/最喜欢的作家是太宰治\n目前打算回归现实生活了，我真的希望陷入深渊的所有人都可以摆脱苦难，哪怕很难，但是我想试一下，要战胜逆流河，我多么无比渴望现实的美好，哪怕很难，1125306051（AZ的q群）",
+        "id": "1561806114274287616",
+        "is_identity_verified": false,
+        "location": "長沙",
+        "most_recent_tweet_id": "2105607002550681640",
+        "name": "AZ.",
+        "pinned_tweet_id": "2085780050759328158",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1561806114274287616/1786474392",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778090792390959104/-k1xKj1N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 802,
+          "following_count": 700,
+          "like_count": 7477,
+          "listed_count": 2,
+          "media_count": 242,
+          "tweet_count": 1835
+        },
+        "url": "",
+        "username": "crossyangshe",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-09-05T03:32:46.000Z",
+        "description": "可以叫我纯度，09的幕刃目前在工作，我💊/🚬\n请不要瞎骂我🥰",
+        "id": "2096078893912621056",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2105464343303450753",
+        "name": "纯度不是蠢嘟",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2096078893912621056/1790795007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2105372923762737152/p3X5d3YI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109,
+          "following_count": 98,
+          "like_count": 370,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 143
+        },
+        "url": "",
+        "username": "RomeMyerstaki",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
